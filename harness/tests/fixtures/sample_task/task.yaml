@@ -1,0 +1,51 @@
+id: task-9999
+title: "Sample task for harness unit tests"
+category: build
+vendor: samplevendor
+surfaces: [polling]
+tier: 1
+track: both
+timeout_minutes: 5
+doc_profile: "true"
+scenarios: []
+entry:
+  command: ["python", "-m", "sampleconnector"]
+outputs:
+  files: []
+vendors:
+  samplevendor:
+    data_port: 8000
+    log_path: /var/log/vendor
+    checkpoint_env: CHECKPOINT
+    credentials:
+      SV_CLIENT_ID: sample-client-id
+      SV_CLIENT_SECRET: sample-client-secret
+      SV_WEBHOOK_SECRET: sample-webhook-secret
+    auth:
+      token_endpoint: /oauth/token
+      token_ttl: 600
+    entities:
+      candidate:
+        plural: candidates
+    vendor:
+      base_path: /rest
+    pagination:
+      style: offset
+      page_size: 50
+      offset_param: offset
+      cursor_param: cursor
+      total_in_response: true
+    webhooks:
+      enabled: true
+      signing:
+        max_skew_s: 300
+contract:
+  vendor_roles:
+    samplevendor:
+      vendor_id: samplevendor
+  participant:
+    workspace_allowlist:
+      - PROBLEM.md
+      - repo/**
+      - materials/**
+      - inputs/**

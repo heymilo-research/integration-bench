@@ -1,0 +1,3752 @@
+[
+  {
+    "source_id": "cand_0001",
+    "data": {
+      "first_name": "Sophie",
+      "last_name": "Hopper",
+      "email": "sophie.hopper@bullpen-candidates.test",
+      "phone": "+1-555-1896",
+      "status": "archived",
+      "created_at": "2026-02-27T01:44:51Z",
+      "modified_at": "2026-02-27T01:44:51Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-27T01:44:51Z"
+  },
+  {
+    "source_id": "cand_0002",
+    "data": {
+      "first_name": "Hedy",
+      "last_name": "VonNeumann",
+      "email": "hedy.vonneumann@bullpen-candidates.test",
+      "phone": "+1-555-6823",
+      "status": "submitted",
+      "created_at": "2026-03-05T08:34:01Z",
+      "modified_at": "2026-03-05T08:34:01Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-05T08:34:01Z"
+  },
+  {
+    "source_id": "cand_0003",
+    "data": {
+      "first_name": "Tim",
+      "last_name": "Noether",
+      "email": "tim.noether@bullpen-candidates.test",
+      "phone": "+1-555-5527",
+      "status": "new",
+      "created_at": "2026-02-16T06:45:47Z",
+      "modified_at": "2026-02-16T06:45:47Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-16T06:45:47Z"
+  },
+  {
+    "source_id": "cand_0004",
+    "data": {
+      "first_name": "Grace",
+      "last_name": "Curie",
+      "email": "grace.curie@bullpen-candidates.test",
+      "phone": "+1-555-7290",
+      "status": "archived",
+      "created_at": "2026-02-23T00:56:04Z",
+      "modified_at": "2026-02-23T00:56:04Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-23T00:56:04Z"
+  },
+  {
+    "source_id": "cand_0005",
+    "data": {
+      "first_name": "Grace",
+      "last_name": "Young",
+      "email": "grace.young@bullpen-candidates.test",
+      "phone": "+1-555-5590",
+      "status": "submitted",
+      "created_at": "2026-02-08T06:17:34Z",
+      "modified_at": "2026-02-08T06:17:34Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-08T06:17:34Z"
+  },
+  {
+    "source_id": "cand_0006",
+    "data": {
+      "first_name": "Oliver",
+      "last_name": "Einstein",
+      "email": "oliver.einstein@bullpen-candidates.test",
+      "phone": "+1-555-3449",
+      "status": "submitted",
+      "created_at": "2026-03-09T18:15:19Z",
+      "modified_at": "2026-03-09T18:15:19Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-09T18:15:19Z"
+  },
+  {
+    "source_id": "cand_0007",
+    "data": {
+      "first_name": "Oliver",
+      "last_name": "Feynman",
+      "email": "oliver.feynman@bullpen-candidates.test",
+      "phone": "+1-555-5371",
+      "status": "screening",
+      "created_at": "2026-03-19T21:32:17Z",
+      "modified_at": "2026-03-19T21:32:17Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-19T21:32:17Z"
+  },
+  {
+    "source_id": "cand_0008",
+    "data": {
+      "first_name": "Linus",
+      "last_name": "Ramanujan",
+      "email": "linus.ramanujan@bullpen-candidates.test",
+      "phone": "+1-555-3575",
+      "status": "screening",
+      "created_at": "2026-02-23T04:00:38Z",
+      "modified_at": "2026-02-23T04:00:38Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-23T04:00:38Z"
+  },
+  {
+    "source_id": "cand_0009",
+    "data": {
+      "first_name": "Grace",
+      "last_name": "Curie",
+      "email": "grace.curie@bullpen-candidates.test",
+      "phone": "+1-555-6897",
+      "status": "placed",
+      "created_at": "2026-03-09T04:53:38Z",
+      "modified_at": "2026-03-09T04:53:38Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-09T04:53:38Z"
+  },
+  {
+    "source_id": "cand_0010",
+    "data": {
+      "first_name": "Peggy",
+      "last_name": "Feynman",
+      "email": "peggy.feynman@bullpen-candidates.test",
+      "phone": "+1-555-3449",
+      "status": "placed",
+      "created_at": "2026-02-13T22:06:48Z",
+      "modified_at": "2026-02-13T22:06:48Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-13T22:06:48Z"
+  },
+  {
+    "source_id": "cand_0011",
+    "data": {
+      "first_name": "Charles",
+      "last_name": "Feynman",
+      "email": "charles.feynman@bullpen-candidates.test",
+      "phone": "+1-555-9185",
+      "status": "archived",
+      "created_at": "2026-03-27T00:58:17Z",
+      "modified_at": "2026-03-27T00:58:17Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-27T00:58:17Z"
+  },
+  {
+    "source_id": "cand_0012",
+    "data": {
+      "first_name": "Sophie",
+      "last_name": "Zuse",
+      "email": "sophie.zuse@bullpen-candidates.test",
+      "phone": "+1-555-9350",
+      "status": "screening",
+      "created_at": "2026-03-12T03:38:41Z",
+      "modified_at": "2026-03-12T03:38:41Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-12T03:38:41Z"
+  },
+  {
+    "source_id": "cand_0013",
+    "data": {
+      "first_name": "Peggy",
+      "last_name": "Shannon",
+      "email": "peggy.shannon@bullpen-candidates.test",
+      "phone": "+1-555-3288",
+      "status": "archived",
+      "created_at": "2026-04-06T05:53:59Z",
+      "modified_at": "2026-04-06T05:53:59Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-04-06T05:53:59Z"
+  },
+  {
+    "source_id": "cand_0014",
+    "data": {
+      "first_name": "Sophie",
+      "last_name": "VonNeumann",
+      "email": "sophie.vonneumann@bullpen-candidates.test",
+      "phone": "+1-555-8686",
+      "status": "placed",
+      "created_at": "2026-03-23T16:31:40Z",
+      "modified_at": "2026-03-23T16:31:40Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-23T16:31:40Z"
+  },
+  {
+    "source_id": "cand_0015",
+    "data": {
+      "first_name": "Walter",
+      "last_name": "Gauss",
+      "email": "walter.gauss@bullpen-candidates.test",
+      "phone": "+1-555-1578",
+      "status": "new",
+      "created_at": "2026-03-15T04:55:02Z",
+      "modified_at": "2026-03-15T04:55:02Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-15T04:55:02Z"
+  },
+  {
+    "source_id": "cand_0016",
+    "data": {
+      "first_name": "Linus",
+      "last_name": "Babbage",
+      "email": "linus.babbage@bullpen-candidates.test",
+      "phone": "+1-555-2075",
+      "status": "submitted",
+      "created_at": "2026-03-06T18:11:32Z",
+      "modified_at": "2026-03-06T18:11:32Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-06T18:11:32Z"
+  },
+  {
+    "source_id": "cand_0017",
+    "data": {
+      "first_name": "Zelda",
+      "last_name": "Dirac",
+      "email": "zelda.dirac@bullpen-candidates.test",
+      "phone": "+1-555-7200",
+      "status": "archived",
+      "created_at": "2026-02-12T10:39:50Z",
+      "modified_at": "2026-02-12T10:39:50Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-12T10:39:50Z"
+  },
+  {
+    "source_id": "cand_0018",
+    "data": {
+      "first_name": "Grace",
+      "last_name": "Wright",
+      "email": "grace.wright@bullpen-candidates.test",
+      "phone": "+1-555-7707",
+      "status": "submitted",
+      "created_at": "2026-02-26T12:56:31Z",
+      "modified_at": "2026-02-26T12:56:31Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-26T12:56:31Z"
+  },
+  {
+    "source_id": "cand_0019",
+    "data": {
+      "first_name": "Grace",
+      "last_name": "Curie",
+      "email": "grace.curie@bullpen-candidates.test",
+      "phone": "+1-555-9595",
+      "status": "new",
+      "created_at": "2026-03-05T13:41:55Z",
+      "modified_at": "2026-03-05T13:41:55Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-05T13:41:55Z"
+  },
+  {
+    "source_id": "cand_0020",
+    "data": {
+      "first_name": "Blaise",
+      "last_name": "Young",
+      "email": "blaise.young@bullpen-candidates.test",
+      "phone": "+1-555-1556",
+      "status": "submitted",
+      "created_at": "2026-02-27T11:03:57Z",
+      "modified_at": "2026-02-27T11:03:57Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-27T11:03:57Z"
+  },
+  {
+    "source_id": "cand_0021",
+    "data": {
+      "first_name": "Blaise",
+      "last_name": "Wright",
+      "email": "blaise.wright@bullpen-candidates.test",
+      "phone": "+1-555-1279",
+      "status": "new",
+      "created_at": "2026-04-01T14:59:43Z",
+      "modified_at": "2026-04-01T14:59:43Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-04-01T14:59:43Z"
+  },
+  {
+    "source_id": "cand_0022",
+    "data": {
+      "first_name": "Hedy",
+      "last_name": "VonNeumann",
+      "email": "hedy.vonneumann@bullpen-candidates.test",
+      "phone": "+1-555-9189",
+      "status": "screening",
+      "created_at": "2026-03-21T21:33:03Z",
+      "modified_at": "2026-03-21T21:33:03Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-21T21:33:03Z"
+  },
+  {
+    "source_id": "cand_0023",
+    "data": {
+      "first_name": "Emmy",
+      "last_name": "Pascal",
+      "email": "emmy.pascal@bullpen-candidates.test",
+      "phone": "+1-555-9367",
+      "status": "screening",
+      "created_at": "2026-03-19T15:39:11Z",
+      "modified_at": "2026-03-19T15:39:11Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-19T15:39:11Z"
+  },
+  {
+    "source_id": "cand_0024",
+    "data": {
+      "first_name": "Hedy",
+      "last_name": "Babbage",
+      "email": "hedy.babbage@bullpen-candidates.test",
+      "phone": "+1-555-9748",
+      "status": "placed",
+      "created_at": "2026-03-04T10:49:59Z",
+      "modified_at": "2026-03-04T10:49:59Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-04T10:49:59Z"
+  },
+  {
+    "source_id": "cand_0025",
+    "data": {
+      "first_name": "Sophie",
+      "last_name": "Pascal",
+      "email": "sophie.pascal@bullpen-candidates.test",
+      "phone": "+1-555-2859",
+      "status": "new",
+      "created_at": "2026-04-05T15:17:52Z",
+      "modified_at": "2026-04-05T15:17:52Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-04-05T15:17:52Z"
+  },
+  {
+    "source_id": "cand_0026",
+    "data": {
+      "first_name": "Walter",
+      "last_name": "Noether",
+      "email": "walter.noether@bullpen-candidates.test",
+      "phone": "+1-555-8429",
+      "status": "screening",
+      "created_at": "2026-02-08T01:18:17Z",
+      "modified_at": "2026-02-08T01:18:17Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-08T01:18:17Z"
+  },
+  {
+    "source_id": "cand_0027",
+    "data": {
+      "first_name": "Nikola",
+      "last_name": "Lovelace",
+      "email": "nikola.lovelace@bullpen-candidates.test",
+      "phone": "+1-555-3246",
+      "status": "new",
+      "created_at": "2026-03-14T23:59:19Z",
+      "modified_at": "2026-03-14T23:59:19Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-14T23:59:19Z"
+  },
+  {
+    "source_id": "cand_0028",
+    "data": {
+      "first_name": "Xavier",
+      "last_name": "Pascal",
+      "email": "xavier.pascal@bullpen-candidates.test",
+      "phone": "+1-555-8436",
+      "status": "screening",
+      "created_at": "2026-03-15T04:40:35Z",
+      "modified_at": "2026-03-15T04:40:35Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-15T04:40:35Z"
+  },
+  {
+    "source_id": "cand_0029",
+    "data": {
+      "first_name": "Ursula",
+      "last_name": "Hopper",
+      "email": "ursula.hopper@bullpen-candidates.test",
+      "phone": "+1-555-1508",
+      "status": "placed",
+      "created_at": "2026-03-13T13:09:56Z",
+      "modified_at": "2026-03-13T13:09:56Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-13T13:09:56Z"
+  },
+  {
+    "source_id": "cand_0030",
+    "data": {
+      "first_name": "Vera",
+      "last_name": "Tesla",
+      "email": "vera.tesla@bullpen-candidates.test",
+      "phone": "+1-555-1500",
+      "status": "placed",
+      "created_at": "2026-02-15T05:18:35Z",
+      "modified_at": "2026-02-15T05:18:35Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-15T05:18:35Z"
+  },
+  {
+    "source_id": "cand_0031",
+    "data": {
+      "first_name": "Peggy",
+      "last_name": "Curie",
+      "email": "peggy.curie@bullpen-candidates.test",
+      "phone": "+1-555-4076",
+      "status": "placed",
+      "created_at": "2026-03-24T17:48:00Z",
+      "modified_at": "2026-03-24T17:48:00Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-24T17:48:00Z"
+  },
+  {
+    "source_id": "cand_0032",
+    "data": {
+      "first_name": "Zelda",
+      "last_name": "Noether",
+      "email": "zelda.noether@bullpen-candidates.test",
+      "phone": "+1-555-5348",
+      "status": "placed",
+      "created_at": "2026-02-06T11:47:16Z",
+      "modified_at": "2026-02-06T11:47:16Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-06T11:47:16Z"
+  },
+  {
+    "source_id": "cand_0033",
+    "data": {
+      "first_name": "Katherine",
+      "last_name": "Xu",
+      "email": "katherine.xu@bullpen-candidates.test",
+      "phone": "+1-555-9179",
+      "status": "submitted",
+      "created_at": "2026-02-28T10:27:14Z",
+      "modified_at": "2026-02-28T10:27:14Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-28T10:27:14Z"
+  },
+  {
+    "source_id": "cand_0034",
+    "data": {
+      "first_name": "Hedy",
+      "last_name": "Hopper",
+      "email": "hedy.hopper@bullpen-candidates.test",
+      "phone": "+1-555-5429",
+      "status": "new",
+      "created_at": "2026-02-23T14:43:21Z",
+      "modified_at": "2026-02-23T14:43:21Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-23T14:43:21Z"
+  },
+  {
+    "source_id": "cand_0035",
+    "data": {
+      "first_name": "Ursula",
+      "last_name": "Ramanujan",
+      "email": "ursula.ramanujan@bullpen-candidates.test",
+      "phone": "+1-555-8403",
+      "status": "placed",
+      "created_at": "2026-03-06T23:26:24Z",
+      "modified_at": "2026-03-06T23:26:24Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-06T23:26:24Z"
+  },
+  {
+    "source_id": "cand_0036",
+    "data": {
+      "first_name": "Ursula",
+      "last_name": "Curie",
+      "email": "ursula.curie@bullpen-candidates.test",
+      "phone": "+1-555-7381",
+      "status": "archived",
+      "created_at": "2026-04-03T11:03:49Z",
+      "modified_at": "2026-04-03T11:03:49Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-04-03T11:03:49Z"
+  },
+  {
+    "source_id": "cand_0037",
+    "data": {
+      "first_name": "Walter",
+      "last_name": "Gauss",
+      "email": "walter.gauss@bullpen-candidates.test",
+      "phone": "+1-555-6566",
+      "status": "new",
+      "created_at": "2026-03-20T20:28:43Z",
+      "modified_at": "2026-03-20T20:28:43Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-20T20:28:43Z"
+  },
+  {
+    "source_id": "cand_0038",
+    "data": {
+      "first_name": "Ursula",
+      "last_name": "Ramanujan",
+      "email": "ursula.ramanujan@bullpen-candidates.test",
+      "phone": "+1-555-8238",
+      "status": "new",
+      "created_at": "2026-02-25T07:01:56Z",
+      "modified_at": "2026-02-25T07:01:56Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-25T07:01:56Z"
+  },
+  {
+    "source_id": "cand_0039",
+    "data": {
+      "first_name": "Hedy",
+      "last_name": "Ramanujan",
+      "email": "hedy.ramanujan@bullpen-candidates.test",
+      "phone": "+1-555-5963",
+      "status": "placed",
+      "created_at": "2026-04-03T09:41:45Z",
+      "modified_at": "2026-04-03T09:41:45Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-04-03T09:41:45Z"
+  },
+  {
+    "source_id": "cand_0040",
+    "data": {
+      "first_name": "Sophie",
+      "last_name": "Feynman",
+      "email": "sophie.feynman@bullpen-candidates.test",
+      "phone": "+1-555-7261",
+      "status": "placed",
+      "created_at": "2026-02-24T12:51:23Z",
+      "modified_at": "2026-02-24T12:51:23Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-24T12:51:23Z"
+  },
+  {
+    "source_id": "cand_0041",
+    "data": {
+      "first_name": "Ursula",
+      "last_name": "Wright",
+      "email": "ursula.wright@bullpen-candidates.test",
+      "phone": "+1-555-5520",
+      "status": "new",
+      "created_at": "2026-02-21T23:23:04Z",
+      "modified_at": "2026-02-21T23:23:04Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-21T23:23:04Z"
+  },
+  {
+    "source_id": "cand_0042",
+    "data": {
+      "first_name": "Vera",
+      "last_name": "Babbage",
+      "email": "vera.babbage@bullpen-candidates.test",
+      "phone": "+1-555-1646",
+      "status": "placed",
+      "created_at": "2026-04-03T21:02:21Z",
+      "modified_at": "2026-04-03T21:02:21Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-04-03T21:02:21Z"
+  },
+  {
+    "source_id": "cand_0043",
+    "data": {
+      "first_name": "Richard",
+      "last_name": "Turing",
+      "email": "richard.turing@bullpen-candidates.test",
+      "phone": "+1-555-6729",
+      "status": "placed",
+      "created_at": "2026-02-13T23:33:14Z",
+      "modified_at": "2026-02-13T23:33:14Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-13T23:33:14Z"
+  },
+  {
+    "source_id": "cand_0044",
+    "data": {
+      "first_name": "Yvonne",
+      "last_name": "VonNeumann",
+      "email": "yvonne.vonneumann@bullpen-candidates.test",
+      "phone": "+1-555-2181",
+      "status": "submitted",
+      "created_at": "2026-03-23T08:51:39Z",
+      "modified_at": "2026-03-23T08:51:39Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-23T08:51:39Z"
+  },
+  {
+    "source_id": "cand_0045",
+    "data": {
+      "first_name": "Blaise",
+      "last_name": "Babbage",
+      "email": "blaise.babbage@bullpen-candidates.test",
+      "phone": "+1-555-9760",
+      "status": "archived",
+      "created_at": "2026-04-03T12:41:44Z",
+      "modified_at": "2026-04-03T12:41:44Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-04-03T12:41:44Z"
+  },
+  {
+    "source_id": "cand_0046",
+    "data": {
+      "first_name": "Jean",
+      "last_name": "Wright",
+      "email": "jean.wright@bullpen-candidates.test",
+      "phone": "+1-555-1408",
+      "status": "screening",
+      "created_at": "2026-03-17T19:29:47Z",
+      "modified_at": "2026-03-17T19:29:47Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-17T19:29:47Z"
+  },
+  {
+    "source_id": "cand_0047",
+    "data": {
+      "first_name": "Emmy",
+      "last_name": "Einstein",
+      "email": "emmy.einstein@bullpen-candidates.test",
+      "phone": "+1-555-1538",
+      "status": "screening",
+      "created_at": "2026-02-12T04:11:17Z",
+      "modified_at": "2026-02-12T04:11:17Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-12T04:11:17Z"
+  },
+  {
+    "source_id": "cand_0048",
+    "data": {
+      "first_name": "Katherine",
+      "last_name": "Gauss",
+      "email": "katherine.gauss@bullpen-candidates.test",
+      "phone": "+1-555-8931",
+      "status": "placed",
+      "created_at": "2026-03-06T10:56:30Z",
+      "modified_at": "2026-03-06T10:56:30Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-06T10:56:30Z"
+  },
+  {
+    "source_id": "cand_0049",
+    "data": {
+      "first_name": "Yvonne",
+      "last_name": "Gauss",
+      "email": "yvonne.gauss@bullpen-candidates.test",
+      "phone": "+1-555-4856",
+      "status": "archived",
+      "created_at": "2026-03-13T20:48:18Z",
+      "modified_at": "2026-03-13T20:48:18Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-13T20:48:18Z"
+  },
+  {
+    "source_id": "cand_0050",
+    "data": {
+      "first_name": "Oliver",
+      "last_name": "Ramanujan",
+      "email": "oliver.ramanujan@bullpen-candidates.test",
+      "phone": "+1-555-9239",
+      "status": "screening",
+      "created_at": "2026-03-13T22:12:46Z",
+      "modified_at": "2026-03-13T22:12:46Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-13T22:12:46Z"
+  },
+  {
+    "source_id": "cand_0051",
+    "data": {
+      "first_name": "Xavier",
+      "last_name": "Noether",
+      "email": "xavier.noether@bullpen-candidates.test",
+      "phone": "+1-555-3160",
+      "status": "new",
+      "created_at": "2026-04-04T20:35:30Z",
+      "modified_at": "2026-04-04T20:35:30Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-04-04T20:35:30Z"
+  },
+  {
+    "source_id": "cand_0052",
+    "data": {
+      "first_name": "Vera",
+      "last_name": "Gauss",
+      "email": "vera.gauss@bullpen-candidates.test",
+      "phone": "+1-555-9623",
+      "status": "new",
+      "created_at": "2026-03-29T05:08:10Z",
+      "modified_at": "2026-03-29T05:08:10Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-29T05:08:10Z"
+  },
+  {
+    "source_id": "cand_0053",
+    "data": {
+      "first_name": "Dorothy",
+      "last_name": "Dirac",
+      "email": "dorothy.dirac@bullpen-candidates.test",
+      "phone": "+1-555-9294",
+      "status": "placed",
+      "created_at": "2026-02-26T07:17:49Z",
+      "modified_at": "2026-02-26T07:17:49Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-26T07:17:49Z"
+  },
+  {
+    "source_id": "cand_0054",
+    "data": {
+      "first_name": "Florence",
+      "last_name": "Zuse",
+      "email": "florence.zuse@bullpen-candidates.test",
+      "phone": "+1-555-2441",
+      "status": "placed",
+      "created_at": "2026-03-07T13:10:34Z",
+      "modified_at": "2026-03-07T13:10:34Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-07T13:10:34Z"
+  },
+  {
+    "source_id": "cand_0055",
+    "data": {
+      "first_name": "Tim",
+      "last_name": "Dirac",
+      "email": "tim.dirac@bullpen-candidates.test",
+      "phone": "+1-555-1711",
+      "status": "placed",
+      "created_at": "2026-03-14T05:54:36Z",
+      "modified_at": "2026-03-14T05:54:36Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-14T05:54:36Z"
+  },
+  {
+    "source_id": "cand_0056",
+    "data": {
+      "first_name": "Peggy",
+      "last_name": "Young",
+      "email": "peggy.young@bullpen-candidates.test",
+      "phone": "+1-555-5785",
+      "status": "new",
+      "created_at": "2026-03-10T20:33:54Z",
+      "modified_at": "2026-03-10T20:33:54Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-10T20:33:54Z"
+  },
+  {
+    "source_id": "cand_0057",
+    "data": {
+      "first_name": "Blaise",
+      "last_name": "Curie",
+      "email": "blaise.curie@bullpen-candidates.test",
+      "phone": "+1-555-3836",
+      "status": "screening",
+      "created_at": "2026-03-07T09:41:15Z",
+      "modified_at": "2026-03-07T09:41:15Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-07T09:41:15Z"
+  },
+  {
+    "source_id": "cand_0058",
+    "data": {
+      "first_name": "Hedy",
+      "last_name": "Ramanujan",
+      "email": "hedy.ramanujan@bullpen-candidates.test",
+      "phone": "+1-555-6337",
+      "status": "screening",
+      "created_at": "2026-03-08T16:47:16Z",
+      "modified_at": "2026-03-08T16:47:16Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-08T16:47:16Z"
+  },
+  {
+    "source_id": "cand_0059",
+    "data": {
+      "first_name": "Hedy",
+      "last_name": "Wright",
+      "email": "hedy.wright@bullpen-candidates.test",
+      "phone": "+1-555-7963",
+      "status": "new",
+      "created_at": "2026-03-04T07:22:19Z",
+      "modified_at": "2026-03-04T07:22:19Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-04T07:22:19Z"
+  },
+  {
+    "source_id": "cand_0060",
+    "data": {
+      "first_name": "Florence",
+      "last_name": "Zuse",
+      "email": "florence.zuse@bullpen-candidates.test",
+      "phone": "+1-555-6384",
+      "status": "submitted",
+      "created_at": "2026-03-28T17:13:17Z",
+      "modified_at": "2026-03-28T17:13:17Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-28T17:13:17Z"
+  },
+  {
+    "source_id": "cand_0061",
+    "data": {
+      "first_name": "Xavier",
+      "last_name": "Pascal",
+      "email": "xavier.pascal@bullpen-candidates.test",
+      "phone": "+1-555-3655",
+      "status": "submitted",
+      "created_at": "2026-03-08T21:27:40Z",
+      "modified_at": "2026-03-08T21:27:40Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-08T21:27:40Z"
+  },
+  {
+    "source_id": "cand_0062",
+    "data": {
+      "first_name": "Jean",
+      "last_name": "Ramanujan",
+      "email": "jean.ramanujan@bullpen-candidates.test",
+      "phone": "+1-555-2078",
+      "status": "submitted",
+      "created_at": "2026-02-05T17:23:31Z",
+      "modified_at": "2026-02-05T17:23:31Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-05T17:23:31Z"
+  },
+  {
+    "source_id": "cand_0063",
+    "data": {
+      "first_name": "Vera",
+      "last_name": "Babbage",
+      "email": "vera.babbage@bullpen-candidates.test",
+      "phone": "+1-555-4244",
+      "status": "screening",
+      "created_at": "2026-02-20T09:13:27Z",
+      "modified_at": "2026-02-20T09:13:27Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-20T09:13:27Z"
+  },
+  {
+    "source_id": "cand_0064",
+    "data": {
+      "first_name": "Emmy",
+      "last_name": "Dirac",
+      "email": "emmy.dirac@bullpen-candidates.test",
+      "phone": "+1-555-1745",
+      "status": "placed",
+      "created_at": "2026-03-01T14:54:04Z",
+      "modified_at": "2026-03-01T14:54:04Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-01T14:54:04Z"
+  },
+  {
+    "source_id": "cand_0065",
+    "data": {
+      "first_name": "Sophie",
+      "last_name": "Wright",
+      "email": "sophie.wright@bullpen-candidates.test",
+      "phone": "+1-555-5301",
+      "status": "archived",
+      "created_at": "2026-03-13T02:29:02Z",
+      "modified_at": "2026-03-13T02:29:02Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-13T02:29:02Z"
+  },
+  {
+    "source_id": "cand_0066",
+    "data": {
+      "first_name": "Walter",
+      "last_name": "Noether",
+      "email": "walter.noether@bullpen-candidates.test",
+      "phone": "+1-555-4632",
+      "status": "screening",
+      "created_at": "2026-02-18T10:18:26Z",
+      "modified_at": "2026-02-18T10:18:26Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-18T10:18:26Z"
+  },
+  {
+    "source_id": "cand_0067",
+    "data": {
+      "first_name": "Grace",
+      "last_name": "Noether",
+      "email": "grace.noether@bullpen-candidates.test",
+      "phone": "+1-555-1252",
+      "status": "archived",
+      "created_at": "2026-04-02T10:51:31Z",
+      "modified_at": "2026-04-02T10:51:31Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-04-02T10:51:31Z"
+  },
+  {
+    "source_id": "cand_0068",
+    "data": {
+      "first_name": "Zelda",
+      "last_name": "Curie",
+      "email": "zelda.curie@bullpen-candidates.test",
+      "phone": "+1-555-9113",
+      "status": "archived",
+      "created_at": "2026-03-04T03:17:04Z",
+      "modified_at": "2026-03-04T03:17:04Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-04T03:17:04Z"
+  },
+  {
+    "source_id": "cand_0069",
+    "data": {
+      "first_name": "Yvonne",
+      "last_name": "Shannon",
+      "email": "yvonne.shannon@bullpen-candidates.test",
+      "phone": "+1-555-5706",
+      "status": "submitted",
+      "created_at": "2026-02-07T14:49:51Z",
+      "modified_at": "2026-02-07T14:49:51Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-07T14:49:51Z"
+  },
+  {
+    "source_id": "cand_0070",
+    "data": {
+      "first_name": "Isaac",
+      "last_name": "Pascal",
+      "email": "isaac.pascal@bullpen-candidates.test",
+      "phone": "+1-555-8402",
+      "status": "screening",
+      "created_at": "2026-02-15T09:03:12Z",
+      "modified_at": "2026-02-15T09:03:12Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-15T09:03:12Z"
+  },
+  {
+    "source_id": "cand_0071",
+    "data": {
+      "first_name": "Tim",
+      "last_name": "Gauss",
+      "email": "tim.gauss@bullpen-candidates.test",
+      "phone": "+1-555-8601",
+      "status": "new",
+      "created_at": "2026-03-04T09:03:03Z",
+      "modified_at": "2026-03-04T09:03:03Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-04T09:03:03Z"
+  },
+  {
+    "source_id": "cand_0072",
+    "data": {
+      "first_name": "Katherine",
+      "last_name": "Dirac",
+      "email": "katherine.dirac@bullpen-candidates.test",
+      "phone": "+1-555-6546",
+      "status": "archived",
+      "created_at": "2026-04-02T21:19:49Z",
+      "modified_at": "2026-04-02T21:19:49Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-04-02T21:19:49Z"
+  },
+  {
+    "source_id": "cand_0073",
+    "data": {
+      "first_name": "Yvonne",
+      "last_name": "Young",
+      "email": "yvonne.young@bullpen-candidates.test",
+      "phone": "+1-555-3543",
+      "status": "screening",
+      "created_at": "2026-03-20T01:57:25Z",
+      "modified_at": "2026-03-20T01:57:25Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-20T01:57:25Z"
+  },
+  {
+    "source_id": "cand_0074",
+    "data": {
+      "first_name": "Vera",
+      "last_name": "Turing",
+      "email": "vera.turing@bullpen-candidates.test",
+      "phone": "+1-555-1315",
+      "status": "screening",
+      "created_at": "2026-03-25T06:21:21Z",
+      "modified_at": "2026-03-25T06:21:21Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-25T06:21:21Z"
+  },
+  {
+    "source_id": "cand_0075",
+    "data": {
+      "first_name": "Florence",
+      "last_name": "Xu",
+      "email": "florence.xu@bullpen-candidates.test",
+      "phone": "+1-555-2835",
+      "status": "screening",
+      "created_at": "2026-03-11T15:05:36Z",
+      "modified_at": "2026-03-11T15:05:36Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-11T15:05:36Z"
+  },
+  {
+    "source_id": "cand_0076",
+    "data": {
+      "first_name": "Walter",
+      "last_name": "Dirac",
+      "email": "walter.dirac@bullpen-candidates.test",
+      "phone": "+1-555-5091",
+      "status": "archived",
+      "created_at": "2026-02-05T19:08:43Z",
+      "modified_at": "2026-02-05T19:08:43Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-05T19:08:43Z"
+  },
+  {
+    "source_id": "cand_0077",
+    "data": {
+      "first_name": "Emmy",
+      "last_name": "Turing",
+      "email": "emmy.turing@bullpen-candidates.test",
+      "phone": "+1-555-4761",
+      "status": "screening",
+      "created_at": "2026-03-10T22:08:30Z",
+      "modified_at": "2026-03-10T22:08:30Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-10T22:08:30Z"
+  },
+  {
+    "source_id": "cand_0078",
+    "data": {
+      "first_name": "Katherine",
+      "last_name": "Young",
+      "email": "katherine.young@bullpen-candidates.test",
+      "phone": "+1-555-9896",
+      "status": "screening",
+      "created_at": "2026-03-12T14:46:11Z",
+      "modified_at": "2026-03-12T14:46:11Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-12T14:46:11Z"
+  },
+  {
+    "source_id": "cand_0079",
+    "data": {
+      "first_name": "Oliver",
+      "last_name": "Lovelace",
+      "email": "oliver.lovelace@bullpen-candidates.test",
+      "phone": "+1-555-7457",
+      "status": "placed",
+      "created_at": "2026-03-31T03:43:44Z",
+      "modified_at": "2026-03-31T03:43:44Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-31T03:43:44Z"
+  },
+  {
+    "source_id": "cand_0080",
+    "data": {
+      "first_name": "Charles",
+      "last_name": "Pascal",
+      "email": "charles.pascal@bullpen-candidates.test",
+      "phone": "+1-555-9465",
+      "status": "screening",
+      "created_at": "2026-02-09T14:01:30Z",
+      "modified_at": "2026-02-09T14:01:30Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-09T14:01:30Z"
+  },
+  {
+    "source_id": "cand_0081",
+    "data": {
+      "first_name": "Emmy",
+      "last_name": "Gauss",
+      "email": "emmy.gauss@bullpen-candidates.test",
+      "phone": "+1-555-1775",
+      "status": "submitted",
+      "created_at": "2026-03-17T22:20:15Z",
+      "modified_at": "2026-03-17T22:20:15Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-17T22:20:15Z"
+  },
+  {
+    "source_id": "cand_0082",
+    "data": {
+      "first_name": "Ursula",
+      "last_name": "Tesla",
+      "email": "ursula.tesla@bullpen-candidates.test",
+      "phone": "+1-555-3924",
+      "status": "archived",
+      "created_at": "2026-03-25T03:43:50Z",
+      "modified_at": "2026-03-25T03:43:50Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-25T03:43:50Z"
+  },
+  {
+    "source_id": "cand_0083",
+    "data": {
+      "first_name": "Grace",
+      "last_name": "Zuse",
+      "email": "grace.zuse@bullpen-candidates.test",
+      "phone": "+1-555-4132",
+      "status": "new",
+      "created_at": "2026-02-19T05:09:45Z",
+      "modified_at": "2026-02-19T05:09:45Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-19T05:09:45Z"
+  },
+  {
+    "source_id": "cand_0084",
+    "data": {
+      "first_name": "Walter",
+      "last_name": "Lovelace",
+      "email": "walter.lovelace@bullpen-candidates.test",
+      "phone": "+1-555-6732",
+      "status": "placed",
+      "created_at": "2026-03-29T11:30:15Z",
+      "modified_at": "2026-03-29T11:30:15Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-29T11:30:15Z"
+  },
+  {
+    "source_id": "cand_0085",
+    "data": {
+      "first_name": "Emmy",
+      "last_name": "VonNeumann",
+      "email": "emmy.vonneumann@bullpen-candidates.test",
+      "phone": "+1-555-7108",
+      "status": "new",
+      "created_at": "2026-03-18T09:08:20Z",
+      "modified_at": "2026-03-18T09:08:20Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-18T09:08:20Z"
+  },
+  {
+    "source_id": "cand_0086",
+    "data": {
+      "first_name": "Yvonne",
+      "last_name": "Xu",
+      "email": "yvonne.xu@bullpen-candidates.test",
+      "phone": "+1-555-7267",
+      "status": "archived",
+      "created_at": "2026-02-25T12:43:47Z",
+      "modified_at": "2026-02-25T12:43:47Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-25T12:43:47Z"
+  },
+  {
+    "source_id": "cand_0087",
+    "data": {
+      "first_name": "Jean",
+      "last_name": "Xu",
+      "email": "jean.xu@bullpen-candidates.test",
+      "phone": "+1-555-7895",
+      "status": "screening",
+      "created_at": "2026-02-13T23:15:15Z",
+      "modified_at": "2026-02-13T23:15:15Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-13T23:15:15Z"
+  },
+  {
+    "source_id": "cand_0088",
+    "data": {
+      "first_name": "Isaac",
+      "last_name": "Lovelace",
+      "email": "isaac.lovelace@bullpen-candidates.test",
+      "phone": "+1-555-6499",
+      "status": "screening",
+      "created_at": "2026-04-05T01:33:47Z",
+      "modified_at": "2026-04-05T01:33:47Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-04-05T01:33:47Z"
+  },
+  {
+    "source_id": "cand_0089",
+    "data": {
+      "first_name": "Blaise",
+      "last_name": "Ramanujan",
+      "email": "blaise.ramanujan@bullpen-candidates.test",
+      "phone": "+1-555-4600",
+      "status": "new",
+      "created_at": "2026-03-10T00:05:23Z",
+      "modified_at": "2026-03-10T00:05:23Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-10T00:05:23Z"
+  },
+  {
+    "source_id": "cand_0090",
+    "data": {
+      "first_name": "Linus",
+      "last_name": "VonNeumann",
+      "email": "linus.vonneumann@bullpen-candidates.test",
+      "phone": "+1-555-1264",
+      "status": "placed",
+      "created_at": "2026-03-25T20:35:24Z",
+      "modified_at": "2026-03-25T20:35:24Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-25T20:35:24Z"
+  },
+  {
+    "source_id": "cand_0091",
+    "data": {
+      "first_name": "Linus",
+      "last_name": "Hopper",
+      "email": "linus.hopper@bullpen-candidates.test",
+      "phone": "+1-555-4677",
+      "status": "submitted",
+      "created_at": "2026-03-01T16:27:11Z",
+      "modified_at": "2026-03-01T16:27:11Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-01T16:27:11Z"
+  },
+  {
+    "source_id": "cand_0092",
+    "data": {
+      "first_name": "Charles",
+      "last_name": "Ramanujan",
+      "email": "charles.ramanujan@bullpen-candidates.test",
+      "phone": "+1-555-9688",
+      "status": "screening",
+      "created_at": "2026-03-02T11:18:49Z",
+      "modified_at": "2026-03-02T11:18:49Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-02T11:18:49Z"
+  },
+  {
+    "source_id": "cand_0093",
+    "data": {
+      "first_name": "Hedy",
+      "last_name": "Young",
+      "email": "hedy.young@bullpen-candidates.test",
+      "phone": "+1-555-6302",
+      "status": "screening",
+      "created_at": "2026-02-15T14:12:32Z",
+      "modified_at": "2026-02-15T14:12:32Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-15T14:12:32Z"
+  },
+  {
+    "source_id": "cand_0094",
+    "data": {
+      "first_name": "Florence",
+      "last_name": "Young",
+      "email": "florence.young@bullpen-candidates.test",
+      "phone": "+1-555-5418",
+      "status": "screening",
+      "created_at": "2026-03-11T06:06:47Z",
+      "modified_at": "2026-03-11T06:06:47Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-11T06:06:47Z"
+  },
+  {
+    "source_id": "cand_0095",
+    "data": {
+      "first_name": "Hedy",
+      "last_name": "Dirac",
+      "email": "hedy.dirac@bullpen-candidates.test",
+      "phone": "+1-555-6116",
+      "status": "new",
+      "created_at": "2026-03-02T20:53:43Z",
+      "modified_at": "2026-03-02T20:53:43Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-02T20:53:43Z"
+  },
+  {
+    "source_id": "cand_0096",
+    "data": {
+      "first_name": "Dorothy",
+      "last_name": "Tesla",
+      "email": "dorothy.tesla@bullpen-candidates.test",
+      "phone": "+1-555-3859",
+      "status": "submitted",
+      "created_at": "2026-03-16T07:03:53Z",
+      "modified_at": "2026-03-16T07:03:53Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-16T07:03:53Z"
+  },
+  {
+    "source_id": "cand_0097",
+    "data": {
+      "first_name": "Charles",
+      "last_name": "Young",
+      "email": "charles.young@bullpen-candidates.test",
+      "phone": "+1-555-1629",
+      "status": "new",
+      "created_at": "2026-04-05T18:31:44Z",
+      "modified_at": "2026-04-05T18:31:44Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-04-05T18:31:44Z"
+  },
+  {
+    "source_id": "cand_0098",
+    "data": {
+      "first_name": "Zelda",
+      "last_name": "Xu",
+      "email": "zelda.xu@bullpen-candidates.test",
+      "phone": "+1-555-9244",
+      "status": "new",
+      "created_at": "2026-03-25T12:18:30Z",
+      "modified_at": "2026-03-25T12:18:30Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-25T12:18:30Z"
+  },
+  {
+    "source_id": "cand_0099",
+    "data": {
+      "first_name": "Emmy",
+      "last_name": "Noether",
+      "email": "emmy.noether@bullpen-candidates.test",
+      "phone": "+1-555-7363",
+      "status": "archived",
+      "created_at": "2026-03-27T00:22:24Z",
+      "modified_at": "2026-03-27T00:22:24Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-27T00:22:24Z"
+  },
+  {
+    "source_id": "cand_0100",
+    "data": {
+      "first_name": "Vera",
+      "last_name": "Ramanujan",
+      "email": "vera.ramanujan@bullpen-candidates.test",
+      "phone": "+1-555-6702",
+      "status": "archived",
+      "created_at": "2026-03-28T00:16:07Z",
+      "modified_at": "2026-03-28T00:16:07Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-28T00:16:07Z"
+  },
+  {
+    "source_id": "cand_0101",
+    "data": {
+      "first_name": "Linus",
+      "last_name": "Lovelace",
+      "email": "linus.lovelace@bullpen-candidates.test",
+      "phone": "+1-555-7068",
+      "status": "submitted",
+      "created_at": "2026-02-06T19:33:24Z",
+      "modified_at": "2026-02-06T19:33:24Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-06T19:33:24Z"
+  },
+  {
+    "source_id": "cand_0102",
+    "data": {
+      "first_name": "Xavier",
+      "last_name": "Noether",
+      "email": "xavier.noether@bullpen-candidates.test",
+      "phone": "+1-555-6229",
+      "status": "screening",
+      "created_at": "2026-03-17T21:06:58Z",
+      "modified_at": "2026-03-17T21:06:58Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-17T21:06:58Z"
+  },
+  {
+    "source_id": "cand_0103",
+    "data": {
+      "first_name": "Yvonne",
+      "last_name": "Pascal",
+      "email": "yvonne.pascal@bullpen-candidates.test",
+      "phone": "+1-555-3358",
+      "status": "placed",
+      "created_at": "2026-02-16T21:46:03Z",
+      "modified_at": "2026-02-16T21:46:03Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-16T21:46:03Z"
+  },
+  {
+    "source_id": "cand_0104",
+    "data": {
+      "first_name": "Florence",
+      "last_name": "Hopper",
+      "email": "florence.hopper@bullpen-candidates.test",
+      "phone": "+1-555-9763",
+      "status": "new",
+      "created_at": "2026-03-09T20:43:26Z",
+      "modified_at": "2026-03-09T20:43:26Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-09T20:43:26Z"
+  },
+  {
+    "source_id": "cand_0105",
+    "data": {
+      "first_name": "Jean",
+      "last_name": "Lovelace",
+      "email": "jean.lovelace@bullpen-candidates.test",
+      "phone": "+1-555-4563",
+      "status": "new",
+      "created_at": "2026-02-07T15:41:39Z",
+      "modified_at": "2026-02-07T15:41:39Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-07T15:41:39Z"
+  },
+  {
+    "source_id": "cand_0106",
+    "data": {
+      "first_name": "Charles",
+      "last_name": "Tesla",
+      "email": "charles.tesla@bullpen-candidates.test",
+      "phone": "+1-555-6586",
+      "status": "placed",
+      "created_at": "2026-02-15T00:08:36Z",
+      "modified_at": "2026-02-15T00:08:36Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-15T00:08:36Z"
+  },
+  {
+    "source_id": "cand_0107",
+    "data": {
+      "first_name": "Sophie",
+      "last_name": "Babbage",
+      "email": "sophie.babbage@bullpen-candidates.test",
+      "phone": "+1-555-1877",
+      "status": "archived",
+      "created_at": "2026-03-30T10:29:07Z",
+      "modified_at": "2026-03-30T10:29:07Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-30T10:29:07Z"
+  },
+  {
+    "source_id": "cand_0108",
+    "data": {
+      "first_name": "Ada",
+      "last_name": "Hopper",
+      "email": "ada.hopper@bullpen-candidates.test",
+      "phone": "+1-555-2678",
+      "status": "new",
+      "created_at": "2026-03-08T19:38:10Z",
+      "modified_at": "2026-03-08T19:38:10Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-08T19:38:10Z"
+  },
+  {
+    "source_id": "cand_0109",
+    "data": {
+      "first_name": "Grace",
+      "last_name": "Wright",
+      "email": "grace.wright@bullpen-candidates.test",
+      "phone": "+1-555-4868",
+      "status": "screening",
+      "created_at": "2026-03-06T23:28:42Z",
+      "modified_at": "2026-03-06T23:28:42Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-06T23:28:42Z"
+  },
+  {
+    "source_id": "cand_0110",
+    "data": {
+      "first_name": "Tim",
+      "last_name": "Curie",
+      "email": "tim.curie@bullpen-candidates.test",
+      "phone": "+1-555-5459",
+      "status": "archived",
+      "created_at": "2026-02-12T10:38:04Z",
+      "modified_at": "2026-02-12T10:38:04Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-12T10:38:04Z"
+  },
+  {
+    "source_id": "cand_0111",
+    "data": {
+      "first_name": "Emmy",
+      "last_name": "Babbage",
+      "email": "emmy.babbage@bullpen-candidates.test",
+      "phone": "+1-555-4044",
+      "status": "archived",
+      "created_at": "2026-03-03T14:11:04Z",
+      "modified_at": "2026-03-03T14:11:04Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-03T14:11:04Z"
+  },
+  {
+    "source_id": "cand_0112",
+    "data": {
+      "first_name": "Blaise",
+      "last_name": "Dirac",
+      "email": "blaise.dirac@bullpen-candidates.test",
+      "phone": "+1-555-3978",
+      "status": "archived",
+      "created_at": "2026-03-11T13:33:32Z",
+      "modified_at": "2026-03-11T13:33:32Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-11T13:33:32Z"
+  },
+  {
+    "source_id": "cand_0113",
+    "data": {
+      "first_name": "Richard",
+      "last_name": "Gauss",
+      "email": "richard.gauss@bullpen-candidates.test",
+      "phone": "+1-555-2616",
+      "status": "submitted",
+      "created_at": "2026-02-15T13:55:53Z",
+      "modified_at": "2026-02-15T13:55:53Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-15T13:55:53Z"
+  },
+  {
+    "source_id": "cand_0114",
+    "data": {
+      "first_name": "Vera",
+      "last_name": "Wright",
+      "email": "vera.wright@bullpen-candidates.test",
+      "phone": "+1-555-1098",
+      "status": "submitted",
+      "created_at": "2026-03-21T08:45:38Z",
+      "modified_at": "2026-03-21T08:45:38Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-21T08:45:38Z"
+  },
+  {
+    "source_id": "cand_0115",
+    "data": {
+      "first_name": "Zelda",
+      "last_name": "Dirac",
+      "email": "zelda.dirac@bullpen-candidates.test",
+      "phone": "+1-555-8094",
+      "status": "new",
+      "created_at": "2026-02-21T02:43:46Z",
+      "modified_at": "2026-02-21T02:43:46Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-21T02:43:46Z"
+  },
+  {
+    "source_id": "cand_0116",
+    "data": {
+      "first_name": "Yvonne",
+      "last_name": "Hopper",
+      "email": "yvonne.hopper@bullpen-candidates.test",
+      "phone": "+1-555-7750",
+      "status": "submitted",
+      "created_at": "2026-02-27T23:01:23Z",
+      "modified_at": "2026-02-27T23:01:23Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-27T23:01:23Z"
+  },
+  {
+    "source_id": "cand_0117",
+    "data": {
+      "first_name": "Katherine",
+      "last_name": "Pascal",
+      "email": "katherine.pascal@bullpen-candidates.test",
+      "phone": "+1-555-7744",
+      "status": "placed",
+      "created_at": "2026-03-17T08:51:58Z",
+      "modified_at": "2026-03-17T08:51:58Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-17T08:51:58Z"
+  },
+  {
+    "source_id": "cand_0118",
+    "data": {
+      "first_name": "Walter",
+      "last_name": "Noether",
+      "email": "walter.noether@bullpen-candidates.test",
+      "phone": "+1-555-2035",
+      "status": "screening",
+      "created_at": "2026-03-15T19:20:26Z",
+      "modified_at": "2026-03-15T19:20:26Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-15T19:20:26Z"
+  },
+  {
+    "source_id": "cand_0119",
+    "data": {
+      "first_name": "Walter",
+      "last_name": "Babbage",
+      "email": "walter.babbage@bullpen-candidates.test",
+      "phone": "+1-555-4158",
+      "status": "new",
+      "created_at": "2026-02-11T20:40:50Z",
+      "modified_at": "2026-02-11T20:40:50Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-11T20:40:50Z"
+  },
+  {
+    "source_id": "cand_0120",
+    "data": {
+      "first_name": "Grace",
+      "last_name": "Shannon",
+      "email": "grace.shannon@bullpen-candidates.test",
+      "phone": "+1-555-1839",
+      "status": "submitted",
+      "created_at": "2026-03-19T22:48:16Z",
+      "modified_at": "2026-03-19T22:48:16Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-19T22:48:16Z"
+  },
+  {
+    "source_id": "cand_0121",
+    "data": {
+      "first_name": "Blaise",
+      "last_name": "Feynman",
+      "email": "blaise.feynman@bullpen-candidates.test",
+      "phone": "+1-555-6532",
+      "status": "screening",
+      "created_at": "2026-02-19T05:27:40Z",
+      "modified_at": "2026-02-19T05:27:40Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-19T05:27:40Z"
+  },
+  {
+    "source_id": "cand_0122",
+    "data": {
+      "first_name": "Vera",
+      "last_name": "Dirac",
+      "email": "vera.dirac@bullpen-candidates.test",
+      "phone": "+1-555-8447",
+      "status": "placed",
+      "created_at": "2026-02-24T20:24:54Z",
+      "modified_at": "2026-02-24T20:24:54Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-24T20:24:54Z"
+  },
+  {
+    "source_id": "cand_0123",
+    "data": {
+      "first_name": "Jean",
+      "last_name": "Hopper",
+      "email": "jean.hopper@bullpen-candidates.test",
+      "phone": "+1-555-5592",
+      "status": "new",
+      "created_at": "2026-03-14T14:59:02Z",
+      "modified_at": "2026-03-14T14:59:02Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-14T14:59:02Z"
+  },
+  {
+    "source_id": "cand_0124",
+    "data": {
+      "first_name": "Katherine",
+      "last_name": "Tesla",
+      "email": "katherine.tesla@bullpen-candidates.test",
+      "phone": "+1-555-2585",
+      "status": "new",
+      "created_at": "2026-03-09T04:05:03Z",
+      "modified_at": "2026-03-09T04:05:03Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-09T04:05:03Z"
+  },
+  {
+    "source_id": "cand_0125",
+    "data": {
+      "first_name": "Grace",
+      "last_name": "Hopper",
+      "email": "grace.hopper@bullpen-candidates.test",
+      "phone": "+1-555-3594",
+      "status": "screening",
+      "created_at": "2026-04-01T05:35:09Z",
+      "modified_at": "2026-04-01T05:35:09Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-04-01T05:35:09Z"
+  },
+  {
+    "source_id": "cand_0126",
+    "data": {
+      "first_name": "Richard",
+      "last_name": "Young",
+      "email": "richard.young@bullpen-candidates.test",
+      "phone": "+1-555-4573",
+      "status": "screening",
+      "created_at": "2026-03-27T04:10:23Z",
+      "modified_at": "2026-03-27T04:10:23Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-27T04:10:23Z"
+  },
+  {
+    "source_id": "cand_0127",
+    "data": {
+      "first_name": "Hedy",
+      "last_name": "Curie",
+      "email": "hedy.curie@bullpen-candidates.test",
+      "phone": "+1-555-2719",
+      "status": "archived",
+      "created_at": "2026-03-25T23:49:41Z",
+      "modified_at": "2026-03-25T23:49:41Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-25T23:49:41Z"
+  },
+  {
+    "source_id": "cand_0128",
+    "data": {
+      "first_name": "Xavier",
+      "last_name": "Tesla",
+      "email": "xavier.tesla@bullpen-candidates.test",
+      "phone": "+1-555-1909",
+      "status": "submitted",
+      "created_at": "2026-03-28T14:26:16Z",
+      "modified_at": "2026-03-28T14:26:16Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-28T14:26:16Z"
+  },
+  {
+    "source_id": "cand_0129",
+    "data": {
+      "first_name": "Richard",
+      "last_name": "Dirac",
+      "email": "richard.dirac@bullpen-candidates.test",
+      "phone": "+1-555-9879",
+      "status": "submitted",
+      "created_at": "2026-02-27T15:35:41Z",
+      "modified_at": "2026-02-27T15:35:41Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-27T15:35:41Z"
+  },
+  {
+    "source_id": "cand_0130",
+    "data": {
+      "first_name": "Zelda",
+      "last_name": "Pascal",
+      "email": "zelda.pascal@bullpen-candidates.test",
+      "phone": "+1-555-5335",
+      "status": "placed",
+      "created_at": "2026-02-19T13:33:52Z",
+      "modified_at": "2026-02-19T13:33:52Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-19T13:33:52Z"
+  },
+  {
+    "source_id": "cand_0131",
+    "data": {
+      "first_name": "Xavier",
+      "last_name": "Babbage",
+      "email": "xavier.babbage@bullpen-candidates.test",
+      "phone": "+1-555-8442",
+      "status": "new",
+      "created_at": "2026-02-06T07:20:48Z",
+      "modified_at": "2026-02-06T07:20:48Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-06T07:20:48Z"
+  },
+  {
+    "source_id": "cand_0132",
+    "data": {
+      "first_name": "Blaise",
+      "last_name": "Lovelace",
+      "email": "blaise.lovelace@bullpen-candidates.test",
+      "phone": "+1-555-3222",
+      "status": "screening",
+      "created_at": "2026-02-14T22:35:06Z",
+      "modified_at": "2026-02-14T22:35:06Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-14T22:35:06Z"
+  },
+  {
+    "source_id": "cand_0133",
+    "data": {
+      "first_name": "Linus",
+      "last_name": "Xu",
+      "email": "linus.xu@bullpen-candidates.test",
+      "phone": "+1-555-3065",
+      "status": "submitted",
+      "created_at": "2026-03-30T01:29:06Z",
+      "modified_at": "2026-03-30T01:29:06Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-30T01:29:06Z"
+  },
+  {
+    "source_id": "cand_0134",
+    "data": {
+      "first_name": "Tim",
+      "last_name": "Lovelace",
+      "email": "tim.lovelace@bullpen-candidates.test",
+      "phone": "+1-555-3712",
+      "status": "screening",
+      "created_at": "2026-03-09T16:12:29Z",
+      "modified_at": "2026-03-09T16:12:29Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-09T16:12:29Z"
+  },
+  {
+    "source_id": "cand_0135",
+    "data": {
+      "first_name": "Florence",
+      "last_name": "Lovelace",
+      "email": "florence.lovelace@bullpen-candidates.test",
+      "phone": "+1-555-9161",
+      "status": "placed",
+      "created_at": "2026-02-23T13:23:44Z",
+      "modified_at": "2026-02-23T13:23:44Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-23T13:23:44Z"
+  },
+  {
+    "source_id": "cand_0136",
+    "data": {
+      "first_name": "Richard",
+      "last_name": "Shannon",
+      "email": "richard.shannon@bullpen-candidates.test",
+      "phone": "+1-555-1481",
+      "status": "screening",
+      "created_at": "2026-03-14T06:05:56Z",
+      "modified_at": "2026-03-14T06:05:56Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-14T06:05:56Z"
+  },
+  {
+    "source_id": "cand_0137",
+    "data": {
+      "first_name": "Charles",
+      "last_name": "Feynman",
+      "email": "charles.feynman@bullpen-candidates.test",
+      "phone": "+1-555-5572",
+      "status": "new",
+      "created_at": "2026-04-03T17:35:37Z",
+      "modified_at": "2026-04-03T17:35:37Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-04-03T17:35:37Z"
+  },
+  {
+    "source_id": "cand_0138",
+    "data": {
+      "first_name": "Oliver",
+      "last_name": "Young",
+      "email": "oliver.young@bullpen-candidates.test",
+      "phone": "+1-555-7882",
+      "status": "new",
+      "created_at": "2026-03-02T09:33:29Z",
+      "modified_at": "2026-03-02T09:33:29Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-02T09:33:29Z"
+  },
+  {
+    "source_id": "cand_0139",
+    "data": {
+      "first_name": "Marie",
+      "last_name": "Hopper",
+      "email": "marie.hopper@bullpen-candidates.test",
+      "phone": "+1-555-2645",
+      "status": "screening",
+      "created_at": "2026-02-24T01:08:01Z",
+      "modified_at": "2026-02-24T01:08:01Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-24T01:08:01Z"
+  },
+  {
+    "source_id": "cand_0140",
+    "data": {
+      "first_name": "Blaise",
+      "last_name": "Babbage",
+      "email": "blaise.babbage@bullpen-candidates.test",
+      "phone": "+1-555-4454",
+      "status": "placed",
+      "created_at": "2026-02-26T03:56:35Z",
+      "modified_at": "2026-02-26T03:56:35Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-26T03:56:35Z"
+  },
+  {
+    "source_id": "cand_0141",
+    "data": {
+      "first_name": "Xavier",
+      "last_name": "Young",
+      "email": "xavier.young@bullpen-candidates.test",
+      "phone": "+1-555-5670",
+      "status": "archived",
+      "created_at": "2026-02-17T03:15:37Z",
+      "modified_at": "2026-02-17T03:15:37Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-17T03:15:37Z"
+  },
+  {
+    "source_id": "cand_0142",
+    "data": {
+      "first_name": "Vera",
+      "last_name": "VonNeumann",
+      "email": "vera.vonneumann@bullpen-candidates.test",
+      "phone": "+1-555-7866",
+      "status": "submitted",
+      "created_at": "2026-03-26T05:42:55Z",
+      "modified_at": "2026-03-26T05:42:55Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-26T05:42:55Z"
+  },
+  {
+    "source_id": "cand_0143",
+    "data": {
+      "first_name": "Isaac",
+      "last_name": "Young",
+      "email": "isaac.young@bullpen-candidates.test",
+      "phone": "+1-555-6342",
+      "status": "screening",
+      "created_at": "2026-04-05T14:09:48Z",
+      "modified_at": "2026-04-05T14:09:48Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-04-05T14:09:48Z"
+  },
+  {
+    "source_id": "cand_0144",
+    "data": {
+      "first_name": "Walter",
+      "last_name": "Pascal",
+      "email": "walter.pascal@bullpen-candidates.test",
+      "phone": "+1-555-4305",
+      "status": "placed",
+      "created_at": "2026-02-07T12:11:34Z",
+      "modified_at": "2026-02-07T12:11:34Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-07T12:11:34Z"
+  },
+  {
+    "source_id": "cand_0145",
+    "data": {
+      "first_name": "Florence",
+      "last_name": "Pascal",
+      "email": "florence.pascal@bullpen-candidates.test",
+      "phone": "+1-555-7236",
+      "status": "new",
+      "created_at": "2026-03-18T23:18:03Z",
+      "modified_at": "2026-03-18T23:18:03Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-18T23:18:03Z"
+  },
+  {
+    "source_id": "cand_0146",
+    "data": {
+      "first_name": "Vera",
+      "last_name": "Turing",
+      "email": "vera.turing@bullpen-candidates.test",
+      "phone": "+1-555-4133",
+      "status": "placed",
+      "created_at": "2026-02-23T14:24:19Z",
+      "modified_at": "2026-02-23T14:24:19Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-23T14:24:19Z"
+  },
+  {
+    "source_id": "cand_0147",
+    "data": {
+      "first_name": "Marie",
+      "last_name": "Pascal",
+      "email": "marie.pascal@bullpen-candidates.test",
+      "phone": "+1-555-7524",
+      "status": "new",
+      "created_at": "2026-02-15T21:47:40Z",
+      "modified_at": "2026-02-15T21:47:40Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-15T21:47:40Z"
+  },
+  {
+    "source_id": "cand_0148",
+    "data": {
+      "first_name": "Isaac",
+      "last_name": "Tesla",
+      "email": "isaac.tesla@bullpen-candidates.test",
+      "phone": "+1-555-5633",
+      "status": "screening",
+      "created_at": "2026-02-14T09:16:13Z",
+      "modified_at": "2026-02-14T09:16:13Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-14T09:16:13Z"
+  },
+  {
+    "source_id": "cand_0149",
+    "data": {
+      "first_name": "Jean",
+      "last_name": "Wright",
+      "email": "jean.wright@bullpen-candidates.test",
+      "phone": "+1-555-8781",
+      "status": "screening",
+      "created_at": "2026-04-03T21:58:34Z",
+      "modified_at": "2026-04-03T21:58:34Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-04-03T21:58:34Z"
+  },
+  {
+    "source_id": "cand_0150",
+    "data": {
+      "first_name": "Oliver",
+      "last_name": "Zuse",
+      "email": "oliver.zuse@bullpen-candidates.test",
+      "phone": "+1-555-4674",
+      "status": "submitted",
+      "created_at": "2026-02-27T05:57:07Z",
+      "modified_at": "2026-02-27T05:57:07Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-27T05:57:07Z"
+  },
+  {
+    "source_id": "cand_0151",
+    "data": {
+      "first_name": "Walter",
+      "last_name": "Dirac",
+      "email": "walter.dirac@bullpen-candidates.test",
+      "phone": "+1-555-8396",
+      "status": "submitted",
+      "created_at": "2026-02-19T17:22:18Z",
+      "modified_at": "2026-02-19T17:22:18Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-19T17:22:18Z"
+  },
+  {
+    "source_id": "cand_0152",
+    "data": {
+      "first_name": "Richard",
+      "last_name": "Gauss",
+      "email": "richard.gauss@bullpen-candidates.test",
+      "phone": "+1-555-8759",
+      "status": "submitted",
+      "created_at": "2026-03-06T20:48:22Z",
+      "modified_at": "2026-03-06T20:48:22Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-06T20:48:22Z"
+  },
+  {
+    "source_id": "cand_0153",
+    "data": {
+      "first_name": "Xavier",
+      "last_name": "Feynman",
+      "email": "xavier.feynman@bullpen-candidates.test",
+      "phone": "+1-555-5892",
+      "status": "placed",
+      "created_at": "2026-02-23T07:39:36Z",
+      "modified_at": "2026-02-23T07:39:36Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-23T07:39:36Z"
+  },
+  {
+    "source_id": "cand_0154",
+    "data": {
+      "first_name": "Oliver",
+      "last_name": "Shannon",
+      "email": "oliver.shannon@bullpen-candidates.test",
+      "phone": "+1-555-5562",
+      "status": "submitted",
+      "created_at": "2026-03-20T06:16:02Z",
+      "modified_at": "2026-03-20T06:16:02Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-20T06:16:02Z"
+  },
+  {
+    "source_id": "cand_0155",
+    "data": {
+      "first_name": "Blaise",
+      "last_name": "Wright",
+      "email": "blaise.wright@bullpen-candidates.test",
+      "phone": "+1-555-4545",
+      "status": "placed",
+      "created_at": "2026-03-22T11:32:00Z",
+      "modified_at": "2026-03-22T11:32:00Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-22T11:32:00Z"
+  },
+  {
+    "source_id": "cand_0156",
+    "data": {
+      "first_name": "Yvonne",
+      "last_name": "Babbage",
+      "email": "yvonne.babbage@bullpen-candidates.test",
+      "phone": "+1-555-7283",
+      "status": "placed",
+      "created_at": "2026-03-15T21:30:37Z",
+      "modified_at": "2026-03-15T21:30:37Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-15T21:30:37Z"
+  },
+  {
+    "source_id": "cand_0157",
+    "data": {
+      "first_name": "Dorothy",
+      "last_name": "Young",
+      "email": "dorothy.young@bullpen-candidates.test",
+      "phone": "+1-555-5146",
+      "status": "screening",
+      "created_at": "2026-02-15T04:29:32Z",
+      "modified_at": "2026-02-15T04:29:32Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-15T04:29:32Z"
+  },
+  {
+    "source_id": "cand_0158",
+    "data": {
+      "first_name": "Jean",
+      "last_name": "Feynman",
+      "email": "jean.feynman@bullpen-candidates.test",
+      "phone": "+1-555-1692",
+      "status": "submitted",
+      "created_at": "2026-04-01T21:15:52Z",
+      "modified_at": "2026-04-01T21:15:52Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-04-01T21:15:52Z"
+  },
+  {
+    "source_id": "cand_0159",
+    "data": {
+      "first_name": "Isaac",
+      "last_name": "Zuse",
+      "email": "isaac.zuse@bullpen-candidates.test",
+      "phone": "+1-555-1516",
+      "status": "placed",
+      "created_at": "2026-03-10T06:13:22Z",
+      "modified_at": "2026-03-10T06:13:22Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-10T06:13:22Z"
+  },
+  {
+    "source_id": "cand_0160",
+    "data": {
+      "first_name": "Charles",
+      "last_name": "Pascal",
+      "email": "charles.pascal@bullpen-candidates.test",
+      "phone": "+1-555-1361",
+      "status": "archived",
+      "created_at": "2026-03-04T11:05:59Z",
+      "modified_at": "2026-03-04T11:05:59Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-04T11:05:59Z"
+  },
+  {
+    "source_id": "cand_0161",
+    "data": {
+      "first_name": "Ursula",
+      "last_name": "Feynman",
+      "email": "ursula.feynman@bullpen-candidates.test",
+      "phone": "+1-555-7041",
+      "status": "new",
+      "created_at": "2026-03-11T13:33:22Z",
+      "modified_at": "2026-03-11T13:33:22Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-11T13:33:22Z"
+  },
+  {
+    "source_id": "cand_0162",
+    "data": {
+      "first_name": "Oliver",
+      "last_name": "Zuse",
+      "email": "oliver.zuse@bullpen-candidates.test",
+      "phone": "+1-555-9470",
+      "status": "archived",
+      "created_at": "2026-02-28T00:12:54Z",
+      "modified_at": "2026-02-28T00:12:54Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-28T00:12:54Z"
+  },
+  {
+    "source_id": "cand_0163",
+    "data": {
+      "first_name": "Jean",
+      "last_name": "Curie",
+      "email": "jean.curie@bullpen-candidates.test",
+      "phone": "+1-555-1654",
+      "status": "screening",
+      "created_at": "2026-04-01T02:15:58Z",
+      "modified_at": "2026-04-01T02:15:58Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-04-01T02:15:58Z"
+  },
+  {
+    "source_id": "cand_0164",
+    "data": {
+      "first_name": "Ada",
+      "last_name": "Turing",
+      "email": "ada.turing@bullpen-candidates.test",
+      "phone": "+1-555-9680",
+      "status": "screening",
+      "created_at": "2026-02-18T04:44:13Z",
+      "modified_at": "2026-02-18T04:44:13Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-18T04:44:13Z"
+  },
+  {
+    "source_id": "cand_0165",
+    "data": {
+      "first_name": "Ursula",
+      "last_name": "Zuse",
+      "email": "ursula.zuse@bullpen-candidates.test",
+      "phone": "+1-555-5077",
+      "status": "archived",
+      "created_at": "2026-02-18T08:22:56Z",
+      "modified_at": "2026-02-18T08:22:56Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-18T08:22:56Z"
+  },
+  {
+    "source_id": "cand_0166",
+    "data": {
+      "first_name": "Blaise",
+      "last_name": "Dirac",
+      "email": "blaise.dirac@bullpen-candidates.test",
+      "phone": "+1-555-9681",
+      "status": "screening",
+      "created_at": "2026-03-23T11:20:43Z",
+      "modified_at": "2026-03-23T11:20:43Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-23T11:20:43Z"
+  },
+  {
+    "source_id": "cand_0167",
+    "data": {
+      "first_name": "Linus",
+      "last_name": "Hopper",
+      "email": "linus.hopper@bullpen-candidates.test",
+      "phone": "+1-555-6157",
+      "status": "screening",
+      "created_at": "2026-03-08T04:54:31Z",
+      "modified_at": "2026-03-08T04:54:31Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-08T04:54:31Z"
+  },
+  {
+    "source_id": "cand_0168",
+    "data": {
+      "first_name": "Grace",
+      "last_name": "Xu",
+      "email": "grace.xu@bullpen-candidates.test",
+      "phone": "+1-555-3927",
+      "status": "placed",
+      "created_at": "2026-02-16T18:35:58Z",
+      "modified_at": "2026-02-16T18:35:58Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-16T18:35:58Z"
+  },
+  {
+    "source_id": "cand_0169",
+    "data": {
+      "first_name": "Marie",
+      "last_name": "Shannon",
+      "email": "marie.shannon@bullpen-candidates.test",
+      "phone": "+1-555-6511",
+      "status": "screening",
+      "created_at": "2026-03-04T19:20:17Z",
+      "modified_at": "2026-03-04T19:20:17Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-04T19:20:17Z"
+  },
+  {
+    "source_id": "cand_0170",
+    "data": {
+      "first_name": "Sophie",
+      "last_name": "Curie",
+      "email": "sophie.curie@bullpen-candidates.test",
+      "phone": "+1-555-8196",
+      "status": "screening",
+      "created_at": "2026-03-18T09:31:47Z",
+      "modified_at": "2026-03-18T09:31:47Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-18T09:31:47Z"
+  },
+  {
+    "source_id": "cand_0171",
+    "data": {
+      "first_name": "Oliver",
+      "last_name": "Young",
+      "email": "oliver.young@bullpen-candidates.test",
+      "phone": "+1-555-1332",
+      "status": "placed",
+      "created_at": "2026-02-09T09:20:39Z",
+      "modified_at": "2026-02-09T09:20:39Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-09T09:20:39Z"
+  },
+  {
+    "source_id": "cand_0172",
+    "data": {
+      "first_name": "Linus",
+      "last_name": "VonNeumann",
+      "email": "linus.vonneumann@bullpen-candidates.test",
+      "phone": "+1-555-6546",
+      "status": "screening",
+      "created_at": "2026-02-28T21:15:25Z",
+      "modified_at": "2026-02-28T21:15:25Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-28T21:15:25Z"
+  },
+  {
+    "source_id": "cand_0173",
+    "data": {
+      "first_name": "Charles",
+      "last_name": "Young",
+      "email": "charles.young@bullpen-candidates.test",
+      "phone": "+1-555-2773",
+      "status": "archived",
+      "created_at": "2026-04-03T21:06:44Z",
+      "modified_at": "2026-04-03T21:06:44Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-04-03T21:06:44Z"
+  },
+  {
+    "source_id": "cand_0174",
+    "data": {
+      "first_name": "Vera",
+      "last_name": "Pascal",
+      "email": "vera.pascal@bullpen-candidates.test",
+      "phone": "+1-555-3208",
+      "status": "archived",
+      "created_at": "2026-03-02T21:31:44Z",
+      "modified_at": "2026-03-02T21:31:44Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-02T21:31:44Z"
+  },
+  {
+    "source_id": "cand_0175",
+    "data": {
+      "first_name": "Charles",
+      "last_name": "Pascal",
+      "email": "charles.pascal@bullpen-candidates.test",
+      "phone": "+1-555-3161",
+      "status": "new",
+      "created_at": "2026-04-05T15:42:27Z",
+      "modified_at": "2026-04-05T15:42:27Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-04-05T15:42:27Z"
+  },
+  {
+    "source_id": "cand_0176",
+    "data": {
+      "first_name": "Sophie",
+      "last_name": "Curie",
+      "email": "sophie.curie@bullpen-candidates.test",
+      "phone": "+1-555-8279",
+      "status": "screening",
+      "created_at": "2026-03-30T09:57:19Z",
+      "modified_at": "2026-03-30T09:57:19Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-30T09:57:19Z"
+  },
+  {
+    "source_id": "cand_0177",
+    "data": {
+      "first_name": "Isaac",
+      "last_name": "Young",
+      "email": "isaac.young@bullpen-candidates.test",
+      "phone": "+1-555-3771",
+      "status": "submitted",
+      "created_at": "2026-02-09T20:41:27Z",
+      "modified_at": "2026-02-09T20:41:27Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-09T20:41:27Z"
+  },
+  {
+    "source_id": "cand_0178",
+    "data": {
+      "first_name": "Sophie",
+      "last_name": "Hopper",
+      "email": "sophie.hopper@bullpen-candidates.test",
+      "phone": "+1-555-6709",
+      "status": "submitted",
+      "created_at": "2026-02-15T14:59:20Z",
+      "modified_at": "2026-02-15T14:59:20Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-15T14:59:20Z"
+  },
+  {
+    "source_id": "cand_0179",
+    "data": {
+      "first_name": "Hedy",
+      "last_name": "Tesla",
+      "email": "hedy.tesla@bullpen-candidates.test",
+      "phone": "+1-555-8886",
+      "status": "placed",
+      "created_at": "2026-03-25T13:51:32Z",
+      "modified_at": "2026-03-25T13:51:32Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-25T13:51:32Z"
+  },
+  {
+    "source_id": "cand_0180",
+    "data": {
+      "first_name": "Marie",
+      "last_name": "Xu",
+      "email": "marie.xu@bullpen-candidates.test",
+      "phone": "+1-555-7421",
+      "status": "new",
+      "created_at": "2026-02-09T23:27:44Z",
+      "modified_at": "2026-02-09T23:27:44Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-09T23:27:44Z"
+  },
+  {
+    "source_id": "cand_0181",
+    "data": {
+      "first_name": "Richard",
+      "last_name": "Shannon",
+      "email": "richard.shannon@bullpen-candidates.test",
+      "phone": "+1-555-9422",
+      "status": "screening",
+      "created_at": "2026-03-30T02:04:35Z",
+      "modified_at": "2026-03-30T02:04:35Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-30T02:04:35Z"
+  },
+  {
+    "source_id": "cand_0182",
+    "data": {
+      "first_name": "Nikola",
+      "last_name": "Pascal",
+      "email": "nikola.pascal@bullpen-candidates.test",
+      "phone": "+1-555-8170",
+      "status": "screening",
+      "created_at": "2026-02-28T04:07:55Z",
+      "modified_at": "2026-02-28T04:07:55Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-28T04:07:55Z"
+  },
+  {
+    "source_id": "cand_0183",
+    "data": {
+      "first_name": "Yvonne",
+      "last_name": "Young",
+      "email": "yvonne.young@bullpen-candidates.test",
+      "phone": "+1-555-8497",
+      "status": "new",
+      "created_at": "2026-02-09T09:58:14Z",
+      "modified_at": "2026-02-09T09:58:14Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-09T09:58:14Z"
+  },
+  {
+    "source_id": "cand_0184",
+    "data": {
+      "first_name": "Richard",
+      "last_name": "Wright",
+      "email": "richard.wright@bullpen-candidates.test",
+      "phone": "+1-555-1703",
+      "status": "archived",
+      "created_at": "2026-02-25T15:39:04Z",
+      "modified_at": "2026-02-25T15:39:04Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-25T15:39:04Z"
+  },
+  {
+    "source_id": "cand_0185",
+    "data": {
+      "first_name": "Grace",
+      "last_name": "Gauss",
+      "email": "grace.gauss@bullpen-candidates.test",
+      "phone": "+1-555-8778",
+      "status": "screening",
+      "created_at": "2026-03-23T06:41:07Z",
+      "modified_at": "2026-03-23T06:41:07Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-23T06:41:07Z"
+  },
+  {
+    "source_id": "cand_0186",
+    "data": {
+      "first_name": "Linus",
+      "last_name": "Tesla",
+      "email": "linus.tesla@bullpen-candidates.test",
+      "phone": "+1-555-3443",
+      "status": "placed",
+      "created_at": "2026-02-19T06:58:12Z",
+      "modified_at": "2026-02-19T06:58:12Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-19T06:58:12Z"
+  },
+  {
+    "source_id": "cand_0187",
+    "data": {
+      "first_name": "Emmy",
+      "last_name": "Feynman",
+      "email": "emmy.feynman@bullpen-candidates.test",
+      "phone": "+1-555-2019",
+      "status": "archived",
+      "created_at": "2026-03-21T06:07:36Z",
+      "modified_at": "2026-03-21T06:07:36Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-21T06:07:36Z"
+  },
+  {
+    "source_id": "cand_0188",
+    "data": {
+      "first_name": "Oliver",
+      "last_name": "Feynman",
+      "email": "oliver.feynman@bullpen-candidates.test",
+      "phone": "+1-555-1418",
+      "status": "new",
+      "created_at": "2026-02-22T07:19:04Z",
+      "modified_at": "2026-02-22T07:19:04Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-22T07:19:04Z"
+  },
+  {
+    "source_id": "cand_0189",
+    "data": {
+      "first_name": "Florence",
+      "last_name": "Lovelace",
+      "email": "florence.lovelace@bullpen-candidates.test",
+      "phone": "+1-555-8430",
+      "status": "new",
+      "created_at": "2026-03-14T15:55:57Z",
+      "modified_at": "2026-03-14T15:55:57Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-14T15:55:57Z"
+  },
+  {
+    "source_id": "cand_0190",
+    "data": {
+      "first_name": "Oliver",
+      "last_name": "Tesla",
+      "email": "oliver.tesla@bullpen-candidates.test",
+      "phone": "+1-555-5030",
+      "status": "submitted",
+      "created_at": "2026-03-19T20:27:14Z",
+      "modified_at": "2026-03-19T20:27:14Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-19T20:27:14Z"
+  },
+  {
+    "source_id": "cand_0191",
+    "data": {
+      "first_name": "Sophie",
+      "last_name": "Wright",
+      "email": "sophie.wright@bullpen-candidates.test",
+      "phone": "+1-555-2373",
+      "status": "screening",
+      "created_at": "2026-03-30T19:03:03Z",
+      "modified_at": "2026-03-30T19:03:03Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-30T19:03:03Z"
+  },
+  {
+    "source_id": "cand_0192",
+    "data": {
+      "first_name": "Xavier",
+      "last_name": "Feynman",
+      "email": "xavier.feynman@bullpen-candidates.test",
+      "phone": "+1-555-9962",
+      "status": "new",
+      "created_at": "2026-02-25T08:52:09Z",
+      "modified_at": "2026-02-25T08:52:09Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-25T08:52:09Z"
+  },
+  {
+    "source_id": "cand_0193",
+    "data": {
+      "first_name": "Isaac",
+      "last_name": "Dirac",
+      "email": "isaac.dirac@bullpen-candidates.test",
+      "phone": "+1-555-9922",
+      "status": "archived",
+      "created_at": "2026-03-30T05:46:23Z",
+      "modified_at": "2026-03-30T05:46:23Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-30T05:46:23Z"
+  },
+  {
+    "source_id": "cand_0194",
+    "data": {
+      "first_name": "Isaac",
+      "last_name": "Feynman",
+      "email": "isaac.feynman@bullpen-candidates.test",
+      "phone": "+1-555-4960",
+      "status": "new",
+      "created_at": "2026-03-24T20:38:19Z",
+      "modified_at": "2026-03-24T20:38:19Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-24T20:38:19Z"
+  },
+  {
+    "source_id": "cand_0195",
+    "data": {
+      "first_name": "Zelda",
+      "last_name": "Babbage",
+      "email": "zelda.babbage@bullpen-candidates.test",
+      "phone": "+1-555-7683",
+      "status": "screening",
+      "created_at": "2026-03-07T05:53:39Z",
+      "modified_at": "2026-03-07T05:53:39Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-07T05:53:39Z"
+  },
+  {
+    "source_id": "cand_0196",
+    "data": {
+      "first_name": "Katherine",
+      "last_name": "Curie",
+      "email": "katherine.curie@bullpen-candidates.test",
+      "phone": "+1-555-1735",
+      "status": "placed",
+      "created_at": "2026-03-17T10:37:20Z",
+      "modified_at": "2026-03-17T10:37:20Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-17T10:37:20Z"
+  },
+  {
+    "source_id": "cand_0197",
+    "data": {
+      "first_name": "Katherine",
+      "last_name": "Hopper",
+      "email": "katherine.hopper@bullpen-candidates.test",
+      "phone": "+1-555-6450",
+      "status": "archived",
+      "created_at": "2026-03-08T23:44:31Z",
+      "modified_at": "2026-03-08T23:44:31Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-08T23:44:31Z"
+  },
+  {
+    "source_id": "cand_0198",
+    "data": {
+      "first_name": "Linus",
+      "last_name": "Dirac",
+      "email": "linus.dirac@bullpen-candidates.test",
+      "phone": "+1-555-2893",
+      "status": "new",
+      "created_at": "2026-03-09T18:13:45Z",
+      "modified_at": "2026-03-09T18:13:45Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-09T18:13:45Z"
+  },
+  {
+    "source_id": "cand_0199",
+    "data": {
+      "first_name": "Ursula",
+      "last_name": "Xu",
+      "email": "ursula.xu@bullpen-candidates.test",
+      "phone": "+1-555-5890",
+      "status": "archived",
+      "created_at": "2026-02-26T11:43:57Z",
+      "modified_at": "2026-02-26T11:43:57Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-26T11:43:57Z"
+  },
+  {
+    "source_id": "cand_0200",
+    "data": {
+      "first_name": "Linus",
+      "last_name": "Einstein",
+      "email": "linus.einstein@bullpen-candidates.test",
+      "phone": "+1-555-7013",
+      "status": "placed",
+      "created_at": "2026-03-05T07:18:52Z",
+      "modified_at": "2026-03-05T07:18:52Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-05T07:18:52Z"
+  },
+  {
+    "source_id": "cand_0201",
+    "data": {
+      "first_name": "Grace",
+      "last_name": "Xu",
+      "email": "grace.xu@bullpen-candidates.test",
+      "phone": "+1-555-7972",
+      "status": "submitted",
+      "created_at": "2026-03-25T11:29:29Z",
+      "modified_at": "2026-03-25T11:29:29Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-25T11:29:29Z"
+  },
+  {
+    "source_id": "cand_0202",
+    "data": {
+      "first_name": "Tim",
+      "last_name": "Turing",
+      "email": "tim.turing@bullpen-candidates.test",
+      "phone": "+1-555-2787",
+      "status": "archived",
+      "created_at": "2026-03-26T11:17:32Z",
+      "modified_at": "2026-03-26T11:17:32Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-26T11:17:32Z"
+  },
+  {
+    "source_id": "cand_0203",
+    "data": {
+      "first_name": "Linus",
+      "last_name": "Tesla",
+      "email": "linus.tesla@bullpen-candidates.test",
+      "phone": "+1-555-4238",
+      "status": "screening",
+      "created_at": "2026-02-26T12:38:51Z",
+      "modified_at": "2026-02-26T12:38:51Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-26T12:38:51Z"
+  },
+  {
+    "source_id": "cand_0204",
+    "data": {
+      "first_name": "Walter",
+      "last_name": "Lovelace",
+      "email": "walter.lovelace@bullpen-candidates.test",
+      "phone": "+1-555-5726",
+      "status": "submitted",
+      "created_at": "2026-02-21T02:32:00Z",
+      "modified_at": "2026-02-21T02:32:00Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-21T02:32:00Z"
+  },
+  {
+    "source_id": "cand_0205",
+    "data": {
+      "first_name": "Jean",
+      "last_name": "Pascal",
+      "email": "jean.pascal@bullpen-candidates.test",
+      "phone": "+1-555-5331",
+      "status": "placed",
+      "created_at": "2026-03-19T18:26:50Z",
+      "modified_at": "2026-03-19T18:26:50Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-19T18:26:50Z"
+  },
+  {
+    "source_id": "cand_0206",
+    "data": {
+      "first_name": "Marie",
+      "last_name": "VonNeumann",
+      "email": "marie.vonneumann@bullpen-candidates.test",
+      "phone": "+1-555-6544",
+      "status": "placed",
+      "created_at": "2026-02-17T08:35:17Z",
+      "modified_at": "2026-02-17T08:35:17Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-17T08:35:17Z"
+  },
+  {
+    "source_id": "cand_0207",
+    "data": {
+      "first_name": "Zelda",
+      "last_name": "Ramanujan",
+      "email": "zelda.ramanujan@bullpen-candidates.test",
+      "phone": "+1-555-7653",
+      "status": "submitted",
+      "created_at": "2026-02-26T07:24:49Z",
+      "modified_at": "2026-02-26T07:24:49Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-26T07:24:49Z"
+  },
+  {
+    "source_id": "cand_0208",
+    "data": {
+      "first_name": "Zelda",
+      "last_name": "Hopper",
+      "email": "zelda.hopper@bullpen-candidates.test",
+      "phone": "+1-555-7120",
+      "status": "submitted",
+      "created_at": "2026-03-09T18:30:41Z",
+      "modified_at": "2026-03-09T18:30:41Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-09T18:30:41Z"
+  },
+  {
+    "source_id": "cand_0209",
+    "data": {
+      "first_name": "Blaise",
+      "last_name": "Hopper",
+      "email": "blaise.hopper@bullpen-candidates.test",
+      "phone": "+1-555-9192",
+      "status": "screening",
+      "created_at": "2026-03-04T12:22:04Z",
+      "modified_at": "2026-03-04T12:22:04Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-04T12:22:04Z"
+  },
+  {
+    "source_id": "cand_0210",
+    "data": {
+      "first_name": "Zelda",
+      "last_name": "Curie",
+      "email": "zelda.curie@bullpen-candidates.test",
+      "phone": "+1-555-6942",
+      "status": "screening",
+      "created_at": "2026-03-29T00:02:03Z",
+      "modified_at": "2026-03-29T00:02:03Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-29T00:02:03Z"
+  },
+  {
+    "source_id": "cand_0211",
+    "data": {
+      "first_name": "Peggy",
+      "last_name": "Noether",
+      "email": "peggy.noether@bullpen-candidates.test",
+      "phone": "+1-555-1950",
+      "status": "screening",
+      "created_at": "2026-03-30T14:01:27Z",
+      "modified_at": "2026-03-30T14:01:27Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-30T14:01:27Z"
+  },
+  {
+    "source_id": "cand_0212",
+    "data": {
+      "first_name": "Oliver",
+      "last_name": "Ramanujan",
+      "email": "oliver.ramanujan@bullpen-candidates.test",
+      "phone": "+1-555-8030",
+      "status": "new",
+      "created_at": "2026-02-27T21:52:44Z",
+      "modified_at": "2026-02-27T21:52:44Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-27T21:52:44Z"
+  },
+  {
+    "source_id": "cand_0213",
+    "data": {
+      "first_name": "Vera",
+      "last_name": "Gauss",
+      "email": "vera.gauss@bullpen-candidates.test",
+      "phone": "+1-555-9131",
+      "status": "screening",
+      "created_at": "2026-03-11T03:05:35Z",
+      "modified_at": "2026-03-11T03:05:35Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-11T03:05:35Z"
+  },
+  {
+    "source_id": "cand_0214",
+    "data": {
+      "first_name": "Nikola",
+      "last_name": "Gauss",
+      "email": "nikola.gauss@bullpen-candidates.test",
+      "phone": "+1-555-1817",
+      "status": "submitted",
+      "created_at": "2026-03-23T12:03:26Z",
+      "modified_at": "2026-03-23T12:03:26Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-23T12:03:26Z"
+  },
+  {
+    "source_id": "cand_0215",
+    "data": {
+      "first_name": "Zelda",
+      "last_name": "Hopper",
+      "email": "zelda.hopper@bullpen-candidates.test",
+      "phone": "+1-555-4669",
+      "status": "new",
+      "created_at": "2026-02-10T21:16:12Z",
+      "modified_at": "2026-02-10T21:16:12Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-10T21:16:12Z"
+  },
+  {
+    "source_id": "cand_0216",
+    "data": {
+      "first_name": "Vera",
+      "last_name": "Curie",
+      "email": "vera.curie@bullpen-candidates.test",
+      "phone": "+1-555-7105",
+      "status": "placed",
+      "created_at": "2026-03-24T10:57:02Z",
+      "modified_at": "2026-03-24T10:57:02Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-24T10:57:02Z"
+  },
+  {
+    "source_id": "cand_0217",
+    "data": {
+      "first_name": "Hedy",
+      "last_name": "Hopper",
+      "email": "hedy.hopper@bullpen-candidates.test",
+      "phone": "+1-555-5302",
+      "status": "screening",
+      "created_at": "2026-03-27T21:10:02Z",
+      "modified_at": "2026-03-27T21:10:02Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-27T21:10:02Z"
+  },
+  {
+    "source_id": "cand_0218",
+    "data": {
+      "first_name": "Yvonne",
+      "last_name": "Pascal",
+      "email": "yvonne.pascal@bullpen-candidates.test",
+      "phone": "+1-555-9940",
+      "status": "archived",
+      "created_at": "2026-02-22T12:49:06Z",
+      "modified_at": "2026-02-22T12:49:06Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-22T12:49:06Z"
+  },
+  {
+    "source_id": "cand_0219",
+    "data": {
+      "first_name": "Zelda",
+      "last_name": "Gauss",
+      "email": "zelda.gauss@bullpen-candidates.test",
+      "phone": "+1-555-4522",
+      "status": "archived",
+      "created_at": "2026-03-18T06:47:15Z",
+      "modified_at": "2026-03-18T06:47:15Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-18T06:47:15Z"
+  },
+  {
+    "source_id": "cand_0220",
+    "data": {
+      "first_name": "Florence",
+      "last_name": "Feynman",
+      "email": "florence.feynman@bullpen-candidates.test",
+      "phone": "+1-555-7482",
+      "status": "screening",
+      "created_at": "2026-04-01T23:49:57Z",
+      "modified_at": "2026-04-01T23:49:57Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-04-01T23:49:57Z"
+  },
+  {
+    "source_id": "cand_0221",
+    "data": {
+      "first_name": "Walter",
+      "last_name": "Einstein",
+      "email": "walter.einstein@bullpen-candidates.test",
+      "phone": "+1-555-7274",
+      "status": "screening",
+      "created_at": "2026-04-01T16:14:28Z",
+      "modified_at": "2026-04-01T16:14:28Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-04-01T16:14:28Z"
+  },
+  {
+    "source_id": "cand_0222",
+    "data": {
+      "first_name": "Katherine",
+      "last_name": "Babbage",
+      "email": "katherine.babbage@bullpen-candidates.test",
+      "phone": "+1-555-6412",
+      "status": "archived",
+      "created_at": "2026-02-17T16:46:04Z",
+      "modified_at": "2026-02-17T16:46:04Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-17T16:46:04Z"
+  },
+  {
+    "source_id": "cand_0223",
+    "data": {
+      "first_name": "Vera",
+      "last_name": "Noether",
+      "email": "vera.noether@bullpen-candidates.test",
+      "phone": "+1-555-8706",
+      "status": "screening",
+      "created_at": "2026-02-21T09:02:57Z",
+      "modified_at": "2026-02-21T09:02:57Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-21T09:02:57Z"
+  },
+  {
+    "source_id": "cand_0224",
+    "data": {
+      "first_name": "Tim",
+      "last_name": "Young",
+      "email": "tim.young@bullpen-candidates.test",
+      "phone": "+1-555-5926",
+      "status": "screening",
+      "created_at": "2026-03-30T04:36:49Z",
+      "modified_at": "2026-03-30T04:36:49Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-30T04:36:49Z"
+  },
+  {
+    "source_id": "cand_0225",
+    "data": {
+      "first_name": "Vera",
+      "last_name": "Shannon",
+      "email": "vera.shannon@bullpen-candidates.test",
+      "phone": "+1-555-6502",
+      "status": "new",
+      "created_at": "2026-02-20T18:30:50Z",
+      "modified_at": "2026-02-20T18:30:50Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-20T18:30:50Z"
+  },
+  {
+    "source_id": "cand_0226",
+    "data": {
+      "first_name": "Oliver",
+      "last_name": "Shannon",
+      "email": "oliver.shannon@bullpen-candidates.test",
+      "phone": "+1-555-3917",
+      "status": "submitted",
+      "created_at": "2026-02-05T21:38:45Z",
+      "modified_at": "2026-02-05T21:38:45Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-05T21:38:45Z"
+  },
+  {
+    "source_id": "cand_0227",
+    "data": {
+      "first_name": "Hedy",
+      "last_name": "Xu",
+      "email": "hedy.xu@bullpen-candidates.test",
+      "phone": "+1-555-5438",
+      "status": "screening",
+      "created_at": "2026-03-07T13:10:16Z",
+      "modified_at": "2026-03-07T13:10:16Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-07T13:10:16Z"
+  },
+  {
+    "source_id": "cand_0228",
+    "data": {
+      "first_name": "Vera",
+      "last_name": "Tesla",
+      "email": "vera.tesla@bullpen-candidates.test",
+      "phone": "+1-555-4679",
+      "status": "placed",
+      "created_at": "2026-02-17T05:15:33Z",
+      "modified_at": "2026-02-17T05:15:33Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-17T05:15:33Z"
+  },
+  {
+    "source_id": "cand_0229",
+    "data": {
+      "first_name": "Nikola",
+      "last_name": "Curie",
+      "email": "nikola.curie@bullpen-candidates.test",
+      "phone": "+1-555-6512",
+      "status": "placed",
+      "created_at": "2026-02-17T03:52:30Z",
+      "modified_at": "2026-02-17T03:52:30Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-17T03:52:30Z"
+  },
+  {
+    "source_id": "cand_0230",
+    "data": {
+      "first_name": "Xavier",
+      "last_name": "Pascal",
+      "email": "xavier.pascal@bullpen-candidates.test",
+      "phone": "+1-555-8387",
+      "status": "screening",
+      "created_at": "2026-03-16T15:29:27Z",
+      "modified_at": "2026-03-16T15:29:27Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-16T15:29:27Z"
+  },
+  {
+    "source_id": "cand_0231",
+    "data": {
+      "first_name": "Charles",
+      "last_name": "Ramanujan",
+      "email": "charles.ramanujan@bullpen-candidates.test",
+      "phone": "+1-555-7085",
+      "status": "placed",
+      "created_at": "2026-04-04T02:04:02Z",
+      "modified_at": "2026-04-04T02:04:02Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-04-04T02:04:02Z"
+  },
+  {
+    "source_id": "cand_0232",
+    "data": {
+      "first_name": "Katherine",
+      "last_name": "Curie",
+      "email": "katherine.curie@bullpen-candidates.test",
+      "phone": "+1-555-5342",
+      "status": "new",
+      "created_at": "2026-03-18T11:29:19Z",
+      "modified_at": "2026-03-18T11:29:19Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-18T11:29:19Z"
+  },
+  {
+    "source_id": "cand_0233",
+    "data": {
+      "first_name": "Grace",
+      "last_name": "Babbage",
+      "email": "grace.babbage@bullpen-candidates.test",
+      "phone": "+1-555-8911",
+      "status": "submitted",
+      "created_at": "2026-03-26T14:07:08Z",
+      "modified_at": "2026-03-26T14:07:08Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-26T14:07:08Z"
+  },
+  {
+    "source_id": "cand_0234",
+    "data": {
+      "first_name": "Zelda",
+      "last_name": "Noether",
+      "email": "zelda.noether@bullpen-candidates.test",
+      "phone": "+1-555-6289",
+      "status": "placed",
+      "created_at": "2026-03-01T17:34:39Z",
+      "modified_at": "2026-03-01T17:34:39Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-01T17:34:39Z"
+  },
+  {
+    "source_id": "cand_0235",
+    "data": {
+      "first_name": "Katherine",
+      "last_name": "Curie",
+      "email": "katherine.curie@bullpen-candidates.test",
+      "phone": "+1-555-6328",
+      "status": "archived",
+      "created_at": "2026-04-02T02:34:17Z",
+      "modified_at": "2026-04-02T02:34:17Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-04-02T02:34:17Z"
+  },
+  {
+    "source_id": "cand_0236",
+    "data": {
+      "first_name": "Emmy",
+      "last_name": "Young",
+      "email": "emmy.young@bullpen-candidates.test",
+      "phone": "+1-555-9845",
+      "status": "archived",
+      "created_at": "2026-03-06T09:08:59Z",
+      "modified_at": "2026-03-06T09:08:59Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-06T09:08:59Z"
+  },
+  {
+    "source_id": "cand_0237",
+    "data": {
+      "first_name": "Charles",
+      "last_name": "Shannon",
+      "email": "charles.shannon@bullpen-candidates.test",
+      "phone": "+1-555-4539",
+      "status": "screening",
+      "created_at": "2026-03-17T10:24:43Z",
+      "modified_at": "2026-03-17T10:24:43Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-17T10:24:43Z"
+  },
+  {
+    "source_id": "cand_0238",
+    "data": {
+      "first_name": "Katherine",
+      "last_name": "Lovelace",
+      "email": "katherine.lovelace@bullpen-candidates.test",
+      "phone": "+1-555-3374",
+      "status": "submitted",
+      "created_at": "2026-03-20T03:53:44Z",
+      "modified_at": "2026-03-20T03:53:44Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-20T03:53:44Z"
+  },
+  {
+    "source_id": "cand_0239",
+    "data": {
+      "first_name": "Ada",
+      "last_name": "Ramanujan",
+      "email": "ada.ramanujan@bullpen-candidates.test",
+      "phone": "+1-555-9816",
+      "status": "submitted",
+      "created_at": "2026-03-18T01:14:00Z",
+      "modified_at": "2026-03-18T01:14:00Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-18T01:14:00Z"
+  },
+  {
+    "source_id": "cand_0240",
+    "data": {
+      "first_name": "Jean",
+      "last_name": "Wright",
+      "email": "jean.wright@bullpen-candidates.test",
+      "phone": "+1-555-9800",
+      "status": "archived",
+      "created_at": "2026-02-18T14:34:56Z",
+      "modified_at": "2026-02-18T14:34:56Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-18T14:34:56Z"
+  },
+  {
+    "source_id": "cand_0241",
+    "data": {
+      "first_name": "Blaise",
+      "last_name": "Dirac",
+      "email": "blaise.dirac@bullpen-candidates.test",
+      "phone": "+1-555-4250",
+      "status": "placed",
+      "created_at": "2026-03-12T05:15:52Z",
+      "modified_at": "2026-03-12T05:15:52Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-12T05:15:52Z"
+  },
+  {
+    "source_id": "cand_0242",
+    "data": {
+      "first_name": "Ada",
+      "last_name": "Dirac",
+      "email": "ada.dirac@bullpen-candidates.test",
+      "phone": "+1-555-8801",
+      "status": "placed",
+      "created_at": "2026-02-16T14:25:50Z",
+      "modified_at": "2026-02-16T14:25:50Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-16T14:25:50Z"
+  },
+  {
+    "source_id": "cand_0243",
+    "data": {
+      "first_name": "Vera",
+      "last_name": "Shannon",
+      "email": "vera.shannon@bullpen-candidates.test",
+      "phone": "+1-555-1538",
+      "status": "screening",
+      "created_at": "2026-03-19T15:11:07Z",
+      "modified_at": "2026-03-19T15:11:07Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-19T15:11:07Z"
+  },
+  {
+    "source_id": "cand_0244",
+    "data": {
+      "first_name": "Katherine",
+      "last_name": "Gauss",
+      "email": "katherine.gauss@bullpen-candidates.test",
+      "phone": "+1-555-3772",
+      "status": "screening",
+      "created_at": "2026-02-07T06:39:28Z",
+      "modified_at": "2026-02-07T06:39:28Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-07T06:39:28Z"
+  },
+  {
+    "source_id": "cand_0245",
+    "data": {
+      "first_name": "Walter",
+      "last_name": "Tesla",
+      "email": "walter.tesla@bullpen-candidates.test",
+      "phone": "+1-555-9347",
+      "status": "submitted",
+      "created_at": "2026-03-07T05:56:21Z",
+      "modified_at": "2026-03-07T05:56:21Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-07T05:56:21Z"
+  },
+  {
+    "source_id": "cand_0246",
+    "data": {
+      "first_name": "Walter",
+      "last_name": "Babbage",
+      "email": "walter.babbage@bullpen-candidates.test",
+      "phone": "+1-555-9493",
+      "status": "new",
+      "created_at": "2026-03-13T03:32:52Z",
+      "modified_at": "2026-03-13T03:32:52Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-13T03:32:52Z"
+  },
+  {
+    "source_id": "cand_0247",
+    "data": {
+      "first_name": "Ada",
+      "last_name": "VonNeumann",
+      "email": "ada.vonneumann@bullpen-candidates.test",
+      "phone": "+1-555-1092",
+      "status": "placed",
+      "created_at": "2026-03-24T11:39:58Z",
+      "modified_at": "2026-03-24T11:39:58Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-24T11:39:58Z"
+  },
+  {
+    "source_id": "cand_0248",
+    "data": {
+      "first_name": "Tim",
+      "last_name": "Einstein",
+      "email": "tim.einstein@bullpen-candidates.test",
+      "phone": "+1-555-7293",
+      "status": "placed",
+      "created_at": "2026-04-04T19:11:07Z",
+      "modified_at": "2026-04-04T19:11:07Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-04-04T19:11:07Z"
+  },
+  {
+    "source_id": "cand_0249",
+    "data": {
+      "first_name": "Emmy",
+      "last_name": "Curie",
+      "email": "emmy.curie@bullpen-candidates.test",
+      "phone": "+1-555-1090",
+      "status": "archived",
+      "created_at": "2026-03-18T18:50:04Z",
+      "modified_at": "2026-03-18T18:50:04Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-18T18:50:04Z"
+  },
+  {
+    "source_id": "cand_0250",
+    "data": {
+      "first_name": "Yvonne",
+      "last_name": "Turing",
+      "email": "yvonne.turing@bullpen-candidates.test",
+      "phone": "+1-555-4266",
+      "status": "archived",
+      "created_at": "2026-03-20T11:22:04Z",
+      "modified_at": "2026-03-20T11:22:04Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-20T11:22:04Z"
+  }
+]

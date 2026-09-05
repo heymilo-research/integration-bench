@@ -1,0 +1,14 @@
+[project]
+name = "placemint-board-census"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0"]
+
+[project.scripts]
+placemint-board-census = "placemint_board_census.cli:_entrypoint"
+
+[tool.setuptools.packages.find]
+where = ["src"]

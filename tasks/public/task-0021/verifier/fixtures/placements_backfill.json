@@ -1,0 +1,6002 @@
+[
+  {
+    "source_id": "plc_00001",
+    "data": {
+      "id": "plc_00001",
+      "candidate_id": "cand_04411",
+      "agency_id": "agy_00002",
+      "placement_state": "on_hold",
+      "bill_rate": 163,
+      "is_deleted": false,
+      "created_at": "2026-01-04T19:01:00-05:00",
+      "modified_at": "2026-01-04T19:01:00-05:00"
+    },
+    "updated_at": 1767571260,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00002",
+    "data": {
+      "id": "plc_00002",
+      "candidate_id": "cand_05219",
+      "agency_id": "agy_00008",
+      "placement_state": "active",
+      "bill_rate": 124,
+      "is_deleted": false,
+      "created_at": "2026-01-05T08:02:00+08:00",
+      "modified_at": "2026-01-05T08:02:00+08:00"
+    },
+    "updated_at": 1767571320,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00003",
+    "data": {
+      "id": "plc_00003",
+      "candidate_id": "cand_01980",
+      "agency_id": "agy_00003",
+      "placement_state": "completed",
+      "bill_rate": 182,
+      "is_deleted": false,
+      "created_at": "2026-01-05T05:33:00+05:30",
+      "modified_at": "2026-01-05T05:33:00+05:30"
+    },
+    "updated_at": 1767571380,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00004",
+    "data": {
+      "id": "plc_00004",
+      "candidate_id": "cand_00137",
+      "agency_id": "agy_00001",
+      "placement_state": "completed",
+      "bill_rate": 80,
+      "is_deleted": false,
+      "created_at": "2026-01-04T19:04:00-05:00",
+      "modified_at": "2026-01-04T19:04:00-05:00"
+    },
+    "updated_at": 1767571440,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00005",
+    "data": {
+      "id": "plc_00005",
+      "candidate_id": "cand_01155",
+      "agency_id": "agy_00013",
+      "placement_state": "active",
+      "bill_rate": 93,
+      "is_deleted": false,
+      "created_at": "2026-01-04T16:05:00-08:00",
+      "modified_at": "2026-01-04T16:05:00-08:00"
+    },
+    "updated_at": 1767571500,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00006",
+    "data": {
+      "id": "plc_00006",
+      "candidate_id": "cand_02797",
+      "agency_id": "agy_00001",
+      "placement_state": "active",
+      "bill_rate": 76,
+      "is_deleted": false,
+      "created_at": "2026-01-05T08:06:00+08:00",
+      "modified_at": "2026-01-05T08:06:00+08:00"
+    },
+    "updated_at": 1767571560,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00007",
+    "data": {
+      "id": "plc_00007",
+      "candidate_id": "cand_05701",
+      "agency_id": "agy_00014",
+      "placement_state": "on_hold",
+      "bill_rate": 91,
+      "is_deleted": false,
+      "created_at": "2026-01-05T09:07:00+09:00",
+      "modified_at": "2026-01-05T09:07:00+09:00"
+    },
+    "updated_at": 1767571620,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00008",
+    "data": {
+      "id": "plc_00008",
+      "candidate_id": "cand_03870",
+      "agency_id": "agy_00008",
+      "placement_state": "completed",
+      "bill_rate": 114,
+      "is_deleted": false,
+      "created_at": "2026-01-05T01:08:00+01:00",
+      "modified_at": "2026-01-05T01:08:00+01:00"
+    },
+    "updated_at": 1767571680,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00009",
+    "data": {
+      "id": "plc_00009",
+      "candidate_id": "cand_00157",
+      "agency_id": "agy_00013",
+      "placement_state": "on_hold",
+      "bill_rate": 96,
+      "is_deleted": false,
+      "created_at": "2026-01-05T10:09:00+10:00",
+      "modified_at": "2026-01-05T10:09:00+10:00"
+    },
+    "updated_at": 1767571740,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00010",
+    "data": {
+      "id": "plc_00010",
+      "candidate_id": "cand_05802",
+      "agency_id": "agy_00004",
+      "placement_state": "cancelled",
+      "bill_rate": 135,
+      "is_deleted": false,
+      "created_at": "2026-01-05T01:10:00+01:00",
+      "modified_at": "2026-01-05T01:10:00+01:00"
+    },
+    "updated_at": 1767571800,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00011",
+    "data": {
+      "id": "plc_00011",
+      "candidate_id": "cand_03583",
+      "agency_id": "agy_00007",
+      "placement_state": "active",
+      "bill_rate": 199,
+      "is_deleted": false,
+      "created_at": "2026-01-05T05:41:00+05:30",
+      "modified_at": "2026-01-05T05:41:00+05:30"
+    },
+    "updated_at": 1767571860,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00012",
+    "data": {
+      "id": "plc_00012",
+      "candidate_id": "cand_04530",
+      "agency_id": "agy_00009",
+      "placement_state": "active",
+      "bill_rate": 89,
+      "is_deleted": false,
+      "created_at": "2026-01-05T08:12:00+08:00",
+      "modified_at": "2026-01-05T08:12:00+08:00"
+    },
+    "updated_at": 1767571920,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00013",
+    "data": {
+      "id": "plc_00013",
+      "candidate_id": "cand_04373",
+      "agency_id": "agy_00007",
+      "placement_state": "active",
+      "bill_rate": 207,
+      "is_deleted": false,
+      "created_at": "2026-01-05T03:43:00+03:30",
+      "modified_at": "2026-01-05T03:43:00+03:30"
+    },
+    "updated_at": 1767571980,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00014",
+    "data": {
+      "id": "plc_00014",
+      "candidate_id": "cand_05716",
+      "agency_id": "agy_00006",
+      "placement_state": "on_hold",
+      "bill_rate": 63,
+      "is_deleted": false,
+      "created_at": "2026-01-05T02:14:00+02:00",
+      "modified_at": "2026-01-05T02:14:00+02:00"
+    },
+    "updated_at": 1767572040,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00015",
+    "data": {
+      "id": "plc_00015",
+      "candidate_id": "cand_00024",
+      "agency_id": "agy_00008",
+      "placement_state": "active",
+      "bill_rate": 110,
+      "is_deleted": false,
+      "created_at": "2026-01-04T19:15:00-05:00",
+      "modified_at": "2026-01-04T19:15:00-05:00"
+    },
+    "updated_at": 1767572100,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00016",
+    "data": {
+      "id": "plc_00016",
+      "candidate_id": "cand_05294",
+      "agency_id": "agy_00004",
+      "placement_state": "completed",
+      "bill_rate": 215,
+      "is_deleted": false,
+      "created_at": "2026-01-05T02:16:00+02:00",
+      "modified_at": "2026-01-05T02:16:00+02:00"
+    },
+    "updated_at": 1767572160,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00017",
+    "data": {
+      "id": "plc_00017",
+      "candidate_id": "cand_00215",
+      "agency_id": "agy_00007",
+      "placement_state": "on_hold",
+      "bill_rate": 181,
+      "is_deleted": false,
+      "created_at": "2026-01-05T05:47:00+05:30",
+      "modified_at": "2026-01-05T05:47:00+05:30"
+    },
+    "updated_at": 1767572220,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00018",
+    "data": {
+      "id": "plc_00018",
+      "candidate_id": "cand_03363",
+      "agency_id": "agy_00015",
+      "placement_state": "active",
+      "bill_rate": 196,
+      "is_deleted": false,
+      "created_at": "2026-01-04T16:18:00-08:00",
+      "modified_at": "2026-01-04T16:18:00-08:00"
+    },
+    "updated_at": 1767572280,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00019",
+    "data": {
+      "id": "plc_00019",
+      "candidate_id": "cand_00422",
+      "agency_id": "agy_00012",
+      "placement_state": "active",
+      "bill_rate": 199,
+      "is_deleted": false,
+      "created_at": "2026-01-05T09:19:00+09:00",
+      "modified_at": "2026-01-05T09:19:00+09:00"
+    },
+    "updated_at": 1767572340,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00020",
+    "data": {
+      "id": "plc_00020",
+      "candidate_id": "cand_04486",
+      "agency_id": "agy_00007",
+      "placement_state": "cancelled",
+      "bill_rate": 111,
+      "is_deleted": false,
+      "created_at": "2026-01-05T08:20:00+08:00",
+      "modified_at": "2026-01-05T08:20:00+08:00"
+    },
+    "updated_at": 1767572400,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00021",
+    "data": {
+      "id": "plc_00021",
+      "candidate_id": "cand_02253",
+      "agency_id": "agy_00014",
+      "placement_state": "on_hold",
+      "bill_rate": 52,
+      "is_deleted": false,
+      "created_at": "2026-01-05T02:21:00+02:00",
+      "modified_at": "2026-01-05T02:21:00+02:00"
+    },
+    "updated_at": 1767572460,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00022",
+    "data": {
+      "id": "plc_00022",
+      "candidate_id": "cand_04451",
+      "agency_id": "agy_00005",
+      "placement_state": "cancelled",
+      "bill_rate": 83,
+      "is_deleted": false,
+      "created_at": "2026-01-05T10:22:00+10:00",
+      "modified_at": "2026-01-05T10:22:00+10:00"
+    },
+    "updated_at": 1767572520,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00023",
+    "data": {
+      "id": "plc_00023",
+      "candidate_id": "cand_00425",
+      "agency_id": "agy_00011",
+      "placement_state": "cancelled",
+      "bill_rate": 153,
+      "is_deleted": false,
+      "created_at": "2026-01-05T05:53:00+05:30",
+      "modified_at": "2026-01-05T05:53:00+05:30"
+    },
+    "updated_at": 1767572580,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00024",
+    "data": {
+      "id": "plc_00024",
+      "candidate_id": "cand_04524",
+      "agency_id": "agy_00011",
+      "placement_state": "on_hold",
+      "bill_rate": 75,
+      "is_deleted": false,
+      "created_at": "2026-01-05T05:54:00+05:30",
+      "modified_at": "2026-01-05T05:54:00+05:30"
+    },
+    "updated_at": 1767572640,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00025",
+    "data": {
+      "id": "plc_00025",
+      "candidate_id": "cand_05021",
+      "agency_id": "agy_00005",
+      "placement_state": "completed",
+      "bill_rate": 203,
+      "is_deleted": false,
+      "created_at": "2026-01-05T03:55:00+03:30",
+      "modified_at": "2026-01-05T03:55:00+03:30"
+    },
+    "updated_at": 1767572700,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00026",
+    "data": {
+      "id": "plc_00026",
+      "candidate_id": "cand_05938",
+      "agency_id": "agy_00001",
+      "placement_state": "active",
+      "bill_rate": 159,
+      "is_deleted": false,
+      "created_at": "2026-01-05T03:56:00+03:30",
+      "modified_at": "2026-01-05T03:56:00+03:30"
+    },
+    "updated_at": 1767572760,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00027",
+    "data": {
+      "id": "plc_00027",
+      "candidate_id": "cand_02684",
+      "agency_id": "agy_00003",
+      "placement_state": "on_hold",
+      "bill_rate": 58,
+      "is_deleted": false,
+      "created_at": "2026-01-05T01:27:00+01:00",
+      "modified_at": "2026-01-05T01:27:00+01:00"
+    },
+    "updated_at": 1767572820,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00028",
+    "data": {
+      "id": "plc_00028",
+      "candidate_id": "cand_01755",
+      "agency_id": "agy_00009",
+      "placement_state": "completed",
+      "bill_rate": 178,
+      "is_deleted": false,
+      "created_at": "2026-01-05T01:28:00+01:00",
+      "modified_at": "2026-01-05T01:28:00+01:00"
+    },
+    "updated_at": 1767572880,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00029",
+    "data": {
+      "id": "plc_00029",
+      "candidate_id": "cand_00670",
+      "agency_id": "agy_00009",
+      "placement_state": "active",
+      "bill_rate": 166,
+      "is_deleted": false,
+      "created_at": "2026-01-04T21:29:00-03:00",
+      "modified_at": "2026-01-04T21:29:00-03:00"
+    },
+    "updated_at": 1767572940,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00030",
+    "data": {
+      "id": "plc_00030",
+      "candidate_id": "cand_00909",
+      "agency_id": "agy_00002",
+      "placement_state": "on_hold",
+      "bill_rate": 79,
+      "is_deleted": false,
+      "created_at": "2026-01-05T04:00:00+03:30",
+      "modified_at": "2026-01-05T04:00:00+03:30"
+    },
+    "updated_at": 1767573000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00031",
+    "data": {
+      "id": "plc_00031",
+      "candidate_id": "cand_01871",
+      "agency_id": "agy_00010",
+      "placement_state": "completed",
+      "bill_rate": 74,
+      "is_deleted": false,
+      "created_at": "2026-01-04T16:31:00-08:00",
+      "modified_at": "2026-01-04T16:31:00-08:00"
+    },
+    "updated_at": 1767573060,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00032",
+    "data": {
+      "id": "plc_00032",
+      "candidate_id": "cand_00756",
+      "agency_id": "agy_00015",
+      "placement_state": "active",
+      "bill_rate": 202,
+      "is_deleted": false,
+      "created_at": "2026-01-05T01:32:00+01:00",
+      "modified_at": "2026-01-05T01:32:00+01:00"
+    },
+    "updated_at": 1767573120,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00033",
+    "data": {
+      "id": "plc_00033",
+      "candidate_id": "cand_01995",
+      "agency_id": "agy_00010",
+      "placement_state": "on_hold",
+      "bill_rate": 175,
+      "is_deleted": false,
+      "created_at": "2026-01-04T19:33:00-05:00",
+      "modified_at": "2026-01-04T19:33:00-05:00"
+    },
+    "updated_at": 1767573180,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00034",
+    "data": {
+      "id": "plc_00034",
+      "candidate_id": "cand_01558",
+      "agency_id": "agy_00004",
+      "placement_state": "active",
+      "bill_rate": 45,
+      "is_deleted": false,
+      "created_at": "2026-01-04T21:34:00-03:00",
+      "modified_at": "2026-01-04T21:34:00-03:00"
+    },
+    "updated_at": 1767573240,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00035",
+    "data": {
+      "id": "plc_00035",
+      "candidate_id": "cand_03609",
+      "agency_id": "agy_00003",
+      "placement_state": "cancelled",
+      "bill_rate": 128,
+      "is_deleted": false,
+      "created_at": "2026-01-04T21:35:00-03:00",
+      "modified_at": "2026-01-04T21:35:00-03:00"
+    },
+    "updated_at": 1767573300,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00036",
+    "data": {
+      "id": "plc_00036",
+      "candidate_id": "cand_05911",
+      "agency_id": "agy_00014",
+      "placement_state": "cancelled",
+      "bill_rate": 85,
+      "is_deleted": false,
+      "created_at": "2026-01-05T01:36:00+01:00",
+      "modified_at": "2026-01-05T01:36:00+01:00"
+    },
+    "updated_at": 1767573360,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00037",
+    "data": {
+      "id": "plc_00037",
+      "candidate_id": "cand_05031",
+      "agency_id": "agy_00010",
+      "placement_state": "completed",
+      "bill_rate": 158,
+      "is_deleted": false,
+      "created_at": "2026-01-04T21:37:00-03:00",
+      "modified_at": "2026-01-04T21:37:00-03:00"
+    },
+    "updated_at": 1767573420,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00038",
+    "data": {
+      "id": "plc_00038",
+      "candidate_id": "cand_03576",
+      "agency_id": "agy_00003",
+      "placement_state": "on_hold",
+      "bill_rate": 218,
+      "is_deleted": false,
+      "created_at": "2026-01-04T16:38:00-08:00",
+      "modified_at": "2026-01-04T16:38:00-08:00"
+    },
+    "updated_at": 1767573480,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00039",
+    "data": {
+      "id": "plc_00039",
+      "candidate_id": "cand_04999",
+      "agency_id": "agy_00008",
+      "placement_state": "cancelled",
+      "bill_rate": 69,
+      "is_deleted": false,
+      "created_at": "2026-01-05T10:39:00+10:00",
+      "modified_at": "2026-01-05T10:39:00+10:00"
+    },
+    "updated_at": 1767573540,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00040",
+    "data": {
+      "id": "plc_00040",
+      "candidate_id": "cand_03344",
+      "agency_id": "agy_00001",
+      "placement_state": "cancelled",
+      "bill_rate": 133,
+      "is_deleted": false,
+      "created_at": "2026-01-05T06:10:00+05:30",
+      "modified_at": "2026-01-05T06:10:00+05:30"
+    },
+    "updated_at": 1767573600,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00041",
+    "data": {
+      "id": "plc_00041",
+      "candidate_id": "cand_04061",
+      "agency_id": "agy_00001",
+      "placement_state": "on_hold",
+      "bill_rate": 149,
+      "is_deleted": false,
+      "created_at": "2026-01-05T01:41:00+01:00",
+      "modified_at": "2026-01-05T01:41:00+01:00"
+    },
+    "updated_at": 1767573660,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00042",
+    "data": {
+      "id": "plc_00042",
+      "candidate_id": "cand_03643",
+      "agency_id": "agy_00012",
+      "placement_state": "completed",
+      "bill_rate": 135,
+      "is_deleted": false,
+      "created_at": "2026-01-05T08:42:00+08:00",
+      "modified_at": "2026-01-05T08:42:00+08:00"
+    },
+    "updated_at": 1767573720,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00043",
+    "data": {
+      "id": "plc_00043",
+      "candidate_id": "cand_05295",
+      "agency_id": "agy_00001",
+      "placement_state": "on_hold",
+      "bill_rate": 165,
+      "is_deleted": false,
+      "created_at": "2026-01-05T08:43:00+08:00",
+      "modified_at": "2026-01-05T08:43:00+08:00"
+    },
+    "updated_at": 1767573780,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00044",
+    "data": {
+      "id": "plc_00044",
+      "candidate_id": "cand_01372",
+      "agency_id": "agy_00014",
+      "placement_state": "on_hold",
+      "bill_rate": 55,
+      "is_deleted": false,
+      "created_at": "2026-01-05T10:44:00+10:00",
+      "modified_at": "2026-01-05T10:44:00+10:00"
+    },
+    "updated_at": 1767573840,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00045",
+    "data": {
+      "id": "plc_00045",
+      "candidate_id": "cand_01038",
+      "agency_id": "agy_00007",
+      "placement_state": "cancelled",
+      "bill_rate": 121,
+      "is_deleted": false,
+      "created_at": "2026-01-04T16:45:00-08:00",
+      "modified_at": "2026-01-04T16:45:00-08:00"
+    },
+    "updated_at": 1767573900,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00046",
+    "data": {
+      "id": "plc_00046",
+      "candidate_id": "cand_00345",
+      "agency_id": "agy_00011",
+      "placement_state": "completed",
+      "bill_rate": 210,
+      "is_deleted": false,
+      "created_at": "2026-01-05T04:16:00+03:30",
+      "modified_at": "2026-01-05T04:16:00+03:30"
+    },
+    "updated_at": 1767573960,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00047",
+    "data": {
+      "id": "plc_00047",
+      "candidate_id": "cand_00849",
+      "agency_id": "agy_00015",
+      "placement_state": "completed",
+      "bill_rate": 189,
+      "is_deleted": false,
+      "created_at": "2026-01-04T21:47:00-03:00",
+      "modified_at": "2026-01-04T21:47:00-03:00"
+    },
+    "updated_at": 1767574020,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00048",
+    "data": {
+      "id": "plc_00048",
+      "candidate_id": "cand_05378",
+      "agency_id": "agy_00011",
+      "placement_state": "completed",
+      "bill_rate": 148,
+      "is_deleted": false,
+      "created_at": "2026-01-05T04:18:00+03:30",
+      "modified_at": "2026-01-05T04:18:00+03:30"
+    },
+    "updated_at": 1767574080,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00049",
+    "data": {
+      "id": "plc_00049",
+      "candidate_id": "cand_04124",
+      "agency_id": "agy_00010",
+      "placement_state": "on_hold",
+      "bill_rate": 197,
+      "is_deleted": false,
+      "created_at": "2026-01-05T06:19:00+05:30",
+      "modified_at": "2026-01-05T06:19:00+05:30"
+    },
+    "updated_at": 1767574140,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00050",
+    "data": {
+      "id": "plc_00050",
+      "candidate_id": "cand_00919",
+      "agency_id": "agy_00006",
+      "placement_state": "completed",
+      "bill_rate": 52,
+      "is_deleted": false,
+      "created_at": "2026-01-05T08:50:00+08:00",
+      "modified_at": "2026-01-05T08:50:00+08:00"
+    },
+    "updated_at": 1767574200,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00051",
+    "data": {
+      "id": "plc_00051",
+      "candidate_id": "cand_04675",
+      "agency_id": "agy_00004",
+      "placement_state": "cancelled",
+      "bill_rate": 102,
+      "is_deleted": false,
+      "created_at": "2026-01-05T06:21:00+05:30",
+      "modified_at": "2026-01-05T06:21:00+05:30"
+    },
+    "updated_at": 1767574260,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00052",
+    "data": {
+      "id": "plc_00052",
+      "candidate_id": "cand_02014",
+      "agency_id": "agy_00011",
+      "placement_state": "on_hold",
+      "bill_rate": 49,
+      "is_deleted": false,
+      "created_at": "2026-01-05T01:52:00+01:00",
+      "modified_at": "2026-01-05T01:52:00+01:00"
+    },
+    "updated_at": 1767574320,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00053",
+    "data": {
+      "id": "plc_00053",
+      "candidate_id": "cand_05241",
+      "agency_id": "agy_00012",
+      "placement_state": "cancelled",
+      "bill_rate": 97,
+      "is_deleted": false,
+      "created_at": "2026-01-05T08:53:00+08:00",
+      "modified_at": "2026-01-05T08:53:00+08:00"
+    },
+    "updated_at": 1767574380,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00054",
+    "data": {
+      "id": "plc_00054",
+      "candidate_id": "cand_04595",
+      "agency_id": "agy_00012",
+      "placement_state": "cancelled",
+      "bill_rate": 119,
+      "is_deleted": false,
+      "created_at": "2026-01-04T16:54:00-08:00",
+      "modified_at": "2026-01-04T16:54:00-08:00"
+    },
+    "updated_at": 1767574440,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00055",
+    "data": {
+      "id": "plc_00055",
+      "candidate_id": "cand_00870",
+      "agency_id": "agy_00013",
+      "placement_state": "on_hold",
+      "bill_rate": 156,
+      "is_deleted": false,
+      "created_at": "2026-01-04T19:55:00-05:00",
+      "modified_at": "2026-01-04T19:55:00-05:00"
+    },
+    "updated_at": 1767574500,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00056",
+    "data": {
+      "id": "plc_00056",
+      "candidate_id": "cand_03813",
+      "agency_id": "agy_00005",
+      "placement_state": "cancelled",
+      "bill_rate": 125,
+      "is_deleted": false,
+      "created_at": "2026-01-05T01:56:00+01:00",
+      "modified_at": "2026-01-05T01:56:00+01:00"
+    },
+    "updated_at": 1767574560,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00057",
+    "data": {
+      "id": "plc_00057",
+      "candidate_id": "cand_03516",
+      "agency_id": "agy_00009",
+      "placement_state": "on_hold",
+      "bill_rate": 166,
+      "is_deleted": false,
+      "created_at": "2026-01-05T06:27:00+05:30",
+      "modified_at": "2026-01-05T06:27:00+05:30"
+    },
+    "updated_at": 1767574620,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00058",
+    "data": {
+      "id": "plc_00058",
+      "candidate_id": "cand_05398",
+      "agency_id": "agy_00010",
+      "placement_state": "completed",
+      "bill_rate": 63,
+      "is_deleted": false,
+      "created_at": "2026-01-04T16:58:00-08:00",
+      "modified_at": "2026-01-04T16:58:00-08:00"
+    },
+    "updated_at": 1767574680,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00059",
+    "data": {
+      "id": "plc_00059",
+      "candidate_id": "cand_02573",
+      "agency_id": "agy_00013",
+      "placement_state": "on_hold",
+      "bill_rate": 192,
+      "is_deleted": false,
+      "created_at": "2026-01-05T08:59:00+08:00",
+      "modified_at": "2026-01-05T08:59:00+08:00"
+    },
+    "updated_at": 1767574740,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00060",
+    "data": {
+      "id": "plc_00060",
+      "candidate_id": "cand_03372",
+      "agency_id": "agy_00012",
+      "placement_state": "on_hold",
+      "bill_rate": 172,
+      "is_deleted": false,
+      "created_at": "2026-01-05T06:30:00+05:30",
+      "modified_at": "2026-01-05T06:30:00+05:30"
+    },
+    "updated_at": 1767574800,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00061",
+    "data": {
+      "id": "plc_00061",
+      "candidate_id": "cand_02938",
+      "agency_id": "agy_00014",
+      "placement_state": "cancelled",
+      "bill_rate": 213,
+      "is_deleted": false,
+      "created_at": "2026-01-04T22:01:00-03:00",
+      "modified_at": "2026-01-04T22:01:00-03:00"
+    },
+    "updated_at": 1767574860,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00062",
+    "data": {
+      "id": "plc_00062",
+      "candidate_id": "cand_04053",
+      "agency_id": "agy_00004",
+      "placement_state": "cancelled",
+      "bill_rate": 199,
+      "is_deleted": false,
+      "created_at": "2026-01-04T20:02:00-05:00",
+      "modified_at": "2026-01-04T20:02:00-05:00"
+    },
+    "updated_at": 1767574920,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00063",
+    "data": {
+      "id": "plc_00063",
+      "candidate_id": "cand_03590",
+      "agency_id": "agy_00004",
+      "placement_state": "on_hold",
+      "bill_rate": 145,
+      "is_deleted": false,
+      "created_at": "2026-01-05T09:03:00+08:00",
+      "modified_at": "2026-01-05T09:03:00+08:00"
+    },
+    "updated_at": 1767574980,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00064",
+    "data": {
+      "id": "plc_00064",
+      "candidate_id": "cand_04325",
+      "agency_id": "agy_00013",
+      "placement_state": "cancelled",
+      "bill_rate": 102,
+      "is_deleted": false,
+      "created_at": "2026-01-05T11:04:00+10:00",
+      "modified_at": "2026-01-05T11:04:00+10:00"
+    },
+    "updated_at": 1767575040,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00065",
+    "data": {
+      "id": "plc_00065",
+      "candidate_id": "cand_01522",
+      "agency_id": "agy_00002",
+      "placement_state": "completed",
+      "bill_rate": 178,
+      "is_deleted": false,
+      "created_at": "2026-01-05T04:35:00+03:30",
+      "modified_at": "2026-01-05T04:35:00+03:30"
+    },
+    "updated_at": 1767575100,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00066",
+    "data": {
+      "id": "plc_00066",
+      "candidate_id": "cand_05022",
+      "agency_id": "agy_00015",
+      "placement_state": "cancelled",
+      "bill_rate": 83,
+      "is_deleted": false,
+      "created_at": "2026-01-05T09:06:00+08:00",
+      "modified_at": "2026-01-05T09:06:00+08:00"
+    },
+    "updated_at": 1767575160,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00067",
+    "data": {
+      "id": "plc_00067",
+      "candidate_id": "cand_05756",
+      "agency_id": "agy_00010",
+      "placement_state": "on_hold",
+      "bill_rate": 219,
+      "is_deleted": false,
+      "created_at": "2026-01-05T04:37:00+03:30",
+      "modified_at": "2026-01-05T04:37:00+03:30"
+    },
+    "updated_at": 1767575220,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00068",
+    "data": {
+      "id": "plc_00068",
+      "candidate_id": "cand_00758",
+      "agency_id": "agy_00001",
+      "placement_state": "cancelled",
+      "bill_rate": 112,
+      "is_deleted": false,
+      "created_at": "2026-01-05T10:08:00+09:00",
+      "modified_at": "2026-01-05T10:08:00+09:00"
+    },
+    "updated_at": 1767575280,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00069",
+    "data": {
+      "id": "plc_00069",
+      "candidate_id": "cand_02116",
+      "agency_id": "agy_00004",
+      "placement_state": "active",
+      "bill_rate": 125,
+      "is_deleted": false,
+      "created_at": "2026-01-04T17:09:00-08:00",
+      "modified_at": "2026-01-04T17:09:00-08:00"
+    },
+    "updated_at": 1767575340,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00070",
+    "data": {
+      "id": "plc_00070",
+      "candidate_id": "cand_05764",
+      "agency_id": "agy_00006",
+      "placement_state": "active",
+      "bill_rate": 82,
+      "is_deleted": false,
+      "created_at": "2026-01-05T09:10:00+08:00",
+      "modified_at": "2026-01-05T09:10:00+08:00"
+    },
+    "updated_at": 1767575400,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00071",
+    "data": {
+      "id": "plc_00071",
+      "candidate_id": "cand_00155",
+      "agency_id": "agy_00005",
+      "placement_state": "cancelled",
+      "bill_rate": 111,
+      "is_deleted": false,
+      "created_at": "2026-01-05T02:11:00+01:00",
+      "modified_at": "2026-01-05T02:11:00+01:00"
+    },
+    "updated_at": 1767575460,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00072",
+    "data": {
+      "id": "plc_00072",
+      "candidate_id": "cand_05262",
+      "agency_id": "agy_00010",
+      "placement_state": "completed",
+      "bill_rate": 101,
+      "is_deleted": false,
+      "created_at": "2026-01-05T02:12:00+01:00",
+      "modified_at": "2026-01-05T02:12:00+01:00"
+    },
+    "updated_at": 1767575520,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00073",
+    "data": {
+      "id": "plc_00073",
+      "candidate_id": "cand_04314",
+      "agency_id": "agy_00011",
+      "placement_state": "completed",
+      "bill_rate": 130,
+      "is_deleted": false,
+      "created_at": "2026-01-05T02:13:00+01:00",
+      "modified_at": "2026-01-05T02:13:00+01:00"
+    },
+    "updated_at": 1767575580,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00074",
+    "data": {
+      "id": "plc_00074",
+      "candidate_id": "cand_01997",
+      "agency_id": "agy_00014",
+      "placement_state": "active",
+      "bill_rate": 73,
+      "is_deleted": false,
+      "created_at": "2026-01-04T17:14:00-08:00",
+      "modified_at": "2026-01-04T17:14:00-08:00"
+    },
+    "updated_at": 1767575640,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00075",
+    "data": {
+      "id": "plc_00075",
+      "candidate_id": "cand_05393",
+      "agency_id": "agy_00002",
+      "placement_state": "on_hold",
+      "bill_rate": 101,
+      "is_deleted": false,
+      "created_at": "2026-01-05T04:45:00+03:30",
+      "modified_at": "2026-01-05T04:45:00+03:30"
+    },
+    "updated_at": 1767575700,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00076",
+    "data": {
+      "id": "plc_00076",
+      "candidate_id": "cand_05212",
+      "agency_id": "agy_00004",
+      "placement_state": "active",
+      "bill_rate": 84,
+      "is_deleted": false,
+      "created_at": "2026-01-05T10:16:00+09:00",
+      "modified_at": "2026-01-05T10:16:00+09:00"
+    },
+    "updated_at": 1767575760,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00077",
+    "data": {
+      "id": "plc_00077",
+      "candidate_id": "cand_02327",
+      "agency_id": "agy_00007",
+      "placement_state": "completed",
+      "bill_rate": 179,
+      "is_deleted": false,
+      "created_at": "2026-01-05T02:17:00+01:00",
+      "modified_at": "2026-01-05T02:17:00+01:00"
+    },
+    "updated_at": 1767575820,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00078",
+    "data": {
+      "id": "plc_00078",
+      "candidate_id": "cand_02951",
+      "agency_id": "agy_00012",
+      "placement_state": "active",
+      "bill_rate": 172,
+      "is_deleted": false,
+      "created_at": "2026-01-05T04:48:00+03:30",
+      "modified_at": "2026-01-05T04:48:00+03:30"
+    },
+    "updated_at": 1767575880,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00079",
+    "data": {
+      "id": "plc_00079",
+      "candidate_id": "cand_00850",
+      "agency_id": "agy_00005",
+      "placement_state": "on_hold",
+      "bill_rate": 198,
+      "is_deleted": false,
+      "created_at": "2026-01-05T03:19:00+02:00",
+      "modified_at": "2026-01-05T03:19:00+02:00"
+    },
+    "updated_at": 1767575940,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00080",
+    "data": {
+      "id": "plc_00080",
+      "candidate_id": "cand_00669",
+      "agency_id": "agy_00012",
+      "placement_state": "active",
+      "bill_rate": 186,
+      "is_deleted": false,
+      "created_at": "2026-01-05T03:20:00+02:00",
+      "modified_at": "2026-01-05T03:20:00+02:00"
+    },
+    "updated_at": 1767576000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00081",
+    "data": {
+      "id": "plc_00081",
+      "candidate_id": "cand_03745",
+      "agency_id": "agy_00004",
+      "placement_state": "on_hold",
+      "bill_rate": 132,
+      "is_deleted": false,
+      "created_at": "2026-01-05T11:21:00+10:00",
+      "modified_at": "2026-01-05T11:21:00+10:00"
+    },
+    "updated_at": 1767576060,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00082",
+    "data": {
+      "id": "plc_00082",
+      "candidate_id": "cand_04571",
+      "agency_id": "agy_00008",
+      "placement_state": "completed",
+      "bill_rate": 172,
+      "is_deleted": false,
+      "created_at": "2026-01-05T04:52:00+03:30",
+      "modified_at": "2026-01-05T04:52:00+03:30"
+    },
+    "updated_at": 1767576120,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00083",
+    "data": {
+      "id": "plc_00083",
+      "candidate_id": "cand_01869",
+      "agency_id": "agy_00001",
+      "placement_state": "cancelled",
+      "bill_rate": 126,
+      "is_deleted": false,
+      "created_at": "2026-01-04T20:23:00-05:00",
+      "modified_at": "2026-01-04T20:23:00-05:00"
+    },
+    "updated_at": 1767576180,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00084",
+    "data": {
+      "id": "plc_00084",
+      "candidate_id": "cand_01621",
+      "agency_id": "agy_00014",
+      "placement_state": "on_hold",
+      "bill_rate": 128,
+      "is_deleted": false,
+      "created_at": "2026-01-05T10:24:00+09:00",
+      "modified_at": "2026-01-05T10:24:00+09:00"
+    },
+    "updated_at": 1767576240,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00085",
+    "data": {
+      "id": "plc_00085",
+      "candidate_id": "cand_02970",
+      "agency_id": "agy_00013",
+      "placement_state": "cancelled",
+      "bill_rate": 173,
+      "is_deleted": false,
+      "created_at": "2026-01-04T22:25:00-03:00",
+      "modified_at": "2026-01-04T22:25:00-03:00"
+    },
+    "updated_at": 1767576300,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00086",
+    "data": {
+      "id": "plc_00086",
+      "candidate_id": "cand_01670",
+      "agency_id": "agy_00011",
+      "placement_state": "completed",
+      "bill_rate": 203,
+      "is_deleted": false,
+      "created_at": "2026-01-05T11:26:00+10:00",
+      "modified_at": "2026-01-05T11:26:00+10:00"
+    },
+    "updated_at": 1767576360,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00087",
+    "data": {
+      "id": "plc_00087",
+      "candidate_id": "cand_01196",
+      "agency_id": "agy_00002",
+      "placement_state": "on_hold",
+      "bill_rate": 67,
+      "is_deleted": false,
+      "created_at": "2026-01-05T10:27:00+09:00",
+      "modified_at": "2026-01-05T10:27:00+09:00"
+    },
+    "updated_at": 1767576420,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00088",
+    "data": {
+      "id": "plc_00088",
+      "candidate_id": "cand_00890",
+      "agency_id": "agy_00013",
+      "placement_state": "cancelled",
+      "bill_rate": 206,
+      "is_deleted": false,
+      "created_at": "2026-01-05T10:28:00+09:00",
+      "modified_at": "2026-01-05T10:28:00+09:00"
+    },
+    "updated_at": 1767576480,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00089",
+    "data": {
+      "id": "plc_00089",
+      "candidate_id": "cand_05081",
+      "agency_id": "agy_00015",
+      "placement_state": "completed",
+      "bill_rate": 59,
+      "is_deleted": false,
+      "created_at": "2026-01-05T04:59:00+03:30",
+      "modified_at": "2026-01-05T04:59:00+03:30"
+    },
+    "updated_at": 1767576540,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00090",
+    "data": {
+      "id": "plc_00090",
+      "candidate_id": "cand_02653",
+      "agency_id": "agy_00012",
+      "placement_state": "completed",
+      "bill_rate": 127,
+      "is_deleted": false,
+      "created_at": "2026-01-05T02:30:00+01:00",
+      "modified_at": "2026-01-05T02:30:00+01:00"
+    },
+    "updated_at": 1767576600,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00091",
+    "data": {
+      "id": "plc_00091",
+      "candidate_id": "cand_00487",
+      "agency_id": "agy_00006",
+      "placement_state": "on_hold",
+      "bill_rate": 84,
+      "is_deleted": false,
+      "created_at": "2026-01-05T11:31:00+10:00",
+      "modified_at": "2026-01-05T11:31:00+10:00"
+    },
+    "updated_at": 1767576660,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00092",
+    "data": {
+      "id": "plc_00092",
+      "candidate_id": "cand_05079",
+      "agency_id": "agy_00005",
+      "placement_state": "completed",
+      "bill_rate": 174,
+      "is_deleted": false,
+      "created_at": "2026-01-04T20:32:00-05:00",
+      "modified_at": "2026-01-04T20:32:00-05:00"
+    },
+    "updated_at": 1767576720,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00093",
+    "data": {
+      "id": "plc_00093",
+      "candidate_id": "cand_02281",
+      "agency_id": "agy_00003",
+      "placement_state": "on_hold",
+      "bill_rate": 186,
+      "is_deleted": false,
+      "created_at": "2026-01-05T02:33:00+01:00",
+      "modified_at": "2026-01-05T02:33:00+01:00"
+    },
+    "updated_at": 1767576780,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00094",
+    "data": {
+      "id": "plc_00094",
+      "candidate_id": "cand_02404",
+      "agency_id": "agy_00007",
+      "placement_state": "on_hold",
+      "bill_rate": 151,
+      "is_deleted": false,
+      "created_at": "2026-01-04T17:34:00-08:00",
+      "modified_at": "2026-01-04T17:34:00-08:00"
+    },
+    "updated_at": 1767576840,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00095",
+    "data": {
+      "id": "plc_00095",
+      "candidate_id": "cand_02845",
+      "agency_id": "agy_00004",
+      "placement_state": "cancelled",
+      "bill_rate": 64,
+      "is_deleted": false,
+      "created_at": "2026-01-05T05:05:00+03:30",
+      "modified_at": "2026-01-05T05:05:00+03:30"
+    },
+    "updated_at": 1767576900,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00096",
+    "data": {
+      "id": "plc_00096",
+      "candidate_id": "cand_01661",
+      "agency_id": "agy_00003",
+      "placement_state": "cancelled",
+      "bill_rate": 111,
+      "is_deleted": false,
+      "created_at": "2026-01-05T05:06:00+03:30",
+      "modified_at": "2026-01-05T05:06:00+03:30"
+    },
+    "updated_at": 1767576960,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00097",
+    "data": {
+      "id": "plc_00097",
+      "candidate_id": "cand_03073",
+      "agency_id": "agy_00012",
+      "placement_state": "on_hold",
+      "bill_rate": 169,
+      "is_deleted": false,
+      "created_at": "2026-01-05T05:07:00+03:30",
+      "modified_at": "2026-01-05T05:07:00+03:30"
+    },
+    "updated_at": 1767577020,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00098",
+    "data": {
+      "id": "plc_00098",
+      "candidate_id": "cand_01078",
+      "agency_id": "agy_00014",
+      "placement_state": "cancelled",
+      "bill_rate": 215,
+      "is_deleted": false,
+      "created_at": "2026-01-04T20:38:00-05:00",
+      "modified_at": "2026-01-04T20:38:00-05:00"
+    },
+    "updated_at": 1767577080,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00099",
+    "data": {
+      "id": "plc_00099",
+      "candidate_id": "cand_04240",
+      "agency_id": "agy_00004",
+      "placement_state": "active",
+      "bill_rate": 105,
+      "is_deleted": false,
+      "created_at": "2026-01-05T07:09:00+05:30",
+      "modified_at": "2026-01-05T07:09:00+05:30"
+    },
+    "updated_at": 1767577140,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00100",
+    "data": {
+      "id": "plc_00100",
+      "candidate_id": "cand_04086",
+      "agency_id": "agy_00010",
+      "placement_state": "cancelled",
+      "bill_rate": 120,
+      "is_deleted": false,
+      "created_at": "2026-01-05T10:40:00+09:00",
+      "modified_at": "2026-01-05T10:40:00+09:00"
+    },
+    "updated_at": 1767577200,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00101",
+    "data": {
+      "id": "plc_00101",
+      "candidate_id": "cand_02700",
+      "agency_id": "agy_00015",
+      "placement_state": "on_hold",
+      "bill_rate": 181,
+      "is_deleted": false,
+      "created_at": "2026-01-05T05:11:00+03:30",
+      "modified_at": "2026-01-05T05:11:00+03:30"
+    },
+    "updated_at": 1767577260,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00102",
+    "data": {
+      "id": "plc_00102",
+      "candidate_id": "cand_04358",
+      "agency_id": "agy_00002",
+      "placement_state": "on_hold",
+      "bill_rate": 121,
+      "is_deleted": false,
+      "created_at": "2026-01-05T09:42:00+08:00",
+      "modified_at": "2026-01-05T09:42:00+08:00"
+    },
+    "updated_at": 1767577320,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00103",
+    "data": {
+      "id": "plc_00103",
+      "candidate_id": "cand_02998",
+      "agency_id": "agy_00007",
+      "placement_state": "active",
+      "bill_rate": 133,
+      "is_deleted": false,
+      "created_at": "2026-01-05T09:43:00+08:00",
+      "modified_at": "2026-01-05T09:43:00+08:00"
+    },
+    "updated_at": 1767577380,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00104",
+    "data": {
+      "id": "plc_00104",
+      "candidate_id": "cand_02070",
+      "agency_id": "agy_00010",
+      "placement_state": "completed",
+      "bill_rate": 196,
+      "is_deleted": false,
+      "created_at": "2026-01-04T17:44:00-08:00",
+      "modified_at": "2026-01-04T17:44:00-08:00"
+    },
+    "updated_at": 1767577440,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00105",
+    "data": {
+      "id": "plc_00105",
+      "candidate_id": "cand_04029",
+      "agency_id": "agy_00013",
+      "placement_state": "on_hold",
+      "bill_rate": 136,
+      "is_deleted": false,
+      "created_at": "2026-01-04T22:45:00-03:00",
+      "modified_at": "2026-01-04T22:45:00-03:00"
+    },
+    "updated_at": 1767577500,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00106",
+    "data": {
+      "id": "plc_00106",
+      "candidate_id": "cand_03639",
+      "agency_id": "agy_00011",
+      "placement_state": "cancelled",
+      "bill_rate": 127,
+      "is_deleted": false,
+      "created_at": "2026-01-05T10:46:00+09:00",
+      "modified_at": "2026-01-05T10:46:00+09:00"
+    },
+    "updated_at": 1767577560,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00107",
+    "data": {
+      "id": "plc_00107",
+      "candidate_id": "cand_03502",
+      "agency_id": "agy_00008",
+      "placement_state": "completed",
+      "bill_rate": 167,
+      "is_deleted": false,
+      "created_at": "2026-01-05T03:47:00+02:00",
+      "modified_at": "2026-01-05T03:47:00+02:00"
+    },
+    "updated_at": 1767577620,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00108",
+    "data": {
+      "id": "plc_00108",
+      "candidate_id": "cand_01505",
+      "agency_id": "agy_00012",
+      "placement_state": "on_hold",
+      "bill_rate": 170,
+      "is_deleted": false,
+      "created_at": "2026-01-05T05:18:00+03:30",
+      "modified_at": "2026-01-05T05:18:00+03:30"
+    },
+    "updated_at": 1767577680,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00109",
+    "data": {
+      "id": "plc_00109",
+      "candidate_id": "cand_02797",
+      "agency_id": "agy_00002",
+      "placement_state": "active",
+      "bill_rate": 197,
+      "is_deleted": false,
+      "created_at": "2026-01-05T05:19:00+03:30",
+      "modified_at": "2026-01-05T05:19:00+03:30"
+    },
+    "updated_at": 1767577740,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00110",
+    "data": {
+      "id": "plc_00110",
+      "candidate_id": "cand_04429",
+      "agency_id": "agy_00010",
+      "placement_state": "active",
+      "bill_rate": 111,
+      "is_deleted": false,
+      "created_at": "2026-01-05T07:20:00+05:30",
+      "modified_at": "2026-01-05T07:20:00+05:30"
+    },
+    "updated_at": 1767577800,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00111",
+    "data": {
+      "id": "plc_00111",
+      "candidate_id": "cand_05758",
+      "agency_id": "agy_00011",
+      "placement_state": "active",
+      "bill_rate": 172,
+      "is_deleted": false,
+      "created_at": "2026-01-05T10:51:00+09:00",
+      "modified_at": "2026-01-05T10:51:00+09:00"
+    },
+    "updated_at": 1767577860,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00112",
+    "data": {
+      "id": "plc_00112",
+      "candidate_id": "cand_02703",
+      "agency_id": "agy_00011",
+      "placement_state": "on_hold",
+      "bill_rate": 129,
+      "is_deleted": false,
+      "created_at": "2026-01-04T22:52:00-03:00",
+      "modified_at": "2026-01-04T22:52:00-03:00"
+    },
+    "updated_at": 1767577920,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00113",
+    "data": {
+      "id": "plc_00113",
+      "candidate_id": "cand_01490",
+      "agency_id": "agy_00006",
+      "placement_state": "completed",
+      "bill_rate": 157,
+      "is_deleted": false,
+      "created_at": "2026-01-04T22:53:00-03:00",
+      "modified_at": "2026-01-04T22:53:00-03:00"
+    },
+    "updated_at": 1767577980,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00114",
+    "data": {
+      "id": "plc_00114",
+      "candidate_id": "cand_00195",
+      "agency_id": "agy_00002",
+      "placement_state": "active",
+      "bill_rate": 113,
+      "is_deleted": false,
+      "created_at": "2026-01-04T17:54:00-08:00",
+      "modified_at": "2026-01-04T17:54:00-08:00"
+    },
+    "updated_at": 1767578040,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00115",
+    "data": {
+      "id": "plc_00115",
+      "candidate_id": "cand_01934",
+      "agency_id": "agy_00006",
+      "placement_state": "active",
+      "bill_rate": 160,
+      "is_deleted": false,
+      "created_at": "2026-01-05T03:55:00+02:00",
+      "modified_at": "2026-01-05T03:55:00+02:00"
+    },
+    "updated_at": 1767578100,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00116",
+    "data": {
+      "id": "plc_00116",
+      "candidate_id": "cand_03960",
+      "agency_id": "agy_00011",
+      "placement_state": "completed",
+      "bill_rate": 173,
+      "is_deleted": false,
+      "created_at": "2026-01-04T20:56:00-05:00",
+      "modified_at": "2026-01-04T20:56:00-05:00"
+    },
+    "updated_at": 1767578160,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00117",
+    "data": {
+      "id": "plc_00117",
+      "candidate_id": "cand_02874",
+      "agency_id": "agy_00008",
+      "placement_state": "completed",
+      "bill_rate": 95,
+      "is_deleted": false,
+      "created_at": "2026-01-05T11:57:00+10:00",
+      "modified_at": "2026-01-05T11:57:00+10:00"
+    },
+    "updated_at": 1767578220,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00118",
+    "data": {
+      "id": "plc_00118",
+      "candidate_id": "cand_01248",
+      "agency_id": "agy_00012",
+      "placement_state": "on_hold",
+      "bill_rate": 47,
+      "is_deleted": false,
+      "created_at": "2026-01-05T11:58:00+10:00",
+      "modified_at": "2026-01-05T11:58:00+10:00"
+    },
+    "updated_at": 1767578280,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00119",
+    "data": {
+      "id": "plc_00119",
+      "candidate_id": "cand_01575",
+      "agency_id": "agy_00012",
+      "placement_state": "cancelled",
+      "bill_rate": 148,
+      "is_deleted": false,
+      "created_at": "2026-01-05T10:59:00+09:00",
+      "modified_at": "2026-01-05T10:59:00+09:00"
+    },
+    "updated_at": 1767578340,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00120",
+    "data": {
+      "id": "plc_00120",
+      "candidate_id": "cand_01456",
+      "agency_id": "agy_00013",
+      "placement_state": "active",
+      "bill_rate": 63,
+      "is_deleted": false,
+      "created_at": "2026-01-05T10:00:00+08:00",
+      "modified_at": "2026-01-05T10:00:00+08:00"
+    },
+    "updated_at": 1767578400,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00121",
+    "data": {
+      "id": "plc_00121",
+      "candidate_id": "cand_02198",
+      "agency_id": "agy_00013",
+      "placement_state": "cancelled",
+      "bill_rate": 211,
+      "is_deleted": false,
+      "created_at": "2026-01-04T21:01:00-05:00",
+      "modified_at": "2026-01-04T21:01:00-05:00"
+    },
+    "updated_at": 1767578460,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00122",
+    "data": {
+      "id": "plc_00122",
+      "candidate_id": "cand_02068",
+      "agency_id": "agy_00002",
+      "placement_state": "active",
+      "bill_rate": 99,
+      "is_deleted": false,
+      "created_at": "2026-01-05T10:02:00+08:00",
+      "modified_at": "2026-01-05T10:02:00+08:00"
+    },
+    "updated_at": 1767578520,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00123",
+    "data": {
+      "id": "plc_00123",
+      "candidate_id": "cand_02120",
+      "agency_id": "agy_00001",
+      "placement_state": "on_hold",
+      "bill_rate": 85,
+      "is_deleted": false,
+      "created_at": "2026-01-05T11:03:00+09:00",
+      "modified_at": "2026-01-05T11:03:00+09:00"
+    },
+    "updated_at": 1767578580,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00124",
+    "data": {
+      "id": "plc_00124",
+      "candidate_id": "cand_01185",
+      "agency_id": "agy_00010",
+      "placement_state": "active",
+      "bill_rate": 112,
+      "is_deleted": false,
+      "created_at": "2026-01-05T11:04:00+09:00",
+      "modified_at": "2026-01-05T11:04:00+09:00"
+    },
+    "updated_at": 1767578640,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00125",
+    "data": {
+      "id": "plc_00125",
+      "candidate_id": "cand_05475",
+      "agency_id": "agy_00015",
+      "placement_state": "on_hold",
+      "bill_rate": 105,
+      "is_deleted": false,
+      "created_at": "2026-01-05T11:05:00+09:00",
+      "modified_at": "2026-01-05T11:05:00+09:00"
+    },
+    "updated_at": 1767578700,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00126",
+    "data": {
+      "id": "plc_00126",
+      "candidate_id": "cand_04937",
+      "agency_id": "agy_00014",
+      "placement_state": "on_hold",
+      "bill_rate": 208,
+      "is_deleted": false,
+      "created_at": "2026-01-05T04:06:00+02:00",
+      "modified_at": "2026-01-05T04:06:00+02:00"
+    },
+    "updated_at": 1767578760,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00127",
+    "data": {
+      "id": "plc_00127",
+      "candidate_id": "cand_01249",
+      "agency_id": "agy_00008",
+      "placement_state": "cancelled",
+      "bill_rate": 103,
+      "is_deleted": false,
+      "created_at": "2026-01-05T04:07:00+02:00",
+      "modified_at": "2026-01-05T04:07:00+02:00"
+    },
+    "updated_at": 1767578820,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00128",
+    "data": {
+      "id": "plc_00128",
+      "candidate_id": "cand_00897",
+      "agency_id": "agy_00009",
+      "placement_state": "completed",
+      "bill_rate": 57,
+      "is_deleted": false,
+      "created_at": "2026-01-04T21:08:00-05:00",
+      "modified_at": "2026-01-04T21:08:00-05:00"
+    },
+    "updated_at": 1767578880,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00129",
+    "data": {
+      "id": "plc_00129",
+      "candidate_id": "cand_05354",
+      "agency_id": "agy_00011",
+      "placement_state": "active",
+      "bill_rate": 79,
+      "is_deleted": false,
+      "created_at": "2026-01-04T23:09:00-03:00",
+      "modified_at": "2026-01-04T23:09:00-03:00"
+    },
+    "updated_at": 1767578940,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00130",
+    "data": {
+      "id": "plc_00130",
+      "candidate_id": "cand_02632",
+      "agency_id": "agy_00013",
+      "placement_state": "cancelled",
+      "bill_rate": 101,
+      "is_deleted": false,
+      "created_at": "2026-01-05T04:10:00+02:00",
+      "modified_at": "2026-01-05T04:10:00+02:00"
+    },
+    "updated_at": 1767579000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00131",
+    "data": {
+      "id": "plc_00131",
+      "candidate_id": "cand_01911",
+      "agency_id": "agy_00014",
+      "placement_state": "active",
+      "bill_rate": 115,
+      "is_deleted": false,
+      "created_at": "2026-01-05T10:11:00+08:00",
+      "modified_at": "2026-01-05T10:11:00+08:00"
+    },
+    "updated_at": 1767579060,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00132",
+    "data": {
+      "id": "plc_00132",
+      "candidate_id": "cand_03429",
+      "agency_id": "agy_00002",
+      "placement_state": "on_hold",
+      "bill_rate": 175,
+      "is_deleted": false,
+      "created_at": "2026-01-05T05:42:00+03:30",
+      "modified_at": "2026-01-05T05:42:00+03:30"
+    },
+    "updated_at": 1767579120,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00133",
+    "data": {
+      "id": "plc_00133",
+      "candidate_id": "cand_04794",
+      "agency_id": "agy_00007",
+      "placement_state": "active",
+      "bill_rate": 218,
+      "is_deleted": false,
+      "created_at": "2026-01-05T12:13:00+10:00",
+      "modified_at": "2026-01-05T12:13:00+10:00"
+    },
+    "updated_at": 1767579180,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00134",
+    "data": {
+      "id": "plc_00134",
+      "candidate_id": "cand_01879",
+      "agency_id": "agy_00011",
+      "placement_state": "completed",
+      "bill_rate": 132,
+      "is_deleted": false,
+      "created_at": "2026-01-05T03:14:00+01:00",
+      "modified_at": "2026-01-05T03:14:00+01:00"
+    },
+    "updated_at": 1767579240,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00135",
+    "data": {
+      "id": "plc_00135",
+      "candidate_id": "cand_01007",
+      "agency_id": "agy_00011",
+      "placement_state": "active",
+      "bill_rate": 99,
+      "is_deleted": false,
+      "created_at": "2026-01-05T07:45:00+05:30",
+      "modified_at": "2026-01-05T07:45:00+05:30"
+    },
+    "updated_at": 1767579300,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00136",
+    "data": {
+      "id": "plc_00136",
+      "candidate_id": "cand_05087",
+      "agency_id": "agy_00009",
+      "placement_state": "completed",
+      "bill_rate": 152,
+      "is_deleted": false,
+      "created_at": "2026-01-04T21:16:00-05:00",
+      "modified_at": "2026-01-04T21:16:00-05:00"
+    },
+    "updated_at": 1767579360,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00137",
+    "data": {
+      "id": "plc_00137",
+      "candidate_id": "cand_02186",
+      "agency_id": "agy_00014",
+      "placement_state": "on_hold",
+      "bill_rate": 152,
+      "is_deleted": false,
+      "created_at": "2026-01-04T21:17:00-05:00",
+      "modified_at": "2026-01-04T21:17:00-05:00"
+    },
+    "updated_at": 1767579420,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00138",
+    "data": {
+      "id": "plc_00138",
+      "candidate_id": "cand_05945",
+      "agency_id": "agy_00012",
+      "placement_state": "active",
+      "bill_rate": 105,
+      "is_deleted": false,
+      "created_at": "2026-01-04T23:18:00-03:00",
+      "modified_at": "2026-01-04T23:18:00-03:00"
+    },
+    "updated_at": 1767579480,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00139",
+    "data": {
+      "id": "plc_00139",
+      "candidate_id": "cand_00882",
+      "agency_id": "agy_00010",
+      "placement_state": "completed",
+      "bill_rate": 116,
+      "is_deleted": false,
+      "created_at": "2026-01-05T05:49:00+03:30",
+      "modified_at": "2026-01-05T05:49:00+03:30"
+    },
+    "updated_at": 1767579540,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00140",
+    "data": {
+      "id": "plc_00140",
+      "candidate_id": "cand_05853",
+      "agency_id": "agy_00001",
+      "placement_state": "active",
+      "bill_rate": 71,
+      "is_deleted": false,
+      "created_at": "2026-01-05T07:50:00+05:30",
+      "modified_at": "2026-01-05T07:50:00+05:30"
+    },
+    "updated_at": 1767579600,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00141",
+    "data": {
+      "id": "plc_00141",
+      "candidate_id": "cand_01516",
+      "agency_id": "agy_00012",
+      "placement_state": "on_hold",
+      "bill_rate": 73,
+      "is_deleted": false,
+      "created_at": "2026-01-05T10:21:00+08:00",
+      "modified_at": "2026-01-05T10:21:00+08:00"
+    },
+    "updated_at": 1767579660,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00142",
+    "data": {
+      "id": "plc_00142",
+      "candidate_id": "cand_01953",
+      "agency_id": "agy_00009",
+      "placement_state": "cancelled",
+      "bill_rate": 186,
+      "is_deleted": false,
+      "created_at": "2026-01-05T12:22:00+10:00",
+      "modified_at": "2026-01-05T12:22:00+10:00"
+    },
+    "updated_at": 1767579720,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00143",
+    "data": {
+      "id": "plc_00143",
+      "candidate_id": "cand_04097",
+      "agency_id": "agy_00014",
+      "placement_state": "on_hold",
+      "bill_rate": 80,
+      "is_deleted": false,
+      "created_at": "2026-01-04T21:23:00-05:00",
+      "modified_at": "2026-01-04T21:23:00-05:00"
+    },
+    "updated_at": 1767579780,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00144",
+    "data": {
+      "id": "plc_00144",
+      "candidate_id": "cand_03596",
+      "agency_id": "agy_00013",
+      "placement_state": "active",
+      "bill_rate": 65,
+      "is_deleted": false,
+      "created_at": "2026-01-04T18:24:00-08:00",
+      "modified_at": "2026-01-04T18:24:00-08:00"
+    },
+    "updated_at": 1767579840,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00145",
+    "data": {
+      "id": "plc_00145",
+      "candidate_id": "cand_00586",
+      "agency_id": "agy_00007",
+      "placement_state": "active",
+      "bill_rate": 130,
+      "is_deleted": false,
+      "created_at": "2026-01-05T10:25:00+08:00",
+      "modified_at": "2026-01-05T10:25:00+08:00"
+    },
+    "updated_at": 1767579900,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00146",
+    "data": {
+      "id": "plc_00146",
+      "candidate_id": "cand_04379",
+      "agency_id": "agy_00001",
+      "placement_state": "active",
+      "bill_rate": 208,
+      "is_deleted": false,
+      "created_at": "2026-01-04T18:26:00-08:00",
+      "modified_at": "2026-01-04T18:26:00-08:00"
+    },
+    "updated_at": 1767579960,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00147",
+    "data": {
+      "id": "plc_00147",
+      "candidate_id": "cand_03886",
+      "agency_id": "agy_00013",
+      "placement_state": "on_hold",
+      "bill_rate": 83,
+      "is_deleted": false,
+      "created_at": "2026-01-05T11:27:00+09:00",
+      "modified_at": "2026-01-05T11:27:00+09:00"
+    },
+    "updated_at": 1767580020,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00148",
+    "data": {
+      "id": "plc_00148",
+      "candidate_id": "cand_05141",
+      "agency_id": "agy_00006",
+      "placement_state": "on_hold",
+      "bill_rate": 129,
+      "is_deleted": false,
+      "created_at": "2026-01-05T10:28:00+08:00",
+      "modified_at": "2026-01-05T10:28:00+08:00"
+    },
+    "updated_at": 1767580080,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00149",
+    "data": {
+      "id": "plc_00149",
+      "candidate_id": "cand_05634",
+      "agency_id": "agy_00009",
+      "placement_state": "cancelled",
+      "bill_rate": 176,
+      "is_deleted": false,
+      "created_at": "2026-01-05T11:29:00+09:00",
+      "modified_at": "2026-01-05T11:29:00+09:00"
+    },
+    "updated_at": 1767580140,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00150",
+    "data": {
+      "id": "plc_00150",
+      "candidate_id": "cand_05076",
+      "agency_id": "agy_00004",
+      "placement_state": "completed",
+      "bill_rate": 164,
+      "is_deleted": false,
+      "created_at": "2026-01-05T04:30:00+02:00",
+      "modified_at": "2026-01-05T04:30:00+02:00"
+    },
+    "updated_at": 1767580200,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00151",
+    "data": {
+      "id": "plc_00151",
+      "candidate_id": "cand_04926",
+      "agency_id": "agy_00006",
+      "placement_state": "cancelled",
+      "bill_rate": 65,
+      "is_deleted": false,
+      "created_at": "2026-01-05T11:31:00+09:00",
+      "modified_at": "2026-01-05T11:31:00+09:00"
+    },
+    "updated_at": 1767580260,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00152",
+    "data": {
+      "id": "plc_00152",
+      "candidate_id": "cand_03771",
+      "agency_id": "agy_00004",
+      "placement_state": "on_hold",
+      "bill_rate": 132,
+      "is_deleted": false,
+      "created_at": "2026-01-05T06:02:00+03:30",
+      "modified_at": "2026-01-05T06:02:00+03:30"
+    },
+    "updated_at": 1767580320,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00153",
+    "data": {
+      "id": "plc_00153",
+      "candidate_id": "cand_01993",
+      "agency_id": "agy_00001",
+      "placement_state": "on_hold",
+      "bill_rate": 178,
+      "is_deleted": false,
+      "created_at": "2026-01-05T12:33:00+10:00",
+      "modified_at": "2026-01-05T12:33:00+10:00"
+    },
+    "updated_at": 1767580380,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00154",
+    "data": {
+      "id": "plc_00154",
+      "candidate_id": "cand_00593",
+      "agency_id": "agy_00007",
+      "placement_state": "on_hold",
+      "bill_rate": 66,
+      "is_deleted": false,
+      "created_at": "2026-01-05T03:34:00+01:00",
+      "modified_at": "2026-01-05T03:34:00+01:00"
+    },
+    "updated_at": 1767580440,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00155",
+    "data": {
+      "id": "plc_00155",
+      "candidate_id": "cand_00392",
+      "agency_id": "agy_00011",
+      "placement_state": "completed",
+      "bill_rate": 159,
+      "is_deleted": false,
+      "created_at": "2026-01-05T06:05:00+03:30",
+      "modified_at": "2026-01-05T06:05:00+03:30"
+    },
+    "updated_at": 1767580500,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00156",
+    "data": {
+      "id": "plc_00156",
+      "candidate_id": "cand_04864",
+      "agency_id": "agy_00001",
+      "placement_state": "cancelled",
+      "bill_rate": 115,
+      "is_deleted": false,
+      "created_at": "2026-01-05T10:36:00+08:00",
+      "modified_at": "2026-01-05T10:36:00+08:00"
+    },
+    "updated_at": 1767580560,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00157",
+    "data": {
+      "id": "plc_00157",
+      "candidate_id": "cand_04412",
+      "agency_id": "agy_00007",
+      "placement_state": "active",
+      "bill_rate": 203,
+      "is_deleted": false,
+      "created_at": "2026-01-05T04:37:00+02:00",
+      "modified_at": "2026-01-05T04:37:00+02:00"
+    },
+    "updated_at": 1767580620,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00158",
+    "data": {
+      "id": "plc_00158",
+      "candidate_id": "cand_03578",
+      "agency_id": "agy_00004",
+      "placement_state": "completed",
+      "bill_rate": 68,
+      "is_deleted": false,
+      "created_at": "2026-01-05T11:38:00+09:00",
+      "modified_at": "2026-01-05T11:38:00+09:00"
+    },
+    "updated_at": 1767580680,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00159",
+    "data": {
+      "id": "plc_00159",
+      "candidate_id": "cand_00142",
+      "agency_id": "agy_00003",
+      "placement_state": "on_hold",
+      "bill_rate": 60,
+      "is_deleted": false,
+      "created_at": "2026-01-04T21:39:00-05:00",
+      "modified_at": "2026-01-04T21:39:00-05:00"
+    },
+    "updated_at": 1767580740,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00160",
+    "data": {
+      "id": "plc_00160",
+      "candidate_id": "cand_01526",
+      "agency_id": "agy_00003",
+      "placement_state": "on_hold",
+      "bill_rate": 215,
+      "is_deleted": false,
+      "created_at": "2026-01-05T06:10:00+03:30",
+      "modified_at": "2026-01-05T06:10:00+03:30"
+    },
+    "updated_at": 1767580800,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00161",
+    "data": {
+      "id": "plc_00161",
+      "candidate_id": "cand_05996",
+      "agency_id": "agy_00014",
+      "placement_state": "active",
+      "bill_rate": 181,
+      "is_deleted": false,
+      "created_at": "2026-01-05T10:41:00+08:00",
+      "modified_at": "2026-01-05T10:41:00+08:00"
+    },
+    "updated_at": 1767580860,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00162",
+    "data": {
+      "id": "plc_00162",
+      "candidate_id": "cand_05818",
+      "agency_id": "agy_00005",
+      "placement_state": "completed",
+      "bill_rate": 126,
+      "is_deleted": false,
+      "created_at": "2026-01-05T04:42:00+02:00",
+      "modified_at": "2026-01-05T04:42:00+02:00"
+    },
+    "updated_at": 1767580920,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00163",
+    "data": {
+      "id": "plc_00163",
+      "candidate_id": "cand_03726",
+      "agency_id": "agy_00011",
+      "placement_state": "on_hold",
+      "bill_rate": 122,
+      "is_deleted": false,
+      "created_at": "2026-01-05T03:43:00+01:00",
+      "modified_at": "2026-01-05T03:43:00+01:00"
+    },
+    "updated_at": 1767580980,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00164",
+    "data": {
+      "id": "plc_00164",
+      "candidate_id": "cand_00697",
+      "agency_id": "agy_00011",
+      "placement_state": "cancelled",
+      "bill_rate": 59,
+      "is_deleted": false,
+      "created_at": "2026-01-05T08:14:00+05:30",
+      "modified_at": "2026-01-05T08:14:00+05:30"
+    },
+    "updated_at": 1767581040,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00165",
+    "data": {
+      "id": "plc_00165",
+      "candidate_id": "cand_01773",
+      "agency_id": "agy_00006",
+      "placement_state": "active",
+      "bill_rate": 178,
+      "is_deleted": false,
+      "created_at": "2026-01-05T11:45:00+09:00",
+      "modified_at": "2026-01-05T11:45:00+09:00"
+    },
+    "updated_at": 1767581100,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00166",
+    "data": {
+      "id": "plc_00166",
+      "candidate_id": "cand_02183",
+      "agency_id": "agy_00005",
+      "placement_state": "active",
+      "bill_rate": 53,
+      "is_deleted": false,
+      "created_at": "2026-01-05T03:46:00+01:00",
+      "modified_at": "2026-01-05T03:46:00+01:00"
+    },
+    "updated_at": 1767581160,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00167",
+    "data": {
+      "id": "plc_00167",
+      "candidate_id": "cand_02330",
+      "agency_id": "agy_00012",
+      "placement_state": "active",
+      "bill_rate": 56,
+      "is_deleted": false,
+      "created_at": "2026-01-05T06:17:00+03:30",
+      "modified_at": "2026-01-05T06:17:00+03:30"
+    },
+    "updated_at": 1767581220,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00168",
+    "data": {
+      "id": "plc_00168",
+      "candidate_id": "cand_04110",
+      "agency_id": "agy_00010",
+      "placement_state": "active",
+      "bill_rate": 53,
+      "is_deleted": false,
+      "created_at": "2026-01-05T12:48:00+10:00",
+      "modified_at": "2026-01-05T12:48:00+10:00"
+    },
+    "updated_at": 1767581280,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00169",
+    "data": {
+      "id": "plc_00169",
+      "candidate_id": "cand_02552",
+      "agency_id": "agy_00006",
+      "placement_state": "completed",
+      "bill_rate": 113,
+      "is_deleted": false,
+      "created_at": "2026-01-05T08:19:00+05:30",
+      "modified_at": "2026-01-05T08:19:00+05:30"
+    },
+    "updated_at": 1767581340,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00170",
+    "data": {
+      "id": "plc_00170",
+      "candidate_id": "cand_00370",
+      "agency_id": "agy_00004",
+      "placement_state": "cancelled",
+      "bill_rate": 201,
+      "is_deleted": false,
+      "created_at": "2026-01-05T12:50:00+10:00",
+      "modified_at": "2026-01-05T12:50:00+10:00"
+    },
+    "updated_at": 1767581400,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00171",
+    "data": {
+      "id": "plc_00171",
+      "candidate_id": "cand_01173",
+      "agency_id": "agy_00010",
+      "placement_state": "cancelled",
+      "bill_rate": 80,
+      "is_deleted": false,
+      "created_at": "2026-01-04T23:51:00-03:00",
+      "modified_at": "2026-01-04T23:51:00-03:00"
+    },
+    "updated_at": 1767581460,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00172",
+    "data": {
+      "id": "plc_00172",
+      "candidate_id": "cand_01971",
+      "agency_id": "agy_00007",
+      "placement_state": "active",
+      "bill_rate": 151,
+      "is_deleted": false,
+      "created_at": "2026-01-05T10:52:00+08:00",
+      "modified_at": "2026-01-05T10:52:00+08:00"
+    },
+    "updated_at": 1767581520,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00173",
+    "data": {
+      "id": "plc_00173",
+      "candidate_id": "cand_05864",
+      "agency_id": "agy_00005",
+      "placement_state": "active",
+      "bill_rate": 220,
+      "is_deleted": false,
+      "created_at": "2026-01-05T11:53:00+09:00",
+      "modified_at": "2026-01-05T11:53:00+09:00"
+    },
+    "updated_at": 1767581580,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00174",
+    "data": {
+      "id": "plc_00174",
+      "candidate_id": "cand_00102",
+      "agency_id": "agy_00010",
+      "placement_state": "on_hold",
+      "bill_rate": 77,
+      "is_deleted": false,
+      "created_at": "2026-01-05T06:24:00+03:30",
+      "modified_at": "2026-01-05T06:24:00+03:30"
+    },
+    "updated_at": 1767581640,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00175",
+    "data": {
+      "id": "plc_00175",
+      "candidate_id": "cand_01153",
+      "agency_id": "agy_00005",
+      "placement_state": "on_hold",
+      "bill_rate": 175,
+      "is_deleted": false,
+      "created_at": "2026-01-05T04:55:00+02:00",
+      "modified_at": "2026-01-05T04:55:00+02:00"
+    },
+    "updated_at": 1767581700,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00176",
+    "data": {
+      "id": "plc_00176",
+      "candidate_id": "cand_04983",
+      "agency_id": "agy_00005",
+      "placement_state": "completed",
+      "bill_rate": 198,
+      "is_deleted": false,
+      "created_at": "2026-01-04T23:56:00-03:00",
+      "modified_at": "2026-01-04T23:56:00-03:00"
+    },
+    "updated_at": 1767581760,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00177",
+    "data": {
+      "id": "plc_00177",
+      "candidate_id": "cand_05443",
+      "agency_id": "agy_00010",
+      "placement_state": "completed",
+      "bill_rate": 136,
+      "is_deleted": false,
+      "created_at": "2026-01-04T21:57:00-05:00",
+      "modified_at": "2026-01-04T21:57:00-05:00"
+    },
+    "updated_at": 1767581820,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00178",
+    "data": {
+      "id": "plc_00178",
+      "candidate_id": "cand_03477",
+      "agency_id": "agy_00010",
+      "placement_state": "on_hold",
+      "bill_rate": 192,
+      "is_deleted": false,
+      "created_at": "2026-01-04T23:58:00-03:00",
+      "modified_at": "2026-01-04T23:58:00-03:00"
+    },
+    "updated_at": 1767581880,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00179",
+    "data": {
+      "id": "plc_00179",
+      "candidate_id": "cand_03217",
+      "agency_id": "agy_00009",
+      "placement_state": "active",
+      "bill_rate": 184,
+      "is_deleted": false,
+      "created_at": "2026-01-05T11:59:00+09:00",
+      "modified_at": "2026-01-05T11:59:00+09:00"
+    },
+    "updated_at": 1767581940,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00180",
+    "data": {
+      "id": "plc_00180",
+      "candidate_id": "cand_05787",
+      "agency_id": "agy_00011",
+      "placement_state": "active",
+      "bill_rate": 155,
+      "is_deleted": false,
+      "created_at": "2026-01-04T22:00:00-05:00",
+      "modified_at": "2026-01-04T22:00:00-05:00"
+    },
+    "updated_at": 1767582000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00181",
+    "data": {
+      "id": "plc_00181",
+      "candidate_id": "cand_03271",
+      "agency_id": "agy_00006",
+      "placement_state": "active",
+      "bill_rate": 94,
+      "is_deleted": false,
+      "created_at": "2026-01-04T19:01:00-08:00",
+      "modified_at": "2026-01-04T19:01:00-08:00"
+    },
+    "updated_at": 1767582060,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00182",
+    "data": {
+      "id": "plc_00182",
+      "candidate_id": "cand_01796",
+      "agency_id": "agy_00004",
+      "placement_state": "on_hold",
+      "bill_rate": 141,
+      "is_deleted": false,
+      "created_at": "2026-01-05T13:02:00+10:00",
+      "modified_at": "2026-01-05T13:02:00+10:00"
+    },
+    "updated_at": 1767582120,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00183",
+    "data": {
+      "id": "plc_00183",
+      "candidate_id": "cand_04304",
+      "agency_id": "agy_00009",
+      "placement_state": "cancelled",
+      "bill_rate": 81,
+      "is_deleted": false,
+      "created_at": "2026-01-05T06:33:00+03:30",
+      "modified_at": "2026-01-05T06:33:00+03:30"
+    },
+    "updated_at": 1767582180,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00184",
+    "data": {
+      "id": "plc_00184",
+      "candidate_id": "cand_02149",
+      "agency_id": "agy_00001",
+      "placement_state": "cancelled",
+      "bill_rate": 67,
+      "is_deleted": false,
+      "created_at": "2026-01-05T00:04:00-03:00",
+      "modified_at": "2026-01-05T00:04:00-03:00"
+    },
+    "updated_at": 1767582240,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00185",
+    "data": {
+      "id": "plc_00185",
+      "candidate_id": "cand_02957",
+      "agency_id": "agy_00015",
+      "placement_state": "cancelled",
+      "bill_rate": 169,
+      "is_deleted": false,
+      "created_at": "2026-01-05T12:05:00+09:00",
+      "modified_at": "2026-01-05T12:05:00+09:00"
+    },
+    "updated_at": 1767582300,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00186",
+    "data": {
+      "id": "plc_00186",
+      "candidate_id": "cand_05932",
+      "agency_id": "agy_00005",
+      "placement_state": "completed",
+      "bill_rate": 176,
+      "is_deleted": false,
+      "created_at": "2026-01-05T00:06:00-03:00",
+      "modified_at": "2026-01-05T00:06:00-03:00"
+    },
+    "updated_at": 1767582360,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00187",
+    "data": {
+      "id": "plc_00187",
+      "candidate_id": "cand_01865",
+      "agency_id": "agy_00010",
+      "placement_state": "completed",
+      "bill_rate": 208,
+      "is_deleted": false,
+      "created_at": "2026-01-05T04:07:00+01:00",
+      "modified_at": "2026-01-05T04:07:00+01:00"
+    },
+    "updated_at": 1767582420,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00188",
+    "data": {
+      "id": "plc_00188",
+      "candidate_id": "cand_01359",
+      "agency_id": "agy_00005",
+      "placement_state": "on_hold",
+      "bill_rate": 93,
+      "is_deleted": false,
+      "created_at": "2026-01-05T04:08:00+01:00",
+      "modified_at": "2026-01-05T04:08:00+01:00"
+    },
+    "updated_at": 1767582480,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00189",
+    "data": {
+      "id": "plc_00189",
+      "candidate_id": "cand_00173",
+      "agency_id": "agy_00003",
+      "placement_state": "cancelled",
+      "bill_rate": 183,
+      "is_deleted": false,
+      "created_at": "2026-01-05T04:09:00+01:00",
+      "modified_at": "2026-01-05T04:09:00+01:00"
+    },
+    "updated_at": 1767582540,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00190",
+    "data": {
+      "id": "plc_00190",
+      "candidate_id": "cand_04380",
+      "agency_id": "agy_00012",
+      "placement_state": "active",
+      "bill_rate": 193,
+      "is_deleted": false,
+      "created_at": "2026-01-04T22:10:00-05:00",
+      "modified_at": "2026-01-04T22:10:00-05:00"
+    },
+    "updated_at": 1767582600,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00191",
+    "data": {
+      "id": "plc_00191",
+      "candidate_id": "cand_03322",
+      "agency_id": "agy_00009",
+      "placement_state": "on_hold",
+      "bill_rate": 72,
+      "is_deleted": false,
+      "created_at": "2026-01-05T11:11:00+08:00",
+      "modified_at": "2026-01-05T11:11:00+08:00"
+    },
+    "updated_at": 1767582660,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00192",
+    "data": {
+      "id": "plc_00192",
+      "candidate_id": "cand_00594",
+      "agency_id": "agy_00011",
+      "placement_state": "completed",
+      "bill_rate": 218,
+      "is_deleted": false,
+      "created_at": "2026-01-05T08:42:00+05:30",
+      "modified_at": "2026-01-05T08:42:00+05:30"
+    },
+    "updated_at": 1767582720,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00193",
+    "data": {
+      "id": "plc_00193",
+      "candidate_id": "cand_05411",
+      "agency_id": "agy_00005",
+      "placement_state": "active",
+      "bill_rate": 115,
+      "is_deleted": false,
+      "created_at": "2026-01-04T22:13:00-05:00",
+      "modified_at": "2026-01-04T22:13:00-05:00"
+    },
+    "updated_at": 1767582780,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00194",
+    "data": {
+      "id": "plc_00194",
+      "candidate_id": "cand_03181",
+      "agency_id": "agy_00005",
+      "placement_state": "cancelled",
+      "bill_rate": 92,
+      "is_deleted": false,
+      "created_at": "2026-01-04T19:14:00-08:00",
+      "modified_at": "2026-01-04T19:14:00-08:00"
+    },
+    "updated_at": 1767582840,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00195",
+    "data": {
+      "id": "plc_00195",
+      "candidate_id": "cand_01566",
+      "agency_id": "agy_00004",
+      "placement_state": "completed",
+      "bill_rate": 207,
+      "is_deleted": false,
+      "created_at": "2026-01-04T22:15:00-05:00",
+      "modified_at": "2026-01-04T22:15:00-05:00"
+    },
+    "updated_at": 1767582900,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00196",
+    "data": {
+      "id": "plc_00196",
+      "candidate_id": "cand_04264",
+      "agency_id": "agy_00013",
+      "placement_state": "active",
+      "bill_rate": 129,
+      "is_deleted": false,
+      "created_at": "2026-01-04T19:16:00-08:00",
+      "modified_at": "2026-01-04T19:16:00-08:00"
+    },
+    "updated_at": 1767582960,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00197",
+    "data": {
+      "id": "plc_00197",
+      "candidate_id": "cand_05745",
+      "agency_id": "agy_00013",
+      "placement_state": "cancelled",
+      "bill_rate": 52,
+      "is_deleted": false,
+      "created_at": "2026-01-05T12:17:00+09:00",
+      "modified_at": "2026-01-05T12:17:00+09:00"
+    },
+    "updated_at": 1767583020,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00198",
+    "data": {
+      "id": "plc_00198",
+      "candidate_id": "cand_02950",
+      "agency_id": "agy_00005",
+      "placement_state": "completed",
+      "bill_rate": 201,
+      "is_deleted": false,
+      "created_at": "2026-01-05T06:48:00+03:30",
+      "modified_at": "2026-01-05T06:48:00+03:30"
+    },
+    "updated_at": 1767583080,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00199",
+    "data": {
+      "id": "plc_00199",
+      "candidate_id": "cand_04904",
+      "agency_id": "agy_00004",
+      "placement_state": "active",
+      "bill_rate": 91,
+      "is_deleted": false,
+      "created_at": "2026-01-05T12:19:00+09:00",
+      "modified_at": "2026-01-05T12:19:00+09:00"
+    },
+    "updated_at": 1767583140,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00200",
+    "data": {
+      "id": "plc_00200",
+      "candidate_id": "cand_04251",
+      "agency_id": "agy_00015",
+      "placement_state": "active",
+      "bill_rate": 146,
+      "is_deleted": false,
+      "created_at": "2026-01-05T13:20:00+10:00",
+      "modified_at": "2026-01-05T13:20:00+10:00"
+    },
+    "updated_at": 1767583200,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00201",
+    "data": {
+      "id": "plc_00201",
+      "candidate_id": "cand_05009",
+      "agency_id": "agy_00003",
+      "placement_state": "completed",
+      "bill_rate": 167,
+      "is_deleted": false,
+      "created_at": "2026-01-04T22:21:00-05:00",
+      "modified_at": "2026-01-04T22:21:00-05:00"
+    },
+    "updated_at": 1767583260,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00202",
+    "data": {
+      "id": "plc_00202",
+      "candidate_id": "cand_05562",
+      "agency_id": "agy_00002",
+      "placement_state": "cancelled",
+      "bill_rate": 108,
+      "is_deleted": false,
+      "created_at": "2026-01-05T00:22:00-03:00",
+      "modified_at": "2026-01-05T00:22:00-03:00"
+    },
+    "updated_at": 1767583320,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00203",
+    "data": {
+      "id": "plc_00203",
+      "candidate_id": "cand_00172",
+      "agency_id": "agy_00001",
+      "placement_state": "cancelled",
+      "bill_rate": 126,
+      "is_deleted": false,
+      "created_at": "2026-01-04T22:23:00-05:00",
+      "modified_at": "2026-01-04T22:23:00-05:00"
+    },
+    "updated_at": 1767583380,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00204",
+    "data": {
+      "id": "plc_00204",
+      "candidate_id": "cand_04358",
+      "agency_id": "agy_00002",
+      "placement_state": "completed",
+      "bill_rate": 191,
+      "is_deleted": false,
+      "created_at": "2026-01-05T11:24:00+08:00",
+      "modified_at": "2026-01-05T11:24:00+08:00"
+    },
+    "updated_at": 1767583440,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00205",
+    "data": {
+      "id": "plc_00205",
+      "candidate_id": "cand_02166",
+      "agency_id": "agy_00003",
+      "placement_state": "completed",
+      "bill_rate": 45,
+      "is_deleted": false,
+      "created_at": "2026-01-05T06:55:00+03:30",
+      "modified_at": "2026-01-05T06:55:00+03:30"
+    },
+    "updated_at": 1767583500,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00206",
+    "data": {
+      "id": "plc_00206",
+      "candidate_id": "cand_03768",
+      "agency_id": "agy_00001",
+      "placement_state": "cancelled",
+      "bill_rate": 177,
+      "is_deleted": false,
+      "created_at": "2026-01-04T22:26:00-05:00",
+      "modified_at": "2026-01-04T22:26:00-05:00"
+    },
+    "updated_at": 1767583560,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00207",
+    "data": {
+      "id": "plc_00207",
+      "candidate_id": "cand_02968",
+      "agency_id": "agy_00015",
+      "placement_state": "on_hold",
+      "bill_rate": 139,
+      "is_deleted": false,
+      "created_at": "2026-01-05T11:27:00+08:00",
+      "modified_at": "2026-01-05T11:27:00+08:00"
+    },
+    "updated_at": 1767583620,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00208",
+    "data": {
+      "id": "plc_00208",
+      "candidate_id": "cand_02650",
+      "agency_id": "agy_00007",
+      "placement_state": "cancelled",
+      "bill_rate": 198,
+      "is_deleted": false,
+      "created_at": "2026-01-05T13:28:00+10:00",
+      "modified_at": "2026-01-05T13:28:00+10:00"
+    },
+    "updated_at": 1767583680,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00209",
+    "data": {
+      "id": "plc_00209",
+      "candidate_id": "cand_05988",
+      "agency_id": "agy_00008",
+      "placement_state": "completed",
+      "bill_rate": 210,
+      "is_deleted": false,
+      "created_at": "2026-01-05T06:59:00+03:30",
+      "modified_at": "2026-01-05T06:59:00+03:30"
+    },
+    "updated_at": 1767583740,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00210",
+    "data": {
+      "id": "plc_00210",
+      "candidate_id": "cand_03035",
+      "agency_id": "agy_00011",
+      "placement_state": "completed",
+      "bill_rate": 120,
+      "is_deleted": false,
+      "created_at": "2026-01-04T22:30:00-05:00",
+      "modified_at": "2026-01-04T22:30:00-05:00"
+    },
+    "updated_at": 1767583800,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00211",
+    "data": {
+      "id": "plc_00211",
+      "candidate_id": "cand_01592",
+      "agency_id": "agy_00009",
+      "placement_state": "active",
+      "bill_rate": 161,
+      "is_deleted": false,
+      "created_at": "2026-01-05T07:01:00+03:30",
+      "modified_at": "2026-01-05T07:01:00+03:30"
+    },
+    "updated_at": 1767583860,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00212",
+    "data": {
+      "id": "plc_00212",
+      "candidate_id": "cand_05942",
+      "agency_id": "agy_00013",
+      "placement_state": "completed",
+      "bill_rate": 182,
+      "is_deleted": false,
+      "created_at": "2026-01-05T13:32:00+10:00",
+      "modified_at": "2026-01-05T13:32:00+10:00"
+    },
+    "updated_at": 1767583920,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00213",
+    "data": {
+      "id": "plc_00213",
+      "candidate_id": "cand_04498",
+      "agency_id": "agy_00012",
+      "placement_state": "cancelled",
+      "bill_rate": 143,
+      "is_deleted": false,
+      "created_at": "2026-01-05T13:33:00+10:00",
+      "modified_at": "2026-01-05T13:33:00+10:00"
+    },
+    "updated_at": 1767583980,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00214",
+    "data": {
+      "id": "plc_00214",
+      "candidate_id": "cand_04150",
+      "agency_id": "agy_00004",
+      "placement_state": "active",
+      "bill_rate": 80,
+      "is_deleted": false,
+      "created_at": "2026-01-04T22:34:00-05:00",
+      "modified_at": "2026-01-04T22:34:00-05:00"
+    },
+    "updated_at": 1767584040,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00215",
+    "data": {
+      "id": "plc_00215",
+      "candidate_id": "cand_02737",
+      "agency_id": "agy_00010",
+      "placement_state": "on_hold",
+      "bill_rate": 192,
+      "is_deleted": false,
+      "created_at": "2026-01-05T12:35:00+09:00",
+      "modified_at": "2026-01-05T12:35:00+09:00"
+    },
+    "updated_at": 1767584100,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00216",
+    "data": {
+      "id": "plc_00216",
+      "candidate_id": "cand_05599",
+      "agency_id": "agy_00015",
+      "placement_state": "active",
+      "bill_rate": 85,
+      "is_deleted": false,
+      "created_at": "2026-01-05T12:36:00+09:00",
+      "modified_at": "2026-01-05T12:36:00+09:00"
+    },
+    "updated_at": 1767584160,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00217",
+    "data": {
+      "id": "plc_00217",
+      "candidate_id": "cand_00450",
+      "agency_id": "agy_00012",
+      "placement_state": "completed",
+      "bill_rate": 127,
+      "is_deleted": false,
+      "created_at": "2026-01-04T22:37:00-05:00",
+      "modified_at": "2026-01-04T22:37:00-05:00"
+    },
+    "updated_at": 1767584220,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00218",
+    "data": {
+      "id": "plc_00218",
+      "candidate_id": "cand_03608",
+      "agency_id": "agy_00008",
+      "placement_state": "cancelled",
+      "bill_rate": 159,
+      "is_deleted": false,
+      "created_at": "2026-01-04T19:38:00-08:00",
+      "modified_at": "2026-01-04T19:38:00-08:00"
+    },
+    "updated_at": 1767584280,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00219",
+    "data": {
+      "id": "plc_00219",
+      "candidate_id": "cand_05430",
+      "agency_id": "agy_00007",
+      "placement_state": "active",
+      "bill_rate": 63,
+      "is_deleted": false,
+      "created_at": "2026-01-05T11:39:00+08:00",
+      "modified_at": "2026-01-05T11:39:00+08:00"
+    },
+    "updated_at": 1767584340,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00220",
+    "data": {
+      "id": "plc_00220",
+      "candidate_id": "cand_05656",
+      "agency_id": "agy_00013",
+      "placement_state": "active",
+      "bill_rate": 117,
+      "is_deleted": false,
+      "created_at": "2026-01-05T09:10:00+05:30",
+      "modified_at": "2026-01-05T09:10:00+05:30"
+    },
+    "updated_at": 1767584400,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00221",
+    "data": {
+      "id": "plc_00221",
+      "candidate_id": "cand_04537",
+      "agency_id": "agy_00008",
+      "placement_state": "on_hold",
+      "bill_rate": 75,
+      "is_deleted": false,
+      "created_at": "2026-01-05T05:41:00+02:00",
+      "modified_at": "2026-01-05T05:41:00+02:00"
+    },
+    "updated_at": 1767584460,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00222",
+    "data": {
+      "id": "plc_00222",
+      "candidate_id": "cand_00464",
+      "agency_id": "agy_00013",
+      "placement_state": "active",
+      "bill_rate": 132,
+      "is_deleted": false,
+      "created_at": "2026-01-05T09:12:00+05:30",
+      "modified_at": "2026-01-05T09:12:00+05:30"
+    },
+    "updated_at": 1767584520,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00223",
+    "data": {
+      "id": "plc_00223",
+      "candidate_id": "cand_01781",
+      "agency_id": "agy_00002",
+      "placement_state": "cancelled",
+      "bill_rate": 195,
+      "is_deleted": false,
+      "created_at": "2026-01-05T05:43:00+02:00",
+      "modified_at": "2026-01-05T05:43:00+02:00"
+    },
+    "updated_at": 1767584580,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00224",
+    "data": {
+      "id": "plc_00224",
+      "candidate_id": "cand_04015",
+      "agency_id": "agy_00010",
+      "placement_state": "active",
+      "bill_rate": 147,
+      "is_deleted": false,
+      "created_at": "2026-01-05T00:44:00-03:00",
+      "modified_at": "2026-01-05T00:44:00-03:00"
+    },
+    "updated_at": 1767584640,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00225",
+    "data": {
+      "id": "plc_00225",
+      "candidate_id": "cand_00167",
+      "agency_id": "agy_00008",
+      "placement_state": "completed",
+      "bill_rate": 87,
+      "is_deleted": false,
+      "created_at": "2026-01-05T11:45:00+08:00",
+      "modified_at": "2026-01-05T11:45:00+08:00"
+    },
+    "updated_at": 1767584700,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00226",
+    "data": {
+      "id": "plc_00226",
+      "candidate_id": "cand_01027",
+      "agency_id": "agy_00002",
+      "placement_state": "on_hold",
+      "bill_rate": 218,
+      "is_deleted": false,
+      "created_at": "2026-01-05T04:46:00+01:00",
+      "modified_at": "2026-01-05T04:46:00+01:00"
+    },
+    "updated_at": 1767584760,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00227",
+    "data": {
+      "id": "plc_00227",
+      "candidate_id": "cand_05263",
+      "agency_id": "agy_00010",
+      "placement_state": "on_hold",
+      "bill_rate": 69,
+      "is_deleted": false,
+      "created_at": "2026-01-05T11:47:00+08:00",
+      "modified_at": "2026-01-05T11:47:00+08:00"
+    },
+    "updated_at": 1767584820,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00228",
+    "data": {
+      "id": "plc_00228",
+      "candidate_id": "cand_05353",
+      "agency_id": "agy_00002",
+      "placement_state": "active",
+      "bill_rate": 90,
+      "is_deleted": false,
+      "created_at": "2026-01-05T07:18:00+03:30",
+      "modified_at": "2026-01-05T07:18:00+03:30"
+    },
+    "updated_at": 1767584880,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00229",
+    "data": {
+      "id": "plc_00229",
+      "candidate_id": "cand_02380",
+      "agency_id": "agy_00006",
+      "placement_state": "on_hold",
+      "bill_rate": 128,
+      "is_deleted": false,
+      "created_at": "2026-01-04T19:49:00-08:00",
+      "modified_at": "2026-01-04T19:49:00-08:00"
+    },
+    "updated_at": 1767584940,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00230",
+    "data": {
+      "id": "plc_00230",
+      "candidate_id": "cand_03210",
+      "agency_id": "agy_00015",
+      "placement_state": "active",
+      "bill_rate": 53,
+      "is_deleted": false,
+      "created_at": "2026-01-05T13:50:00+10:00",
+      "modified_at": "2026-01-05T13:50:00+10:00"
+    },
+    "updated_at": 1767585000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00231",
+    "data": {
+      "id": "plc_00231",
+      "candidate_id": "cand_04545",
+      "agency_id": "agy_00013",
+      "placement_state": "active",
+      "bill_rate": 121,
+      "is_deleted": false,
+      "created_at": "2026-01-04T19:51:00-08:00",
+      "modified_at": "2026-01-04T19:51:00-08:00"
+    },
+    "updated_at": 1767585060,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00232",
+    "data": {
+      "id": "plc_00232",
+      "candidate_id": "cand_02031",
+      "agency_id": "agy_00007",
+      "placement_state": "on_hold",
+      "bill_rate": 52,
+      "is_deleted": false,
+      "created_at": "2026-01-05T04:52:00+01:00",
+      "modified_at": "2026-01-05T04:52:00+01:00"
+    },
+    "updated_at": 1767585120,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00233",
+    "data": {
+      "id": "plc_00233",
+      "candidate_id": "cand_03537",
+      "agency_id": "agy_00015",
+      "placement_state": "cancelled",
+      "bill_rate": 76,
+      "is_deleted": false,
+      "created_at": "2026-01-04T22:53:00-05:00",
+      "modified_at": "2026-01-04T22:53:00-05:00"
+    },
+    "updated_at": 1767585180,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00234",
+    "data": {
+      "id": "plc_00234",
+      "candidate_id": "cand_05447",
+      "agency_id": "agy_00003",
+      "placement_state": "on_hold",
+      "bill_rate": 211,
+      "is_deleted": false,
+      "created_at": "2026-01-05T12:54:00+09:00",
+      "modified_at": "2026-01-05T12:54:00+09:00"
+    },
+    "updated_at": 1767585240,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00235",
+    "data": {
+      "id": "plc_00235",
+      "candidate_id": "cand_05778",
+      "agency_id": "agy_00007",
+      "placement_state": "completed",
+      "bill_rate": 119,
+      "is_deleted": false,
+      "created_at": "2026-01-05T11:55:00+08:00",
+      "modified_at": "2026-01-05T11:55:00+08:00"
+    },
+    "updated_at": 1767585300,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00236",
+    "data": {
+      "id": "plc_00236",
+      "candidate_id": "cand_02636",
+      "agency_id": "agy_00014",
+      "placement_state": "on_hold",
+      "bill_rate": 85,
+      "is_deleted": false,
+      "created_at": "2026-01-05T04:56:00+01:00",
+      "modified_at": "2026-01-05T04:56:00+01:00"
+    },
+    "updated_at": 1767585360,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00237",
+    "data": {
+      "id": "plc_00237",
+      "candidate_id": "cand_03040",
+      "agency_id": "agy_00008",
+      "placement_state": "active",
+      "bill_rate": 157,
+      "is_deleted": false,
+      "created_at": "2026-01-05T04:57:00+01:00",
+      "modified_at": "2026-01-05T04:57:00+01:00"
+    },
+    "updated_at": 1767585420,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00238",
+    "data": {
+      "id": "plc_00238",
+      "candidate_id": "cand_05731",
+      "agency_id": "agy_00006",
+      "placement_state": "completed",
+      "bill_rate": 124,
+      "is_deleted": false,
+      "created_at": "2026-01-05T05:58:00+02:00",
+      "modified_at": "2026-01-05T05:58:00+02:00"
+    },
+    "updated_at": 1767585480,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00239",
+    "data": {
+      "id": "plc_00239",
+      "candidate_id": "cand_05540",
+      "agency_id": "agy_00005",
+      "placement_state": "on_hold",
+      "bill_rate": 64,
+      "is_deleted": false,
+      "created_at": "2026-01-05T11:59:00+08:00",
+      "modified_at": "2026-01-05T11:59:00+08:00"
+    },
+    "updated_at": 1767585540,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00240",
+    "data": {
+      "id": "plc_00240",
+      "candidate_id": "cand_02698",
+      "agency_id": "agy_00007",
+      "placement_state": "cancelled",
+      "bill_rate": 186,
+      "is_deleted": false,
+      "created_at": "2026-01-05T14:00:00+10:00",
+      "modified_at": "2026-01-05T14:00:00+10:00"
+    },
+    "updated_at": 1767585600,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00241",
+    "data": {
+      "id": "plc_00241",
+      "candidate_id": "cand_02959",
+      "agency_id": "agy_00010",
+      "placement_state": "completed",
+      "bill_rate": 202,
+      "is_deleted": false,
+      "created_at": "2026-01-04T23:01:00-05:00",
+      "modified_at": "2026-01-04T23:01:00-05:00"
+    },
+    "updated_at": 1767585660,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00242",
+    "data": {
+      "id": "plc_00242",
+      "candidate_id": "cand_02262",
+      "agency_id": "agy_00006",
+      "placement_state": "on_hold",
+      "bill_rate": 182,
+      "is_deleted": false,
+      "created_at": "2026-01-05T13:02:00+09:00",
+      "modified_at": "2026-01-05T13:02:00+09:00"
+    },
+    "updated_at": 1767585720,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00243",
+    "data": {
+      "id": "plc_00243",
+      "candidate_id": "cand_03729",
+      "agency_id": "agy_00005",
+      "placement_state": "completed",
+      "bill_rate": 134,
+      "is_deleted": false,
+      "created_at": "2026-01-05T13:03:00+09:00",
+      "modified_at": "2026-01-05T13:03:00+09:00"
+    },
+    "updated_at": 1767585780,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00244",
+    "data": {
+      "id": "plc_00244",
+      "candidate_id": "cand_03619",
+      "agency_id": "agy_00012",
+      "placement_state": "cancelled",
+      "bill_rate": 45,
+      "is_deleted": false,
+      "created_at": "2026-01-05T13:04:00+09:00",
+      "modified_at": "2026-01-05T13:04:00+09:00"
+    },
+    "updated_at": 1767585840,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00245",
+    "data": {
+      "id": "plc_00245",
+      "candidate_id": "cand_05040",
+      "agency_id": "agy_00012",
+      "placement_state": "active",
+      "bill_rate": 57,
+      "is_deleted": false,
+      "created_at": "2026-01-05T01:05:00-03:00",
+      "modified_at": "2026-01-05T01:05:00-03:00"
+    },
+    "updated_at": 1767585900,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00246",
+    "data": {
+      "id": "plc_00246",
+      "candidate_id": "cand_01001",
+      "agency_id": "agy_00010",
+      "placement_state": "active",
+      "bill_rate": 216,
+      "is_deleted": false,
+      "created_at": "2026-01-05T09:36:00+05:30",
+      "modified_at": "2026-01-05T09:36:00+05:30"
+    },
+    "updated_at": 1767585960,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00247",
+    "data": {
+      "id": "plc_00247",
+      "candidate_id": "cand_03843",
+      "agency_id": "agy_00008",
+      "placement_state": "cancelled",
+      "bill_rate": 72,
+      "is_deleted": false,
+      "created_at": "2026-01-05T06:07:00+02:00",
+      "modified_at": "2026-01-05T06:07:00+02:00"
+    },
+    "updated_at": 1767586020,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00248",
+    "data": {
+      "id": "plc_00248",
+      "candidate_id": "cand_00807",
+      "agency_id": "agy_00008",
+      "placement_state": "completed",
+      "bill_rate": 139,
+      "is_deleted": false,
+      "created_at": "2026-01-04T23:08:00-05:00",
+      "modified_at": "2026-01-04T23:08:00-05:00"
+    },
+    "updated_at": 1767586080,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00249",
+    "data": {
+      "id": "plc_00249",
+      "candidate_id": "cand_05273",
+      "agency_id": "agy_00003",
+      "placement_state": "completed",
+      "bill_rate": 126,
+      "is_deleted": false,
+      "created_at": "2026-01-05T01:09:00-03:00",
+      "modified_at": "2026-01-05T01:09:00-03:00"
+    },
+    "updated_at": 1767586140,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00250",
+    "data": {
+      "id": "plc_00250",
+      "candidate_id": "cand_00868",
+      "agency_id": "agy_00009",
+      "placement_state": "on_hold",
+      "bill_rate": 50,
+      "is_deleted": false,
+      "created_at": "2026-01-05T07:40:00+03:30",
+      "modified_at": "2026-01-05T07:40:00+03:30"
+    },
+    "updated_at": 1767586200,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00251",
+    "data": {
+      "id": "plc_00251",
+      "candidate_id": "cand_00056",
+      "agency_id": "agy_00015",
+      "placement_state": "on_hold",
+      "bill_rate": 61,
+      "is_deleted": false,
+      "created_at": "2026-01-05T05:11:00+01:00",
+      "modified_at": "2026-01-05T05:11:00+01:00"
+    },
+    "updated_at": 1767586260,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00252",
+    "data": {
+      "id": "plc_00252",
+      "candidate_id": "cand_04499",
+      "agency_id": "agy_00007",
+      "placement_state": "active",
+      "bill_rate": 133,
+      "is_deleted": false,
+      "created_at": "2026-01-04T23:12:00-05:00",
+      "modified_at": "2026-01-04T23:12:00-05:00"
+    },
+    "updated_at": 1767586320,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00253",
+    "data": {
+      "id": "plc_00253",
+      "candidate_id": "cand_01572",
+      "agency_id": "agy_00005",
+      "placement_state": "active",
+      "bill_rate": 183,
+      "is_deleted": false,
+      "created_at": "2026-01-05T01:13:00-03:00",
+      "modified_at": "2026-01-05T01:13:00-03:00"
+    },
+    "updated_at": 1767586380,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00254",
+    "data": {
+      "id": "plc_00254",
+      "candidate_id": "cand_01920",
+      "agency_id": "agy_00002",
+      "placement_state": "active",
+      "bill_rate": 168,
+      "is_deleted": false,
+      "created_at": "2026-01-04T20:14:00-08:00",
+      "modified_at": "2026-01-04T20:14:00-08:00"
+    },
+    "updated_at": 1767586440,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00255",
+    "data": {
+      "id": "plc_00255",
+      "candidate_id": "cand_02368",
+      "agency_id": "agy_00015",
+      "placement_state": "active",
+      "bill_rate": 163,
+      "is_deleted": false,
+      "created_at": "2026-01-05T07:45:00+03:30",
+      "modified_at": "2026-01-05T07:45:00+03:30"
+    },
+    "updated_at": 1767586500,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00256",
+    "data": {
+      "id": "plc_00256",
+      "candidate_id": "cand_00757",
+      "agency_id": "agy_00008",
+      "placement_state": "cancelled",
+      "bill_rate": 51,
+      "is_deleted": false,
+      "created_at": "2026-01-05T07:46:00+03:30",
+      "modified_at": "2026-01-05T07:46:00+03:30"
+    },
+    "updated_at": 1767586560,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00257",
+    "data": {
+      "id": "plc_00257",
+      "candidate_id": "cand_05059",
+      "agency_id": "agy_00014",
+      "placement_state": "completed",
+      "bill_rate": 159,
+      "is_deleted": false,
+      "created_at": "2026-01-05T14:17:00+10:00",
+      "modified_at": "2026-01-05T14:17:00+10:00"
+    },
+    "updated_at": 1767586620,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00258",
+    "data": {
+      "id": "plc_00258",
+      "candidate_id": "cand_04111",
+      "agency_id": "agy_00002",
+      "placement_state": "active",
+      "bill_rate": 180,
+      "is_deleted": false,
+      "created_at": "2026-01-05T06:18:00+02:00",
+      "modified_at": "2026-01-05T06:18:00+02:00"
+    },
+    "updated_at": 1767586680,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00259",
+    "data": {
+      "id": "plc_00259",
+      "candidate_id": "cand_01784",
+      "agency_id": "agy_00004",
+      "placement_state": "cancelled",
+      "bill_rate": 91,
+      "is_deleted": false,
+      "created_at": "2026-01-05T07:49:00+03:30",
+      "modified_at": "2026-01-05T07:49:00+03:30"
+    },
+    "updated_at": 1767586740,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00260",
+    "data": {
+      "id": "plc_00260",
+      "candidate_id": "cand_02728",
+      "agency_id": "agy_00007",
+      "placement_state": "cancelled",
+      "bill_rate": 124,
+      "is_deleted": false,
+      "created_at": "2026-01-05T09:50:00+05:30",
+      "modified_at": "2026-01-05T09:50:00+05:30"
+    },
+    "updated_at": 1767586800,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00261",
+    "data": {
+      "id": "plc_00261",
+      "candidate_id": "cand_04718",
+      "agency_id": "agy_00013",
+      "placement_state": "on_hold",
+      "bill_rate": 99,
+      "is_deleted": false,
+      "created_at": "2026-01-04T23:21:00-05:00",
+      "modified_at": "2026-01-04T23:21:00-05:00"
+    },
+    "updated_at": 1767586860,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00262",
+    "data": {
+      "id": "plc_00262",
+      "candidate_id": "cand_02683",
+      "agency_id": "agy_00010",
+      "placement_state": "on_hold",
+      "bill_rate": 72,
+      "is_deleted": false,
+      "created_at": "2026-01-05T09:52:00+05:30",
+      "modified_at": "2026-01-05T09:52:00+05:30"
+    },
+    "updated_at": 1767586920,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00263",
+    "data": {
+      "id": "plc_00263",
+      "candidate_id": "cand_04358",
+      "agency_id": "agy_00007",
+      "placement_state": "cancelled",
+      "bill_rate": 72,
+      "is_deleted": false,
+      "created_at": "2026-01-04T20:23:00-08:00",
+      "modified_at": "2026-01-04T20:23:00-08:00"
+    },
+    "updated_at": 1767586980,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00264",
+    "data": {
+      "id": "plc_00264",
+      "candidate_id": "cand_01162",
+      "agency_id": "agy_00006",
+      "placement_state": "cancelled",
+      "bill_rate": 87,
+      "is_deleted": false,
+      "created_at": "2026-01-05T06:24:00+02:00",
+      "modified_at": "2026-01-05T06:24:00+02:00"
+    },
+    "updated_at": 1767587040,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00265",
+    "data": {
+      "id": "plc_00265",
+      "candidate_id": "cand_01925",
+      "agency_id": "agy_00003",
+      "placement_state": "cancelled",
+      "bill_rate": 124,
+      "is_deleted": false,
+      "created_at": "2026-01-05T09:55:00+05:30",
+      "modified_at": "2026-01-05T09:55:00+05:30"
+    },
+    "updated_at": 1767587100,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00266",
+    "data": {
+      "id": "plc_00266",
+      "candidate_id": "cand_04739",
+      "agency_id": "agy_00015",
+      "placement_state": "completed",
+      "bill_rate": 167,
+      "is_deleted": false,
+      "created_at": "2026-01-05T13:26:00+09:00",
+      "modified_at": "2026-01-05T13:26:00+09:00"
+    },
+    "updated_at": 1767587160,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00267",
+    "data": {
+      "id": "plc_00267",
+      "candidate_id": "cand_05718",
+      "agency_id": "agy_00015",
+      "placement_state": "completed",
+      "bill_rate": 211,
+      "is_deleted": false,
+      "created_at": "2026-01-05T12:27:00+08:00",
+      "modified_at": "2026-01-05T12:27:00+08:00"
+    },
+    "updated_at": 1767587220,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00268",
+    "data": {
+      "id": "plc_00268",
+      "candidate_id": "cand_04898",
+      "agency_id": "agy_00007",
+      "placement_state": "active",
+      "bill_rate": 66,
+      "is_deleted": false,
+      "created_at": "2026-01-05T09:58:00+05:30",
+      "modified_at": "2026-01-05T09:58:00+05:30"
+    },
+    "updated_at": 1767587280,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00269",
+    "data": {
+      "id": "plc_00269",
+      "candidate_id": "cand_00332",
+      "agency_id": "agy_00004",
+      "placement_state": "completed",
+      "bill_rate": 85,
+      "is_deleted": false,
+      "created_at": "2026-01-05T06:29:00+02:00",
+      "modified_at": "2026-01-05T06:29:00+02:00"
+    },
+    "updated_at": 1767587340,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00270",
+    "data": {
+      "id": "plc_00270",
+      "candidate_id": "cand_04674",
+      "agency_id": "agy_00002",
+      "placement_state": "cancelled",
+      "bill_rate": 124,
+      "is_deleted": false,
+      "created_at": "2026-01-04T20:30:00-08:00",
+      "modified_at": "2026-01-04T20:30:00-08:00"
+    },
+    "updated_at": 1767587400,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00271",
+    "data": {
+      "id": "plc_00271",
+      "candidate_id": "cand_01015",
+      "agency_id": "agy_00006",
+      "placement_state": "completed",
+      "bill_rate": 121,
+      "is_deleted": false,
+      "created_at": "2026-01-05T01:31:00-03:00",
+      "modified_at": "2026-01-05T01:31:00-03:00"
+    },
+    "updated_at": 1767587460,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00272",
+    "data": {
+      "id": "plc_00272",
+      "candidate_id": "cand_04292",
+      "agency_id": "agy_00013",
+      "placement_state": "cancelled",
+      "bill_rate": 202,
+      "is_deleted": false,
+      "created_at": "2026-01-05T05:32:00+01:00",
+      "modified_at": "2026-01-05T05:32:00+01:00"
+    },
+    "updated_at": 1767587520,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00273",
+    "data": {
+      "id": "plc_00273",
+      "candidate_id": "cand_03735",
+      "agency_id": "agy_00013",
+      "placement_state": "cancelled",
+      "bill_rate": 157,
+      "is_deleted": false,
+      "created_at": "2026-01-04T23:33:00-05:00",
+      "modified_at": "2026-01-04T23:33:00-05:00"
+    },
+    "updated_at": 1767587580,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00274",
+    "data": {
+      "id": "plc_00274",
+      "candidate_id": "cand_01716",
+      "agency_id": "agy_00009",
+      "placement_state": "active",
+      "bill_rate": 77,
+      "is_deleted": false,
+      "created_at": "2026-01-05T10:04:00+05:30",
+      "modified_at": "2026-01-05T10:04:00+05:30"
+    },
+    "updated_at": 1767587640,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00275",
+    "data": {
+      "id": "plc_00275",
+      "candidate_id": "cand_05659",
+      "agency_id": "agy_00003",
+      "placement_state": "cancelled",
+      "bill_rate": 182,
+      "is_deleted": false,
+      "created_at": "2026-01-04T23:35:00-05:00",
+      "modified_at": "2026-01-04T23:35:00-05:00"
+    },
+    "updated_at": 1767587700,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00276",
+    "data": {
+      "id": "plc_00276",
+      "candidate_id": "cand_04025",
+      "agency_id": "agy_00005",
+      "placement_state": "cancelled",
+      "bill_rate": 52,
+      "is_deleted": false,
+      "created_at": "2026-01-05T12:36:00+08:00",
+      "modified_at": "2026-01-05T12:36:00+08:00"
+    },
+    "updated_at": 1767587760,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00277",
+    "data": {
+      "id": "plc_00277",
+      "candidate_id": "cand_03593",
+      "agency_id": "agy_00012",
+      "placement_state": "completed",
+      "bill_rate": 119,
+      "is_deleted": false,
+      "created_at": "2026-01-05T14:37:00+10:00",
+      "modified_at": "2026-01-05T14:37:00+10:00"
+    },
+    "updated_at": 1767587820,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00278",
+    "data": {
+      "id": "plc_00278",
+      "candidate_id": "cand_05465",
+      "agency_id": "agy_00011",
+      "placement_state": "completed",
+      "bill_rate": 182,
+      "is_deleted": false,
+      "created_at": "2026-01-05T01:38:00-03:00",
+      "modified_at": "2026-01-05T01:38:00-03:00"
+    },
+    "updated_at": 1767587880,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00279",
+    "data": {
+      "id": "plc_00279",
+      "candidate_id": "cand_02391",
+      "agency_id": "agy_00013",
+      "placement_state": "cancelled",
+      "bill_rate": 130,
+      "is_deleted": false,
+      "created_at": "2026-01-05T12:39:00+08:00",
+      "modified_at": "2026-01-05T12:39:00+08:00"
+    },
+    "updated_at": 1767587940,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00280",
+    "data": {
+      "id": "plc_00280",
+      "candidate_id": "cand_00944",
+      "agency_id": "agy_00005",
+      "placement_state": "completed",
+      "bill_rate": 140,
+      "is_deleted": false,
+      "created_at": "2026-01-05T05:40:00+01:00",
+      "modified_at": "2026-01-05T05:40:00+01:00"
+    },
+    "updated_at": 1767588000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00281",
+    "data": {
+      "id": "plc_00281",
+      "candidate_id": "cand_03093",
+      "agency_id": "agy_00001",
+      "placement_state": "on_hold",
+      "bill_rate": 166,
+      "is_deleted": false,
+      "created_at": "2026-01-05T06:41:00+02:00",
+      "modified_at": "2026-01-05T06:41:00+02:00"
+    },
+    "updated_at": 1767588060,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00282",
+    "data": {
+      "id": "plc_00282",
+      "candidate_id": "cand_04012",
+      "agency_id": "agy_00002",
+      "placement_state": "active",
+      "bill_rate": 102,
+      "is_deleted": false,
+      "created_at": "2026-01-04T20:42:00-08:00",
+      "modified_at": "2026-01-04T20:42:00-08:00"
+    },
+    "updated_at": 1767588120,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00283",
+    "data": {
+      "id": "plc_00283",
+      "candidate_id": "cand_03292",
+      "agency_id": "agy_00009",
+      "placement_state": "cancelled",
+      "bill_rate": 59,
+      "is_deleted": false,
+      "created_at": "2026-01-05T14:43:00+10:00",
+      "modified_at": "2026-01-05T14:43:00+10:00"
+    },
+    "updated_at": 1767588180,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00284",
+    "data": {
+      "id": "plc_00284",
+      "candidate_id": "cand_04399",
+      "agency_id": "agy_00010",
+      "placement_state": "completed",
+      "bill_rate": 56,
+      "is_deleted": false,
+      "created_at": "2026-01-05T06:44:00+02:00",
+      "modified_at": "2026-01-05T06:44:00+02:00"
+    },
+    "updated_at": 1767588240,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00285",
+    "data": {
+      "id": "plc_00285",
+      "candidate_id": "cand_03279",
+      "agency_id": "agy_00015",
+      "placement_state": "completed",
+      "bill_rate": 171,
+      "is_deleted": false,
+      "created_at": "2026-01-05T10:15:00+05:30",
+      "modified_at": "2026-01-05T10:15:00+05:30"
+    },
+    "updated_at": 1767588300,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00286",
+    "data": {
+      "id": "plc_00286",
+      "candidate_id": "cand_01194",
+      "agency_id": "agy_00006",
+      "placement_state": "completed",
+      "bill_rate": 88,
+      "is_deleted": false,
+      "created_at": "2026-01-05T06:46:00+02:00",
+      "modified_at": "2026-01-05T06:46:00+02:00"
+    },
+    "updated_at": 1767588360,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00287",
+    "data": {
+      "id": "plc_00287",
+      "candidate_id": "cand_03288",
+      "agency_id": "agy_00005",
+      "placement_state": "on_hold",
+      "bill_rate": 93,
+      "is_deleted": false,
+      "created_at": "2026-01-04T20:47:00-08:00",
+      "modified_at": "2026-01-04T20:47:00-08:00"
+    },
+    "updated_at": 1767588420,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00288",
+    "data": {
+      "id": "plc_00288",
+      "candidate_id": "cand_05991",
+      "agency_id": "agy_00012",
+      "placement_state": "cancelled",
+      "bill_rate": 69,
+      "is_deleted": false,
+      "created_at": "2026-01-05T10:18:00+05:30",
+      "modified_at": "2026-01-05T10:18:00+05:30"
+    },
+    "updated_at": 1767588480,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00289",
+    "data": {
+      "id": "plc_00289",
+      "candidate_id": "cand_02502",
+      "agency_id": "agy_00003",
+      "placement_state": "active",
+      "bill_rate": 209,
+      "is_deleted": false,
+      "created_at": "2026-01-05T12:49:00+08:00",
+      "modified_at": "2026-01-05T12:49:00+08:00"
+    },
+    "updated_at": 1767588540,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00290",
+    "data": {
+      "id": "plc_00290",
+      "candidate_id": "cand_00885",
+      "agency_id": "agy_00004",
+      "placement_state": "on_hold",
+      "bill_rate": 109,
+      "is_deleted": false,
+      "created_at": "2026-01-05T08:20:00+03:30",
+      "modified_at": "2026-01-05T08:20:00+03:30"
+    },
+    "updated_at": 1767588600,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00291",
+    "data": {
+      "id": "plc_00291",
+      "candidate_id": "cand_03397",
+      "agency_id": "agy_00015",
+      "placement_state": "completed",
+      "bill_rate": 117,
+      "is_deleted": false,
+      "created_at": "2026-01-05T06:51:00+02:00",
+      "modified_at": "2026-01-05T06:51:00+02:00"
+    },
+    "updated_at": 1767588660,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00292",
+    "data": {
+      "id": "plc_00292",
+      "candidate_id": "cand_01366",
+      "agency_id": "agy_00015",
+      "placement_state": "on_hold",
+      "bill_rate": 199,
+      "is_deleted": false,
+      "created_at": "2026-01-05T13:52:00+09:00",
+      "modified_at": "2026-01-05T13:52:00+09:00"
+    },
+    "updated_at": 1767588720,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00293",
+    "data": {
+      "id": "plc_00293",
+      "candidate_id": "cand_04918",
+      "agency_id": "agy_00014",
+      "placement_state": "cancelled",
+      "bill_rate": 95,
+      "is_deleted": false,
+      "created_at": "2026-01-05T12:53:00+08:00",
+      "modified_at": "2026-01-05T12:53:00+08:00"
+    },
+    "updated_at": 1767588780,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00294",
+    "data": {
+      "id": "plc_00294",
+      "candidate_id": "cand_04975",
+      "agency_id": "agy_00015",
+      "placement_state": "completed",
+      "bill_rate": 209,
+      "is_deleted": false,
+      "created_at": "2026-01-04T20:54:00-08:00",
+      "modified_at": "2026-01-04T20:54:00-08:00"
+    },
+    "updated_at": 1767588840,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00295",
+    "data": {
+      "id": "plc_00295",
+      "candidate_id": "cand_00574",
+      "agency_id": "agy_00008",
+      "placement_state": "on_hold",
+      "bill_rate": 146,
+      "is_deleted": false,
+      "created_at": "2026-01-04T20:55:00-08:00",
+      "modified_at": "2026-01-04T20:55:00-08:00"
+    },
+    "updated_at": 1767588900,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00296",
+    "data": {
+      "id": "plc_00296",
+      "candidate_id": "cand_00128",
+      "agency_id": "agy_00014",
+      "placement_state": "on_hold",
+      "bill_rate": 181,
+      "is_deleted": false,
+      "created_at": "2026-01-05T10:26:00+05:30",
+      "modified_at": "2026-01-05T10:26:00+05:30"
+    },
+    "updated_at": 1767588960,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00297",
+    "data": {
+      "id": "plc_00297",
+      "candidate_id": "cand_03987",
+      "agency_id": "agy_00006",
+      "placement_state": "cancelled",
+      "bill_rate": 61,
+      "is_deleted": false,
+      "created_at": "2026-01-05T12:57:00+08:00",
+      "modified_at": "2026-01-05T12:57:00+08:00"
+    },
+    "updated_at": 1767589020,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00298",
+    "data": {
+      "id": "plc_00298",
+      "candidate_id": "cand_01480",
+      "agency_id": "agy_00015",
+      "placement_state": "on_hold",
+      "bill_rate": 50,
+      "is_deleted": false,
+      "created_at": "2026-01-05T12:58:00+08:00",
+      "modified_at": "2026-01-05T12:58:00+08:00"
+    },
+    "updated_at": 1767589080,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00299",
+    "data": {
+      "id": "plc_00299",
+      "candidate_id": "cand_00545",
+      "agency_id": "agy_00009",
+      "placement_state": "completed",
+      "bill_rate": 182,
+      "is_deleted": false,
+      "created_at": "2026-01-05T08:29:00+03:30",
+      "modified_at": "2026-01-05T08:29:00+03:30"
+    },
+    "updated_at": 1767589140,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00300",
+    "data": {
+      "id": "plc_00300",
+      "candidate_id": "cand_00561",
+      "agency_id": "agy_00012",
+      "placement_state": "completed",
+      "bill_rate": 120,
+      "is_deleted": false,
+      "created_at": "2026-01-05T10:30:00+05:30",
+      "modified_at": "2026-01-05T10:30:00+05:30"
+    },
+    "updated_at": 1767589200,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00301",
+    "data": {
+      "id": "plc_00301",
+      "candidate_id": "cand_03146",
+      "agency_id": "agy_00010",
+      "placement_state": "cancelled",
+      "bill_rate": 202,
+      "is_deleted": false,
+      "created_at": "2026-01-05T10:31:00+05:30",
+      "modified_at": "2026-01-05T10:31:00+05:30"
+    },
+    "updated_at": 1767589260,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00302",
+    "data": {
+      "id": "plc_00302",
+      "candidate_id": "cand_04561",
+      "agency_id": "agy_00001",
+      "placement_state": "active",
+      "bill_rate": 215,
+      "is_deleted": false,
+      "created_at": "2026-01-05T07:02:00+02:00",
+      "modified_at": "2026-01-05T07:02:00+02:00"
+    },
+    "updated_at": 1767589320,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00303",
+    "data": {
+      "id": "plc_00303",
+      "candidate_id": "cand_02387",
+      "agency_id": "agy_00010",
+      "placement_state": "active",
+      "bill_rate": 170,
+      "is_deleted": false,
+      "created_at": "2026-01-05T08:33:00+03:30",
+      "modified_at": "2026-01-05T08:33:00+03:30"
+    },
+    "updated_at": 1767589380,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00304",
+    "data": {
+      "id": "plc_00304",
+      "candidate_id": "cand_03431",
+      "agency_id": "agy_00005",
+      "placement_state": "cancelled",
+      "bill_rate": 169,
+      "is_deleted": false,
+      "created_at": "2026-01-05T00:04:00-05:00",
+      "modified_at": "2026-01-05T00:04:00-05:00"
+    },
+    "updated_at": 1767589440,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00305",
+    "data": {
+      "id": "plc_00305",
+      "candidate_id": "cand_01401",
+      "agency_id": "agy_00013",
+      "placement_state": "on_hold",
+      "bill_rate": 217,
+      "is_deleted": false,
+      "created_at": "2026-01-05T07:05:00+02:00",
+      "modified_at": "2026-01-05T07:05:00+02:00"
+    },
+    "updated_at": 1767589500,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00306",
+    "data": {
+      "id": "plc_00306",
+      "candidate_id": "cand_00860",
+      "agency_id": "agy_00008",
+      "placement_state": "on_hold",
+      "bill_rate": 86,
+      "is_deleted": false,
+      "created_at": "2026-01-04T21:06:00-08:00",
+      "modified_at": "2026-01-04T21:06:00-08:00"
+    },
+    "updated_at": 1767589560,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00307",
+    "data": {
+      "id": "plc_00307",
+      "candidate_id": "cand_04521",
+      "agency_id": "agy_00012",
+      "placement_state": "on_hold",
+      "bill_rate": 212,
+      "is_deleted": false,
+      "created_at": "2026-01-05T13:07:00+08:00",
+      "modified_at": "2026-01-05T13:07:00+08:00"
+    },
+    "updated_at": 1767589620,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00308",
+    "data": {
+      "id": "plc_00308",
+      "candidate_id": "cand_04432",
+      "agency_id": "agy_00009",
+      "placement_state": "active",
+      "bill_rate": 81,
+      "is_deleted": false,
+      "created_at": "2026-01-05T02:08:00-03:00",
+      "modified_at": "2026-01-05T02:08:00-03:00"
+    },
+    "updated_at": 1767589680,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00309",
+    "data": {
+      "id": "plc_00309",
+      "candidate_id": "cand_02556",
+      "agency_id": "agy_00008",
+      "placement_state": "active",
+      "bill_rate": 198,
+      "is_deleted": false,
+      "created_at": "2026-01-05T07:09:00+02:00",
+      "modified_at": "2026-01-05T07:09:00+02:00"
+    },
+    "updated_at": 1767589740,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00310",
+    "data": {
+      "id": "plc_00310",
+      "candidate_id": "cand_04444",
+      "agency_id": "agy_00011",
+      "placement_state": "completed",
+      "bill_rate": 215,
+      "is_deleted": false,
+      "created_at": "2026-01-05T02:10:00-03:00",
+      "modified_at": "2026-01-05T02:10:00-03:00"
+    },
+    "updated_at": 1767589800,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00311",
+    "data": {
+      "id": "plc_00311",
+      "candidate_id": "cand_05473",
+      "agency_id": "agy_00011",
+      "placement_state": "cancelled",
+      "bill_rate": 187,
+      "is_deleted": false,
+      "created_at": "2026-01-05T14:11:00+09:00",
+      "modified_at": "2026-01-05T14:11:00+09:00"
+    },
+    "updated_at": 1767589860,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00312",
+    "data": {
+      "id": "plc_00312",
+      "candidate_id": "cand_00118",
+      "agency_id": "agy_00006",
+      "placement_state": "cancelled",
+      "bill_rate": 123,
+      "is_deleted": false,
+      "created_at": "2026-01-05T02:12:00-03:00",
+      "modified_at": "2026-01-05T02:12:00-03:00"
+    },
+    "updated_at": 1767589920,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00313",
+    "data": {
+      "id": "plc_00313",
+      "candidate_id": "cand_04872",
+      "agency_id": "agy_00013",
+      "placement_state": "active",
+      "bill_rate": 164,
+      "is_deleted": false,
+      "created_at": "2026-01-05T13:13:00+08:00",
+      "modified_at": "2026-01-05T13:13:00+08:00"
+    },
+    "updated_at": 1767589980,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00314",
+    "data": {
+      "id": "plc_00314",
+      "candidate_id": "cand_02474",
+      "agency_id": "agy_00012",
+      "placement_state": "cancelled",
+      "bill_rate": 151,
+      "is_deleted": false,
+      "created_at": "2026-01-05T07:14:00+02:00",
+      "modified_at": "2026-01-05T07:14:00+02:00"
+    },
+    "updated_at": 1767590040,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00315",
+    "data": {
+      "id": "plc_00315",
+      "candidate_id": "cand_04661",
+      "agency_id": "agy_00005",
+      "placement_state": "on_hold",
+      "bill_rate": 89,
+      "is_deleted": false,
+      "created_at": "2026-01-05T14:15:00+09:00",
+      "modified_at": "2026-01-05T14:15:00+09:00"
+    },
+    "updated_at": 1767590100,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00316",
+    "data": {
+      "id": "plc_00316",
+      "candidate_id": "cand_05810",
+      "agency_id": "agy_00015",
+      "placement_state": "active",
+      "bill_rate": 79,
+      "is_deleted": false,
+      "created_at": "2026-01-05T07:16:00+02:00",
+      "modified_at": "2026-01-05T07:16:00+02:00"
+    },
+    "updated_at": 1767590160,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00317",
+    "data": {
+      "id": "plc_00317",
+      "candidate_id": "cand_02865",
+      "agency_id": "agy_00002",
+      "placement_state": "on_hold",
+      "bill_rate": 111,
+      "is_deleted": false,
+      "created_at": "2026-01-05T00:17:00-05:00",
+      "modified_at": "2026-01-05T00:17:00-05:00"
+    },
+    "updated_at": 1767590220,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00318",
+    "data": {
+      "id": "plc_00318",
+      "candidate_id": "cand_04642",
+      "agency_id": "agy_00010",
+      "placement_state": "cancelled",
+      "bill_rate": 196,
+      "is_deleted": false,
+      "created_at": "2026-01-05T08:48:00+03:30",
+      "modified_at": "2026-01-05T08:48:00+03:30"
+    },
+    "updated_at": 1767590280,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00319",
+    "data": {
+      "id": "plc_00319",
+      "candidate_id": "cand_00821",
+      "agency_id": "agy_00013",
+      "placement_state": "completed",
+      "bill_rate": 154,
+      "is_deleted": false,
+      "created_at": "2026-01-05T13:19:00+08:00",
+      "modified_at": "2026-01-05T13:19:00+08:00"
+    },
+    "updated_at": 1767590340,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00320",
+    "data": {
+      "id": "plc_00320",
+      "candidate_id": "cand_04220",
+      "agency_id": "agy_00012",
+      "placement_state": "completed",
+      "bill_rate": 156,
+      "is_deleted": false,
+      "created_at": "2026-01-05T10:50:00+05:30",
+      "modified_at": "2026-01-05T10:50:00+05:30"
+    },
+    "updated_at": 1767590400,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00321",
+    "data": {
+      "id": "plc_00321",
+      "candidate_id": "cand_05991",
+      "agency_id": "agy_00009",
+      "placement_state": "completed",
+      "bill_rate": 205,
+      "is_deleted": false,
+      "created_at": "2026-01-05T06:21:00+01:00",
+      "modified_at": "2026-01-05T06:21:00+01:00"
+    },
+    "updated_at": 1767590460,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00322",
+    "data": {
+      "id": "plc_00322",
+      "candidate_id": "cand_05380",
+      "agency_id": "agy_00011",
+      "placement_state": "active",
+      "bill_rate": 213,
+      "is_deleted": false,
+      "created_at": "2026-01-05T02:22:00-03:00",
+      "modified_at": "2026-01-05T02:22:00-03:00"
+    },
+    "updated_at": 1767590520,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00323",
+    "data": {
+      "id": "plc_00323",
+      "candidate_id": "cand_05384",
+      "agency_id": "agy_00007",
+      "placement_state": "completed",
+      "bill_rate": 102,
+      "is_deleted": false,
+      "created_at": "2026-01-05T14:23:00+09:00",
+      "modified_at": "2026-01-05T14:23:00+09:00"
+    },
+    "updated_at": 1767590580,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00324",
+    "data": {
+      "id": "plc_00324",
+      "candidate_id": "cand_05159",
+      "agency_id": "agy_00007",
+      "placement_state": "active",
+      "bill_rate": 165,
+      "is_deleted": false,
+      "created_at": "2026-01-05T02:24:00-03:00",
+      "modified_at": "2026-01-05T02:24:00-03:00"
+    },
+    "updated_at": 1767590640,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00325",
+    "data": {
+      "id": "plc_00325",
+      "candidate_id": "cand_02058",
+      "agency_id": "agy_00015",
+      "placement_state": "completed",
+      "bill_rate": 189,
+      "is_deleted": false,
+      "created_at": "2026-01-05T15:25:00+10:00",
+      "modified_at": "2026-01-05T15:25:00+10:00"
+    },
+    "updated_at": 1767590700,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00326",
+    "data": {
+      "id": "plc_00326",
+      "candidate_id": "cand_04263",
+      "agency_id": "agy_00006",
+      "placement_state": "active",
+      "bill_rate": 199,
+      "is_deleted": false,
+      "created_at": "2026-01-05T00:26:00-05:00",
+      "modified_at": "2026-01-05T00:26:00-05:00"
+    },
+    "updated_at": 1767590760,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00327",
+    "data": {
+      "id": "plc_00327",
+      "candidate_id": "cand_03701",
+      "agency_id": "agy_00013",
+      "placement_state": "completed",
+      "bill_rate": 149,
+      "is_deleted": false,
+      "created_at": "2026-01-05T10:57:00+05:30",
+      "modified_at": "2026-01-05T10:57:00+05:30"
+    },
+    "updated_at": 1767590820,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00328",
+    "data": {
+      "id": "plc_00328",
+      "candidate_id": "cand_04310",
+      "agency_id": "agy_00003",
+      "placement_state": "on_hold",
+      "bill_rate": 79,
+      "is_deleted": false,
+      "created_at": "2026-01-05T07:28:00+02:00",
+      "modified_at": "2026-01-05T07:28:00+02:00"
+    },
+    "updated_at": 1767590880,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00329",
+    "data": {
+      "id": "plc_00329",
+      "candidate_id": "cand_02381",
+      "agency_id": "agy_00014",
+      "placement_state": "active",
+      "bill_rate": 194,
+      "is_deleted": false,
+      "created_at": "2026-01-05T10:59:00+05:30",
+      "modified_at": "2026-01-05T10:59:00+05:30"
+    },
+    "updated_at": 1767590940,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00330",
+    "data": {
+      "id": "plc_00330",
+      "candidate_id": "cand_00718",
+      "agency_id": "agy_00003",
+      "placement_state": "cancelled",
+      "bill_rate": 185,
+      "is_deleted": false,
+      "created_at": "2026-01-05T06:30:00+01:00",
+      "modified_at": "2026-01-05T06:30:00+01:00"
+    },
+    "updated_at": 1767591000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00331",
+    "data": {
+      "id": "plc_00331",
+      "candidate_id": "cand_01683",
+      "agency_id": "agy_00013",
+      "placement_state": "active",
+      "bill_rate": 46,
+      "is_deleted": false,
+      "created_at": "2026-01-05T06:31:00+01:00",
+      "modified_at": "2026-01-05T06:31:00+01:00"
+    },
+    "updated_at": 1767591060,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00332",
+    "data": {
+      "id": "plc_00332",
+      "candidate_id": "cand_01674",
+      "agency_id": "agy_00001",
+      "placement_state": "on_hold",
+      "bill_rate": 119,
+      "is_deleted": false,
+      "created_at": "2026-01-05T06:32:00+01:00",
+      "modified_at": "2026-01-05T06:32:00+01:00"
+    },
+    "updated_at": 1767591120,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00333",
+    "data": {
+      "id": "plc_00333",
+      "candidate_id": "cand_05425",
+      "agency_id": "agy_00004",
+      "placement_state": "on_hold",
+      "bill_rate": 177,
+      "is_deleted": false,
+      "created_at": "2026-01-05T06:33:00+01:00",
+      "modified_at": "2026-01-05T06:33:00+01:00"
+    },
+    "updated_at": 1767591180,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00334",
+    "data": {
+      "id": "plc_00334",
+      "candidate_id": "cand_03441",
+      "agency_id": "agy_00013",
+      "placement_state": "cancelled",
+      "bill_rate": 148,
+      "is_deleted": false,
+      "created_at": "2026-01-05T02:34:00-03:00",
+      "modified_at": "2026-01-05T02:34:00-03:00"
+    },
+    "updated_at": 1767591240,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00335",
+    "data": {
+      "id": "plc_00335",
+      "candidate_id": "cand_05236",
+      "agency_id": "agy_00003",
+      "placement_state": "active",
+      "bill_rate": 147,
+      "is_deleted": false,
+      "created_at": "2026-01-05T11:05:00+05:30",
+      "modified_at": "2026-01-05T11:05:00+05:30"
+    },
+    "updated_at": 1767591300,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00336",
+    "data": {
+      "id": "plc_00336",
+      "candidate_id": "cand_05564",
+      "agency_id": "agy_00008",
+      "placement_state": "completed",
+      "bill_rate": 57,
+      "is_deleted": false,
+      "created_at": "2026-01-05T15:36:00+10:00",
+      "modified_at": "2026-01-05T15:36:00+10:00"
+    },
+    "updated_at": 1767591360,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00337",
+    "data": {
+      "id": "plc_00337",
+      "candidate_id": "cand_02393",
+      "agency_id": "agy_00007",
+      "placement_state": "on_hold",
+      "bill_rate": 91,
+      "is_deleted": false,
+      "created_at": "2026-01-05T15:37:00+10:00",
+      "modified_at": "2026-01-05T15:37:00+10:00"
+    },
+    "updated_at": 1767591420,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00338",
+    "data": {
+      "id": "plc_00338",
+      "candidate_id": "cand_04516",
+      "agency_id": "agy_00003",
+      "placement_state": "cancelled",
+      "bill_rate": 102,
+      "is_deleted": false,
+      "created_at": "2026-01-05T13:38:00+08:00",
+      "modified_at": "2026-01-05T13:38:00+08:00"
+    },
+    "updated_at": 1767591480,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00339",
+    "data": {
+      "id": "plc_00339",
+      "candidate_id": "cand_02927",
+      "agency_id": "agy_00011",
+      "placement_state": "completed",
+      "bill_rate": 72,
+      "is_deleted": false,
+      "created_at": "2026-01-05T09:09:00+03:30",
+      "modified_at": "2026-01-05T09:09:00+03:30"
+    },
+    "updated_at": 1767591540,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00340",
+    "data": {
+      "id": "plc_00340",
+      "candidate_id": "cand_02648",
+      "agency_id": "agy_00002",
+      "placement_state": "completed",
+      "bill_rate": 76,
+      "is_deleted": false,
+      "created_at": "2026-01-05T11:10:00+05:30",
+      "modified_at": "2026-01-05T11:10:00+05:30"
+    },
+    "updated_at": 1767591600,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00341",
+    "data": {
+      "id": "plc_00341",
+      "candidate_id": "cand_04282",
+      "agency_id": "agy_00005",
+      "placement_state": "cancelled",
+      "bill_rate": 183,
+      "is_deleted": false,
+      "created_at": "2026-01-05T11:11:00+05:30",
+      "modified_at": "2026-01-05T11:11:00+05:30"
+    },
+    "updated_at": 1767591660,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00342",
+    "data": {
+      "id": "plc_00342",
+      "candidate_id": "cand_03452",
+      "agency_id": "agy_00003",
+      "placement_state": "on_hold",
+      "bill_rate": 91,
+      "is_deleted": false,
+      "created_at": "2026-01-05T02:42:00-03:00",
+      "modified_at": "2026-01-05T02:42:00-03:00"
+    },
+    "updated_at": 1767591720,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00343",
+    "data": {
+      "id": "plc_00343",
+      "candidate_id": "cand_02441",
+      "agency_id": "agy_00013",
+      "placement_state": "completed",
+      "bill_rate": 65,
+      "is_deleted": false,
+      "created_at": "2026-01-05T14:43:00+09:00",
+      "modified_at": "2026-01-05T14:43:00+09:00"
+    },
+    "updated_at": 1767591780,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00344",
+    "data": {
+      "id": "plc_00344",
+      "candidate_id": "cand_03458",
+      "agency_id": "agy_00014",
+      "placement_state": "on_hold",
+      "bill_rate": 53,
+      "is_deleted": false,
+      "created_at": "2026-01-05T15:44:00+10:00",
+      "modified_at": "2026-01-05T15:44:00+10:00"
+    },
+    "updated_at": 1767591840,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00345",
+    "data": {
+      "id": "plc_00345",
+      "candidate_id": "cand_03513",
+      "agency_id": "agy_00006",
+      "placement_state": "active",
+      "bill_rate": 174,
+      "is_deleted": false,
+      "created_at": "2026-01-05T11:15:00+05:30",
+      "modified_at": "2026-01-05T11:15:00+05:30"
+    },
+    "updated_at": 1767591900,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00346",
+    "data": {
+      "id": "plc_00346",
+      "candidate_id": "cand_05850",
+      "agency_id": "agy_00008",
+      "placement_state": "active",
+      "bill_rate": 104,
+      "is_deleted": false,
+      "created_at": "2026-01-05T15:46:00+10:00",
+      "modified_at": "2026-01-05T15:46:00+10:00"
+    },
+    "updated_at": 1767591960,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00347",
+    "data": {
+      "id": "plc_00347",
+      "candidate_id": "cand_01392",
+      "agency_id": "agy_00006",
+      "placement_state": "active",
+      "bill_rate": 166,
+      "is_deleted": false,
+      "created_at": "2026-01-05T02:47:00-03:00",
+      "modified_at": "2026-01-05T02:47:00-03:00"
+    },
+    "updated_at": 1767592020,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00348",
+    "data": {
+      "id": "plc_00348",
+      "candidate_id": "cand_00150",
+      "agency_id": "agy_00002",
+      "placement_state": "active",
+      "bill_rate": 121,
+      "is_deleted": false,
+      "created_at": "2026-01-05T00:48:00-05:00",
+      "modified_at": "2026-01-05T00:48:00-05:00"
+    },
+    "updated_at": 1767592080,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00349",
+    "data": {
+      "id": "plc_00349",
+      "candidate_id": "cand_02247",
+      "agency_id": "agy_00009",
+      "placement_state": "cancelled",
+      "bill_rate": 142,
+      "is_deleted": false,
+      "created_at": "2026-01-05T06:49:00+01:00",
+      "modified_at": "2026-01-05T06:49:00+01:00"
+    },
+    "updated_at": 1767592140,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00350",
+    "data": {
+      "id": "plc_00350",
+      "candidate_id": "cand_04667",
+      "agency_id": "agy_00015",
+      "placement_state": "cancelled",
+      "bill_rate": 54,
+      "is_deleted": false,
+      "created_at": "2026-01-05T07:50:00+02:00",
+      "modified_at": "2026-01-05T07:50:00+02:00"
+    },
+    "updated_at": 1767592200,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00351",
+    "data": {
+      "id": "plc_00351",
+      "candidate_id": "cand_04397",
+      "agency_id": "agy_00008",
+      "placement_state": "cancelled",
+      "bill_rate": 133,
+      "is_deleted": false,
+      "created_at": "2026-01-05T00:51:00-05:00",
+      "modified_at": "2026-01-05T00:51:00-05:00"
+    },
+    "updated_at": 1767592260,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00352",
+    "data": {
+      "id": "plc_00352",
+      "candidate_id": "cand_05555",
+      "agency_id": "agy_00015",
+      "placement_state": "active",
+      "bill_rate": 134,
+      "is_deleted": false,
+      "created_at": "2026-01-05T15:52:00+10:00",
+      "modified_at": "2026-01-05T15:52:00+10:00"
+    },
+    "updated_at": 1767592320,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00353",
+    "data": {
+      "id": "plc_00353",
+      "candidate_id": "cand_05988",
+      "agency_id": "agy_00002",
+      "placement_state": "completed",
+      "bill_rate": 164,
+      "is_deleted": false,
+      "created_at": "2026-01-05T15:53:00+10:00",
+      "modified_at": "2026-01-05T15:53:00+10:00"
+    },
+    "updated_at": 1767592380,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00354",
+    "data": {
+      "id": "plc_00354",
+      "candidate_id": "cand_01850",
+      "agency_id": "agy_00008",
+      "placement_state": "completed",
+      "bill_rate": 158,
+      "is_deleted": false,
+      "created_at": "2026-01-05T07:54:00+02:00",
+      "modified_at": "2026-01-05T07:54:00+02:00"
+    },
+    "updated_at": 1767592440,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00355",
+    "data": {
+      "id": "plc_00355",
+      "candidate_id": "cand_01042",
+      "agency_id": "agy_00002",
+      "placement_state": "active",
+      "bill_rate": 197,
+      "is_deleted": false,
+      "created_at": "2026-01-05T02:55:00-03:00",
+      "modified_at": "2026-01-05T02:55:00-03:00"
+    },
+    "updated_at": 1767592500,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00356",
+    "data": {
+      "id": "plc_00356",
+      "candidate_id": "cand_04370",
+      "agency_id": "agy_00009",
+      "placement_state": "on_hold",
+      "bill_rate": 132,
+      "is_deleted": false,
+      "created_at": "2026-01-05T09:26:00+03:30",
+      "modified_at": "2026-01-05T09:26:00+03:30"
+    },
+    "updated_at": 1767592560,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00357",
+    "data": {
+      "id": "plc_00357",
+      "candidate_id": "cand_04256",
+      "agency_id": "agy_00010",
+      "placement_state": "cancelled",
+      "bill_rate": 163,
+      "is_deleted": false,
+      "created_at": "2026-01-05T11:27:00+05:30",
+      "modified_at": "2026-01-05T11:27:00+05:30"
+    },
+    "updated_at": 1767592620,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00358",
+    "data": {
+      "id": "plc_00358",
+      "candidate_id": "cand_03741",
+      "agency_id": "agy_00002",
+      "placement_state": "completed",
+      "bill_rate": 206,
+      "is_deleted": false,
+      "created_at": "2026-01-05T06:58:00+01:00",
+      "modified_at": "2026-01-05T06:58:00+01:00"
+    },
+    "updated_at": 1767592680,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00359",
+    "data": {
+      "id": "plc_00359",
+      "candidate_id": "cand_04556",
+      "agency_id": "agy_00008",
+      "placement_state": "on_hold",
+      "bill_rate": 170,
+      "is_deleted": false,
+      "created_at": "2026-01-05T11:29:00+05:30",
+      "modified_at": "2026-01-05T11:29:00+05:30"
+    },
+    "updated_at": 1767592740,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00360",
+    "data": {
+      "id": "plc_00360",
+      "candidate_id": "cand_00374",
+      "agency_id": "agy_00015",
+      "placement_state": "completed",
+      "bill_rate": 153,
+      "is_deleted": false,
+      "created_at": "2026-01-05T15:00:00+09:00",
+      "modified_at": "2026-01-05T15:00:00+09:00"
+    },
+    "updated_at": 1767592800,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00361",
+    "data": {
+      "id": "plc_00361",
+      "candidate_id": "cand_05120",
+      "agency_id": "agy_00014",
+      "placement_state": "on_hold",
+      "bill_rate": 142,
+      "is_deleted": false,
+      "created_at": "2026-01-05T14:01:00+08:00",
+      "modified_at": "2026-01-05T14:01:00+08:00"
+    },
+    "updated_at": 1767592860,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00362",
+    "data": {
+      "id": "plc_00362",
+      "candidate_id": "cand_01664",
+      "agency_id": "agy_00007",
+      "placement_state": "completed",
+      "bill_rate": 52,
+      "is_deleted": false,
+      "created_at": "2026-01-05T11:32:00+05:30",
+      "modified_at": "2026-01-05T11:32:00+05:30"
+    },
+    "updated_at": 1767592920,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00363",
+    "data": {
+      "id": "plc_00363",
+      "candidate_id": "cand_03653",
+      "agency_id": "agy_00001",
+      "placement_state": "active",
+      "bill_rate": 177,
+      "is_deleted": false,
+      "created_at": "2026-01-05T07:03:00+01:00",
+      "modified_at": "2026-01-05T07:03:00+01:00"
+    },
+    "updated_at": 1767592980,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00364",
+    "data": {
+      "id": "plc_00364",
+      "candidate_id": "cand_05509",
+      "agency_id": "agy_00006",
+      "placement_state": "completed",
+      "bill_rate": 88,
+      "is_deleted": false,
+      "created_at": "2026-01-05T15:04:00+09:00",
+      "modified_at": "2026-01-05T15:04:00+09:00"
+    },
+    "updated_at": 1767593040,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00365",
+    "data": {
+      "id": "plc_00365",
+      "candidate_id": "cand_02529",
+      "agency_id": "agy_00008",
+      "placement_state": "cancelled",
+      "bill_rate": 144,
+      "is_deleted": false,
+      "created_at": "2026-01-05T03:05:00-03:00",
+      "modified_at": "2026-01-05T03:05:00-03:00"
+    },
+    "updated_at": 1767593100,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00366",
+    "data": {
+      "id": "plc_00366",
+      "candidate_id": "cand_03435",
+      "agency_id": "agy_00012",
+      "placement_state": "active",
+      "bill_rate": 96,
+      "is_deleted": false,
+      "created_at": "2026-01-05T03:06:00-03:00",
+      "modified_at": "2026-01-05T03:06:00-03:00"
+    },
+    "updated_at": 1767593160,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00367",
+    "data": {
+      "id": "plc_00367",
+      "candidate_id": "cand_02744",
+      "agency_id": "agy_00012",
+      "placement_state": "completed",
+      "bill_rate": 92,
+      "is_deleted": false,
+      "created_at": "2026-01-05T03:07:00-03:00",
+      "modified_at": "2026-01-05T03:07:00-03:00"
+    },
+    "updated_at": 1767593220,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00368",
+    "data": {
+      "id": "plc_00368",
+      "candidate_id": "cand_01700",
+      "agency_id": "agy_00012",
+      "placement_state": "completed",
+      "bill_rate": 211,
+      "is_deleted": false,
+      "created_at": "2026-01-05T15:08:00+09:00",
+      "modified_at": "2026-01-05T15:08:00+09:00"
+    },
+    "updated_at": 1767593280,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00369",
+    "data": {
+      "id": "plc_00369",
+      "candidate_id": "cand_04095",
+      "agency_id": "agy_00006",
+      "placement_state": "cancelled",
+      "bill_rate": 220,
+      "is_deleted": false,
+      "created_at": "2026-01-05T15:09:00+09:00",
+      "modified_at": "2026-01-05T15:09:00+09:00"
+    },
+    "updated_at": 1767593340,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00370",
+    "data": {
+      "id": "plc_00370",
+      "candidate_id": "cand_05027",
+      "agency_id": "agy_00014",
+      "placement_state": "active",
+      "bill_rate": 139,
+      "is_deleted": false,
+      "created_at": "2026-01-05T03:10:00-03:00",
+      "modified_at": "2026-01-05T03:10:00-03:00"
+    },
+    "updated_at": 1767593400,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00371",
+    "data": {
+      "id": "plc_00371",
+      "candidate_id": "cand_03182",
+      "agency_id": "agy_00002",
+      "placement_state": "active",
+      "bill_rate": 219,
+      "is_deleted": false,
+      "created_at": "2026-01-05T16:11:00+10:00",
+      "modified_at": "2026-01-05T16:11:00+10:00"
+    },
+    "updated_at": 1767593460,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00372",
+    "data": {
+      "id": "plc_00372",
+      "candidate_id": "cand_01788",
+      "agency_id": "agy_00001",
+      "placement_state": "active",
+      "bill_rate": 179,
+      "is_deleted": false,
+      "created_at": "2026-01-05T08:12:00+02:00",
+      "modified_at": "2026-01-05T08:12:00+02:00"
+    },
+    "updated_at": 1767593520,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00373",
+    "data": {
+      "id": "plc_00373",
+      "candidate_id": "cand_04651",
+      "agency_id": "agy_00005",
+      "placement_state": "active",
+      "bill_rate": 200,
+      "is_deleted": false,
+      "created_at": "2026-01-05T01:13:00-05:00",
+      "modified_at": "2026-01-05T01:13:00-05:00"
+    },
+    "updated_at": 1767593580,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00374",
+    "data": {
+      "id": "plc_00374",
+      "candidate_id": "cand_03000",
+      "agency_id": "agy_00002",
+      "placement_state": "completed",
+      "bill_rate": 213,
+      "is_deleted": false,
+      "created_at": "2026-01-04T22:14:00-08:00",
+      "modified_at": "2026-01-04T22:14:00-08:00"
+    },
+    "updated_at": 1767593640,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00375",
+    "data": {
+      "id": "plc_00375",
+      "candidate_id": "cand_01956",
+      "agency_id": "agy_00001",
+      "placement_state": "cancelled",
+      "bill_rate": 172,
+      "is_deleted": false,
+      "created_at": "2026-01-04T22:15:00-08:00",
+      "modified_at": "2026-01-04T22:15:00-08:00"
+    },
+    "updated_at": 1767593700,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00376",
+    "data": {
+      "id": "plc_00376",
+      "candidate_id": "cand_04762",
+      "agency_id": "agy_00008",
+      "placement_state": "active",
+      "bill_rate": 125,
+      "is_deleted": false,
+      "created_at": "2026-01-05T08:16:00+02:00",
+      "modified_at": "2026-01-05T08:16:00+02:00"
+    },
+    "updated_at": 1767593760,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00377",
+    "data": {
+      "id": "plc_00377",
+      "candidate_id": "cand_05047",
+      "agency_id": "agy_00005",
+      "placement_state": "on_hold",
+      "bill_rate": 154,
+      "is_deleted": false,
+      "created_at": "2026-01-04T22:17:00-08:00",
+      "modified_at": "2026-01-04T22:17:00-08:00"
+    },
+    "updated_at": 1767593820,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00378",
+    "data": {
+      "id": "plc_00378",
+      "candidate_id": "cand_05202",
+      "agency_id": "agy_00011",
+      "placement_state": "on_hold",
+      "bill_rate": 129,
+      "is_deleted": false,
+      "created_at": "2026-01-05T09:48:00+03:30",
+      "modified_at": "2026-01-05T09:48:00+03:30"
+    },
+    "updated_at": 1767593880,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00379",
+    "data": {
+      "id": "plc_00379",
+      "candidate_id": "cand_02261",
+      "agency_id": "agy_00014",
+      "placement_state": "completed",
+      "bill_rate": 108,
+      "is_deleted": false,
+      "created_at": "2026-01-05T14:19:00+08:00",
+      "modified_at": "2026-01-05T14:19:00+08:00"
+    },
+    "updated_at": 1767593940,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00380",
+    "data": {
+      "id": "plc_00380",
+      "candidate_id": "cand_02219",
+      "agency_id": "agy_00003",
+      "placement_state": "completed",
+      "bill_rate": 106,
+      "is_deleted": false,
+      "created_at": "2026-01-05T08:20:00+02:00",
+      "modified_at": "2026-01-05T08:20:00+02:00"
+    },
+    "updated_at": 1767594000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00381",
+    "data": {
+      "id": "plc_00381",
+      "candidate_id": "cand_05420",
+      "agency_id": "agy_00001",
+      "placement_state": "active",
+      "bill_rate": 180,
+      "is_deleted": false,
+      "created_at": "2026-01-05T16:21:00+10:00",
+      "modified_at": "2026-01-05T16:21:00+10:00"
+    },
+    "updated_at": 1767594060,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00382",
+    "data": {
+      "id": "plc_00382",
+      "candidate_id": "cand_02113",
+      "agency_id": "agy_00006",
+      "placement_state": "active",
+      "bill_rate": 217,
+      "is_deleted": false,
+      "created_at": "2026-01-05T03:22:00-03:00",
+      "modified_at": "2026-01-05T03:22:00-03:00"
+    },
+    "updated_at": 1767594120,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00383",
+    "data": {
+      "id": "plc_00383",
+      "candidate_id": "cand_04700",
+      "agency_id": "agy_00011",
+      "placement_state": "active",
+      "bill_rate": 94,
+      "is_deleted": false,
+      "created_at": "2026-01-05T16:23:00+10:00",
+      "modified_at": "2026-01-05T16:23:00+10:00"
+    },
+    "updated_at": 1767594180,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00384",
+    "data": {
+      "id": "plc_00384",
+      "candidate_id": "cand_05453",
+      "agency_id": "agy_00015",
+      "placement_state": "on_hold",
+      "bill_rate": 57,
+      "is_deleted": false,
+      "created_at": "2026-01-05T07:24:00+01:00",
+      "modified_at": "2026-01-05T07:24:00+01:00"
+    },
+    "updated_at": 1767594240,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00385",
+    "data": {
+      "id": "plc_00385",
+      "candidate_id": "cand_01752",
+      "agency_id": "agy_00010",
+      "placement_state": "on_hold",
+      "bill_rate": 186,
+      "is_deleted": false,
+      "created_at": "2026-01-05T03:25:00-03:00",
+      "modified_at": "2026-01-05T03:25:00-03:00"
+    },
+    "updated_at": 1767594300,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00386",
+    "data": {
+      "id": "plc_00386",
+      "candidate_id": "cand_03731",
+      "agency_id": "agy_00004",
+      "placement_state": "completed",
+      "bill_rate": 196,
+      "is_deleted": false,
+      "created_at": "2026-01-05T09:56:00+03:30",
+      "modified_at": "2026-01-05T09:56:00+03:30"
+    },
+    "updated_at": 1767594360,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00387",
+    "data": {
+      "id": "plc_00387",
+      "candidate_id": "cand_03834",
+      "agency_id": "agy_00005",
+      "placement_state": "on_hold",
+      "bill_rate": 105,
+      "is_deleted": false,
+      "created_at": "2026-01-05T09:57:00+03:30",
+      "modified_at": "2026-01-05T09:57:00+03:30"
+    },
+    "updated_at": 1767594420,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00388",
+    "data": {
+      "id": "plc_00388",
+      "candidate_id": "cand_04794",
+      "agency_id": "agy_00004",
+      "placement_state": "on_hold",
+      "bill_rate": 220,
+      "is_deleted": false,
+      "created_at": "2026-01-05T08:28:00+02:00",
+      "modified_at": "2026-01-05T08:28:00+02:00"
+    },
+    "updated_at": 1767594480,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00389",
+    "data": {
+      "id": "plc_00389",
+      "candidate_id": "cand_04152",
+      "agency_id": "agy_00004",
+      "placement_state": "cancelled",
+      "bill_rate": 162,
+      "is_deleted": false,
+      "created_at": "2026-01-05T08:29:00+02:00",
+      "modified_at": "2026-01-05T08:29:00+02:00"
+    },
+    "updated_at": 1767594540,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00390",
+    "data": {
+      "id": "plc_00390",
+      "candidate_id": "cand_03595",
+      "agency_id": "agy_00014",
+      "placement_state": "active",
+      "bill_rate": 82,
+      "is_deleted": false,
+      "created_at": "2026-01-05T16:30:00+10:00",
+      "modified_at": "2026-01-05T16:30:00+10:00"
+    },
+    "updated_at": 1767594600,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00391",
+    "data": {
+      "id": "plc_00391",
+      "candidate_id": "cand_04127",
+      "agency_id": "agy_00009",
+      "placement_state": "on_hold",
+      "bill_rate": 170,
+      "is_deleted": false,
+      "created_at": "2026-01-04T22:31:00-08:00",
+      "modified_at": "2026-01-04T22:31:00-08:00"
+    },
+    "updated_at": 1767594660,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00392",
+    "data": {
+      "id": "plc_00392",
+      "candidate_id": "cand_00584",
+      "agency_id": "agy_00012",
+      "placement_state": "active",
+      "bill_rate": 219,
+      "is_deleted": false,
+      "created_at": "2026-01-05T01:32:00-05:00",
+      "modified_at": "2026-01-05T01:32:00-05:00"
+    },
+    "updated_at": 1767594720,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00393",
+    "data": {
+      "id": "plc_00393",
+      "candidate_id": "cand_03757",
+      "agency_id": "agy_00003",
+      "placement_state": "on_hold",
+      "bill_rate": 192,
+      "is_deleted": false,
+      "created_at": "2026-01-05T07:33:00+01:00",
+      "modified_at": "2026-01-05T07:33:00+01:00"
+    },
+    "updated_at": 1767594780,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00394",
+    "data": {
+      "id": "plc_00394",
+      "candidate_id": "cand_04465",
+      "agency_id": "agy_00007",
+      "placement_state": "cancelled",
+      "bill_rate": 91,
+      "is_deleted": false,
+      "created_at": "2026-01-05T16:34:00+10:00",
+      "modified_at": "2026-01-05T16:34:00+10:00"
+    },
+    "updated_at": 1767594840,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00395",
+    "data": {
+      "id": "plc_00395",
+      "candidate_id": "cand_05503",
+      "agency_id": "agy_00011",
+      "placement_state": "completed",
+      "bill_rate": 134,
+      "is_deleted": false,
+      "created_at": "2026-01-05T12:05:00+05:30",
+      "modified_at": "2026-01-05T12:05:00+05:30"
+    },
+    "updated_at": 1767594900,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00396",
+    "data": {
+      "id": "plc_00396",
+      "candidate_id": "cand_05634",
+      "agency_id": "agy_00005",
+      "placement_state": "completed",
+      "bill_rate": 170,
+      "is_deleted": false,
+      "created_at": "2026-01-05T10:06:00+03:30",
+      "modified_at": "2026-01-05T10:06:00+03:30"
+    },
+    "updated_at": 1767594960,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00397",
+    "data": {
+      "id": "plc_00397",
+      "candidate_id": "cand_05185",
+      "agency_id": "agy_00009",
+      "placement_state": "active",
+      "bill_rate": 90,
+      "is_deleted": false,
+      "created_at": "2026-01-05T08:37:00+02:00",
+      "modified_at": "2026-01-05T08:37:00+02:00"
+    },
+    "updated_at": 1767595020,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00398",
+    "data": {
+      "id": "plc_00398",
+      "candidate_id": "cand_03097",
+      "agency_id": "agy_00001",
+      "placement_state": "on_hold",
+      "bill_rate": 219,
+      "is_deleted": false,
+      "created_at": "2026-01-04T22:38:00-08:00",
+      "modified_at": "2026-01-04T22:38:00-08:00"
+    },
+    "updated_at": 1767595080,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00399",
+    "data": {
+      "id": "plc_00399",
+      "candidate_id": "cand_03270",
+      "agency_id": "agy_00014",
+      "placement_state": "completed",
+      "bill_rate": 52,
+      "is_deleted": false,
+      "created_at": "2026-01-05T14:39:00+08:00",
+      "modified_at": "2026-01-05T14:39:00+08:00"
+    },
+    "updated_at": 1767595140,
+    "is_deleted": false
+  },
+  {
+    "source_id": "plc_00400",
+    "data": {
+      "id": "plc_00400",
+      "candidate_id": "cand_02225",
+      "agency_id": "agy_00015",
+      "placement_state": "cancelled",
+      "bill_rate": 156,
+      "is_deleted": false,
+      "created_at": "2026-01-05T10:10:00+03:30",
+      "modified_at": "2026-01-05T10:10:00+03:30"
+    },
+    "updated_at": 1767595200,
+    "is_deleted": false
+  }
+]

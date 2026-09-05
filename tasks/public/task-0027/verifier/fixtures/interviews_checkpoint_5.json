@@ -1,0 +1,5106 @@
+[
+  {
+    "source_id": "itv_0001",
+    "data": {
+      "candidate_name": "Jean Von Neumann",
+      "role": "Recruiter",
+      "round": "system_design",
+      "scheduled_at": "2026-04-05T18:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0019"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0002",
+    "data": {
+      "candidate_name": "Peggy Noether",
+      "role": "Engineering Manager",
+      "round": "phone_screen",
+      "scheduled_at": "2026-04-13T18:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0006"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0003",
+    "data": {
+      "candidate_name": "Walter Xu",
+      "role": "Account Executive",
+      "round": "onsite",
+      "scheduled_at": "2026-04-01T20:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0012",
+        "pnl_0017"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0004",
+    "data": {
+      "candidate_name": "Nikola Babbage",
+      "role": "DevOps Engineer",
+      "round": "system_design",
+      "scheduled_at": "2026-04-11T20:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0022"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0005",
+    "data": {
+      "candidate_name": "Yvonne Gauss",
+      "role": "DevOps Engineer",
+      "round": "onsite",
+      "scheduled_at": "2026-04-12T19:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0007",
+        "pnl_0006",
+        "pnl_0037"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0006",
+    "data": {
+      "candidate_name": "Yvonne Ramanujan",
+      "role": "Engineering Manager",
+      "round": "final",
+      "scheduled_at": "2026-04-25T15:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0040",
+        "pnl_0018"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0007",
+    "data": {
+      "candidate_name": "Zelda Feynman",
+      "role": "Software Engineer",
+      "round": "final",
+      "scheduled_at": "2026-04-20T17:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0024"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0008",
+    "data": {
+      "candidate_name": "Yvonne Young",
+      "role": "Product Manager",
+      "round": "system_design",
+      "scheduled_at": "2026-04-21T15:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0013",
+        "pnl_0002"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0009",
+    "data": {
+      "candidate_name": "Xavier Turing",
+      "role": "Account Executive",
+      "round": "technical",
+      "scheduled_at": "2026-04-07T14:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0017",
+        "pnl_0015"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0010",
+    "data": {
+      "candidate_name": "Jean Shannon",
+      "role": "Recruiter",
+      "round": "system_design",
+      "scheduled_at": "2026-04-16T20:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0036"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0011",
+    "data": {
+      "candidate_name": "Hedy Shannon",
+      "role": "UX Designer",
+      "round": "system_design",
+      "scheduled_at": "2026-04-25T18:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0021",
+        "pnl_0015"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0012",
+    "data": {
+      "candidate_name": "Walter Wright",
+      "role": "Account Executive",
+      "round": "onsite",
+      "scheduled_at": "2026-04-18T18:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0038",
+        "pnl_0012",
+        "pnl_0025"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0013",
+    "data": {
+      "candidate_name": "Hedy Ramanujan",
+      "role": "Solutions Architect",
+      "round": "system_design",
+      "scheduled_at": "2026-04-20T14:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0035",
+        "pnl_0013",
+        "pnl_0004"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0014",
+    "data": {
+      "candidate_name": "Florence Babbage",
+      "role": "Technical Writer",
+      "round": "system_design",
+      "scheduled_at": "2026-04-23T18:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0021"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0015",
+    "data": {
+      "candidate_name": "Peggy Babbage",
+      "role": "Data Scientist",
+      "round": "phone_screen",
+      "scheduled_at": "2026-04-25T15:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0036"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0016",
+    "data": {
+      "candidate_name": "Blaise Turing",
+      "role": "UX Designer",
+      "round": "phone_screen",
+      "scheduled_at": "2026-04-28T13:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0039"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0017",
+    "data": {
+      "candidate_name": "Ada Shannon",
+      "role": "DevOps Engineer",
+      "round": "final",
+      "scheduled_at": "2026-04-05T18:00:00Z",
+      "status": "canceled",
+      "panelist_ids": [
+        "pnl_0011",
+        "pnl_0014",
+        "pnl_0017"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T11:02:00Z",
+    "is_deleted": true
+  },
+  {
+    "source_id": "itv_0018",
+    "data": {
+      "candidate_name": "Richard Hopper",
+      "role": "DevOps Engineer",
+      "round": "phone_screen",
+      "scheduled_at": "2026-04-24T14:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0005"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0019",
+    "data": {
+      "candidate_name": "Sophie Curie",
+      "role": "Technical Writer",
+      "round": "onsite",
+      "scheduled_at": "2026-04-24T18:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0009"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0020",
+    "data": {
+      "candidate_name": "Dorothy Wright",
+      "role": "Data Scientist",
+      "round": "system_design",
+      "scheduled_at": "2026-04-14T17:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0038",
+        "pnl_0012"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0021",
+    "data": {
+      "candidate_name": "Ada Zuse",
+      "role": "UX Designer",
+      "round": "phone_screen",
+      "scheduled_at": "2026-04-07T15:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0007",
+        "pnl_0037",
+        "pnl_0013"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0022",
+    "data": {
+      "candidate_name": "Blaise Curie",
+      "role": "Support Lead",
+      "round": "onsite",
+      "scheduled_at": "2026-04-02T14:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0027",
+        "pnl_0034"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0023",
+    "data": {
+      "candidate_name": "Xavier Gauss",
+      "role": "QA Analyst",
+      "round": "system_design",
+      "scheduled_at": "2026-04-21T19:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0012",
+        "pnl_0010",
+        "pnl_0032"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0024",
+    "data": {
+      "candidate_name": "Florence Shannon",
+      "role": "UX Designer",
+      "round": "final",
+      "scheduled_at": "2026-04-15T13:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0007"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0025",
+    "data": {
+      "candidate_name": "Sophie Tesla",
+      "role": "Solutions Architect",
+      "round": "phone_screen",
+      "scheduled_at": "2026-04-01T17:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0005"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0026",
+    "data": {
+      "candidate_name": "Emmy Lovelace",
+      "role": "QA Analyst",
+      "round": "final",
+      "scheduled_at": "2026-04-06T13:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0015",
+        "pnl_0002",
+        "pnl_0039"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0027",
+    "data": {
+      "candidate_name": "Nikola Young",
+      "role": "Engineering Manager",
+      "round": "final",
+      "scheduled_at": "2026-04-03T14:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0034"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0028",
+    "data": {
+      "candidate_name": "Hedy Xu",
+      "role": "Solutions Architect",
+      "round": "final",
+      "scheduled_at": "2026-04-16T20:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0001",
+        "pnl_0022"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0029",
+    "data": {
+      "candidate_name": "Marie Young",
+      "role": "QA Analyst",
+      "round": "system_design",
+      "scheduled_at": "2026-04-07T19:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0030",
+        "pnl_0032"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0030",
+    "data": {
+      "candidate_name": "Tim Young",
+      "role": "Solutions Architect",
+      "round": "phone_screen",
+      "scheduled_at": "2026-04-08T16:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0040"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0031",
+    "data": {
+      "candidate_name": "Marie Turing",
+      "role": "Engineering Manager",
+      "round": "phone_screen",
+      "scheduled_at": "2026-04-22T16:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0018",
+        "pnl_0009"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0032",
+    "data": {
+      "candidate_name": "Tim Shannon",
+      "role": "QA Analyst",
+      "round": "onsite",
+      "scheduled_at": "2026-04-02T13:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0007"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0033",
+    "data": {
+      "candidate_name": "Hedy Shannon",
+      "role": "UX Designer",
+      "round": "onsite",
+      "scheduled_at": "2026-04-10T13:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0017"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0034",
+    "data": {
+      "candidate_name": "Florence Young",
+      "role": "Product Manager",
+      "round": "final",
+      "scheduled_at": "2026-04-25T18:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0008",
+        "pnl_0002"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0035",
+    "data": {
+      "candidate_name": "Hedy Von Neumann",
+      "role": "Data Scientist",
+      "round": "technical",
+      "scheduled_at": "2026-04-28T14:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0018"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0036",
+    "data": {
+      "candidate_name": "Katherine Pascal",
+      "role": "Solutions Architect",
+      "round": "system_design",
+      "scheduled_at": "2026-04-10T16:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0006"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0037",
+    "data": {
+      "candidate_name": "Yvonne Turing",
+      "role": "Technical Writer",
+      "round": "onsite",
+      "scheduled_at": "2026-04-19T20:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0015",
+        "pnl_0036",
+        "pnl_0019"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0038",
+    "data": {
+      "candidate_name": "Oliver Tesla",
+      "role": "UX Designer",
+      "round": "technical",
+      "scheduled_at": "2026-04-23T17:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0001"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0039",
+    "data": {
+      "candidate_name": "Tim Lovelace",
+      "role": "Product Manager",
+      "round": "onsite",
+      "scheduled_at": "2026-04-17T19:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0017"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0040",
+    "data": {
+      "candidate_name": "Yvonne Young",
+      "role": "Product Manager",
+      "round": "onsite",
+      "scheduled_at": "2026-04-09T13:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0023"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0041",
+    "data": {
+      "candidate_name": "Grace Young",
+      "role": "Software Engineer",
+      "round": "technical",
+      "scheduled_at": "2026-04-04T17:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0007",
+        "pnl_0020"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0042",
+    "data": {
+      "candidate_name": "Jean Noether",
+      "role": "Product Manager",
+      "round": "phone_screen",
+      "scheduled_at": "2026-04-02T15:00:00Z",
+      "status": "rescheduled",
+      "panelist_ids": [
+        "pnl_0034",
+        "pnl_0027"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T11:01:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0043",
+    "data": {
+      "candidate_name": "Zelda Xu",
+      "role": "DevOps Engineer",
+      "round": "final",
+      "scheduled_at": "2026-04-10T20:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0029",
+        "pnl_0032",
+        "pnl_0021"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0044",
+    "data": {
+      "candidate_name": "Florence Zuse",
+      "role": "Data Scientist",
+      "round": "final",
+      "scheduled_at": "2026-04-04T16:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0001",
+        "pnl_0040"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0045",
+    "data": {
+      "candidate_name": "Ada Curie",
+      "role": "Engineering Manager",
+      "round": "onsite",
+      "scheduled_at": "2026-04-09T18:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0019",
+        "pnl_0038",
+        "pnl_0015"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0046",
+    "data": {
+      "candidate_name": "Grace Lovelace",
+      "role": "QA Analyst",
+      "round": "technical",
+      "scheduled_at": "2026-04-09T17:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0018",
+        "pnl_0023",
+        "pnl_0038"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0047",
+    "data": {
+      "candidate_name": "Zelda Von Neumann",
+      "role": "Software Engineer",
+      "round": "onsite",
+      "scheduled_at": "2026-04-18T20:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0038"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0048",
+    "data": {
+      "candidate_name": "Peggy Turing",
+      "role": "DevOps Engineer",
+      "round": "technical",
+      "scheduled_at": "2026-04-18T19:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0009"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0049",
+    "data": {
+      "candidate_name": "Isaac Einstein",
+      "role": "Software Engineer",
+      "round": "technical",
+      "scheduled_at": "2026-04-02T15:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0037",
+        "pnl_0008"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0050",
+    "data": {
+      "candidate_name": "Zelda Feynman",
+      "role": "Solutions Architect",
+      "round": "system_design",
+      "scheduled_at": "2026-04-04T18:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0020",
+        "pnl_0009",
+        "pnl_0030"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0051",
+    "data": {
+      "candidate_name": "Katherine Noether",
+      "role": "Support Lead",
+      "round": "onsite",
+      "scheduled_at": "2026-04-19T15:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0022",
+        "pnl_0035",
+        "pnl_0040"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0052",
+    "data": {
+      "candidate_name": "Yvonne Lovelace",
+      "role": "Technical Writer",
+      "round": "system_design",
+      "scheduled_at": "2026-04-13T18:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0032",
+        "pnl_0003",
+        "pnl_0016"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0053",
+    "data": {
+      "candidate_name": "Tim Lovelace",
+      "role": "Technical Writer",
+      "round": "phone_screen",
+      "scheduled_at": "2026-04-18T19:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0012",
+        "pnl_0001"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0054",
+    "data": {
+      "candidate_name": "Hedy Babbage",
+      "role": "UX Designer",
+      "round": "onsite",
+      "scheduled_at": "2026-04-11T13:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0033"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0055",
+    "data": {
+      "candidate_name": "Hedy Von Neumann",
+      "role": "DevOps Engineer",
+      "round": "phone_screen",
+      "scheduled_at": "2026-04-22T16:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0018",
+        "pnl_0004",
+        "pnl_0013"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0056",
+    "data": {
+      "candidate_name": "Charles Turing",
+      "role": "Software Engineer",
+      "round": "phone_screen",
+      "scheduled_at": "2026-04-04T16:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0006",
+        "pnl_0037"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0057",
+    "data": {
+      "candidate_name": "Xavier Ramanujan",
+      "role": "Support Lead",
+      "round": "system_design",
+      "scheduled_at": "2026-04-14T15:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0013",
+        "pnl_0038"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0058",
+    "data": {
+      "candidate_name": "Jean Ramanujan",
+      "role": "Recruiter",
+      "round": "technical",
+      "scheduled_at": "2026-04-06T14:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0033",
+        "pnl_0002"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0059",
+    "data": {
+      "candidate_name": "Hedy Feynman",
+      "role": "Support Lead",
+      "round": "system_design",
+      "scheduled_at": "2026-04-23T14:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0007",
+        "pnl_0010"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0060",
+    "data": {
+      "candidate_name": "Florence Turing",
+      "role": "QA Analyst",
+      "round": "final",
+      "scheduled_at": "2026-04-09T13:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0016",
+        "pnl_0008"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0061",
+    "data": {
+      "candidate_name": "Dorothy Tesla",
+      "role": "Account Executive",
+      "round": "final",
+      "scheduled_at": "2026-04-28T19:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0034"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0062",
+    "data": {
+      "candidate_name": "Katherine Lovelace",
+      "role": "Recruiter",
+      "round": "system_design",
+      "scheduled_at": "2026-04-16T19:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0011"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0063",
+    "data": {
+      "candidate_name": "Ursula Lovelace",
+      "role": "Account Executive",
+      "round": "onsite",
+      "scheduled_at": "2026-04-13T14:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0036",
+        "pnl_0029"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0064",
+    "data": {
+      "candidate_name": "Walter Xu",
+      "role": "Support Lead",
+      "round": "onsite",
+      "scheduled_at": "2026-04-04T16:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0038",
+        "pnl_0035"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0065",
+    "data": {
+      "candidate_name": "Hedy Dirac",
+      "role": "Solutions Architect",
+      "round": "system_design",
+      "scheduled_at": "2026-04-02T13:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0035"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0066",
+    "data": {
+      "candidate_name": "Florence Gauss",
+      "role": "Software Engineer",
+      "round": "onsite",
+      "scheduled_at": "2026-04-13T17:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0024"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0067",
+    "data": {
+      "candidate_name": "Grace Xu",
+      "role": "Account Executive",
+      "round": "technical",
+      "scheduled_at": "2026-04-22T19:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0005",
+        "pnl_0006"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0068",
+    "data": {
+      "candidate_name": "Emmy Turing",
+      "role": "Engineering Manager",
+      "round": "technical",
+      "scheduled_at": "2026-04-02T16:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0013",
+        "pnl_0033",
+        "pnl_0018"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0069",
+    "data": {
+      "candidate_name": "Marie Hopper",
+      "role": "Account Executive",
+      "round": "onsite",
+      "scheduled_at": "2026-04-20T15:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0015",
+        "pnl_0035"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0070",
+    "data": {
+      "candidate_name": "Grace Ramanujan",
+      "role": "Technical Writer",
+      "round": "phone_screen",
+      "scheduled_at": "2026-04-01T16:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0009",
+        "pnl_0019",
+        "pnl_0036"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0071",
+    "data": {
+      "candidate_name": "Emmy Feynman",
+      "role": "UX Designer",
+      "round": "final",
+      "scheduled_at": "2026-04-09T17:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0037",
+        "pnl_0036",
+        "pnl_0027"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0072",
+    "data": {
+      "candidate_name": "Zelda Ramanujan",
+      "role": "Data Scientist",
+      "round": "technical",
+      "scheduled_at": "2026-04-13T14:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0012",
+        "pnl_0037",
+        "pnl_0038"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0073",
+    "data": {
+      "candidate_name": "Sophie Dirac",
+      "role": "Engineering Manager",
+      "round": "final",
+      "scheduled_at": "2026-04-12T17:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0020",
+        "pnl_0006"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0074",
+    "data": {
+      "candidate_name": "Vera Von Neumann",
+      "role": "Account Executive",
+      "round": "phone_screen",
+      "scheduled_at": "2026-04-05T13:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0002",
+        "pnl_0012",
+        "pnl_0037"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0075",
+    "data": {
+      "candidate_name": "Yvonne Gauss",
+      "role": "Data Scientist",
+      "round": "technical",
+      "scheduled_at": "2026-04-13T20:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0031",
+        "pnl_0009",
+        "pnl_0037"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0076",
+    "data": {
+      "candidate_name": "Katherine Wright",
+      "role": "Account Executive",
+      "round": "final",
+      "scheduled_at": "2026-04-24T20:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0014",
+        "pnl_0036"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0077",
+    "data": {
+      "candidate_name": "Emmy Wright",
+      "role": "DevOps Engineer",
+      "round": "final",
+      "scheduled_at": "2026-04-09T20:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0024"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0078",
+    "data": {
+      "candidate_name": "Katherine Noether",
+      "role": "Data Scientist",
+      "round": "onsite",
+      "scheduled_at": "2026-04-04T15:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0007",
+        "pnl_0004"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0079",
+    "data": {
+      "candidate_name": "Oliver Feynman",
+      "role": "Technical Writer",
+      "round": "onsite",
+      "scheduled_at": "2026-04-20T18:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0028",
+        "pnl_0008",
+        "pnl_0025"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0080",
+    "data": {
+      "candidate_name": "Richard Xu",
+      "role": "Recruiter",
+      "round": "final",
+      "scheduled_at": "2026-04-20T19:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0019"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0081",
+    "data": {
+      "candidate_name": "Oliver Babbage",
+      "role": "Solutions Architect",
+      "round": "technical",
+      "scheduled_at": "2026-04-01T17:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0028",
+        "pnl_0033"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0082",
+    "data": {
+      "candidate_name": "Dorothy Gauss",
+      "role": "Solutions Architect",
+      "round": "phone_screen",
+      "scheduled_at": "2026-04-25T19:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0035",
+        "pnl_0003",
+        "pnl_0036"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0083",
+    "data": {
+      "candidate_name": "Jean Xu",
+      "role": "Software Engineer",
+      "round": "onsite",
+      "scheduled_at": "2026-04-12T15:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0028"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0084",
+    "data": {
+      "candidate_name": "Peggy Xu",
+      "role": "UX Designer",
+      "round": "technical",
+      "scheduled_at": "2026-04-18T18:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0033",
+        "pnl_0001",
+        "pnl_0036"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0085",
+    "data": {
+      "candidate_name": "Nikola Hopper",
+      "role": "Software Engineer",
+      "round": "phone_screen",
+      "scheduled_at": "2026-04-10T18:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0019",
+        "pnl_0034",
+        "pnl_0008"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0086",
+    "data": {
+      "candidate_name": "Blaise Tesla",
+      "role": "Engineering Manager",
+      "round": "technical",
+      "scheduled_at": "2026-04-28T15:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0035",
+        "pnl_0038"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0087",
+    "data": {
+      "candidate_name": "Sophie Xu",
+      "role": "Engineering Manager",
+      "round": "phone_screen",
+      "scheduled_at": "2026-04-28T13:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0011",
+        "pnl_0001"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0088",
+    "data": {
+      "candidate_name": "Richard Hopper",
+      "role": "QA Analyst",
+      "round": "phone_screen",
+      "scheduled_at": "2026-04-19T18:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0037"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0089",
+    "data": {
+      "candidate_name": "Dorothy Turing",
+      "role": "Support Lead",
+      "round": "onsite",
+      "scheduled_at": "2026-04-06T15:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0002"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0090",
+    "data": {
+      "candidate_name": "Charles Einstein",
+      "role": "Account Executive",
+      "round": "phone_screen",
+      "scheduled_at": "2026-04-07T19:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0024",
+        "pnl_0019",
+        "pnl_0034"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0091",
+    "data": {
+      "candidate_name": "Linus Tesla",
+      "role": "Data Scientist",
+      "round": "phone_screen",
+      "scheduled_at": "2026-04-18T13:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0036",
+        "pnl_0018"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0092",
+    "data": {
+      "candidate_name": "Linus Curie",
+      "role": "Technical Writer",
+      "round": "technical",
+      "scheduled_at": "2026-04-20T20:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0001",
+        "pnl_0005"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0093",
+    "data": {
+      "candidate_name": "Dorothy Young",
+      "role": "Data Scientist",
+      "round": "final",
+      "scheduled_at": "2026-04-22T19:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0031",
+        "pnl_0035",
+        "pnl_0005"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0094",
+    "data": {
+      "candidate_name": "Charles Turing",
+      "role": "Data Scientist",
+      "round": "final",
+      "scheduled_at": "2026-04-20T13:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0015"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0095",
+    "data": {
+      "candidate_name": "Grace Lovelace",
+      "role": "Recruiter",
+      "round": "final",
+      "scheduled_at": "2026-04-03T14:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0013",
+        "pnl_0022",
+        "pnl_0004"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0096",
+    "data": {
+      "candidate_name": "Nikola Gauss",
+      "role": "Support Lead",
+      "round": "technical",
+      "scheduled_at": "2026-04-05T15:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0024",
+        "pnl_0018",
+        "pnl_0038"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0097",
+    "data": {
+      "candidate_name": "Katherine Ramanujan",
+      "role": "Data Scientist",
+      "round": "technical",
+      "scheduled_at": "2026-04-20T18:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0015",
+        "pnl_0039"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0098",
+    "data": {
+      "candidate_name": "Ursula Dirac",
+      "role": "Recruiter",
+      "round": "system_design",
+      "scheduled_at": "2026-04-08T13:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0034",
+        "pnl_0037",
+        "pnl_0032"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0099",
+    "data": {
+      "candidate_name": "Walter Pascal",
+      "role": "Account Executive",
+      "round": "system_design",
+      "scheduled_at": "2026-04-26T18:00:00Z",
+      "status": "completed",
+      "panelist_ids": [
+        "pnl_0036"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T11:05:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0100",
+    "data": {
+      "candidate_name": "Yvonne Gauss",
+      "role": "Technical Writer",
+      "round": "final",
+      "scheduled_at": "2026-04-25T17:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0001",
+        "pnl_0032",
+        "pnl_0019"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0101",
+    "data": {
+      "candidate_name": "Isaac Xu",
+      "role": "Support Lead",
+      "round": "onsite",
+      "scheduled_at": "2026-04-08T20:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0009"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0102",
+    "data": {
+      "candidate_name": "Nikola Shannon",
+      "role": "UX Designer",
+      "round": "system_design",
+      "scheduled_at": "2026-04-11T13:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0006"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0103",
+    "data": {
+      "candidate_name": "Linus Von Neumann",
+      "role": "Software Engineer",
+      "round": "final",
+      "scheduled_at": "2026-04-27T13:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0016"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0104",
+    "data": {
+      "candidate_name": "Ursula Shannon",
+      "role": "Recruiter",
+      "round": "final",
+      "scheduled_at": "2026-04-17T20:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0001",
+        "pnl_0015"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0105",
+    "data": {
+      "candidate_name": "Vera Noether",
+      "role": "Technical Writer",
+      "round": "phone_screen",
+      "scheduled_at": "2026-04-11T17:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0029",
+        "pnl_0011",
+        "pnl_0031"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0106",
+    "data": {
+      "candidate_name": "Emmy Turing",
+      "role": "Data Scientist",
+      "round": "onsite",
+      "scheduled_at": "2026-04-24T13:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0003",
+        "pnl_0009",
+        "pnl_0030"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0107",
+    "data": {
+      "candidate_name": "Yvonne Young",
+      "role": "Technical Writer",
+      "round": "technical",
+      "scheduled_at": "2026-04-05T18:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0014",
+        "pnl_0015",
+        "pnl_0033"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0108",
+    "data": {
+      "candidate_name": "Xavier Dirac",
+      "role": "UX Designer",
+      "round": "phone_screen",
+      "scheduled_at": "2026-04-08T20:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0024"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0109",
+    "data": {
+      "candidate_name": "Charles Young",
+      "role": "Recruiter",
+      "round": "onsite",
+      "scheduled_at": "2026-04-25T16:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0037",
+        "pnl_0012",
+        "pnl_0020"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0110",
+    "data": {
+      "candidate_name": "Walter Ramanujan",
+      "role": "Technical Writer",
+      "round": "system_design",
+      "scheduled_at": "2026-04-03T14:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0022",
+        "pnl_0013"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0111",
+    "data": {
+      "candidate_name": "Charles Zuse",
+      "role": "Data Scientist",
+      "round": "phone_screen",
+      "scheduled_at": "2026-04-20T17:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0036",
+        "pnl_0008"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0112",
+    "data": {
+      "candidate_name": "Blaise Turing",
+      "role": "DevOps Engineer",
+      "round": "final",
+      "scheduled_at": "2026-04-18T20:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0013",
+        "pnl_0020"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0113",
+    "data": {
+      "candidate_name": "Peggy Noether",
+      "role": "Software Engineer",
+      "round": "phone_screen",
+      "scheduled_at": "2026-04-28T14:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0008",
+        "pnl_0032",
+        "pnl_0027"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0114",
+    "data": {
+      "candidate_name": "Nikola Wright",
+      "role": "Product Manager",
+      "round": "system_design",
+      "scheduled_at": "2026-04-06T17:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0011"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0115",
+    "data": {
+      "candidate_name": "Nikola Curie",
+      "role": "QA Analyst",
+      "round": "system_design",
+      "scheduled_at": "2026-04-09T20:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0036",
+        "pnl_0011",
+        "pnl_0003"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0116",
+    "data": {
+      "candidate_name": "Yvonne Gauss",
+      "role": "Recruiter",
+      "round": "final",
+      "scheduled_at": "2026-04-26T14:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0025"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0117",
+    "data": {
+      "candidate_name": "Peggy Dirac",
+      "role": "Software Engineer",
+      "round": "phone_screen",
+      "scheduled_at": "2026-04-08T15:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0031"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0118",
+    "data": {
+      "candidate_name": "Hedy Young",
+      "role": "DevOps Engineer",
+      "round": "final",
+      "scheduled_at": "2026-04-11T17:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0009"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0119",
+    "data": {
+      "candidate_name": "Charles Young",
+      "role": "Engineering Manager",
+      "round": "onsite",
+      "scheduled_at": "2026-04-10T16:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0022"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0120",
+    "data": {
+      "candidate_name": "Richard Gauss",
+      "role": "Data Scientist",
+      "round": "system_design",
+      "scheduled_at": "2026-04-26T19:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0010",
+        "pnl_0031",
+        "pnl_0016"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0121",
+    "data": {
+      "candidate_name": "Richard Wright",
+      "role": "Account Executive",
+      "round": "technical",
+      "scheduled_at": "2026-04-24T13:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0023"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0122",
+    "data": {
+      "candidate_name": "Linus Babbage",
+      "role": "Engineering Manager",
+      "round": "system_design",
+      "scheduled_at": "2026-04-27T15:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0034"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0123",
+    "data": {
+      "candidate_name": "Charles Gauss",
+      "role": "Solutions Architect",
+      "round": "system_design",
+      "scheduled_at": "2026-04-28T14:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0031"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0124",
+    "data": {
+      "candidate_name": "Emmy Gauss",
+      "role": "Product Manager",
+      "round": "technical",
+      "scheduled_at": "2026-04-23T14:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0017",
+        "pnl_0008"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0125",
+    "data": {
+      "candidate_name": "Jean Wright",
+      "role": "Recruiter",
+      "round": "system_design",
+      "scheduled_at": "2026-04-03T15:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0031",
+        "pnl_0017",
+        "pnl_0028"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0126",
+    "data": {
+      "candidate_name": "Grace Lovelace",
+      "role": "QA Analyst",
+      "round": "technical",
+      "scheduled_at": "2026-04-10T16:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0022",
+        "pnl_0034"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0127",
+    "data": {
+      "candidate_name": "Ada Shannon",
+      "role": "Software Engineer",
+      "round": "onsite",
+      "scheduled_at": "2026-04-27T20:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0016"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0128",
+    "data": {
+      "candidate_name": "Ada Einstein",
+      "role": "UX Designer",
+      "round": "onsite",
+      "scheduled_at": "2026-04-26T20:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0009",
+        "pnl_0025"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0129",
+    "data": {
+      "candidate_name": "Florence Xu",
+      "role": "Support Lead",
+      "round": "final",
+      "scheduled_at": "2026-04-23T14:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0011",
+        "pnl_0037",
+        "pnl_0007"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0130",
+    "data": {
+      "candidate_name": "Ursula Dirac",
+      "role": "Data Scientist",
+      "round": "phone_screen",
+      "scheduled_at": "2026-04-19T17:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0002",
+        "pnl_0040"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0131",
+    "data": {
+      "candidate_name": "Xavier Babbage",
+      "role": "Product Manager",
+      "round": "technical",
+      "scheduled_at": "2026-04-23T19:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0003",
+        "pnl_0031",
+        "pnl_0021"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0132",
+    "data": {
+      "candidate_name": "Oliver Dirac",
+      "role": "Software Engineer",
+      "round": "final",
+      "scheduled_at": "2026-04-02T18:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0019"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0133",
+    "data": {
+      "candidate_name": "Oliver Turing",
+      "role": "Software Engineer",
+      "round": "onsite",
+      "scheduled_at": "2026-04-18T18:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0033",
+        "pnl_0010"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0134",
+    "data": {
+      "candidate_name": "Charles Dirac",
+      "role": "QA Analyst",
+      "round": "phone_screen",
+      "scheduled_at": "2026-04-17T19:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0020"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0135",
+    "data": {
+      "candidate_name": "Florence Hopper",
+      "role": "DevOps Engineer",
+      "round": "system_design",
+      "scheduled_at": "2026-04-25T18:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0032",
+        "pnl_0031",
+        "pnl_0017"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0136",
+    "data": {
+      "candidate_name": "Emmy Tesla",
+      "role": "Data Scientist",
+      "round": "phone_screen",
+      "scheduled_at": "2026-04-01T18:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0019",
+        "pnl_0011",
+        "pnl_0037"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0137",
+    "data": {
+      "candidate_name": "Vera Pascal",
+      "role": "Engineering Manager",
+      "round": "onsite",
+      "scheduled_at": "2026-04-02T14:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0005",
+        "pnl_0006"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0138",
+    "data": {
+      "candidate_name": "Jean Shannon",
+      "role": "DevOps Engineer",
+      "round": "onsite",
+      "scheduled_at": "2026-04-05T20:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0017",
+        "pnl_0037",
+        "pnl_0022"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0139",
+    "data": {
+      "candidate_name": "Oliver Hopper",
+      "role": "Support Lead",
+      "round": "phone_screen",
+      "scheduled_at": "2026-04-21T16:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0033"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0140",
+    "data": {
+      "candidate_name": "Xavier Hopper",
+      "role": "Technical Writer",
+      "round": "onsite",
+      "scheduled_at": "2026-04-22T16:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0017",
+        "pnl_0033"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0141",
+    "data": {
+      "candidate_name": "Blaise Tesla",
+      "role": "QA Analyst",
+      "round": "onsite",
+      "scheduled_at": "2026-04-14T19:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0032",
+        "pnl_0006",
+        "pnl_0040"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0142",
+    "data": {
+      "candidate_name": "Ursula Shannon",
+      "role": "QA Analyst",
+      "round": "system_design",
+      "scheduled_at": "2026-04-03T16:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0019",
+        "pnl_0034"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0143",
+    "data": {
+      "candidate_name": "Sophie Young",
+      "role": "Support Lead",
+      "round": "system_design",
+      "scheduled_at": "2026-04-20T19:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0003",
+        "pnl_0014",
+        "pnl_0007"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0144",
+    "data": {
+      "candidate_name": "Ursula Pascal",
+      "role": "QA Analyst",
+      "round": "onsite",
+      "scheduled_at": "2026-04-15T17:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0019",
+        "pnl_0040"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0145",
+    "data": {
+      "candidate_name": "Marie Einstein",
+      "role": "Solutions Architect",
+      "round": "phone_screen",
+      "scheduled_at": "2026-04-26T18:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0039"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0146",
+    "data": {
+      "candidate_name": "Blaise Pascal",
+      "role": "Engineering Manager",
+      "round": "technical",
+      "scheduled_at": "2026-04-01T15:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0021"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0147",
+    "data": {
+      "candidate_name": "Isaac Lovelace",
+      "role": "Software Engineer",
+      "round": "system_design",
+      "scheduled_at": "2026-04-10T14:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0040",
+        "pnl_0033",
+        "pnl_0017"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0148",
+    "data": {
+      "candidate_name": "Sophie Von Neumann",
+      "role": "Product Manager",
+      "round": "final",
+      "scheduled_at": "2026-04-02T19:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0009"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0149",
+    "data": {
+      "candidate_name": "Marie Curie",
+      "role": "Account Executive",
+      "round": "system_design",
+      "scheduled_at": "2026-04-17T14:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0019"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0150",
+    "data": {
+      "candidate_name": "Vera Einstein",
+      "role": "Recruiter",
+      "round": "technical",
+      "scheduled_at": "2026-04-24T20:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0017",
+        "pnl_0004"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0151",
+    "data": {
+      "candidate_name": "Ursula Young",
+      "role": "Engineering Manager",
+      "round": "phone_screen",
+      "scheduled_at": "2026-04-25T17:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0005",
+        "pnl_0014"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0152",
+    "data": {
+      "candidate_name": "Florence Shannon",
+      "role": "Engineering Manager",
+      "round": "system_design",
+      "scheduled_at": "2026-04-16T20:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0036",
+        "pnl_0013"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0153",
+    "data": {
+      "candidate_name": "Florence Wright",
+      "role": "Solutions Architect",
+      "round": "onsite",
+      "scheduled_at": "2026-04-23T17:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0018"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0154",
+    "data": {
+      "candidate_name": "Vera Shannon",
+      "role": "Product Manager",
+      "round": "final",
+      "scheduled_at": "2026-04-26T13:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0012"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0155",
+    "data": {
+      "candidate_name": "Dorothy Feynman",
+      "role": "Account Executive",
+      "round": "technical",
+      "scheduled_at": "2026-04-09T20:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0021",
+        "pnl_0020"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0156",
+    "data": {
+      "candidate_name": "Vera Turing",
+      "role": "DevOps Engineer",
+      "round": "onsite",
+      "scheduled_at": "2026-04-27T16:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0016"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0157",
+    "data": {
+      "candidate_name": "Isaac Gauss",
+      "role": "UX Designer",
+      "round": "final",
+      "scheduled_at": "2026-04-14T14:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0035",
+        "pnl_0003"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0158",
+    "data": {
+      "candidate_name": "Oliver Dirac",
+      "role": "Technical Writer",
+      "round": "system_design",
+      "scheduled_at": "2026-04-23T20:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0005"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0159",
+    "data": {
+      "candidate_name": "Florence Dirac",
+      "role": "Software Engineer",
+      "round": "technical",
+      "scheduled_at": "2026-04-17T18:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0015",
+        "pnl_0033"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0160",
+    "data": {
+      "candidate_name": "Tim Einstein",
+      "role": "Product Manager",
+      "round": "final",
+      "scheduled_at": "2026-04-18T15:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0031",
+        "pnl_0034",
+        "pnl_0015"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0161",
+    "data": {
+      "candidate_name": "Richard Curie",
+      "role": "Account Executive",
+      "round": "phone_screen",
+      "scheduled_at": "2026-04-07T15:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0032",
+        "pnl_0022"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0162",
+    "data": {
+      "candidate_name": "Ursula Einstein",
+      "role": "Recruiter",
+      "round": "phone_screen",
+      "scheduled_at": "2026-04-13T16:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0013",
+        "pnl_0003",
+        "pnl_0018"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0163",
+    "data": {
+      "candidate_name": "Yvonne Turing",
+      "role": "Product Manager",
+      "round": "onsite",
+      "scheduled_at": "2026-04-09T17:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0003",
+        "pnl_0023"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0164",
+    "data": {
+      "candidate_name": "Oliver Ramanujan",
+      "role": "Account Executive",
+      "round": "phone_screen",
+      "scheduled_at": "2026-04-13T19:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0028",
+        "pnl_0016",
+        "pnl_0009"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0165",
+    "data": {
+      "candidate_name": "Jean Hopper",
+      "role": "DevOps Engineer",
+      "round": "system_design",
+      "scheduled_at": "2026-04-23T19:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0026",
+        "pnl_0029"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0166",
+    "data": {
+      "candidate_name": "Tim Tesla",
+      "role": "Software Engineer",
+      "round": "final",
+      "scheduled_at": "2026-04-07T17:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0037"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0167",
+    "data": {
+      "candidate_name": "Dorothy Turing",
+      "role": "Recruiter",
+      "round": "system_design",
+      "scheduled_at": "2026-04-13T18:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0035",
+        "pnl_0024"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0168",
+    "data": {
+      "candidate_name": "Charles Curie",
+      "role": "UX Designer",
+      "round": "system_design",
+      "scheduled_at": "2026-04-19T13:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0006",
+        "pnl_0040",
+        "pnl_0032"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0169",
+    "data": {
+      "candidate_name": "Zelda Von Neumann",
+      "role": "Software Engineer",
+      "round": "onsite",
+      "scheduled_at": "2026-04-16T14:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0020",
+        "pnl_0027"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0170",
+    "data": {
+      "candidate_name": "Tim Noether",
+      "role": "Recruiter",
+      "round": "onsite",
+      "scheduled_at": "2026-04-13T13:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0004",
+        "pnl_0011"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0171",
+    "data": {
+      "candidate_name": "Vera Zuse",
+      "role": "Product Manager",
+      "round": "technical",
+      "scheduled_at": "2026-04-17T15:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0018"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0172",
+    "data": {
+      "candidate_name": "Tim Feynman",
+      "role": "Solutions Architect",
+      "round": "technical",
+      "scheduled_at": "2026-04-20T14:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0008",
+        "pnl_0039",
+        "pnl_0016"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0173",
+    "data": {
+      "candidate_name": "Sophie Noether",
+      "role": "Product Manager",
+      "round": "phone_screen",
+      "scheduled_at": "2026-04-27T13:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0019",
+        "pnl_0012"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0174",
+    "data": {
+      "candidate_name": "Ada Dirac",
+      "role": "QA Analyst",
+      "round": "phone_screen",
+      "scheduled_at": "2026-04-12T19:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0040",
+        "pnl_0036",
+        "pnl_0029"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0175",
+    "data": {
+      "candidate_name": "Katherine Zuse",
+      "role": "Solutions Architect",
+      "round": "onsite",
+      "scheduled_at": "2026-04-07T15:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0039",
+        "pnl_0029"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0176",
+    "data": {
+      "candidate_name": "Grace Hopper",
+      "role": "Solutions Architect",
+      "round": "system_design",
+      "scheduled_at": "2026-04-01T15:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0007",
+        "pnl_0005",
+        "pnl_0003"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0177",
+    "data": {
+      "candidate_name": "Florence Von Neumann",
+      "role": "Software Engineer",
+      "round": "system_design",
+      "scheduled_at": "2026-04-15T15:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0002",
+        "pnl_0017",
+        "pnl_0014"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0178",
+    "data": {
+      "candidate_name": "Marie Ramanujan",
+      "role": "Solutions Architect",
+      "round": "system_design",
+      "scheduled_at": "2026-04-25T16:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0009"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0179",
+    "data": {
+      "candidate_name": "Walter Dirac",
+      "role": "UX Designer",
+      "round": "technical",
+      "scheduled_at": "2026-04-04T13:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0011"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0180",
+    "data": {
+      "candidate_name": "Linus Xu",
+      "role": "Recruiter",
+      "round": "phone_screen",
+      "scheduled_at": "2026-04-23T13:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0027"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0181",
+    "data": {
+      "candidate_name": "Tim Von Neumann",
+      "role": "Software Engineer",
+      "round": "onsite",
+      "scheduled_at": "2026-04-08T13:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0012",
+        "pnl_0033"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0182",
+    "data": {
+      "candidate_name": "Grace Curie",
+      "role": "Data Scientist",
+      "round": "onsite",
+      "scheduled_at": "2026-04-07T17:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0018",
+        "pnl_0027"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0183",
+    "data": {
+      "candidate_name": "Zelda Tesla",
+      "role": "Solutions Architect",
+      "round": "technical",
+      "scheduled_at": "2026-04-22T19:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0013"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0184",
+    "data": {
+      "candidate_name": "Isaac Von Neumann",
+      "role": "Data Scientist",
+      "round": "final",
+      "scheduled_at": "2026-04-14T19:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0029"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0185",
+    "data": {
+      "candidate_name": "Jean Wright",
+      "role": "Solutions Architect",
+      "round": "system_design",
+      "scheduled_at": "2026-04-05T13:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0024",
+        "pnl_0016"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0186",
+    "data": {
+      "candidate_name": "Walter Hopper",
+      "role": "Recruiter",
+      "round": "phone_screen",
+      "scheduled_at": "2026-04-17T20:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0001"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0187",
+    "data": {
+      "candidate_name": "Marie Lovelace",
+      "role": "UX Designer",
+      "round": "phone_screen",
+      "scheduled_at": "2026-04-20T19:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0022",
+        "pnl_0024",
+        "pnl_0014"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0188",
+    "data": {
+      "candidate_name": "Tim Gauss",
+      "role": "Software Engineer",
+      "round": "phone_screen",
+      "scheduled_at": "2026-04-19T16:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0032",
+        "pnl_0008"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0189",
+    "data": {
+      "candidate_name": "Oliver Zuse",
+      "role": "Account Executive",
+      "round": "final",
+      "scheduled_at": "2026-04-23T18:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0030"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0190",
+    "data": {
+      "candidate_name": "Hedy Tesla",
+      "role": "Solutions Architect",
+      "round": "final",
+      "scheduled_at": "2026-04-15T16:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0018",
+        "pnl_0032"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0191",
+    "data": {
+      "candidate_name": "Nikola Einstein",
+      "role": "Recruiter",
+      "round": "onsite",
+      "scheduled_at": "2026-04-17T14:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0023",
+        "pnl_0040",
+        "pnl_0015"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0192",
+    "data": {
+      "candidate_name": "Zelda Tesla",
+      "role": "Technical Writer",
+      "round": "system_design",
+      "scheduled_at": "2026-04-28T19:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0027",
+        "pnl_0009",
+        "pnl_0022"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0193",
+    "data": {
+      "candidate_name": "Charles Lovelace",
+      "role": "Support Lead",
+      "round": "phone_screen",
+      "scheduled_at": "2026-04-06T18:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0031",
+        "pnl_0040",
+        "pnl_0029"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0194",
+    "data": {
+      "candidate_name": "Sophie Ramanujan",
+      "role": "Account Executive",
+      "round": "final",
+      "scheduled_at": "2026-04-01T16:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0008",
+        "pnl_0029"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0195",
+    "data": {
+      "candidate_name": "Richard Xu",
+      "role": "Solutions Architect",
+      "round": "system_design",
+      "scheduled_at": "2026-04-24T15:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0016",
+        "pnl_0037"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0196",
+    "data": {
+      "candidate_name": "Charles Xu",
+      "role": "Product Manager",
+      "round": "system_design",
+      "scheduled_at": "2026-04-26T14:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0017"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0197",
+    "data": {
+      "candidate_name": "Grace Gauss",
+      "role": "UX Designer",
+      "round": "technical",
+      "scheduled_at": "2026-04-01T15:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0031"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0198",
+    "data": {
+      "candidate_name": "Vera Turing",
+      "role": "Account Executive",
+      "round": "technical",
+      "scheduled_at": "2026-04-07T17:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0021"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0199",
+    "data": {
+      "candidate_name": "Sophie Babbage",
+      "role": "QA Analyst",
+      "round": "phone_screen",
+      "scheduled_at": "2026-04-26T20:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0027",
+        "pnl_0001",
+        "pnl_0017"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0200",
+    "data": {
+      "candidate_name": "Charles Von Neumann",
+      "role": "Account Executive",
+      "round": "onsite",
+      "scheduled_at": "2026-04-22T18:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0029",
+        "pnl_0019"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0201",
+    "data": {
+      "candidate_name": "Linus Pascal",
+      "role": "DevOps Engineer",
+      "round": "system_design",
+      "scheduled_at": "2026-04-17T15:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0039",
+        "pnl_0020"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0202",
+    "data": {
+      "candidate_name": "Marie Turing",
+      "role": "Software Engineer",
+      "round": "phone_screen",
+      "scheduled_at": "2026-04-02T19:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0026"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0203",
+    "data": {
+      "candidate_name": "Zelda Ramanujan",
+      "role": "DevOps Engineer",
+      "round": "phone_screen",
+      "scheduled_at": "2026-04-20T13:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0035"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0204",
+    "data": {
+      "candidate_name": "Xavier Young",
+      "role": "Software Engineer",
+      "round": "system_design",
+      "scheduled_at": "2026-04-08T13:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0004"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0205",
+    "data": {
+      "candidate_name": "Blaise Babbage",
+      "role": "Technical Writer",
+      "round": "technical",
+      "scheduled_at": "2026-04-16T18:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0037"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0206",
+    "data": {
+      "candidate_name": "Walter Turing",
+      "role": "UX Designer",
+      "round": "technical",
+      "scheduled_at": "2026-04-14T19:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0017",
+        "pnl_0038",
+        "pnl_0030"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0207",
+    "data": {
+      "candidate_name": "Marie Babbage",
+      "role": "DevOps Engineer",
+      "round": "technical",
+      "scheduled_at": "2026-04-20T20:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0030"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0208",
+    "data": {
+      "candidate_name": "Grace Shannon",
+      "role": "Account Executive",
+      "round": "system_design",
+      "scheduled_at": "2026-04-02T16:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0002",
+        "pnl_0029",
+        "pnl_0038"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0209",
+    "data": {
+      "candidate_name": "Ursula Young",
+      "role": "Engineering Manager",
+      "round": "final",
+      "scheduled_at": "2026-04-06T19:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0025"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0210",
+    "data": {
+      "candidate_name": "Marie Von Neumann",
+      "role": "DevOps Engineer",
+      "round": "phone_screen",
+      "scheduled_at": "2026-04-27T15:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0002",
+        "pnl_0015",
+        "pnl_0005"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0211",
+    "data": {
+      "candidate_name": "Marie Noether",
+      "role": "Engineering Manager",
+      "round": "final",
+      "scheduled_at": "2026-04-07T16:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0024",
+        "pnl_0017"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0212",
+    "data": {
+      "candidate_name": "Marie Einstein",
+      "role": "DevOps Engineer",
+      "round": "final",
+      "scheduled_at": "2026-04-17T20:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0018"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0213",
+    "data": {
+      "candidate_name": "Jean Noether",
+      "role": "Recruiter",
+      "round": "onsite",
+      "scheduled_at": "2026-04-18T17:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0034",
+        "pnl_0036",
+        "pnl_0001"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0214",
+    "data": {
+      "candidate_name": "Nikola Tesla",
+      "role": "Account Executive",
+      "round": "onsite",
+      "scheduled_at": "2026-04-02T13:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0031",
+        "pnl_0006",
+        "pnl_0039"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0215",
+    "data": {
+      "candidate_name": "Yvonne Feynman",
+      "role": "Solutions Architect",
+      "round": "phone_screen",
+      "scheduled_at": "2026-04-26T15:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0034",
+        "pnl_0006",
+        "pnl_0018"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0216",
+    "data": {
+      "candidate_name": "Emmy Gauss",
+      "role": "Technical Writer",
+      "round": "final",
+      "scheduled_at": "2026-04-12T16:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0036"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0217",
+    "data": {
+      "candidate_name": "Yvonne Noether",
+      "role": "Product Manager",
+      "round": "phone_screen",
+      "scheduled_at": "2026-04-07T17:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0022",
+        "pnl_0005"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0218",
+    "data": {
+      "candidate_name": "Walter Pascal",
+      "role": "Account Executive",
+      "round": "phone_screen",
+      "scheduled_at": "2026-04-24T18:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0008",
+        "pnl_0009",
+        "pnl_0019"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0219",
+    "data": {
+      "candidate_name": "Grace Wright",
+      "role": "Software Engineer",
+      "round": "technical",
+      "scheduled_at": "2026-04-02T16:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0013",
+        "pnl_0014",
+        "pnl_0020"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0220",
+    "data": {
+      "candidate_name": "Hedy Shannon",
+      "role": "Technical Writer",
+      "round": "technical",
+      "scheduled_at": "2026-04-03T17:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0021"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0221",
+    "data": {
+      "candidate_name": "Peggy Young",
+      "role": "UX Designer",
+      "round": "onsite",
+      "scheduled_at": "2026-04-23T19:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0002",
+        "pnl_0019"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0222",
+    "data": {
+      "candidate_name": "Charles Ramanujan",
+      "role": "Engineering Manager",
+      "round": "final",
+      "scheduled_at": "2026-04-18T19:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0018",
+        "pnl_0036",
+        "pnl_0023"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0223",
+    "data": {
+      "candidate_name": "Peggy Babbage",
+      "role": "QA Analyst",
+      "round": "phone_screen",
+      "scheduled_at": "2026-04-23T16:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0007"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0224",
+    "data": {
+      "candidate_name": "Jean Noether",
+      "role": "Data Scientist",
+      "round": "final",
+      "scheduled_at": "2026-04-23T19:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0001",
+        "pnl_0031"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0225",
+    "data": {
+      "candidate_name": "Isaac Ramanujan",
+      "role": "Account Executive",
+      "round": "final",
+      "scheduled_at": "2026-04-01T17:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0029",
+        "pnl_0025",
+        "pnl_0006"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0226",
+    "data": {
+      "candidate_name": "Florence Ramanujan",
+      "role": "Engineering Manager",
+      "round": "technical",
+      "scheduled_at": "2026-04-23T14:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0032"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0227",
+    "data": {
+      "candidate_name": "Emmy Babbage",
+      "role": "Data Scientist",
+      "round": "technical",
+      "scheduled_at": "2026-04-12T20:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0001",
+        "pnl_0021",
+        "pnl_0028"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0228",
+    "data": {
+      "candidate_name": "Grace Babbage",
+      "role": "Recruiter",
+      "round": "onsite",
+      "scheduled_at": "2026-04-19T15:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0036",
+        "pnl_0008"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0229",
+    "data": {
+      "candidate_name": "Emmy Dirac",
+      "role": "Account Executive",
+      "round": "technical",
+      "scheduled_at": "2026-04-12T19:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0016",
+        "pnl_0022",
+        "pnl_0028"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0230",
+    "data": {
+      "candidate_name": "Tim Hopper",
+      "role": "Software Engineer",
+      "round": "phone_screen",
+      "scheduled_at": "2026-04-07T16:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0020",
+        "pnl_0025"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0231",
+    "data": {
+      "candidate_name": "Zelda Feynman",
+      "role": "UX Designer",
+      "round": "technical",
+      "scheduled_at": "2026-04-25T14:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0035",
+        "pnl_0039",
+        "pnl_0028"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0232",
+    "data": {
+      "candidate_name": "Emmy Feynman",
+      "role": "QA Analyst",
+      "round": "system_design",
+      "scheduled_at": "2026-04-18T16:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0040",
+        "pnl_0001",
+        "pnl_0030"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0233",
+    "data": {
+      "candidate_name": "Xavier Dirac",
+      "role": "Recruiter",
+      "round": "onsite",
+      "scheduled_at": "2026-04-25T14:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0013",
+        "pnl_0016",
+        "pnl_0003"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0234",
+    "data": {
+      "candidate_name": "Richard Shannon",
+      "role": "Account Executive",
+      "round": "onsite",
+      "scheduled_at": "2026-04-26T16:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0005",
+        "pnl_0033"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0235",
+    "data": {
+      "candidate_name": "Linus Babbage",
+      "role": "Solutions Architect",
+      "round": "system_design",
+      "scheduled_at": "2026-04-23T14:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0019"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0236",
+    "data": {
+      "candidate_name": "Xavier Wright",
+      "role": "Product Manager",
+      "round": "onsite",
+      "scheduled_at": "2026-04-09T19:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0019"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0237",
+    "data": {
+      "candidate_name": "Xavier Tesla",
+      "role": "Software Engineer",
+      "round": "system_design",
+      "scheduled_at": "2026-04-28T19:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0029"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0238",
+    "data": {
+      "candidate_name": "Sophie Turing",
+      "role": "Support Lead",
+      "round": "onsite",
+      "scheduled_at": "2026-04-03T16:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0012",
+        "pnl_0008",
+        "pnl_0028"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0239",
+    "data": {
+      "candidate_name": "Emmy Shannon",
+      "role": "Data Scientist",
+      "round": "system_design",
+      "scheduled_at": "2026-04-09T15:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0040"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0240",
+    "data": {
+      "candidate_name": "Blaise Noether",
+      "role": "QA Analyst",
+      "round": "phone_screen",
+      "scheduled_at": "2026-04-20T18:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0017",
+        "pnl_0037"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0241",
+    "data": {
+      "candidate_name": "Dorothy Tesla",
+      "role": "DevOps Engineer",
+      "round": "onsite",
+      "scheduled_at": "2026-04-11T19:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0005",
+        "pnl_0021"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0242",
+    "data": {
+      "candidate_name": "Hedy Curie",
+      "role": "QA Analyst",
+      "round": "final",
+      "scheduled_at": "2026-04-21T16:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0035",
+        "pnl_0032",
+        "pnl_0040"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0243",
+    "data": {
+      "candidate_name": "Hedy Babbage",
+      "role": "Data Scientist",
+      "round": "final",
+      "scheduled_at": "2026-04-18T13:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0014",
+        "pnl_0001"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0244",
+    "data": {
+      "candidate_name": "Isaac Lovelace",
+      "role": "Account Executive",
+      "round": "phone_screen",
+      "scheduled_at": "2026-04-22T18:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0030"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0245",
+    "data": {
+      "candidate_name": "Hedy Xu",
+      "role": "Support Lead",
+      "round": "onsite",
+      "scheduled_at": "2026-04-09T17:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0011",
+        "pnl_0040"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0246",
+    "data": {
+      "candidate_name": "Nikola Hopper",
+      "role": "Recruiter",
+      "round": "system_design",
+      "scheduled_at": "2026-04-28T17:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0005",
+        "pnl_0013"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0247",
+    "data": {
+      "candidate_name": "Marie Hopper",
+      "role": "Product Manager",
+      "round": "final",
+      "scheduled_at": "2026-04-04T13:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0038",
+        "pnl_0029",
+        "pnl_0025"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0248",
+    "data": {
+      "candidate_name": "Zelda Young",
+      "role": "Support Lead",
+      "round": "technical",
+      "scheduled_at": "2026-04-08T13:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0034",
+        "pnl_0022"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0249",
+    "data": {
+      "candidate_name": "Xavier Ramanujan",
+      "role": "Recruiter",
+      "round": "technical",
+      "scheduled_at": "2026-04-20T18:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0021",
+        "pnl_0002",
+        "pnl_0019"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0250",
+    "data": {
+      "candidate_name": "Peggy Einstein",
+      "role": "Technical Writer",
+      "round": "final",
+      "scheduled_at": "2026-04-03T13:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0013",
+        "pnl_0034"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0251",
+    "data": {
+      "candidate_name": "Yvonne Feynman",
+      "role": "Solutions Architect",
+      "round": "phone_screen",
+      "scheduled_at": "2026-04-17T17:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0007",
+        "pnl_0001"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0252",
+    "data": {
+      "candidate_name": "Richard Lovelace",
+      "role": "Data Scientist",
+      "round": "final",
+      "scheduled_at": "2026-04-20T20:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0031",
+        "pnl_0008",
+        "pnl_0022"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0253",
+    "data": {
+      "candidate_name": "Linus Zuse",
+      "role": "Software Engineer",
+      "round": "technical",
+      "scheduled_at": "2026-04-05T13:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0033",
+        "pnl_0020"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0254",
+    "data": {
+      "candidate_name": "Linus Shannon",
+      "role": "QA Analyst",
+      "round": "onsite",
+      "scheduled_at": "2026-04-22T19:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0026",
+        "pnl_0034"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0255",
+    "data": {
+      "candidate_name": "Emmy Dirac",
+      "role": "QA Analyst",
+      "round": "phone_screen",
+      "scheduled_at": "2026-04-17T18:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0008",
+        "pnl_0013"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0256",
+    "data": {
+      "candidate_name": "Walter Noether",
+      "role": "Software Engineer",
+      "round": "system_design",
+      "scheduled_at": "2026-04-19T17:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0004",
+        "pnl_0037",
+        "pnl_0020"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0257",
+    "data": {
+      "candidate_name": "Marie Pascal",
+      "role": "UX Designer",
+      "round": "system_design",
+      "scheduled_at": "2026-04-14T15:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0014",
+        "pnl_0022",
+        "pnl_0028"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0258",
+    "data": {
+      "candidate_name": "Isaac Von Neumann",
+      "role": "Support Lead",
+      "round": "phone_screen",
+      "scheduled_at": "2026-04-02T16:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0011"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0259",
+    "data": {
+      "candidate_name": "Linus Feynman",
+      "role": "Solutions Architect",
+      "round": "final",
+      "scheduled_at": "2026-04-15T18:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0033",
+        "pnl_0015"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0260",
+    "data": {
+      "candidate_name": "Ada Young",
+      "role": "Solutions Architect",
+      "round": "final",
+      "scheduled_at": "2026-04-26T13:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0020",
+        "pnl_0009"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0261",
+    "data": {
+      "candidate_name": "Peggy Tesla",
+      "role": "Solutions Architect",
+      "round": "onsite",
+      "scheduled_at": "2026-04-23T14:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0015",
+        "pnl_0006"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0262",
+    "data": {
+      "candidate_name": "Yvonne Shannon",
+      "role": "Technical Writer",
+      "round": "system_design",
+      "scheduled_at": "2026-04-23T14:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0029"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0263",
+    "data": {
+      "candidate_name": "Isaac Shannon",
+      "role": "UX Designer",
+      "round": "technical",
+      "scheduled_at": "2026-04-19T18:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0025",
+        "pnl_0017",
+        "pnl_0032"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0264",
+    "data": {
+      "candidate_name": "Marie Curie",
+      "role": "Data Scientist",
+      "round": "final",
+      "scheduled_at": "2026-04-23T18:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0021",
+        "pnl_0017",
+        "pnl_0014"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0265",
+    "data": {
+      "candidate_name": "Ada Hopper",
+      "role": "Solutions Architect",
+      "round": "final",
+      "scheduled_at": "2026-04-27T19:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0023",
+        "pnl_0033"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0266",
+    "data": {
+      "candidate_name": "Richard Noether",
+      "role": "Data Scientist",
+      "round": "system_design",
+      "scheduled_at": "2026-04-12T18:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0003",
+        "pnl_0002",
+        "pnl_0017"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0267",
+    "data": {
+      "candidate_name": "Emmy Pascal",
+      "role": "Data Scientist",
+      "round": "technical",
+      "scheduled_at": "2026-04-17T13:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0008",
+        "pnl_0040"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0268",
+    "data": {
+      "candidate_name": "Tim Young",
+      "role": "Account Executive",
+      "round": "phone_screen",
+      "scheduled_at": "2026-04-01T17:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0040",
+        "pnl_0036"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0269",
+    "data": {
+      "candidate_name": "Isaac Zuse",
+      "role": "Software Engineer",
+      "round": "phone_screen",
+      "scheduled_at": "2026-04-14T17:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0001",
+        "pnl_0030"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0270",
+    "data": {
+      "candidate_name": "Emmy Von Neumann",
+      "role": "UX Designer",
+      "round": "phone_screen",
+      "scheduled_at": "2026-04-14T19:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0001"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0271",
+    "data": {
+      "candidate_name": "Ada Noether",
+      "role": "Software Engineer",
+      "round": "system_design",
+      "scheduled_at": "2026-04-21T13:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0011"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0272",
+    "data": {
+      "candidate_name": "Zelda Zuse",
+      "role": "Engineering Manager",
+      "round": "onsite",
+      "scheduled_at": "2026-04-15T17:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0003"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0273",
+    "data": {
+      "candidate_name": "Sophie Ramanujan",
+      "role": "Engineering Manager",
+      "round": "technical",
+      "scheduled_at": "2026-04-26T19:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0040"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0274",
+    "data": {
+      "candidate_name": "Ada Feynman",
+      "role": "Engineering Manager",
+      "round": "technical",
+      "scheduled_at": "2026-04-15T14:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0009"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0275",
+    "data": {
+      "candidate_name": "Katherine Lovelace",
+      "role": "Recruiter",
+      "round": "onsite",
+      "scheduled_at": "2026-04-11T19:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0022"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0276",
+    "data": {
+      "candidate_name": "Hedy Lovelace",
+      "role": "Product Manager",
+      "round": "final",
+      "scheduled_at": "2026-04-19T17:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0018",
+        "pnl_0027"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0277",
+    "data": {
+      "candidate_name": "Nikola Feynman",
+      "role": "Solutions Architect",
+      "round": "onsite",
+      "scheduled_at": "2026-04-18T15:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0011",
+        "pnl_0001"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0278",
+    "data": {
+      "candidate_name": "Tim Curie",
+      "role": "Data Scientist",
+      "round": "system_design",
+      "scheduled_at": "2026-04-28T15:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0020"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0279",
+    "data": {
+      "candidate_name": "Emmy Babbage",
+      "role": "Technical Writer",
+      "round": "system_design",
+      "scheduled_at": "2026-04-25T18:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0022"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0280",
+    "data": {
+      "candidate_name": "Tim Einstein",
+      "role": "Recruiter",
+      "round": "system_design",
+      "scheduled_at": "2026-04-11T16:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0035",
+        "pnl_0038",
+        "pnl_0024"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0281",
+    "data": {
+      "candidate_name": "Sophie Feynman",
+      "role": "UX Designer",
+      "round": "technical",
+      "scheduled_at": "2026-04-08T15:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0011"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0282",
+    "data": {
+      "candidate_name": "Peggy Pascal",
+      "role": "DevOps Engineer",
+      "round": "technical",
+      "scheduled_at": "2026-04-14T20:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0030"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0283",
+    "data": {
+      "candidate_name": "Oliver Gauss",
+      "role": "QA Analyst",
+      "round": "technical",
+      "scheduled_at": "2026-04-27T14:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0005",
+        "pnl_0023",
+        "pnl_0019"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0284",
+    "data": {
+      "candidate_name": "Emmy Feynman",
+      "role": "Account Executive",
+      "round": "system_design",
+      "scheduled_at": "2026-04-04T14:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0036",
+        "pnl_0037",
+        "pnl_0025"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0285",
+    "data": {
+      "candidate_name": "Tim Tesla",
+      "role": "Solutions Architect",
+      "round": "phone_screen",
+      "scheduled_at": "2026-04-28T13:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0006",
+        "pnl_0038"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0286",
+    "data": {
+      "candidate_name": "Linus Hopper",
+      "role": "Software Engineer",
+      "round": "technical",
+      "scheduled_at": "2026-04-16T17:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0020"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0287",
+    "data": {
+      "candidate_name": "Zelda Noether",
+      "role": "Recruiter",
+      "round": "phone_screen",
+      "scheduled_at": "2026-04-27T16:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0004"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0288",
+    "data": {
+      "candidate_name": "Emmy Pascal",
+      "role": "Support Lead",
+      "round": "onsite",
+      "scheduled_at": "2026-04-20T19:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0019",
+        "pnl_0003",
+        "pnl_0011"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0289",
+    "data": {
+      "candidate_name": "Dorothy Xu",
+      "role": "UX Designer",
+      "round": "system_design",
+      "scheduled_at": "2026-04-02T16:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0025"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0290",
+    "data": {
+      "candidate_name": "Hedy Ramanujan",
+      "role": "QA Analyst",
+      "round": "onsite",
+      "scheduled_at": "2026-04-18T17:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0040",
+        "pnl_0019"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0291",
+    "data": {
+      "candidate_name": "Peggy Hopper",
+      "role": "Technical Writer",
+      "round": "final",
+      "scheduled_at": "2026-04-17T15:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0027",
+        "pnl_0039"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0292",
+    "data": {
+      "candidate_name": "Emmy Noether",
+      "role": "Data Scientist",
+      "round": "system_design",
+      "scheduled_at": "2026-04-02T19:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0011",
+        "pnl_0036"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0293",
+    "data": {
+      "candidate_name": "Dorothy Einstein",
+      "role": "Recruiter",
+      "round": "onsite",
+      "scheduled_at": "2026-04-07T14:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0001"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0294",
+    "data": {
+      "candidate_name": "Florence Noether",
+      "role": "QA Analyst",
+      "round": "technical",
+      "scheduled_at": "2026-04-19T20:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0010",
+        "pnl_0011",
+        "pnl_0035"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0295",
+    "data": {
+      "candidate_name": "Linus Zuse",
+      "role": "Recruiter",
+      "round": "phone_screen",
+      "scheduled_at": "2026-04-28T20:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0022"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0296",
+    "data": {
+      "candidate_name": "Emmy Ramanujan",
+      "role": "QA Analyst",
+      "round": "system_design",
+      "scheduled_at": "2026-04-25T20:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0009",
+        "pnl_0017",
+        "pnl_0025"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0297",
+    "data": {
+      "candidate_name": "Richard Feynman",
+      "role": "Technical Writer",
+      "round": "technical",
+      "scheduled_at": "2026-04-17T16:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0007",
+        "pnl_0039",
+        "pnl_0032"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0298",
+    "data": {
+      "candidate_name": "Xavier Lovelace",
+      "role": "Engineering Manager",
+      "round": "onsite",
+      "scheduled_at": "2026-04-10T19:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0028",
+        "pnl_0001"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0299",
+    "data": {
+      "candidate_name": "Grace Babbage",
+      "role": "Engineering Manager",
+      "round": "system_design",
+      "scheduled_at": "2026-04-11T16:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0009",
+        "pnl_0012"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_0300",
+    "data": {
+      "candidate_name": "Hedy Curie",
+      "role": "Product Manager",
+      "round": "onsite",
+      "scheduled_at": "2026-04-16T15:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0008"
+      ],
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "itv_9001",
+    "data": {
+      "candidate_name": "Dana Reeve",
+      "role": "Staff Engineer",
+      "round": "onsite",
+      "scheduled_at": "2026-04-05T18:00:00Z",
+      "status": "scheduled",
+      "panelist_ids": [
+        "pnl_0003",
+        "pnl_0007"
+      ],
+      "created_at": "2026-03-14T11:03:00Z"
+    },
+    "updated_at": "2026-03-14T11:03:00Z",
+    "is_deleted": false
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "events": [
+    {
+      "client_ref": "wb-001-note",
+      "ok": true,
+      "record": {
+        "author": "sync-bot@tl.test",
+        "body": "Reference check completed; strong fit for backend roles.",
+        "candidate_id": "cand_0010",
+        "created_at": "2026-03-14T10:00:00Z",
+        "id": "note_90001",
+        "modified_at": "2026-03-14T10:00:00Z",
+        "source_id": "note_90001"
+      }
+    },
+    {
+      "client_ref": "wb-002-bad-note",
+      "error": {
+        "field_errors": {
+          "body": [
+            "is required"
+          ]
+        },
+        "status": 422
+      },
+      "ok": false
+    }
+  ]
+}

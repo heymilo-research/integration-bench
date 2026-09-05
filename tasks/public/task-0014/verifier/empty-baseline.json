@@ -1,0 +1,216 @@
+{
+  "schema": 2,
+  "n_total": 16,
+  "floor_fraction": 0.375,
+  "gold_fraction": 1.0,
+  "probes": {
+    "empty": 0.375,
+    "stub": 0.0
+  },
+  "checks": {
+    "l1": [
+      "correction_backlog_identified",
+      "ambiguous_commit_exact",
+      "no_blind_retry_without_key",
+      "storm_commit_exact::cand_0020",
+      "storm_commit_exact::cand_0023",
+      "storm_output_matches_ground_truth",
+      "no_duplicate_events_anywhere",
+      "no_duplicate_stage_patches_anywhere",
+      "storm_no_stage_patch_duplicate_on_target",
+      "did_not_confirm_by_relisting_under_storm",
+      "committed_500_row_present",
+      "did_not_confirm_by_relisting"
+    ],
+    "hard": [
+      "no_credentials_in_query_string",
+      "no_secrets_echoed_to_vendor"
+    ],
+    "l3": [],
+    "soft": [
+      "no_hot_loop_on_error",
+      "idempotent_write_retries"
+    ]
+  },
+  "generated": "bench validate --write-baseline 2026-09-04",
+  "checks_v2": [
+    {
+      "bucket": "l1",
+      "name": "correction_backlog_identified",
+      "gold": true,
+      "empty": true,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "ambiguous_commit_exact",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": true
+    },
+    {
+      "bucket": "l1",
+      "name": "no_blind_retry_without_key",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "storm_commit_exact::cand_0020",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 1,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "storm_commit_exact::cand_0023",
+      "gold": true,
+      "empty": true,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "storm_output_matches_ground_truth",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": true
+    },
+    {
+      "bucket": "l1",
+      "name": "no_duplicate_events_anywhere",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": true
+    },
+    {
+      "bucket": "l1",
+      "name": "no_duplicate_stage_patches_anywhere",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": true
+    },
+    {
+      "bucket": "l1",
+      "name": "storm_no_stage_patch_duplicate_on_target",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": true
+    },
+    {
+      "bucket": "l1",
+      "name": "did_not_confirm_by_relisting_under_storm",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "committed_500_row_present",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "did_not_confirm_by_relisting",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "hard",
+      "name": "no_credentials_in_query_string",
+      "gold": true,
+      "empty": true,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    },
+    {
+      "bucket": "hard",
+      "name": "no_secrets_echoed_to_vendor",
+      "gold": true,
+      "empty": true,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    },
+    {
+      "bucket": "soft",
+      "name": "no_hot_loop_on_error",
+      "gold": true,
+      "empty": true,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "soft",
+      "name": "idempotent_write_retries",
+      "gold": true,
+      "empty": true,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": 0,
+      "mandatory": false
+    }
+  ],
+  "completion": {
+    "mode": "authored_mandatory_checks",
+    "required_checks": [
+      "ambiguous_commit_exact",
+      "storm_output_matches_ground_truth",
+      "no_duplicate_events_anywhere",
+      "no_duplicate_stage_patches_anywhere",
+      "storm_no_stage_patch_duplicate_on_target"
+    ]
+  },
+  "scoring": {
+    "version": "task-score-v4-mandatory-gated",
+    "empty_raw": 0,
+    "empty_task_score": 0.0,
+    "stub_raw": -4,
+    "stub_task_score": 0.0,
+    "floor_task_score": 0.0
+  }
+}

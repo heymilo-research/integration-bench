@@ -1,0 +1,26 @@
+{
+  "writes": [
+    {
+      "client_ref": "w-1",
+      "kind": "note",
+      "placement_id": "plc_00001",
+      "body": "Client confirmed start date under pressure.",
+      "author": "csengineer@ourcompany.test"
+    },
+    {
+      "client_ref": "w-2",
+      "kind": "placement_update",
+      "placement_id": "plc_00002",
+      "fields": {
+        "stage": "placed",
+        "fee_amount": 9000.0
+      }
+    },
+    {
+      "client_ref": "w-3",
+      "kind": "note",
+      "placement_id": "plc_00003",
+      "author": "csengineer@ourcompany.test"
+    }
+  ]
+}

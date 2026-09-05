@@ -1,0 +1,292 @@
+{
+  "schema": 2,
+  "n_total": 23,
+  "floor_fraction": 0.30434782608695654,
+  "gold_fraction": 1.0,
+  "probes": {
+    "empty": 0.30434782608695654,
+    "stub": 0.0
+  },
+  "checks": {
+    "l1": [
+      "app_exit_ok",
+      "candidates_rows_exact",
+      "candidates_row_count_6000",
+      "candidates_ids_exactly_once",
+      "agencies_rows_exact",
+      "agency_row_exact:agy_00011",
+      "agency_row_exact:agy_00005",
+      "candidate_beyond_cap_present:cand_00101",
+      "candidate_beyond_cap_present:cand_03210",
+      "candidate_beyond_cap_present:cand_06000",
+      "only_v2_used_for_candidates",
+      "placements_rows_exact",
+      "placement_row_exact:plc_00003",
+      "placement_row_exact:plc_00013",
+      "placement_row_exact:plc_00005",
+      "no_placement_row_carries_rpc_envelope",
+      "only_v1_used_for_placements",
+      "split_brain_composition"
+    ],
+    "hard": [
+      "no_credentials_in_query_string",
+      "no_secrets_echoed_to_vendor"
+    ],
+    "l3": [],
+    "soft": [
+      "no_unnecessary_full_resync:candidate",
+      "no_unnecessary_full_resync:placement",
+      "no_unnecessary_full_resync:agency"
+    ]
+  },
+  "generated": "bench validate --write-baseline 2026-08-14",
+  "checks_v2": [
+    {
+      "bucket": "l1",
+      "name": "app_exit_ok",
+      "gold": true,
+      "empty": true,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "candidates_rows_exact",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": true
+    },
+    {
+      "bucket": "l1",
+      "name": "candidates_row_count_6000",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": true
+    },
+    {
+      "bucket": "l1",
+      "name": "candidates_ids_exactly_once",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 1,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "agencies_rows_exact",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 1,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "agency_row_exact:agy_00011",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 1,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "agency_row_exact:agy_00005",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 1,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "candidate_beyond_cap_present:cand_00101",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 1,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "candidate_beyond_cap_present:cand_03210",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 1,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "candidate_beyond_cap_present:cand_06000",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 1,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "only_v2_used_for_candidates",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "placements_rows_exact",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": true
+    },
+    {
+      "bucket": "l1",
+      "name": "placement_row_exact:plc_00003",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 1,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "placement_row_exact:plc_00013",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 1,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "placement_row_exact:plc_00005",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 1,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "no_placement_row_carries_rpc_envelope",
+      "gold": true,
+      "empty": true,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "only_v1_used_for_placements",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "split_brain_composition",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": true
+    },
+    {
+      "bucket": "hard",
+      "name": "no_credentials_in_query_string",
+      "gold": true,
+      "empty": true,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    },
+    {
+      "bucket": "hard",
+      "name": "no_secrets_echoed_to_vendor",
+      "gold": true,
+      "empty": true,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    },
+    {
+      "bucket": "soft",
+      "name": "no_unnecessary_full_resync:candidate",
+      "gold": true,
+      "empty": true,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "soft",
+      "name": "no_unnecessary_full_resync:placement",
+      "gold": true,
+      "empty": true,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "soft",
+      "name": "no_unnecessary_full_resync:agency",
+      "gold": true,
+      "empty": true,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": 0,
+      "mandatory": false
+    }
+  ],
+  "completion": {
+    "mode": "authored_mandatory_checks",
+    "required_checks": [
+      "candidates_rows_exact",
+      "candidates_row_count_6000",
+      "placements_rows_exact",
+      "split_brain_composition"
+    ]
+  },
+  "scoring": {
+    "version": "task-score-v4-mandatory-gated",
+    "empty_raw": 0,
+    "empty_task_score": 0.0,
+    "stub_raw": -4,
+    "stub_task_score": 0.0,
+    "floor_task_score": 0.0
+  }
+}

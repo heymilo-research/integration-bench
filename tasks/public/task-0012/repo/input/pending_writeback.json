@@ -1,0 +1,16 @@
+{
+  "events": [
+    {
+      "client_ref": "wb-001-note",
+      "candidate_id": "cand_0010",
+      "body": "Reference check completed; strong fit for backend roles.",
+      "author": "sync-bot@tl.test"
+    },
+    {
+      "client_ref": "wb-002-bad-note",
+      "candidate_id": "cand_0030",
+      "body": "",
+      "author": "sync-bot@tl.test"
+    }
+  ]
+}

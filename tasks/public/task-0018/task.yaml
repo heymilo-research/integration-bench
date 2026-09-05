@@ -1,0 +1,111 @@
+id: task-0018
+title: Rebuild the Sandhurst requisition rollup after the Reporting Mart is switched
+  off
+category: migrate
+vendor: recruitos
+surfaces:
+- polling
+tier: 2
+primary_mechanic: mart_rollup_api_cutover
+track: python
+timeout_minutes: 60
+doc_profile: 'true'
+scenarios:
+- task_0018
+l3_scenarios: []
+entry:
+  command:
+  - python
+  - -m
+  - sandhurst_rollup
+outputs:
+  files:
+  - output/result.json
+  - output/rollup.csv
+vendors:
+  recruitos:
+    data_port: 8000
+    log_path: /var/log/vendor
+    checkpoint_env: CHECKPOINT
+    credentials:
+      RO_CLIENT_ID: recruitos-test-client_id
+      RO_CLIENT_SECRET: recruitos-test-client_secret
+    auth:
+      token_endpoint: /oauth/token
+      token_ttl: 3600
+    vendor:
+      base_path: /api
+    entities:
+      candidate:
+        plural: candidates
+      job:
+        plural: jobs
+      application:
+        plural: applications
+    pagination:
+      style: offset
+      offset_param: offset
+      limit_param: limit
+      total_in_response: true
+      incremental_params:
+      - modified_since
+status: authored
+contract:
+  schema_version: 1
+  version: 1.0.0
+  visibility: public
+  lifecycle: authored
+  vendor_roles:
+    recruitos:
+      vendor_id: recruitos
+      checkpoint: 60
+      required_credentials:
+      - RO_CLIENT_ID
+      - RO_CLIENT_SECRET
+      api_url_env: RECRUITOS_BASE_URL
+      docs_url_env: RECRUITOS_DOCS_URL
+  runtime:
+    profile: deterministic-v1
+    checkpoint: 60
+    limits:
+      wall_seconds: 3600
+      cpus: 2
+      memory: 2GiB
+      disk: 2GiB
+    network:
+      vendor_roles:
+      - recruitos
+      model_provider_egress: mode-dependent-allowlist
+    vendor_roles:
+      recruitos:
+        environment: {}
+  participant:
+    workspace_allowlist:
+    - PROBLEM.md
+    - repo/**
+    - materials/**
+    - inputs/**
+    entry_command:
+    - python
+    - -m
+    - sandhurst_rollup
+    outputs:
+    - output/result.json
+    - output/rollup.csv
+    persistent_state:
+    - repo/output/**
+    runtime_environment:
+      MART_DROP_DIR: /app/input/mart
+    persistent_mounts: []
+  verifier:
+    entry_command:
+    - python
+    - -m
+    - bench.verifier
+    - --task
+    - .
+    trusted_inputs:
+    - task.yaml
+    - verifier/fixtures/**
+    - verifier/scenarios/**
+    - vendor-logs/**

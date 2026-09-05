@@ -1,0 +1,39 @@
+{
+  "writes": [
+    {
+      "client_ref": "wb-1",
+      "ok": true,
+      "result": {
+        "crt_ms": 1704772001000,
+        "employee_id": "emp_0001",
+        "id": "asg_90001",
+        "mod_ms": 1704772001000,
+        "pay_rate": 5200,
+        "role": "Payroll Analyst",
+        "status": "active"
+      }
+    },
+    {
+      "client_ref": "wb-2",
+      "ok": true,
+      "result": {
+        "company_id": "co_pg001",
+        "crt_ms": 1704672120000,
+        "email": "ada.dirac@mail.test",
+        "f_name": "Ada",
+        "id": "emp_0002",
+        "l_name": "Dirac",
+        "mod_ms": 1704772002000,
+        "status": "leave"
+      }
+    },
+    {
+      "client_ref": "wb-3",
+      "error": {
+        "code": -32602,
+        "message": "MISSING pay_rate"
+      },
+      "ok": false
+    }
+  ]
+}

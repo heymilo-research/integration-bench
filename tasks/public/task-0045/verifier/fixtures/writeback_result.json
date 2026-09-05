@@ -1,0 +1,18 @@
+[
+  {
+    "op": "update_candidate",
+    "candidate_id": "cand_0001",
+    "ok": true,
+    "idempotency_key": "migrate-0b9a18e135fd5ba969c80e016dae26f8",
+    "id": "cand_0001",
+    "err": null
+  },
+  {
+    "op": "create_note",
+    "candidate_id": "cand_0001",
+    "ok": true,
+    "idempotency_key": "migrate-22f3bba6d40186941f6a2a8e82a24aef",
+    "id": "note_90001",
+    "err": null
+  }
+]

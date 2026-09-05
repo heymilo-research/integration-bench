@@ -1,0 +1,1276 @@
+{
+  "applied_ids": [
+    "plc_00012",
+    "plc_00052",
+    "plc_00071",
+    "plc_00064",
+    "plc_00029",
+    "plc_00075",
+    "plc_00101",
+    "plc_00109",
+    "plc_00080",
+    "plc_00083",
+    "plc_00123",
+    "plc_00138",
+    "plc_00126",
+    "plc_00137",
+    "plc_00129",
+    "plc_00139",
+    "plc_00156",
+    "plc_00172",
+    "plc_00153",
+    "plc_00206",
+    "plc_00216",
+    "plc_00246",
+    "plc_00223",
+    "plc_00218",
+    "plc_00239"
+  ],
+  "baselines": {
+    "plc_00002": {
+      "fee_amount": 11823.17,
+      "is_deleted": true,
+      "notes_before": 5,
+      "placement_id": "plc_00002",
+      "stage": "placed",
+      "updated_at": "2026-04-01T09:07:00Z"
+    },
+    "plc_00007": {
+      "fee_amount": 3906.88,
+      "is_deleted": false,
+      "notes_before": 6,
+      "placement_id": "plc_00007",
+      "stage": "sourced",
+      "updated_at": "2025-10-18T06:35:49Z"
+    },
+    "plc_00012": {
+      "fee_amount": 2183.42,
+      "is_deleted": false,
+      "notes_before": 3,
+      "placement_id": "plc_00012",
+      "stage": "offered",
+      "updated_at": "2025-11-15T16:41:30Z"
+    },
+    "plc_00013": {
+      "fee_amount": 7524.64,
+      "is_deleted": true,
+      "notes_before": 5,
+      "placement_id": "plc_00013",
+      "stage": "submitted",
+      "updated_at": "2026-04-01T09:07:15Z"
+    },
+    "plc_00014": {
+      "fee_amount": 9351.8,
+      "is_deleted": true,
+      "notes_before": 4,
+      "placement_id": "plc_00014",
+      "stage": "offered",
+      "updated_at": "2026-04-01T09:07:30Z"
+    },
+    "plc_00016": {
+      "fee_amount": 10787.3,
+      "is_deleted": true,
+      "notes_before": 3,
+      "placement_id": "plc_00016",
+      "stage": "sourced",
+      "updated_at": "2026-04-01T09:11:00Z"
+    },
+    "plc_00029": {
+      "fee_amount": 9429.86,
+      "is_deleted": false,
+      "notes_before": 4,
+      "placement_id": "plc_00029",
+      "stage": "submitted",
+      "updated_at": "2025-10-15T09:29:20Z"
+    },
+    "plc_00030": {
+      "fee_amount": 6021.78,
+      "is_deleted": true,
+      "notes_before": 6,
+      "placement_id": "plc_00030",
+      "stage": "fell_through",
+      "updated_at": "2026-04-01T09:11:15Z"
+    },
+    "plc_00033": {
+      "fee_amount": 7105.16,
+      "is_deleted": false,
+      "notes_before": 5,
+      "placement_id": "plc_00033",
+      "stage": "offered",
+      "updated_at": "2026-03-04T09:54:37Z"
+    },
+    "plc_00038": {
+      "fee_amount": 7358.19,
+      "is_deleted": true,
+      "notes_before": 6,
+      "placement_id": "plc_00038",
+      "stage": "offered",
+      "updated_at": "2026-04-01T09:11:30Z"
+    },
+    "plc_00046": {
+      "fee_amount": 4944.01,
+      "is_deleted": false,
+      "notes_before": 6,
+      "placement_id": "plc_00046",
+      "stage": "interviewing",
+      "updated_at": "2025-11-20T11:56:53Z"
+    },
+    "plc_00052": {
+      "fee_amount": 11762.38,
+      "is_deleted": false,
+      "notes_before": 1,
+      "placement_id": "plc_00052",
+      "stage": "submitted",
+      "updated_at": "2025-10-12T12:55:50Z"
+    },
+    "plc_00053": {
+      "fee_amount": 6772.96,
+      "is_deleted": true,
+      "notes_before": 4,
+      "placement_id": "plc_00053",
+      "stage": "fell_through",
+      "updated_at": "2026-04-01T09:11:45Z"
+    },
+    "plc_00058": {
+      "fee_amount": 11343.43,
+      "is_deleted": false,
+      "notes_before": 0,
+      "placement_id": "plc_00058",
+      "stage": "sourced",
+      "updated_at": "2025-10-06T16:57:13Z"
+    },
+    "plc_00064": {
+      "fee_amount": 7278.26,
+      "is_deleted": false,
+      "notes_before": 5,
+      "placement_id": "plc_00064",
+      "stage": "offered",
+      "updated_at": "2026-02-27T00:07:24Z"
+    },
+    "plc_00071": {
+      "fee_amount": 3717.59,
+      "is_deleted": false,
+      "notes_before": 2,
+      "placement_id": "plc_00071",
+      "stage": "sourced",
+      "updated_at": "2025-12-27T23:52:41Z"
+    },
+    "plc_00075": {
+      "fee_amount": 7520.6,
+      "is_deleted": false,
+      "notes_before": 1,
+      "placement_id": "plc_00075",
+      "stage": "placed",
+      "updated_at": "2026-02-20T21:43:14Z"
+    },
+    "plc_00080": {
+      "fee_amount": 10817.94,
+      "is_deleted": false,
+      "notes_before": 8,
+      "placement_id": "plc_00080",
+      "stage": "submitted",
+      "updated_at": "2026-02-20T11:08:35Z"
+    },
+    "plc_00083": {
+      "fee_amount": 8370.23,
+      "is_deleted": false,
+      "notes_before": 4,
+      "placement_id": "plc_00083",
+      "stage": "interviewing",
+      "updated_at": "2025-12-08T15:01:51Z"
+    },
+    "plc_00084": {
+      "fee_amount": 9021.76,
+      "is_deleted": true,
+      "notes_before": 4,
+      "placement_id": "plc_00084",
+      "stage": "placed",
+      "updated_at": "2026-04-01T09:07:45Z"
+    },
+    "plc_00091": {
+      "fee_amount": 11552.22,
+      "is_deleted": true,
+      "notes_before": 8,
+      "placement_id": "plc_00091",
+      "stage": "submitted",
+      "updated_at": "2026-04-01T09:12:00Z"
+    },
+    "plc_00092": {
+      "fee_amount": 2512.18,
+      "is_deleted": true,
+      "notes_before": 6,
+      "placement_id": "plc_00092",
+      "stage": "submitted",
+      "updated_at": "2026-04-01T09:08:00Z"
+    },
+    "plc_00097": {
+      "fee_amount": 3066.0,
+      "is_deleted": false,
+      "notes_before": 9,
+      "placement_id": "plc_00097",
+      "stage": "interviewing",
+      "updated_at": "2025-12-17T08:22:53Z"
+    },
+    "plc_00101": {
+      "fee_amount": 10322.82,
+      "is_deleted": false,
+      "notes_before": 5,
+      "placement_id": "plc_00101",
+      "stage": "submitted",
+      "updated_at": "2026-01-08T04:16:58Z"
+    },
+    "plc_00103": {
+      "fee_amount": 9261.81,
+      "is_deleted": true,
+      "notes_before": 6,
+      "placement_id": "plc_00103",
+      "stage": "submitted",
+      "updated_at": "2026-04-01T09:12:15Z"
+    },
+    "plc_00105": {
+      "fee_amount": 9109.05,
+      "is_deleted": true,
+      "notes_before": 8,
+      "placement_id": "plc_00105",
+      "stage": "interviewing",
+      "updated_at": "2026-04-01T09:12:30Z"
+    },
+    "plc_00109": {
+      "fee_amount": 10384.55,
+      "is_deleted": false,
+      "notes_before": 5,
+      "placement_id": "plc_00109",
+      "stage": "placed",
+      "updated_at": "2025-11-10T01:32:48Z"
+    },
+    "plc_00110": {
+      "fee_amount": 9037.16,
+      "is_deleted": true,
+      "notes_before": 2,
+      "placement_id": "plc_00110",
+      "stage": "placed",
+      "updated_at": "2026-04-01T09:08:15Z"
+    },
+    "plc_00111": {
+      "fee_amount": 9546.46,
+      "is_deleted": true,
+      "notes_before": 6,
+      "placement_id": "plc_00111",
+      "stage": "interviewing",
+      "updated_at": "2026-04-01T09:12:45Z"
+    },
+    "plc_00115": {
+      "fee_amount": 4418.96,
+      "is_deleted": true,
+      "notes_before": 2,
+      "placement_id": "plc_00115",
+      "stage": "sourced",
+      "updated_at": "2026-04-01T09:13:00Z"
+    },
+    "plc_00118": {
+      "fee_amount": 6630.97,
+      "is_deleted": false,
+      "notes_before": 6,
+      "placement_id": "plc_00118",
+      "stage": "submitted",
+      "updated_at": "2025-12-02T13:45:46Z"
+    },
+    "plc_00123": {
+      "fee_amount": 10811.81,
+      "is_deleted": false,
+      "notes_before": 8,
+      "placement_id": "plc_00123",
+      "stage": "offered",
+      "updated_at": "2026-02-07T15:07:34Z"
+    },
+    "plc_00124": {
+      "fee_amount": 11145.6,
+      "is_deleted": true,
+      "notes_before": 5,
+      "placement_id": "plc_00124",
+      "stage": "offered",
+      "updated_at": "2026-04-01T09:08:30Z"
+    },
+    "plc_00126": {
+      "fee_amount": 1882.89,
+      "is_deleted": false,
+      "notes_before": 5,
+      "placement_id": "plc_00126",
+      "stage": "sourced",
+      "updated_at": "2025-11-21T01:22:19Z"
+    },
+    "plc_00129": {
+      "fee_amount": 8888.61,
+      "is_deleted": false,
+      "notes_before": 7,
+      "placement_id": "plc_00129",
+      "stage": "interviewing",
+      "updated_at": "2026-03-07T10:08:25Z"
+    },
+    "plc_00137": {
+      "fee_amount": 2105.9,
+      "is_deleted": false,
+      "notes_before": 3,
+      "placement_id": "plc_00137",
+      "stage": "fell_through",
+      "updated_at": "2026-01-30T05:02:32Z"
+    },
+    "plc_00138": {
+      "fee_amount": 11535.54,
+      "is_deleted": false,
+      "notes_before": 4,
+      "placement_id": "plc_00138",
+      "stage": "offered",
+      "updated_at": "2026-03-04T01:01:51Z"
+    },
+    "plc_00139": {
+      "fee_amount": 2467.08,
+      "is_deleted": false,
+      "notes_before": 3,
+      "placement_id": "plc_00139",
+      "stage": "offered",
+      "updated_at": "2025-11-02T11:49:33Z"
+    },
+    "plc_00147": {
+      "fee_amount": 9491.13,
+      "is_deleted": true,
+      "notes_before": 5,
+      "placement_id": "plc_00147",
+      "stage": "sourced",
+      "updated_at": "2026-04-01T09:13:15Z"
+    },
+    "plc_00150": {
+      "fee_amount": 10478.54,
+      "is_deleted": true,
+      "notes_before": 8,
+      "placement_id": "plc_00150",
+      "stage": "sourced",
+      "updated_at": "2026-04-01T09:08:45Z"
+    },
+    "plc_00153": {
+      "fee_amount": 6553.64,
+      "is_deleted": false,
+      "notes_before": 6,
+      "placement_id": "plc_00153",
+      "stage": "offered",
+      "updated_at": "2026-03-23T02:18:13Z"
+    },
+    "plc_00155": {
+      "fee_amount": 7976.48,
+      "is_deleted": true,
+      "notes_before": 4,
+      "placement_id": "plc_00155",
+      "stage": "submitted",
+      "updated_at": "2026-04-01T09:09:00Z"
+    },
+    "plc_00156": {
+      "fee_amount": 2732.13,
+      "is_deleted": false,
+      "notes_before": 5,
+      "placement_id": "plc_00156",
+      "stage": "sourced",
+      "updated_at": "2025-11-21T07:57:14Z"
+    },
+    "plc_00161": {
+      "fee_amount": 8296.11,
+      "is_deleted": false,
+      "notes_before": 0,
+      "placement_id": "plc_00161",
+      "stage": "interviewing",
+      "updated_at": "2025-11-23T05:31:16Z"
+    },
+    "plc_00172": {
+      "fee_amount": 11686.58,
+      "is_deleted": false,
+      "notes_before": 6,
+      "placement_id": "plc_00172",
+      "stage": "fell_through",
+      "updated_at": "2025-10-14T07:13:00Z"
+    },
+    "plc_00187": {
+      "fee_amount": 2390.91,
+      "is_deleted": false,
+      "notes_before": 1,
+      "placement_id": "plc_00187",
+      "stage": "offered",
+      "updated_at": "2026-02-09T14:45:26Z"
+    },
+    "plc_00196": {
+      "fee_amount": 5430.36,
+      "is_deleted": true,
+      "notes_before": 5,
+      "placement_id": "plc_00196",
+      "stage": "offered",
+      "updated_at": "2026-04-01T09:13:30Z"
+    },
+    "plc_00206": {
+      "fee_amount": 10326.04,
+      "is_deleted": false,
+      "notes_before": 4,
+      "placement_id": "plc_00206",
+      "stage": "interviewing",
+      "updated_at": "2026-01-14T00:17:26Z"
+    },
+    "plc_00209": {
+      "fee_amount": 2958.3,
+      "is_deleted": true,
+      "notes_before": 4,
+      "placement_id": "plc_00209",
+      "stage": "interviewing",
+      "updated_at": "2026-04-01T09:13:45Z"
+    },
+    "plc_00211": {
+      "fee_amount": 11914.68,
+      "is_deleted": false,
+      "notes_before": 8,
+      "placement_id": "plc_00211",
+      "stage": "submitted",
+      "updated_at": "2025-10-27T11:45:34Z"
+    },
+    "plc_00216": {
+      "fee_amount": 8059.36,
+      "is_deleted": false,
+      "notes_before": 3,
+      "placement_id": "plc_00216",
+      "stage": "submitted",
+      "updated_at": "2025-12-14T17:19:51Z"
+    },
+    "plc_00218": {
+      "fee_amount": 8048.8,
+      "is_deleted": false,
+      "notes_before": 4,
+      "placement_id": "plc_00218",
+      "stage": "interviewing",
+      "updated_at": "2025-11-19T21:28:54Z"
+    },
+    "plc_00219": {
+      "fee_amount": 9594.07,
+      "is_deleted": true,
+      "notes_before": 3,
+      "placement_id": "plc_00219",
+      "stage": "interviewing",
+      "updated_at": "2026-04-01T09:14:00Z"
+    },
+    "plc_00223": {
+      "fee_amount": 2243.87,
+      "is_deleted": false,
+      "notes_before": 5,
+      "placement_id": "plc_00223",
+      "stage": "placed",
+      "updated_at": "2026-01-09T08:34:39Z"
+    },
+    "plc_00230": {
+      "fee_amount": 7497.58,
+      "is_deleted": false,
+      "notes_before": 6,
+      "placement_id": "plc_00230",
+      "stage": "fell_through",
+      "updated_at": "2026-02-09T05:17:58Z"
+    },
+    "plc_00239": {
+      "fee_amount": 4727.76,
+      "is_deleted": false,
+      "notes_before": 9,
+      "placement_id": "plc_00239",
+      "stage": "fell_through",
+      "updated_at": "2026-02-28T19:40:54Z"
+    },
+    "plc_00241": {
+      "fee_amount": 7018.81,
+      "is_deleted": true,
+      "notes_before": 4,
+      "placement_id": "plc_00241",
+      "stage": "placed",
+      "updated_at": "2026-04-01T09:14:15Z"
+    },
+    "plc_00244": {
+      "fee_amount": 11517.69,
+      "is_deleted": true,
+      "notes_before": 5,
+      "placement_id": "plc_00244",
+      "stage": "sourced",
+      "updated_at": "2026-04-01T09:09:15Z"
+    },
+    "plc_00246": {
+      "fee_amount": 4366.39,
+      "is_deleted": false,
+      "notes_before": 4,
+      "placement_id": "plc_00246",
+      "stage": "sourced",
+      "updated_at": "2025-11-25T15:34:29Z"
+    }
+  },
+  "checkpoint": 56,
+  "counts": {
+    "applied": 25,
+    "held": 10,
+    "retired": 24,
+    "unknown": 3
+  },
+  "dataset_size": 400,
+  "held_ids": [
+    "plc_00007",
+    "plc_00033",
+    "plc_00046",
+    "plc_00058",
+    "plc_00097",
+    "plc_00118",
+    "plc_00161",
+    "plc_00187",
+    "plc_00211",
+    "plc_00230"
+  ],
+  "line_count": 62,
+  "lines": [
+    {
+      "base_salary": 50500,
+      "close_reason": "declined",
+      "fee_amount": 0.0,
+      "invoice_ref": "INV-2604-01",
+      "line_ref": "L-0001",
+      "note_body": "INV-2604-01 declined fee 0.00",
+      "outcome": "applied",
+      "placement_id": "plc_00012",
+      "stage": "fell_through"
+    },
+    {
+      "base_salary": 61000,
+      "close_reason": "declined",
+      "fee_amount": null,
+      "invoice_ref": "INV-2604-01",
+      "line_ref": "L-0002",
+      "note_body": null,
+      "outcome": "retired",
+      "placement_id": "plc_00002",
+      "stage": null
+    },
+    {
+      "base_salary": 96500,
+      "close_reason": "hired",
+      "fee_amount": 16887.5,
+      "invoice_ref": "INV-2604-01",
+      "line_ref": "L-0003",
+      "note_body": "INV-2604-01 hired fee 16887.50",
+      "outcome": "applied",
+      "placement_id": "plc_00052",
+      "stage": "placed"
+    },
+    {
+      "base_salary": 119500,
+      "close_reason": "withdrawn",
+      "fee_amount": null,
+      "invoice_ref": "INV-2604-01",
+      "line_ref": "L-0004",
+      "note_body": null,
+      "outcome": "retired",
+      "placement_id": "plc_00014",
+      "stage": null
+    },
+    {
+      "base_salary": 56500,
+      "close_reason": "hired",
+      "fee_amount": null,
+      "invoice_ref": "INV-2604-01",
+      "line_ref": "L-0005",
+      "note_body": null,
+      "outcome": "retired",
+      "placement_id": "plc_00030",
+      "stage": null
+    },
+    {
+      "base_salary": 130500,
+      "close_reason": "declined",
+      "fee_amount": 0.0,
+      "invoice_ref": "INV-2604-01",
+      "line_ref": "L-0006",
+      "note_body": "INV-2604-01 declined fee 0.00",
+      "outcome": "applied",
+      "placement_id": "plc_00071",
+      "stage": "fell_through"
+    },
+    {
+      "base_salary": 52000,
+      "close_reason": "withdrawn",
+      "fee_amount": null,
+      "invoice_ref": "INV-2604-01",
+      "line_ref": "L-0007",
+      "note_body": null,
+      "outcome": "retired",
+      "placement_id": "plc_00016",
+      "stage": null
+    },
+    {
+      "base_salary": 83000,
+      "close_reason": "declined",
+      "fee_amount": 0.0,
+      "invoice_ref": "INV-2604-01",
+      "line_ref": "L-0008",
+      "note_body": "INV-2604-01 declined fee 0.00",
+      "outcome": "applied",
+      "placement_id": "plc_00064",
+      "stage": "fell_through"
+    },
+    {
+      "base_salary": 120500,
+      "close_reason": "hired",
+      "fee_amount": 21087.5,
+      "invoice_ref": "INV-2604-01",
+      "line_ref": "L-0009",
+      "note_body": "INV-2604-01 hired fee 21087.50",
+      "outcome": "applied",
+      "placement_id": "plc_00029",
+      "stage": "placed"
+    },
+    {
+      "base_salary": 135500,
+      "close_reason": "withdrawn",
+      "fee_amount": null,
+      "invoice_ref": "INV-2604-01",
+      "line_ref": "L-0010",
+      "note_body": null,
+      "outcome": "retired",
+      "placement_id": "plc_00013",
+      "stage": null
+    },
+    {
+      "base_salary": 56000,
+      "close_reason": "withdrawn",
+      "fee_amount": null,
+      "invoice_ref": "INV-2604-01",
+      "line_ref": "L-0011",
+      "note_body": null,
+      "outcome": "unknown",
+      "placement_id": "plc_00404",
+      "stage": null
+    },
+    {
+      "base_salary": 133500,
+      "close_reason": "declined",
+      "fee_amount": 0.0,
+      "invoice_ref": "INV-2604-02",
+      "line_ref": "L-0012",
+      "note_body": "INV-2604-02 declined fee 0.00",
+      "outcome": "applied",
+      "placement_id": "plc_00075",
+      "stage": "fell_through"
+    },
+    {
+      "base_salary": 128000,
+      "close_reason": "hired",
+      "fee_amount": null,
+      "invoice_ref": "INV-2604-02",
+      "line_ref": "L-0013",
+      "note_body": null,
+      "outcome": "retired",
+      "placement_id": "plc_00038",
+      "stage": null
+    },
+    {
+      "base_salary": 78000,
+      "close_reason": "withdrawn",
+      "fee_amount": null,
+      "invoice_ref": "INV-2604-02",
+      "line_ref": "L-0014",
+      "note_body": null,
+      "outcome": "retired",
+      "placement_id": "plc_00092",
+      "stage": null
+    },
+    {
+      "base_salary": 65500,
+      "close_reason": "hired",
+      "fee_amount": null,
+      "invoice_ref": "INV-2604-02",
+      "line_ref": "L-0015",
+      "note_body": null,
+      "outcome": "retired",
+      "placement_id": "plc_00053",
+      "stage": null
+    },
+    {
+      "base_salary": 90000,
+      "close_reason": "hired",
+      "fee_amount": 18000.0,
+      "invoice_ref": "INV-2604-02",
+      "line_ref": "L-0016",
+      "note_body": "INV-2604-02 hired fee 18000.00",
+      "outcome": "applied",
+      "placement_id": "plc_00101",
+      "stage": "placed"
+    },
+    {
+      "base_salary": 96000,
+      "close_reason": "declined",
+      "fee_amount": null,
+      "invoice_ref": "INV-2604-02",
+      "line_ref": "L-0017",
+      "note_body": null,
+      "outcome": "retired",
+      "placement_id": "plc_00084",
+      "stage": null
+    },
+    {
+      "base_salary": 100500,
+      "close_reason": "hired",
+      "fee_amount": null,
+      "invoice_ref": "INV-2604-02",
+      "line_ref": "L-0018",
+      "note_body": null,
+      "outcome": "retired",
+      "placement_id": "plc_00091",
+      "stage": null
+    },
+    {
+      "base_salary": 70000,
+      "close_reason": "declined",
+      "fee_amount": 0.0,
+      "invoice_ref": "INV-2604-02",
+      "line_ref": "L-0019",
+      "note_body": "INV-2604-02 declined fee 0.00",
+      "outcome": "applied",
+      "placement_id": "plc_00109",
+      "stage": "fell_through"
+    },
+    {
+      "base_salary": 113000,
+      "close_reason": "hired",
+      "fee_amount": 22600.0,
+      "invoice_ref": "INV-2604-02",
+      "line_ref": "L-0020",
+      "note_body": "INV-2604-02 hired fee 22600.00",
+      "outcome": "applied",
+      "placement_id": "plc_00080",
+      "stage": "placed"
+    },
+    {
+      "base_salary": 58000,
+      "close_reason": "withdrawn",
+      "fee_amount": 0.0,
+      "invoice_ref": "INV-2604-02",
+      "line_ref": "L-0021",
+      "note_body": "INV-2604-02 withdrawn fee 0.00",
+      "outcome": "applied",
+      "placement_id": "plc_00083",
+      "stage": "fell_through"
+    },
+    {
+      "base_salary": 129500,
+      "close_reason": "hired",
+      "fee_amount": null,
+      "invoice_ref": "INV-2604-02",
+      "line_ref": "L-0022",
+      "note_body": null,
+      "outcome": "unknown",
+      "placement_id": "plc_00999",
+      "stage": null
+    },
+    {
+      "base_salary": 127500,
+      "close_reason": "hired",
+      "fee_amount": 19125.0,
+      "invoice_ref": "INV-2604-03",
+      "line_ref": "L-0023",
+      "note_body": "INV-2604-03 hired fee 19125.00",
+      "outcome": "applied",
+      "placement_id": "plc_00123",
+      "stage": "placed"
+    },
+    {
+      "base_salary": 84500,
+      "close_reason": "withdrawn",
+      "fee_amount": 0.0,
+      "invoice_ref": "INV-2604-03",
+      "line_ref": "L-0024",
+      "note_body": "INV-2604-03 withdrawn fee 0.00",
+      "outcome": "applied",
+      "placement_id": "plc_00138",
+      "stage": "fell_through"
+    },
+    {
+      "base_salary": 118000,
+      "close_reason": "withdrawn",
+      "fee_amount": null,
+      "invoice_ref": "INV-2604-03",
+      "line_ref": "L-0025",
+      "note_body": null,
+      "outcome": "retired",
+      "placement_id": "plc_00110",
+      "stage": null
+    },
+    {
+      "base_salary": 97500,
+      "close_reason": "hired",
+      "fee_amount": null,
+      "invoice_ref": "INV-2604-03",
+      "line_ref": "L-0026",
+      "note_body": null,
+      "outcome": "retired",
+      "placement_id": "plc_00103",
+      "stage": null
+    },
+    {
+      "base_salary": 139500,
+      "close_reason": "hired",
+      "fee_amount": null,
+      "invoice_ref": "INV-2604-03",
+      "line_ref": "L-0027",
+      "note_body": null,
+      "outcome": "retired",
+      "placement_id": "plc_00105",
+      "stage": null
+    },
+    {
+      "base_salary": 76000,
+      "close_reason": "hired",
+      "fee_amount": 11400.0,
+      "invoice_ref": "INV-2604-03",
+      "line_ref": "L-0028",
+      "note_body": "INV-2604-03 hired fee 11400.00",
+      "outcome": "applied",
+      "placement_id": "plc_00126",
+      "stage": "placed"
+    },
+    {
+      "base_salary": 82000,
+      "close_reason": "hired",
+      "fee_amount": 12300.0,
+      "invoice_ref": "INV-2604-03",
+      "line_ref": "L-0029",
+      "note_body": "INV-2604-03 hired fee 12300.00",
+      "outcome": "applied",
+      "placement_id": "plc_00137",
+      "stage": "placed"
+    },
+    {
+      "base_salary": 106000,
+      "close_reason": "hired",
+      "fee_amount": 15900.0,
+      "invoice_ref": "INV-2604-03",
+      "line_ref": "L-0030",
+      "note_body": "INV-2604-03 hired fee 15900.00",
+      "outcome": "applied",
+      "placement_id": "plc_00129",
+      "stage": "placed"
+    },
+    {
+      "base_salary": 101000,
+      "close_reason": "withdrawn",
+      "fee_amount": null,
+      "invoice_ref": "INV-2604-03",
+      "line_ref": "L-0031",
+      "note_body": null,
+      "outcome": "retired",
+      "placement_id": "plc_00111",
+      "stage": null
+    },
+    {
+      "base_salary": 98500,
+      "close_reason": "withdrawn",
+      "fee_amount": null,
+      "invoice_ref": "INV-2604-03",
+      "line_ref": "L-0032",
+      "note_body": null,
+      "outcome": "retired",
+      "placement_id": "plc_00115",
+      "stage": null
+    },
+    {
+      "base_salary": 80000,
+      "close_reason": "withdrawn",
+      "fee_amount": null,
+      "invoice_ref": "INV-2604-03",
+      "line_ref": "L-0033",
+      "note_body": null,
+      "outcome": "unknown",
+      "placement_id": "plc_07777",
+      "stage": null
+    },
+    {
+      "base_salary": 107500,
+      "close_reason": "hired",
+      "fee_amount": null,
+      "invoice_ref": "INV-2604-04",
+      "line_ref": "L-0034",
+      "note_body": null,
+      "outcome": "retired",
+      "placement_id": "plc_00124",
+      "stage": null
+    },
+    {
+      "base_salary": 80000,
+      "close_reason": "hired",
+      "fee_amount": 14400.0,
+      "invoice_ref": "INV-2604-04",
+      "line_ref": "L-0035",
+      "note_body": "INV-2604-04 hired fee 14400.00",
+      "outcome": "applied",
+      "placement_id": "plc_00139",
+      "stage": "placed"
+    },
+    {
+      "base_salary": 71500,
+      "close_reason": "withdrawn",
+      "fee_amount": 0.0,
+      "invoice_ref": "INV-2604-04",
+      "line_ref": "L-0036",
+      "note_body": "INV-2604-04 withdrawn fee 0.00",
+      "outcome": "applied",
+      "placement_id": "plc_00156",
+      "stage": "fell_through"
+    },
+    {
+      "base_salary": 102000,
+      "close_reason": "hired",
+      "fee_amount": null,
+      "invoice_ref": "INV-2604-04",
+      "line_ref": "L-0037",
+      "note_body": null,
+      "outcome": "retired",
+      "placement_id": "plc_00155",
+      "stage": null
+    },
+    {
+      "base_salary": 100000,
+      "close_reason": "hired",
+      "fee_amount": 18000.0,
+      "invoice_ref": "INV-2604-04",
+      "line_ref": "L-0038",
+      "note_body": "INV-2604-04 hired fee 18000.00",
+      "outcome": "applied",
+      "placement_id": "plc_00172",
+      "stage": "placed"
+    },
+    {
+      "base_salary": 104000,
+      "close_reason": "withdrawn",
+      "fee_amount": 0.0,
+      "invoice_ref": "INV-2604-04",
+      "line_ref": "L-0039",
+      "note_body": "INV-2604-04 withdrawn fee 0.00",
+      "outcome": "applied",
+      "placement_id": "plc_00153",
+      "stage": "fell_through"
+    },
+    {
+      "base_salary": 64500,
+      "close_reason": "withdrawn",
+      "fee_amount": null,
+      "invoice_ref": "INV-2604-04",
+      "line_ref": "L-0040",
+      "note_body": null,
+      "outcome": "retired",
+      "placement_id": "plc_00150",
+      "stage": null
+    },
+    {
+      "base_salary": 61500,
+      "close_reason": "hired",
+      "fee_amount": null,
+      "invoice_ref": "INV-2604-04",
+      "line_ref": "L-0041",
+      "note_body": null,
+      "outcome": "retired",
+      "placement_id": "plc_00196",
+      "stage": null
+    },
+    {
+      "base_salary": 128500,
+      "close_reason": "withdrawn",
+      "fee_amount": 0.0,
+      "invoice_ref": "INV-2604-04",
+      "line_ref": "L-0042",
+      "note_body": "INV-2604-04 withdrawn fee 0.00",
+      "outcome": "applied",
+      "placement_id": "plc_00206",
+      "stage": "fell_through"
+    },
+    {
+      "base_salary": 102000,
+      "close_reason": "withdrawn",
+      "fee_amount": null,
+      "invoice_ref": "INV-2604-04",
+      "line_ref": "L-0043",
+      "note_body": null,
+      "outcome": "retired",
+      "placement_id": "plc_00147",
+      "stage": null
+    },
+    {
+      "base_salary": 72500,
+      "close_reason": "withdrawn",
+      "fee_amount": null,
+      "invoice_ref": "INV-2604-05",
+      "line_ref": "L-0044",
+      "note_body": null,
+      "outcome": "retired",
+      "placement_id": "plc_00209",
+      "stage": null
+    },
+    {
+      "base_salary": 105000,
+      "close_reason": "declined",
+      "fee_amount": 0.0,
+      "invoice_ref": "INV-2604-05",
+      "line_ref": "L-0045",
+      "note_body": "INV-2604-05 declined fee 0.00",
+      "outcome": "applied",
+      "placement_id": "plc_00216",
+      "stage": "fell_through"
+    },
+    {
+      "base_salary": 65500,
+      "close_reason": "withdrawn",
+      "fee_amount": null,
+      "invoice_ref": "INV-2604-05",
+      "line_ref": "L-0046",
+      "note_body": null,
+      "outcome": "retired",
+      "placement_id": "plc_00219",
+      "stage": null
+    },
+    {
+      "base_salary": 62000,
+      "close_reason": "hired",
+      "fee_amount": 13950.0,
+      "invoice_ref": "INV-2604-05",
+      "line_ref": "L-0047",
+      "note_body": "INV-2604-05 hired fee 13950.00",
+      "outcome": "applied",
+      "placement_id": "plc_00246",
+      "stage": "placed"
+    },
+    {
+      "base_salary": 111000,
+      "close_reason": "withdrawn",
+      "fee_amount": 0.0,
+      "invoice_ref": "INV-2604-05",
+      "line_ref": "L-0048",
+      "note_body": "INV-2604-05 withdrawn fee 0.00",
+      "outcome": "applied",
+      "placement_id": "plc_00223",
+      "stage": "fell_through"
+    },
+    {
+      "base_salary": 107500,
+      "close_reason": "hired",
+      "fee_amount": null,
+      "invoice_ref": "INV-2604-05",
+      "line_ref": "L-0049",
+      "note_body": null,
+      "outcome": "retired",
+      "placement_id": "plc_00241",
+      "stage": null
+    },
+    {
+      "base_salary": 72500,
+      "close_reason": "hired",
+      "fee_amount": 16312.5,
+      "invoice_ref": "INV-2604-05",
+      "line_ref": "L-0050",
+      "note_body": "INV-2604-05 hired fee 16312.50",
+      "outcome": "applied",
+      "placement_id": "plc_00218",
+      "stage": "placed"
+    },
+    {
+      "base_salary": 45000,
+      "close_reason": "withdrawn",
+      "fee_amount": null,
+      "invoice_ref": "INV-2604-05",
+      "line_ref": "L-0051",
+      "note_body": null,
+      "outcome": "retired",
+      "placement_id": "plc_00244",
+      "stage": null
+    },
+    {
+      "base_salary": 101500,
+      "close_reason": "hired",
+      "fee_amount": 22837.5,
+      "invoice_ref": "INV-2604-05",
+      "line_ref": "L-0052",
+      "note_body": "INV-2604-05 hired fee 22837.50",
+      "outcome": "applied",
+      "placement_id": "plc_00239",
+      "stage": "placed"
+    },
+    {
+      "base_salary": 59000,
+      "close_reason": "declined",
+      "fee_amount": null,
+      "invoice_ref": "INV-2604-08",
+      "line_ref": "L-0053",
+      "note_body": null,
+      "outcome": "held",
+      "placement_id": "plc_00007",
+      "stage": null
+    },
+    {
+      "base_salary": 113000,
+      "close_reason": "hired",
+      "fee_amount": null,
+      "invoice_ref": "INV-2604-08",
+      "line_ref": "L-0054",
+      "note_body": null,
+      "outcome": "held",
+      "placement_id": "plc_00033",
+      "stage": null
+    },
+    {
+      "base_salary": 84500,
+      "close_reason": "declined",
+      "fee_amount": null,
+      "invoice_ref": "INV-2604-08",
+      "line_ref": "L-0055",
+      "note_body": null,
+      "outcome": "held",
+      "placement_id": "plc_00046",
+      "stage": null
+    },
+    {
+      "base_salary": 61500,
+      "close_reason": "withdrawn",
+      "fee_amount": null,
+      "invoice_ref": "INV-2604-08",
+      "line_ref": "L-0056",
+      "note_body": null,
+      "outcome": "held",
+      "placement_id": "plc_00058",
+      "stage": null
+    },
+    {
+      "base_salary": 73000,
+      "close_reason": "withdrawn",
+      "fee_amount": null,
+      "invoice_ref": "INV-2604-09",
+      "line_ref": "L-0057",
+      "note_body": null,
+      "outcome": "held",
+      "placement_id": "plc_00097",
+      "stage": null
+    },
+    {
+      "base_salary": 75000,
+      "close_reason": "declined",
+      "fee_amount": null,
+      "invoice_ref": "INV-2604-09",
+      "line_ref": "L-0058",
+      "note_body": null,
+      "outcome": "held",
+      "placement_id": "plc_00118",
+      "stage": null
+    },
+    {
+      "base_salary": 128500,
+      "close_reason": "hired",
+      "fee_amount": null,
+      "invoice_ref": "INV-2604-10",
+      "line_ref": "L-0059",
+      "note_body": null,
+      "outcome": "held",
+      "placement_id": "plc_00161",
+      "stage": null
+    },
+    {
+      "base_salary": 105000,
+      "close_reason": "declined",
+      "fee_amount": null,
+      "invoice_ref": "INV-2603-99",
+      "line_ref": "L-0060",
+      "note_body": null,
+      "outcome": "held",
+      "placement_id": "plc_00187",
+      "stage": null
+    },
+    {
+      "base_salary": 83500,
+      "close_reason": "declined",
+      "fee_amount": null,
+      "invoice_ref": "INV-2603-99",
+      "line_ref": "L-0061",
+      "note_body": null,
+      "outcome": "held",
+      "placement_id": "plc_00211",
+      "stage": null
+    },
+    {
+      "base_salary": 80500,
+      "close_reason": "hired",
+      "fee_amount": null,
+      "invoice_ref": "INV-2603-99",
+      "line_ref": "L-0062",
+      "note_body": null,
+      "outcome": "held",
+      "placement_id": "plc_00230",
+      "stage": null
+    }
+  ],
+  "list_path": "/api/placements",
+  "live_placements_before": 383,
+  "note_author": "billing@meridian.test",
+  "notes_at_or_after_watermark_before": 0,
+  "notes_total_before": 2007,
+  "notes_watermark": "2026-04-02T00:00:00Z",
+  "placements_total_before": 410,
+  "retired_ids": [
+    "plc_00002",
+    "plc_00014",
+    "plc_00030",
+    "plc_00016",
+    "plc_00013",
+    "plc_00038",
+    "plc_00092",
+    "plc_00053",
+    "plc_00084",
+    "plc_00091",
+    "plc_00110",
+    "plc_00103",
+    "plc_00105",
+    "plc_00111",
+    "plc_00115",
+    "plc_00124",
+    "plc_00155",
+    "plc_00150",
+    "plc_00196",
+    "plc_00147",
+    "plc_00209",
+    "plc_00219",
+    "plc_00241",
+    "plc_00244"
+  ],
+  "retired_placements_before": [
+    "plc_00001",
+    "plc_00002",
+    "plc_00013",
+    "plc_00014",
+    "plc_00016",
+    "plc_00025",
+    "plc_00030",
+    "plc_00038",
+    "plc_00053",
+    "plc_00084",
+    "plc_00091",
+    "plc_00092",
+    "plc_00100",
+    "plc_00103",
+    "plc_00105",
+    "plc_00110",
+    "plc_00111",
+    "plc_00115",
+    "plc_00124",
+    "plc_00147",
+    "plc_00150",
+    "plc_00155",
+    "plc_00196",
+    "plc_00209",
+    "plc_00219",
+    "plc_00241",
+    "plc_00244"
+  ],
+  "selection_seed": 20260810,
+  "unknown_ids": [
+    "plc_00404",
+    "plc_00999",
+    "plc_07777"
+  ]
+}

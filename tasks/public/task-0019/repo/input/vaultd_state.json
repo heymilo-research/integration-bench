@@ -1,0 +1,7 @@
+{
+  "broker": "vaultd",
+  "tenant": "meridian-screening",
+  "feed": "vettly-change-feed",
+  "last_delivered_cursor": "2026-03-14T10:00:00Z",
+  "cycles_delivered": 611
+}

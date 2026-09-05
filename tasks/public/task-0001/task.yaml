@@ -1,0 +1,109 @@
+id: task-0001
+title: 'StaffLine: full + incremental candidate sync, every request signed, watermark
+  discipline against a clock that runs behind'
+category: build
+vendor: staffline
+surfaces:
+- polling
+tier: 2
+primary_mechanic: hmac_clock_skew
+track: python
+timeout_minutes: 60
+doc_profile: sparse
+scenarios:
+- initial_sync
+- incremental_watermark
+- request_signing_integrity
+entry:
+  command:
+  - python
+  - -m
+  - staffline_sync
+outputs:
+  files:
+  - output/candidates.json
+  - output/jobs.json
+  - output/applications.json
+  - output/notes.json
+vendors:
+  staffline:
+    data_port: 8000
+    log_path: /var/log/vendor
+    checkpoint_env: CHECKPOINT
+    credentials:
+      SL_APP_TOKEN: sl-test-app-token
+      SL_HMAC_SECRET: sl-test-hmac-secret
+    vendor:
+      base_path: /svc
+    pagination:
+      style: offset
+      offset_param: start
+    entities:
+      candidate:
+        plural: candidates
+      job:
+        plural: jobs
+      application:
+        plural: applications
+      note:
+        plural: notes
+contract:
+  schema_version: 1
+  version: 1.0.0
+  visibility: public
+  lifecycle: authored
+  vendor_roles:
+    staffline:
+      vendor_id: staffline
+      checkpoint: 0
+      required_credentials:
+      - SL_APP_TOKEN
+      - SL_HMAC_SECRET
+      api_url_env: STAFFLINE_BASE_URL
+      docs_url_env: STAFFLINE_DOCS_URL
+  runtime:
+    profile: deterministic-v1
+    checkpoint: 0
+    limits:
+      wall_seconds: 3600
+      cpus: 2
+      memory: 2GiB
+      disk: 2GiB
+    network:
+      vendor_roles:
+      - staffline
+      model_provider_egress: mode-dependent-allowlist
+    vendor_roles:
+      staffline:
+        environment: {}
+  participant:
+    workspace_allowlist:
+    - PROBLEM.md
+    - repo/**
+    - materials/**
+    - inputs/**
+    entry_command:
+    - python
+    - -m
+    - staffline_sync
+    outputs:
+    - output/candidates.json
+    - output/jobs.json
+    - output/applications.json
+    - output/notes.json
+    persistent_state:
+    - repo/output/**
+    runtime_environment: {}
+    persistent_mounts: []
+  verifier:
+    entry_command:
+    - python
+    - -m
+    - bench.verifier
+    - --task
+    - .
+    trusted_inputs:
+    - task.yaml
+    - verifier/fixtures/**
+    - verifier/scenarios/**
+    - vendor-logs/**

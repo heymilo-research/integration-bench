@@ -1,0 +1,98 @@
+id: task-0014
+title: 'HireWire: stage corrections and audit events under an ambiguous write-then-500,
+  disambiguated without ever trusting a same-second LIST'
+category: build
+vendor: hirewire
+surfaces:
+- polling
+- writeback
+tier: 3
+track: python
+timeout_minutes: 60
+doc_profile: stale
+primary_mechanic: lag_500_after_commit
+scenarios:
+- correction_backlog
+- ambiguous_commit
+- retry_storm_immunity
+- delayed_list_convergence
+entry:
+  command:
+  - python
+  - -m
+  - hirewire_corrections
+outputs:
+  files:
+  - output/writeback_result.json
+vendors:
+  hirewire:
+    data_port: 8000
+    log_path: /var/log/vendor
+    checkpoint_env: CHECKPOINT
+    credentials:
+      HW_API_KEY: hw-test-api-key
+    vendor:
+      base_path: /v1
+    writeback:
+      idempotency:
+        header: Idempotency-Key
+        window_s: 3600
+      read_after_write_lag_s: 20
+contract:
+  schema_version: 1
+  version: 1.0.0
+  visibility: public
+  lifecycle: authored
+  vendor_roles:
+    hirewire:
+      vendor_id: hirewire
+      checkpoint: 0
+      required_credentials:
+      - HW_API_KEY
+      api_url_env: HIREWIRE_BASE_URL
+      docs_url_env: HIREWIRE_DOCS_URL
+  runtime:
+    profile: deterministic-v1
+    checkpoint: 0
+    limits:
+      wall_seconds: 3600
+      cpus: 2
+      memory: 2GiB
+      disk: 2GiB
+    network:
+      vendor_roles:
+      - hirewire
+      model_provider_egress: mode-dependent-allowlist
+    vendor_roles:
+      hirewire:
+        environment:
+          VENDOR_SEED: '4000'
+          FAULT_500_AFTER_COMMIT: '3'
+  participant:
+    workspace_allowlist:
+    - PROBLEM.md
+    - repo/**
+    - materials/**
+    - inputs/**
+    entry_command:
+    - python
+    - -m
+    - hirewire_corrections
+    outputs:
+    - output/writeback_result.json
+    persistent_state:
+    - repo/output/**
+    runtime_environment: {}
+    persistent_mounts: []
+  verifier:
+    entry_command:
+    - python
+    - -m
+    - bench.verifier
+    - --task
+    - .
+    trusted_inputs:
+    - task.yaml
+    - verifier/fixtures/**
+    - verifier/scenarios/**
+    - vendor-logs/**

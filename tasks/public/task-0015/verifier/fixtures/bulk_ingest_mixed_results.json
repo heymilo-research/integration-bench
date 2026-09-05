@@ -1,0 +1,16 @@
+{
+  "created_refs": [
+    "batch-0001",
+    "batch-0004",
+    "batch-0005",
+    "batch-0006",
+    "batch-0007",
+    "batch-0009",
+    "batch-0010"
+  ],
+  "failed_refs": [
+    "batch-0002",
+    "batch-0003",
+    "batch-0008"
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "schema": 2,
+  "n_total": 38,
+  "floor_fraction": 0.0,
+  "gold_fraction": 1.0,
+  "probes": {
+    "empty": 0.0,
+    "stub": 0.0
+  },
+  "checks": {
+    "l1": [
+      "initial_sync_exit_ok",
+      "initial_sync_outputs_readable",
+      "initial_sync_employees_rows_exact",
+      "initial_sync_assignments_rows_exact",
+      "initial_sync_row_counts",
+      "initial_sync_no_premature_tombstones",
+      "initial_sync_listEmployees_always_sends_company_id",
+      "initial_sync_employees_paged_to_exhaustion",
+      "initial_sync_assignments_paged_to_exhaustion",
+      "initial_sync_never_calls_bulkSync",
+      "tombstone_sweep_exit_ok",
+      "tombstone_sweep_outputs_readable",
+      "tombstone_sweep_employees_rows_exact",
+      "tombstone_sweep_assignments_rows_exact",
+      "tombstone_sweep_deletes_marked_with_data_retained",
+      "tombstone_sweep_update_emp_0010",
+      "tombstone_sweep_update_emp_0040_status",
+      "tombstone_sweep_create_emp_0901",
+      "tombstone_sweep_update_asg_0010_pay_rate",
+      "tombstone_sweep_create_asg_0900",
+      "tombstone_sweep_first_pass_made_tombstone_call",
+      "tombstone_sweep_rerun_exit_ok",
+      "tombstone_sweep_rerun_is_noop",
+      "tombstone_sweep_watermark_advances_not_restarts",
+      "writeback_exit_ok",
+      "writeback_output_readable",
+      "writeback_writes_fields_exact",
+      "writeback_invalid_write_reported_as_failure",
+      "writeback_valid_writes_reported_as_success",
+      "writeback_issued_all_three_write_calls",
+      "writeback_every_write_carries_body_request_id",
+      "writeback_confirms_successful_writes_via_get"
+    ],
+    "hard": [
+      "no_credentials_in_query_string",
+      "no_secrets_echoed_to_vendor",
+      "no_credentials_in_query_string",
+      "no_secrets_echoed_to_vendor",
+      "no_credentials_in_query_string",
+      "no_secrets_echoed_to_vendor"
+    ],
+    "l3": [],
+    "soft": []
+  },
+  "generated": "bench validate --write-baseline 2026-08-14",
+  "checks_v2": [
+    {
+      "bucket": "l1",
+      "name": "initial_sync_exit_ok",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 1,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "initial_sync_outputs_readable",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 1,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "initial_sync_employees_rows_exact",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": true
+    },
+    {
+      "bucket": "l1",
+      "name": "initial_sync_assignments_rows_exact",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": true
+    },
+    {
+      "bucket": "l1",
+      "name": "initial_sync_row_counts",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 1,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "initial_sync_no_premature_tombstones",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 1,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "initial_sync_listEmployees_always_sends_company_id",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": true
+    },
+    {
+      "bucket": "l1",
+      "name": "initial_sync_employees_paged_to_exhaustion",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 1,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "initial_sync_assignments_paged_to_exhaustion",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 1,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "initial_sync_never_calls_bulkSync",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": true
+    },
+    {
+      "bucket": "l1",
+      "name": "tombstone_sweep_exit_ok",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 1,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "tombstone_sweep_outputs_readable",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 1,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "tombstone_sweep_employees_rows_exact",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": true
+    },
+    {
+      "bucket": "l1",
+      "name": "tombstone_sweep_assignments_rows_exact",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": true
+    },
+    {
+      "bucket": "l1",
+      "name": "tombstone_sweep_deletes_marked_with_data_retained",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": true
+    },
+    {
+      "bucket": "l1",
+      "name": "tombstone_sweep_update_emp_0010",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 1,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "tombstone_sweep_update_emp_0040_status",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 1,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "tombstone_sweep_create_emp_0901",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 1,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "tombstone_sweep_update_asg_0010_pay_rate",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 1,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "tombstone_sweep_create_asg_0900",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 1,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "tombstone_sweep_first_pass_made_tombstone_call",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 1,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "tombstone_sweep_rerun_exit_ok",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 1,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "tombstone_sweep_rerun_is_noop",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 1,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "tombstone_sweep_watermark_advances_not_restarts",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": true
+    },
+    {
+      "bucket": "l1",
+      "name": "writeback_exit_ok",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "writeback_output_readable",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "writeback_writes_fields_exact",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": true
+    },
+    {
+      "bucket": "l1",
+      "name": "writeback_invalid_write_reported_as_failure",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": true
+    },
+    {
+      "bucket": "l1",
+      "name": "writeback_valid_writes_reported_as_success",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": true
+    },
+    {
+      "bucket": "l1",
+      "name": "writeback_issued_all_three_write_calls",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 1,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "writeback_every_write_carries_body_request_id",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 1,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "writeback_confirms_successful_writes_via_get",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 1,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "hard",
+      "name": "no_credentials_in_query_string",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    },
+    {
+      "bucket": "hard",
+      "name": "no_secrets_echoed_to_vendor",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    },
+    {
+      "bucket": "hard",
+      "name": "no_credentials_in_query_string",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    },
+    {
+      "bucket": "hard",
+      "name": "no_secrets_echoed_to_vendor",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    },
+    {
+      "bucket": "hard",
+      "name": "no_credentials_in_query_string",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    },
+    {
+      "bucket": "hard",
+      "name": "no_secrets_echoed_to_vendor",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    }
+  ],
+  "completion": {
+    "mode": "authored_mandatory_checks",
+    "required_checks": [
+      "initial_sync_employees_rows_exact",
+      "initial_sync_assignments_rows_exact",
+      "initial_sync_listEmployees_always_sends_company_id",
+      "initial_sync_never_calls_bulkSync",
+      "tombstone_sweep_employees_rows_exact",
+      "tombstone_sweep_assignments_rows_exact",
+      "tombstone_sweep_deletes_marked_with_data_retained",
+      "tombstone_sweep_watermark_advances_not_restarts",
+      "writeback_writes_fields_exact",
+      "writeback_invalid_write_reported_as_failure",
+      "writeback_valid_writes_reported_as_success"
+    ]
+  },
+  "scoring": {
+    "version": "task-score-v4-mandatory-gated",
+    "empty_raw": -4,
+    "empty_task_score": 0.0,
+    "stub_raw": -4,
+    "stub_task_score": 0.0,
+    "floor_task_score": 0.0
+  }
+}

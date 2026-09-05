@@ -1,0 +1,2162 @@
+[
+  {
+    "data": {
+      "created_at": "2026-05-04T08:01:00Z",
+      "email": "ursula.tan@crew.test",
+      "first_name": "Ursula",
+      "id": "wkr_0001",
+      "is_deleted": false,
+      "last_name": "Tan",
+      "phone": "+1-555-6233",
+      "rating": 5.0,
+      "role": "server",
+      "status": "available",
+      "updated_at": "2026-05-04T08:01:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0001",
+    "updated_at": "2026-05-04T08:01:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:02:00Z",
+      "email": "marie.xu@crew.test",
+      "first_name": "Marie",
+      "id": "wkr_0002",
+      "is_deleted": false,
+      "last_name": "Xu",
+      "phone": "+1-555-5153",
+      "rating": 4.5,
+      "role": "barista",
+      "status": "inactive",
+      "updated_at": "2026-05-04T08:02:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0002",
+    "updated_at": "2026-05-04T08:02:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:03:00Z",
+      "email": "isaac.zhang@crew.test",
+      "first_name": "Isaac",
+      "id": "wkr_0003",
+      "is_deleted": false,
+      "last_name": "Zhang",
+      "phone": "+1-555-4309",
+      "rating": 4.9,
+      "role": "stocker",
+      "status": "on_shift",
+      "updated_at": "2026-05-04T08:03:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0003",
+    "updated_at": "2026-05-04T08:03:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:04:00Z",
+      "email": "devi.ali@crew.test",
+      "first_name": "Devi",
+      "id": "wkr_0004",
+      "is_deleted": false,
+      "last_name": "Ali",
+      "phone": "+1-555-5218",
+      "rating": 4.4,
+      "role": "dishwasher",
+      "status": "on_shift",
+      "updated_at": "2026-05-04T08:04:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0004",
+    "updated_at": "2026-05-04T08:04:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:05:00Z",
+      "email": "ada.petrov@crew.test",
+      "first_name": "Ada",
+      "id": "wkr_0005",
+      "is_deleted": false,
+      "last_name": "Petrov",
+      "phone": "+1-555-4148",
+      "rating": 4.3,
+      "role": "barista",
+      "status": "on_shift",
+      "updated_at": "2026-05-04T08:05:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0005",
+    "updated_at": "2026-05-04T08:05:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:06:00Z",
+      "email": "linus.gupta@crew.test",
+      "first_name": "Linus",
+      "id": "wkr_0006",
+      "is_deleted": false,
+      "last_name": "Gupta",
+      "phone": "+1-555-6458",
+      "rating": 3.6,
+      "role": "warehouse",
+      "status": "inactive",
+      "updated_at": "2026-05-04T08:06:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0006",
+    "updated_at": "2026-05-04T08:06:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:07:00Z",
+      "email": "charles.petrov@crew.test",
+      "first_name": "Charles",
+      "id": "wkr_0007",
+      "is_deleted": false,
+      "last_name": "Petrov",
+      "phone": "+1-555-2976",
+      "rating": 3.1,
+      "role": "stocker",
+      "status": "on_shift",
+      "updated_at": "2026-05-04T08:07:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0007",
+    "updated_at": "2026-05-04T08:07:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:08:00Z",
+      "email": "amara.wang@crew.test",
+      "first_name": "Amara",
+      "id": "wkr_0008",
+      "is_deleted": false,
+      "last_name": "Wang",
+      "phone": "+1-555-8866",
+      "rating": 4.0,
+      "role": "warehouse",
+      "status": "available",
+      "updated_at": "2026-05-04T08:08:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0008",
+    "updated_at": "2026-05-04T08:08:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:09:00Z",
+      "email": "nikola.mbeki@crew.test",
+      "first_name": "Nikola",
+      "id": "wkr_0009",
+      "is_deleted": false,
+      "last_name": "Mbeki",
+      "phone": "+1-555-1696",
+      "rating": 3.7,
+      "role": "cleaner",
+      "status": "inactive",
+      "updated_at": "2026-05-04T08:09:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0009",
+    "updated_at": "2026-05-04T08:09:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:10:00Z",
+      "email": "sophie.byrne@crew.test",
+      "first_name": "Sophie",
+      "id": "wkr_0010",
+      "is_deleted": false,
+      "last_name": "Byrne",
+      "phone": "+1-555-5641",
+      "rating": 4.0,
+      "role": "line_cook",
+      "status": "off_shift",
+      "updated_at": "2026-05-04T08:10:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0010",
+    "updated_at": "2026-05-04T08:10:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:11:00Z",
+      "email": "ursula.mbeki@crew.test",
+      "first_name": "Ursula",
+      "id": "wkr_0011",
+      "is_deleted": false,
+      "last_name": "Mbeki",
+      "phone": "+1-555-7865",
+      "rating": 4.8,
+      "role": "warehouse",
+      "status": "off_shift",
+      "updated_at": "2026-05-04T08:11:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0011",
+    "updated_at": "2026-05-04T08:11:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:12:00Z",
+      "email": "florence.petrov@crew.test",
+      "first_name": "Florence",
+      "id": "wkr_0012",
+      "is_deleted": false,
+      "last_name": "Petrov",
+      "phone": "+1-555-3939",
+      "rating": 3.1,
+      "role": "driver",
+      "status": "on_shift",
+      "updated_at": "2026-05-04T08:12:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0012",
+    "updated_at": "2026-05-04T08:12:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:13:00Z",
+      "email": "tim.wang@crew.test",
+      "first_name": "Tim",
+      "id": "wkr_0013",
+      "is_deleted": false,
+      "last_name": "Wang",
+      "phone": "+1-555-2582",
+      "rating": 4.8,
+      "role": "cashier",
+      "status": "on_shift",
+      "updated_at": "2026-05-04T08:13:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0013",
+    "updated_at": "2026-05-04T08:13:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:14:00Z",
+      "email": "isaac.xu@crew.test",
+      "first_name": "Isaac",
+      "id": "wkr_0014",
+      "is_deleted": false,
+      "last_name": "Xu",
+      "phone": "+1-555-9716",
+      "rating": 3.4,
+      "role": "stocker",
+      "status": "available",
+      "updated_at": "2026-05-04T08:14:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0014",
+    "updated_at": "2026-05-04T08:14:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:15:00Z",
+      "email": "peggy.byrne@crew.test",
+      "first_name": "Peggy",
+      "id": "wkr_0015",
+      "is_deleted": false,
+      "last_name": "Byrne",
+      "phone": "+1-555-7928",
+      "rating": 4.5,
+      "role": "server",
+      "status": "available",
+      "updated_at": "2026-05-04T08:15:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0015",
+    "updated_at": "2026-05-04T08:15:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:16:00Z",
+      "email": "charles.yamada@crew.test",
+      "first_name": "Charles",
+      "id": "wkr_0016",
+      "is_deleted": false,
+      "last_name": "Yamada",
+      "phone": "+1-555-3538",
+      "rating": 4.4,
+      "role": "warehouse",
+      "status": "on_shift",
+      "updated_at": "2026-05-04T08:16:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0016",
+    "updated_at": "2026-05-04T08:16:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:17:00Z",
+      "email": "emmy.xu@crew.test",
+      "first_name": "Emmy",
+      "id": "wkr_0017",
+      "is_deleted": false,
+      "last_name": "Xu",
+      "phone": "+1-555-1297",
+      "rating": 5.0,
+      "role": "barista",
+      "status": "available",
+      "updated_at": "2026-05-04T08:17:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0017",
+    "updated_at": "2026-05-04T08:17:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:18:00Z",
+      "email": "charles.mbeki@crew.test",
+      "first_name": "Charles",
+      "id": "wkr_0018",
+      "is_deleted": false,
+      "last_name": "Mbeki",
+      "phone": "+1-555-1612",
+      "rating": 4.7,
+      "role": "server",
+      "status": "available",
+      "updated_at": "2026-05-04T08:18:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0018",
+    "updated_at": "2026-05-04T08:18:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:19:00Z",
+      "email": "dorothy.ibarra@crew.test",
+      "first_name": "Dorothy",
+      "id": "wkr_0019",
+      "is_deleted": false,
+      "last_name": "Ibarra",
+      "phone": "+1-555-9264",
+      "rating": 3.6,
+      "role": "line_cook",
+      "status": "off_shift",
+      "updated_at": "2026-05-04T08:19:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0019",
+    "updated_at": "2026-05-04T08:19:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:20:00Z",
+      "email": "yvonne.santos@crew.test",
+      "first_name": "Yvonne",
+      "id": "wkr_0020",
+      "is_deleted": false,
+      "last_name": "Santos",
+      "phone": "+1-555-6853",
+      "rating": 4.3,
+      "role": "barista",
+      "status": "available",
+      "updated_at": "2026-05-04T08:20:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0020",
+    "updated_at": "2026-05-04T08:20:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:21:00Z",
+      "email": "walter.tan@crew.test",
+      "first_name": "Walter",
+      "id": "wkr_0021",
+      "is_deleted": false,
+      "last_name": "Tan",
+      "phone": "+1-555-9501",
+      "rating": 3.9,
+      "role": "stocker",
+      "status": "off_shift",
+      "updated_at": "2026-05-04T08:21:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0021",
+    "updated_at": "2026-05-04T08:21:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:22:00Z",
+      "email": "devi.tan@crew.test",
+      "first_name": "Devi",
+      "id": "wkr_0022",
+      "is_deleted": false,
+      "last_name": "Tan",
+      "phone": "+1-555-2480",
+      "rating": 4.4,
+      "role": "driver",
+      "status": "off_shift",
+      "updated_at": "2026-05-04T08:22:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0022",
+    "updated_at": "2026-05-04T08:22:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:23:00Z",
+      "email": "peggy.diallo@crew.test",
+      "first_name": "Peggy",
+      "id": "wkr_0023",
+      "is_deleted": false,
+      "last_name": "Diallo",
+      "phone": "+1-555-8032",
+      "rating": 4.0,
+      "role": "server",
+      "status": "available",
+      "updated_at": "2026-05-04T08:23:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0023",
+    "updated_at": "2026-05-04T08:23:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:24:00Z",
+      "email": "bhupen.ali@crew.test",
+      "first_name": "Bhupen",
+      "id": "wkr_0024",
+      "is_deleted": false,
+      "last_name": "Ali",
+      "phone": "+1-555-8568",
+      "rating": 3.4,
+      "role": "dishwasher",
+      "status": "on_shift",
+      "updated_at": "2026-05-04T08:24:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0024",
+    "updated_at": "2026-05-04T08:24:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:25:00Z",
+      "email": "blaise.quinn@crew.test",
+      "first_name": "Blaise",
+      "id": "wkr_0025",
+      "is_deleted": false,
+      "last_name": "Quinn",
+      "phone": "+1-555-9610",
+      "rating": 3.4,
+      "role": "cleaner",
+      "status": "inactive",
+      "updated_at": "2026-05-04T08:25:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0025",
+    "updated_at": "2026-05-04T08:25:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:26:00Z",
+      "email": "linus.santos@crew.test",
+      "first_name": "Linus",
+      "id": "wkr_0026",
+      "is_deleted": false,
+      "last_name": "Santos",
+      "phone": "+1-555-2530",
+      "rating": 3.0,
+      "role": "cashier",
+      "status": "available",
+      "updated_at": "2026-05-04T08:26:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0026",
+    "updated_at": "2026-05-04T08:26:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:27:00Z",
+      "email": "peggy.costa@crew.test",
+      "first_name": "Peggy",
+      "id": "wkr_0027",
+      "is_deleted": false,
+      "last_name": "Costa",
+      "phone": "+1-555-4785",
+      "rating": 4.3,
+      "role": "line_cook",
+      "status": "inactive",
+      "updated_at": "2026-05-04T08:27:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0027",
+    "updated_at": "2026-05-04T08:27:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:28:00Z",
+      "email": "blaise.mbeki@crew.test",
+      "first_name": "Blaise",
+      "id": "wkr_0028",
+      "is_deleted": false,
+      "last_name": "Mbeki",
+      "phone": "+1-555-6384",
+      "rating": 5.0,
+      "role": "warehouse",
+      "status": "inactive",
+      "updated_at": "2026-05-04T08:28:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0028",
+    "updated_at": "2026-05-04T08:28:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:29:00Z",
+      "email": "sophie.espinoza@crew.test",
+      "first_name": "Sophie",
+      "id": "wkr_0029",
+      "is_deleted": false,
+      "last_name": "Espinoza",
+      "phone": "+1-555-3802",
+      "rating": 4.1,
+      "role": "stocker",
+      "status": "on_shift",
+      "updated_at": "2026-05-04T08:29:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0029",
+    "updated_at": "2026-05-04T08:29:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:30:00Z",
+      "email": "sophie.haas@crew.test",
+      "first_name": "Sophie",
+      "id": "wkr_0030",
+      "is_deleted": false,
+      "last_name": "Haas",
+      "phone": "+1-555-5673",
+      "rating": 3.1,
+      "role": "dishwasher",
+      "status": "on_shift",
+      "updated_at": "2026-05-04T08:30:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0030",
+    "updated_at": "2026-05-04T08:30:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:31:00Z",
+      "email": "enzo.vasquez@crew.test",
+      "first_name": "Enzo",
+      "id": "wkr_0031",
+      "is_deleted": false,
+      "last_name": "Vasquez",
+      "phone": "+1-555-8694",
+      "rating": 4.9,
+      "role": "server",
+      "status": "inactive",
+      "updated_at": "2026-05-04T08:31:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0031",
+    "updated_at": "2026-05-04T08:31:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:32:00Z",
+      "email": "sophie.nakamura@crew.test",
+      "first_name": "Sophie",
+      "id": "wkr_0032",
+      "is_deleted": false,
+      "last_name": "Nakamura",
+      "phone": "+1-555-6295",
+      "rating": 4.5,
+      "role": "host",
+      "status": "off_shift",
+      "updated_at": "2026-05-04T08:32:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0032",
+    "updated_at": "2026-05-04T08:32:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:33:00Z",
+      "email": "linus.tan@crew.test",
+      "first_name": "Linus",
+      "id": "wkr_0033",
+      "is_deleted": false,
+      "last_name": "Tan",
+      "phone": "+1-555-6694",
+      "rating": 3.7,
+      "role": "driver",
+      "status": "available",
+      "updated_at": "2026-05-04T08:33:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0033",
+    "updated_at": "2026-05-04T08:33:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:34:00Z",
+      "email": "fatima.kowalski@crew.test",
+      "first_name": "Fatima",
+      "id": "wkr_0034",
+      "is_deleted": false,
+      "last_name": "Kowalski",
+      "phone": "+1-555-8252",
+      "rating": 4.4,
+      "role": "driver",
+      "status": "off_shift",
+      "updated_at": "2026-05-04T08:34:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0034",
+    "updated_at": "2026-05-04T08:34:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:35:00Z",
+      "email": "linus.yamada@crew.test",
+      "first_name": "Linus",
+      "id": "wkr_0035",
+      "is_deleted": false,
+      "last_name": "Yamada",
+      "phone": "+1-555-2435",
+      "rating": 3.5,
+      "role": "line_cook",
+      "status": "on_shift",
+      "updated_at": "2026-05-04T08:35:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0035",
+    "updated_at": "2026-05-04T08:35:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:36:00Z",
+      "email": "peggy.zhang@crew.test",
+      "first_name": "Peggy",
+      "id": "wkr_0036",
+      "is_deleted": false,
+      "last_name": "Zhang",
+      "phone": "+1-555-4951",
+      "rating": 4.0,
+      "role": "cashier",
+      "status": "inactive",
+      "updated_at": "2026-05-04T08:36:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0036",
+    "updated_at": "2026-05-04T08:36:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:37:00Z",
+      "email": "katherine.haas@crew.test",
+      "first_name": "Katherine",
+      "id": "wkr_0037",
+      "is_deleted": false,
+      "last_name": "Haas",
+      "phone": "+1-555-4754",
+      "rating": 4.8,
+      "role": "line_cook",
+      "status": "on_shift",
+      "updated_at": "2026-05-04T08:37:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0037",
+    "updated_at": "2026-05-04T08:37:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:38:00Z",
+      "email": "blaise.haas@crew.test",
+      "first_name": "Blaise",
+      "id": "wkr_0038",
+      "is_deleted": false,
+      "last_name": "Haas",
+      "phone": "+1-555-7032",
+      "rating": 3.5,
+      "role": "host",
+      "status": "off_shift",
+      "updated_at": "2026-05-04T08:38:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0038",
+    "updated_at": "2026-05-04T08:38:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:39:00Z",
+      "email": "grace.yamada@crew.test",
+      "first_name": "Grace",
+      "id": "wkr_0039",
+      "is_deleted": false,
+      "last_name": "Yamada",
+      "phone": "+1-555-5951",
+      "rating": 3.8,
+      "role": "warehouse",
+      "status": "off_shift",
+      "updated_at": "2026-05-04T08:39:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0039",
+    "updated_at": "2026-05-04T08:39:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:40:00Z",
+      "email": "charles.larsen@crew.test",
+      "first_name": "Charles",
+      "id": "wkr_0040",
+      "is_deleted": false,
+      "last_name": "Larsen",
+      "phone": "+1-555-9719",
+      "rating": 3.9,
+      "role": "line_cook",
+      "status": "available",
+      "updated_at": "2026-05-04T08:40:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0040",
+    "updated_at": "2026-05-04T08:40:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:41:00Z",
+      "email": "isaac.espinoza@crew.test",
+      "first_name": "Isaac",
+      "id": "wkr_0041",
+      "is_deleted": false,
+      "last_name": "Espinoza",
+      "phone": "+1-555-4064",
+      "rating": 4.2,
+      "role": "host",
+      "status": "inactive",
+      "updated_at": "2026-05-04T08:41:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0041",
+    "updated_at": "2026-05-04T08:41:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:42:00Z",
+      "email": "peggy.espinoza@crew.test",
+      "first_name": "Peggy",
+      "id": "wkr_0042",
+      "is_deleted": false,
+      "last_name": "Espinoza",
+      "phone": "+1-555-9450",
+      "rating": 4.2,
+      "role": "cashier",
+      "status": "on_shift",
+      "updated_at": "2026-05-04T08:42:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0042",
+    "updated_at": "2026-05-04T08:42:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:43:00Z",
+      "email": "nikola.larsen@crew.test",
+      "first_name": "Nikola",
+      "id": "wkr_0043",
+      "is_deleted": false,
+      "last_name": "Larsen",
+      "phone": "+1-555-6585",
+      "rating": 5.0,
+      "role": "warehouse",
+      "status": "available",
+      "updated_at": "2026-05-04T08:43:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0043",
+    "updated_at": "2026-05-04T08:43:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:44:00Z",
+      "email": "dorothy.nakamura@crew.test",
+      "first_name": "Dorothy",
+      "id": "wkr_0044",
+      "is_deleted": false,
+      "last_name": "Nakamura",
+      "phone": "+1-555-3037",
+      "rating": 4.4,
+      "role": "warehouse",
+      "status": "on_shift",
+      "updated_at": "2026-05-04T08:44:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0044",
+    "updated_at": "2026-05-04T08:44:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:45:00Z",
+      "email": "sophie.jansen@crew.test",
+      "first_name": "Sophie",
+      "id": "wkr_0045",
+      "is_deleted": false,
+      "last_name": "Jansen",
+      "phone": "+1-555-5977",
+      "rating": 3.2,
+      "role": "line_cook",
+      "status": "on_shift",
+      "updated_at": "2026-05-04T08:45:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0045",
+    "updated_at": "2026-05-04T08:45:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:46:00Z",
+      "email": "grace.mbeki@crew.test",
+      "first_name": "Grace",
+      "id": "wkr_0046",
+      "is_deleted": false,
+      "last_name": "Mbeki",
+      "phone": "+1-555-2001",
+      "rating": 4.7,
+      "role": "warehouse",
+      "status": "inactive",
+      "updated_at": "2026-05-04T08:46:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0046",
+    "updated_at": "2026-05-04T08:46:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:47:00Z",
+      "email": "zelda.rossi@crew.test",
+      "first_name": "Zelda",
+      "id": "wkr_0047",
+      "is_deleted": false,
+      "last_name": "Rossi",
+      "phone": "+1-555-8048",
+      "rating": 3.4,
+      "role": "host",
+      "status": "off_shift",
+      "updated_at": "2026-05-04T08:47:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0047",
+    "updated_at": "2026-05-04T08:47:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:48:00Z",
+      "email": "dorothy.fournier@crew.test",
+      "first_name": "Dorothy",
+      "id": "wkr_0048",
+      "is_deleted": false,
+      "last_name": "Fournier",
+      "phone": "+1-555-6770",
+      "rating": 4.9,
+      "role": "server",
+      "status": "inactive",
+      "updated_at": "2026-05-04T08:48:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0048",
+    "updated_at": "2026-05-04T08:48:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:49:00Z",
+      "email": "tim.wang@crew.test",
+      "first_name": "Tim",
+      "id": "wkr_0049",
+      "is_deleted": false,
+      "last_name": "Wang",
+      "phone": "+1-555-5709",
+      "rating": 4.1,
+      "role": "driver",
+      "status": "on_shift",
+      "updated_at": "2026-05-04T08:49:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0049",
+    "updated_at": "2026-05-04T08:49:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:50:00Z",
+      "email": "charles.oduya@crew.test",
+      "first_name": "Charles",
+      "id": "wkr_0050",
+      "is_deleted": false,
+      "last_name": "Oduya",
+      "phone": "+1-555-2153",
+      "rating": 4.9,
+      "role": "cleaner",
+      "status": "on_shift",
+      "updated_at": "2026-05-04T08:50:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0050",
+    "updated_at": "2026-05-04T08:50:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:51:00Z",
+      "email": "grace.ibarra@crew.test",
+      "first_name": "Grace",
+      "id": "wkr_0051",
+      "is_deleted": false,
+      "last_name": "Ibarra",
+      "phone": "+1-555-1626",
+      "rating": 4.6,
+      "role": "barista",
+      "status": "on_shift",
+      "updated_at": "2026-05-04T08:51:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0051",
+    "updated_at": "2026-05-04T08:51:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:52:00Z",
+      "email": "ada.fournier@crew.test",
+      "first_name": "Ada",
+      "id": "wkr_0052",
+      "is_deleted": false,
+      "last_name": "Fournier",
+      "phone": "+1-555-9241",
+      "rating": 4.6,
+      "role": "stocker",
+      "status": "off_shift",
+      "updated_at": "2026-05-04T08:52:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0052",
+    "updated_at": "2026-05-04T08:52:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:53:00Z",
+      "email": "enzo.larsen@crew.test",
+      "first_name": "Enzo",
+      "id": "wkr_0053",
+      "is_deleted": false,
+      "last_name": "Larsen",
+      "phone": "+1-555-4536",
+      "rating": 4.1,
+      "role": "driver",
+      "status": "on_shift",
+      "updated_at": "2026-05-04T08:53:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0053",
+    "updated_at": "2026-05-04T08:53:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:54:00Z",
+      "email": "linus.jansen@crew.test",
+      "first_name": "Linus",
+      "id": "wkr_0054",
+      "is_deleted": false,
+      "last_name": "Jansen",
+      "phone": "+1-555-9664",
+      "rating": 3.3,
+      "role": "line_cook",
+      "status": "available",
+      "updated_at": "2026-05-04T08:54:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0054",
+    "updated_at": "2026-05-04T08:54:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:55:00Z",
+      "email": "enzo.rossi@crew.test",
+      "first_name": "Enzo",
+      "id": "wkr_0055",
+      "is_deleted": false,
+      "last_name": "Rossi",
+      "phone": "+1-555-8200",
+      "rating": 4.4,
+      "role": "warehouse",
+      "status": "inactive",
+      "updated_at": "2026-05-04T08:55:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0055",
+    "updated_at": "2026-05-04T08:55:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:56:00Z",
+      "email": "hedy.haas@crew.test",
+      "first_name": "Hedy",
+      "id": "wkr_0056",
+      "is_deleted": false,
+      "last_name": "Haas",
+      "phone": "+1-555-9430",
+      "rating": 3.9,
+      "role": "stocker",
+      "status": "inactive",
+      "updated_at": "2026-05-04T08:56:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0056",
+    "updated_at": "2026-05-04T08:56:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:57:00Z",
+      "email": "sophie.quinn@crew.test",
+      "first_name": "Sophie",
+      "id": "wkr_0057",
+      "is_deleted": false,
+      "last_name": "Quinn",
+      "phone": "+1-555-4268",
+      "rating": 4.4,
+      "role": "dishwasher",
+      "status": "inactive",
+      "updated_at": "2026-05-04T08:57:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0057",
+    "updated_at": "2026-05-04T08:57:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:58:00Z",
+      "email": "nikola.espinoza@crew.test",
+      "first_name": "Nikola",
+      "id": "wkr_0058",
+      "is_deleted": false,
+      "last_name": "Espinoza",
+      "phone": "+1-555-5590",
+      "rating": 4.2,
+      "role": "line_cook",
+      "status": "inactive",
+      "updated_at": "2026-05-04T08:58:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0058",
+    "updated_at": "2026-05-04T08:58:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:59:00Z",
+      "email": "marie.ibarra@crew.test",
+      "first_name": "Marie",
+      "id": "wkr_0059",
+      "is_deleted": false,
+      "last_name": "Ibarra",
+      "phone": "+1-555-5843",
+      "rating": 3.2,
+      "role": "server",
+      "status": "available",
+      "updated_at": "2026-05-04T08:59:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0059",
+    "updated_at": "2026-05-04T08:59:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T09:00:00Z",
+      "email": "grace.rossi@crew.test",
+      "first_name": "Grace",
+      "id": "wkr_0060",
+      "is_deleted": false,
+      "last_name": "Rossi",
+      "phone": "+1-555-2911",
+      "rating": 3.5,
+      "role": "stocker",
+      "status": "on_shift",
+      "updated_at": "2026-05-04T09:00:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0060",
+    "updated_at": "2026-05-04T09:00:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T09:01:00Z",
+      "email": "ada.ali@crew.test",
+      "first_name": "Ada",
+      "id": "wkr_0061",
+      "is_deleted": false,
+      "last_name": "Ali",
+      "phone": "+1-555-7145",
+      "rating": 3.7,
+      "role": "barista",
+      "status": "inactive",
+      "updated_at": "2026-05-04T09:01:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0061",
+    "updated_at": "2026-05-04T09:01:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T09:02:00Z",
+      "email": "dorothy.diallo@crew.test",
+      "first_name": "Dorothy",
+      "id": "wkr_0062",
+      "is_deleted": false,
+      "last_name": "Diallo",
+      "phone": "+1-555-3046",
+      "rating": 4.4,
+      "role": "host",
+      "status": "available",
+      "updated_at": "2026-05-04T09:02:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0062",
+    "updated_at": "2026-05-04T09:02:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T09:03:00Z",
+      "email": "ursula.rossi@crew.test",
+      "first_name": "Ursula",
+      "id": "wkr_0063",
+      "is_deleted": false,
+      "last_name": "Rossi",
+      "phone": "+1-555-9738",
+      "rating": 4.3,
+      "role": "stocker",
+      "status": "inactive",
+      "updated_at": "2026-05-04T09:03:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0063",
+    "updated_at": "2026-05-04T09:03:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T09:04:00Z",
+      "email": "richard.ueda@crew.test",
+      "first_name": "Richard",
+      "id": "wkr_0064",
+      "is_deleted": false,
+      "last_name": "Ueda",
+      "phone": "+1-555-2563",
+      "rating": 4.9,
+      "role": "host",
+      "status": "off_shift",
+      "updated_at": "2026-05-04T09:04:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0064",
+    "updated_at": "2026-05-04T09:04:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T09:05:00Z",
+      "email": "xavier.nakamura@crew.test",
+      "first_name": "Xavier",
+      "id": "wkr_0065",
+      "is_deleted": false,
+      "last_name": "Nakamura",
+      "phone": "+1-555-1828",
+      "rating": 4.8,
+      "role": "cashier",
+      "status": "off_shift",
+      "updated_at": "2026-05-04T09:05:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0065",
+    "updated_at": "2026-05-04T09:05:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T09:06:00Z",
+      "email": "vera.diallo@crew.test",
+      "first_name": "Vera",
+      "id": "wkr_0066",
+      "is_deleted": false,
+      "last_name": "Diallo",
+      "phone": "+1-555-6820",
+      "rating": 4.2,
+      "role": "stocker",
+      "status": "inactive",
+      "updated_at": "2026-05-04T09:06:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0066",
+    "updated_at": "2026-05-04T09:06:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T09:07:00Z",
+      "email": "blaise.petrov@crew.test",
+      "first_name": "Blaise",
+      "id": "wkr_0067",
+      "is_deleted": false,
+      "last_name": "Petrov",
+      "phone": "+1-555-5692",
+      "rating": 4.5,
+      "role": "dishwasher",
+      "status": "on_shift",
+      "updated_at": "2026-05-04T09:07:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0067",
+    "updated_at": "2026-05-04T09:07:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T09:08:00Z",
+      "email": "devi.larsen@crew.test",
+      "first_name": "Devi",
+      "id": "wkr_0068",
+      "is_deleted": false,
+      "last_name": "Larsen",
+      "phone": "+1-555-6790",
+      "rating": 3.7,
+      "role": "line_cook",
+      "status": "off_shift",
+      "updated_at": "2026-05-04T09:08:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0068",
+    "updated_at": "2026-05-04T09:08:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T09:09:00Z",
+      "email": "ada.gupta@crew.test",
+      "first_name": "Ada",
+      "id": "wkr_0069",
+      "is_deleted": false,
+      "last_name": "Gupta",
+      "phone": "+1-555-9832",
+      "rating": 3.8,
+      "role": "server",
+      "status": "on_shift",
+      "updated_at": "2026-05-04T09:09:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0069",
+    "updated_at": "2026-05-04T09:09:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T09:10:00Z",
+      "email": "katherine.tan@crew.test",
+      "first_name": "Katherine",
+      "id": "wkr_0070",
+      "is_deleted": false,
+      "last_name": "Tan",
+      "phone": "+1-555-5426",
+      "rating": 4.4,
+      "role": "stocker",
+      "status": "off_shift",
+      "updated_at": "2026-05-04T09:10:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0070",
+    "updated_at": "2026-05-04T09:10:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T09:11:00Z",
+      "email": "katherine.gupta@crew.test",
+      "first_name": "Katherine",
+      "id": "wkr_0071",
+      "is_deleted": false,
+      "last_name": "Gupta",
+      "phone": "+1-555-4778",
+      "rating": 4.3,
+      "role": "driver",
+      "status": "inactive",
+      "updated_at": "2026-05-04T09:11:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0071",
+    "updated_at": "2026-05-04T09:11:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T09:12:00Z",
+      "email": "hedy.vasquez@crew.test",
+      "first_name": "Hedy",
+      "id": "wkr_0072",
+      "is_deleted": false,
+      "last_name": "Vasquez",
+      "phone": "+1-555-9202",
+      "rating": 4.7,
+      "role": "server",
+      "status": "on_shift",
+      "updated_at": "2026-05-04T09:12:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0072",
+    "updated_at": "2026-05-04T09:12:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T09:13:00Z",
+      "email": "ursula.ueda@crew.test",
+      "first_name": "Ursula",
+      "id": "wkr_0073",
+      "is_deleted": false,
+      "last_name": "Ueda",
+      "phone": "+1-555-7988",
+      "rating": 3.6,
+      "role": "line_cook",
+      "status": "inactive",
+      "updated_at": "2026-05-04T09:13:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0073",
+    "updated_at": "2026-05-04T09:13:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T09:14:00Z",
+      "email": "hedy.oduya@crew.test",
+      "first_name": "Hedy",
+      "id": "wkr_0074",
+      "is_deleted": false,
+      "last_name": "Oduya",
+      "phone": "+1-555-1553",
+      "rating": 3.3,
+      "role": "dishwasher",
+      "status": "inactive",
+      "updated_at": "2026-05-04T09:14:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0074",
+    "updated_at": "2026-05-04T09:14:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T09:15:00Z",
+      "email": "walter.costa@crew.test",
+      "first_name": "Walter",
+      "id": "wkr_0075",
+      "is_deleted": false,
+      "last_name": "Costa",
+      "phone": "+1-555-5407",
+      "rating": 3.4,
+      "role": "server",
+      "status": "available",
+      "updated_at": "2026-05-04T09:15:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0075",
+    "updated_at": "2026-05-04T09:15:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T09:16:00Z",
+      "email": "charles.rossi@crew.test",
+      "first_name": "Charles",
+      "id": "wkr_0076",
+      "is_deleted": false,
+      "last_name": "Rossi",
+      "phone": "+1-555-3495",
+      "rating": 5.0,
+      "role": "driver",
+      "status": "on_shift",
+      "updated_at": "2026-05-04T09:16:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0076",
+    "updated_at": "2026-05-04T09:16:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T09:17:00Z",
+      "email": "linus.xu@crew.test",
+      "first_name": "Linus",
+      "id": "wkr_0077",
+      "is_deleted": false,
+      "last_name": "Xu",
+      "phone": "+1-555-5678",
+      "rating": 3.3,
+      "role": "warehouse",
+      "status": "inactive",
+      "updated_at": "2026-05-04T09:17:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0077",
+    "updated_at": "2026-05-04T09:17:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T09:18:00Z",
+      "email": "blaise.zhang@crew.test",
+      "first_name": "Blaise",
+      "id": "wkr_0078",
+      "is_deleted": false,
+      "last_name": "Zhang",
+      "phone": "+1-555-4749",
+      "rating": 3.0,
+      "role": "driver",
+      "status": "available",
+      "updated_at": "2026-05-04T09:18:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0078",
+    "updated_at": "2026-05-04T09:18:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T09:19:00Z",
+      "email": "vera.rossi@crew.test",
+      "first_name": "Vera",
+      "id": "wkr_0079",
+      "is_deleted": false,
+      "last_name": "Rossi",
+      "phone": "+1-555-9972",
+      "rating": 4.8,
+      "role": "cashier",
+      "status": "on_shift",
+      "updated_at": "2026-05-04T09:19:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0079",
+    "updated_at": "2026-05-04T09:19:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T09:20:00Z",
+      "email": "sophie.wang@crew.test",
+      "first_name": "Sophie",
+      "id": "wkr_0080",
+      "is_deleted": false,
+      "last_name": "Wang",
+      "phone": "+1-555-2609",
+      "rating": 4.7,
+      "role": "cashier",
+      "status": "inactive",
+      "updated_at": "2026-05-04T09:20:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0080",
+    "updated_at": "2026-05-04T09:20:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T09:21:00Z",
+      "email": "richard.byrne@crew.test",
+      "first_name": "Richard",
+      "id": "wkr_0081",
+      "is_deleted": false,
+      "last_name": "Byrne",
+      "phone": "+1-555-4551",
+      "rating": 3.8,
+      "role": "barista",
+      "status": "on_shift",
+      "updated_at": "2026-05-04T09:21:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0081",
+    "updated_at": "2026-05-04T09:21:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T09:22:00Z",
+      "email": "cyrus.wang@crew.test",
+      "first_name": "Cyrus",
+      "id": "wkr_0082",
+      "is_deleted": false,
+      "last_name": "Wang",
+      "phone": "+1-555-2395",
+      "rating": 3.4,
+      "role": "barista",
+      "status": "on_shift",
+      "updated_at": "2026-05-04T09:22:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0082",
+    "updated_at": "2026-05-04T09:22:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T09:23:00Z",
+      "email": "zelda.gupta@crew.test",
+      "first_name": "Zelda",
+      "id": "wkr_0083",
+      "is_deleted": false,
+      "last_name": "Gupta",
+      "phone": "+1-555-7095",
+      "rating": 4.3,
+      "role": "warehouse",
+      "status": "inactive",
+      "updated_at": "2026-05-04T09:23:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0083",
+    "updated_at": "2026-05-04T09:23:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T09:24:00Z",
+      "email": "emmy.jansen@crew.test",
+      "first_name": "Emmy",
+      "id": "wkr_0084",
+      "is_deleted": false,
+      "last_name": "Jansen",
+      "phone": "+1-555-7085",
+      "rating": 4.1,
+      "role": "cashier",
+      "status": "inactive",
+      "updated_at": "2026-05-04T09:24:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0084",
+    "updated_at": "2026-05-04T09:24:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T09:25:00Z",
+      "email": "devi.mbeki@crew.test",
+      "first_name": "Devi",
+      "id": "wkr_0085",
+      "is_deleted": false,
+      "last_name": "Mbeki",
+      "phone": "+1-555-2592",
+      "rating": 4.6,
+      "role": "cashier",
+      "status": "available",
+      "updated_at": "2026-05-04T09:25:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0085",
+    "updated_at": "2026-05-04T09:25:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T09:26:00Z",
+      "email": "richard.zhang@crew.test",
+      "first_name": "Richard",
+      "id": "wkr_0086",
+      "is_deleted": false,
+      "last_name": "Zhang",
+      "phone": "+1-555-1184",
+      "rating": 3.8,
+      "role": "stocker",
+      "status": "on_shift",
+      "updated_at": "2026-05-04T09:26:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0086",
+    "updated_at": "2026-05-04T09:26:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T09:27:00Z",
+      "email": "blaise.quinn@crew.test",
+      "first_name": "Blaise",
+      "id": "wkr_0087",
+      "is_deleted": false,
+      "last_name": "Quinn",
+      "phone": "+1-555-2108",
+      "rating": 3.3,
+      "role": "barista",
+      "status": "inactive",
+      "updated_at": "2026-05-04T09:27:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0087",
+    "updated_at": "2026-05-04T09:27:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T09:28:00Z",
+      "email": "xavier.oduya@crew.test",
+      "first_name": "Xavier",
+      "id": "wkr_0088",
+      "is_deleted": false,
+      "last_name": "Oduya",
+      "phone": "+1-555-1627",
+      "rating": 4.6,
+      "role": "cashier",
+      "status": "available",
+      "updated_at": "2026-05-04T09:28:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0088",
+    "updated_at": "2026-05-04T09:28:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T09:29:00Z",
+      "email": "cyrus.zhang@crew.test",
+      "first_name": "Cyrus",
+      "id": "wkr_0089",
+      "is_deleted": false,
+      "last_name": "Zhang",
+      "phone": "+1-555-9395",
+      "rating": 4.5,
+      "role": "cleaner",
+      "status": "inactive",
+      "updated_at": "2026-05-04T09:29:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0089",
+    "updated_at": "2026-05-04T09:29:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T09:30:00Z",
+      "email": "tim.vasquez@crew.test",
+      "first_name": "Tim",
+      "id": "wkr_0090",
+      "is_deleted": false,
+      "last_name": "Vasquez",
+      "phone": "+1-555-5657",
+      "rating": 3.6,
+      "role": "cashier",
+      "status": "on_shift",
+      "updated_at": "2026-05-04T09:30:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0090",
+    "updated_at": "2026-05-04T09:30:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T09:31:00Z",
+      "email": "emmy.quinn@crew.test",
+      "first_name": "Emmy",
+      "id": "wkr_0091",
+      "is_deleted": false,
+      "last_name": "Quinn",
+      "phone": "+1-555-9931",
+      "rating": 4.8,
+      "role": "cashier",
+      "status": "inactive",
+      "updated_at": "2026-05-04T09:31:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0091",
+    "updated_at": "2026-05-04T09:31:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T09:32:00Z",
+      "email": "florence.jansen@crew.test",
+      "first_name": "Florence",
+      "id": "wkr_0092",
+      "is_deleted": false,
+      "last_name": "Jansen",
+      "phone": "+1-555-4304",
+      "rating": 3.9,
+      "role": "warehouse",
+      "status": "on_shift",
+      "updated_at": "2026-05-04T09:32:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0092",
+    "updated_at": "2026-05-04T09:32:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T09:33:00Z",
+      "email": "cyrus.ibarra@crew.test",
+      "first_name": "Cyrus",
+      "id": "wkr_0093",
+      "is_deleted": false,
+      "last_name": "Ibarra",
+      "phone": "+1-555-2311",
+      "rating": 3.0,
+      "role": "server",
+      "status": "off_shift",
+      "updated_at": "2026-05-04T09:33:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0093",
+    "updated_at": "2026-05-04T09:33:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T09:34:00Z",
+      "email": "fatima.gupta@crew.test",
+      "first_name": "Fatima",
+      "id": "wkr_0094",
+      "is_deleted": false,
+      "last_name": "Gupta",
+      "phone": "+1-555-5191",
+      "rating": 3.7,
+      "role": "line_cook",
+      "status": "inactive",
+      "updated_at": "2026-05-04T09:34:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0094",
+    "updated_at": "2026-05-04T09:34:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T09:35:00Z",
+      "email": "hedy.espinoza@crew.test",
+      "first_name": "Hedy",
+      "id": "wkr_0095",
+      "is_deleted": false,
+      "last_name": "Espinoza",
+      "phone": "+1-555-4031",
+      "rating": 4.6,
+      "role": "barista",
+      "status": "off_shift",
+      "updated_at": "2026-05-04T09:35:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0095",
+    "updated_at": "2026-05-04T09:35:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T09:36:00Z",
+      "email": "sophie.rossi@crew.test",
+      "first_name": "Sophie",
+      "id": "wkr_0096",
+      "is_deleted": false,
+      "last_name": "Rossi",
+      "phone": "+1-555-1516",
+      "rating": 5.0,
+      "role": "cleaner",
+      "status": "on_shift",
+      "updated_at": "2026-05-04T09:36:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0096",
+    "updated_at": "2026-05-04T09:36:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T09:37:00Z",
+      "email": "charles.oduya@crew.test",
+      "first_name": "Charles",
+      "id": "wkr_0097",
+      "is_deleted": false,
+      "last_name": "Oduya",
+      "phone": "+1-555-9084",
+      "rating": 4.1,
+      "role": "host",
+      "status": "available",
+      "updated_at": "2026-05-04T09:37:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0097",
+    "updated_at": "2026-05-04T09:37:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T09:38:00Z",
+      "email": "tim.mbeki@crew.test",
+      "first_name": "Tim",
+      "id": "wkr_0098",
+      "is_deleted": false,
+      "last_name": "Mbeki",
+      "phone": "+1-555-9320",
+      "rating": 4.7,
+      "role": "driver",
+      "status": "on_shift",
+      "updated_at": "2026-05-04T09:38:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0098",
+    "updated_at": "2026-05-04T09:38:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T09:39:00Z",
+      "email": "ada.haas@crew.test",
+      "first_name": "Ada",
+      "id": "wkr_0099",
+      "is_deleted": false,
+      "last_name": "Haas",
+      "phone": "+1-555-5119",
+      "rating": 3.7,
+      "role": "dishwasher",
+      "status": "on_shift",
+      "updated_at": "2026-05-04T09:39:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0099",
+    "updated_at": "2026-05-04T09:39:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T09:40:00Z",
+      "email": "bhupen.santos@crew.test",
+      "first_name": "Bhupen",
+      "id": "wkr_0100",
+      "is_deleted": false,
+      "last_name": "Santos",
+      "phone": "+1-555-1424",
+      "rating": 4.3,
+      "role": "warehouse",
+      "status": "off_shift",
+      "updated_at": "2026-05-04T09:40:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0100",
+    "updated_at": "2026-05-04T09:40:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T09:41:00Z",
+      "email": "florence.rossi@crew.test",
+      "first_name": "Florence",
+      "id": "wkr_0101",
+      "is_deleted": false,
+      "last_name": "Rossi",
+      "phone": "+1-555-1529",
+      "rating": 4.7,
+      "role": "server",
+      "status": "on_shift",
+      "updated_at": "2026-05-04T09:41:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0101",
+    "updated_at": "2026-05-04T09:41:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T09:42:00Z",
+      "email": "oliver.wang@crew.test",
+      "first_name": "Oliver",
+      "id": "wkr_0102",
+      "is_deleted": false,
+      "last_name": "Wang",
+      "phone": "+1-555-6624",
+      "rating": 3.7,
+      "role": "driver",
+      "status": "on_shift",
+      "updated_at": "2026-05-04T09:42:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0102",
+    "updated_at": "2026-05-04T09:42:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T09:43:00Z",
+      "email": "zelda.costa@crew.test",
+      "first_name": "Zelda",
+      "id": "wkr_0103",
+      "is_deleted": false,
+      "last_name": "Costa",
+      "phone": "+1-555-6109",
+      "rating": 3.9,
+      "role": "dishwasher",
+      "status": "inactive",
+      "updated_at": "2026-05-04T09:43:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0103",
+    "updated_at": "2026-05-04T09:43:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T09:44:00Z",
+      "email": "vera.ueda@crew.test",
+      "first_name": "Vera",
+      "id": "wkr_0104",
+      "is_deleted": false,
+      "last_name": "Ueda",
+      "phone": "+1-555-4030",
+      "rating": 3.9,
+      "role": "barista",
+      "status": "off_shift",
+      "updated_at": "2026-05-04T09:44:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0104",
+    "updated_at": "2026-05-04T09:44:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T09:45:00Z",
+      "email": "nikola.petrov@crew.test",
+      "first_name": "Nikola",
+      "id": "wkr_0105",
+      "is_deleted": false,
+      "last_name": "Petrov",
+      "phone": "+1-555-7475",
+      "rating": 4.4,
+      "role": "dishwasher",
+      "status": "inactive",
+      "updated_at": "2026-05-04T09:45:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0105",
+    "updated_at": "2026-05-04T09:45:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T09:46:00Z",
+      "email": "grace.rossi@crew.test",
+      "first_name": "Grace",
+      "id": "wkr_0106",
+      "is_deleted": false,
+      "last_name": "Rossi",
+      "phone": "+1-555-3844",
+      "rating": 4.5,
+      "role": "stocker",
+      "status": "off_shift",
+      "updated_at": "2026-05-04T09:46:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0106",
+    "updated_at": "2026-05-04T09:46:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T09:47:00Z",
+      "email": "charles.wang@crew.test",
+      "first_name": "Charles",
+      "id": "wkr_0107",
+      "is_deleted": false,
+      "last_name": "Wang",
+      "phone": "+1-555-6475",
+      "rating": 5.0,
+      "role": "driver",
+      "status": "available",
+      "updated_at": "2026-05-04T09:47:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0107",
+    "updated_at": "2026-05-04T09:47:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T09:48:00Z",
+      "email": "amara.zhang@crew.test",
+      "first_name": "Amara",
+      "id": "wkr_0108",
+      "is_deleted": false,
+      "last_name": "Zhang",
+      "phone": "+1-555-3298",
+      "rating": 4.9,
+      "role": "barista",
+      "status": "on_shift",
+      "updated_at": "2026-05-04T09:48:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0108",
+    "updated_at": "2026-05-04T09:48:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T09:49:00Z",
+      "email": "katherine.quinn@crew.test",
+      "first_name": "Katherine",
+      "id": "wkr_0109",
+      "is_deleted": false,
+      "last_name": "Quinn",
+      "phone": "+1-555-9485",
+      "rating": 3.8,
+      "role": "dishwasher",
+      "status": "on_shift",
+      "updated_at": "2026-05-04T09:49:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0109",
+    "updated_at": "2026-05-04T09:49:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T09:50:00Z",
+      "email": "richard.santos@crew.test",
+      "first_name": "Richard",
+      "id": "wkr_0110",
+      "is_deleted": false,
+      "last_name": "Santos",
+      "phone": "+1-555-5924",
+      "rating": 3.1,
+      "role": "dishwasher",
+      "status": "on_shift",
+      "updated_at": "2026-05-04T09:50:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0110",
+    "updated_at": "2026-05-04T09:50:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T09:51:00Z",
+      "email": "devi.jansen@crew.test",
+      "first_name": "Devi",
+      "id": "wkr_0111",
+      "is_deleted": false,
+      "last_name": "Jansen",
+      "phone": "+1-555-2104",
+      "rating": 3.6,
+      "role": "cashier",
+      "status": "off_shift",
+      "updated_at": "2026-05-04T09:51:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0111",
+    "updated_at": "2026-05-04T09:51:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T09:52:00Z",
+      "email": "peggy.costa@crew.test",
+      "first_name": "Peggy",
+      "id": "wkr_0112",
+      "is_deleted": false,
+      "last_name": "Costa",
+      "phone": "+1-555-7365",
+      "rating": 3.8,
+      "role": "warehouse",
+      "status": "available",
+      "updated_at": "2026-05-04T09:52:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0112",
+    "updated_at": "2026-05-04T09:52:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T09:53:00Z",
+      "email": "jean.tan@crew.test",
+      "first_name": "Jean",
+      "id": "wkr_0113",
+      "is_deleted": false,
+      "last_name": "Tan",
+      "phone": "+1-555-9600",
+      "rating": 3.1,
+      "role": "server",
+      "status": "off_shift",
+      "updated_at": "2026-05-04T09:53:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0113",
+    "updated_at": "2026-05-04T09:53:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T09:54:00Z",
+      "email": "richard.gupta@crew.test",
+      "first_name": "Richard",
+      "id": "wkr_0114",
+      "is_deleted": false,
+      "last_name": "Gupta",
+      "phone": "+1-555-8164",
+      "rating": 3.8,
+      "role": "stocker",
+      "status": "available",
+      "updated_at": "2026-05-04T09:54:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0114",
+    "updated_at": "2026-05-04T09:54:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T09:55:00Z",
+      "email": "katherine.ibarra@crew.test",
+      "first_name": "Katherine",
+      "id": "wkr_0115",
+      "is_deleted": false,
+      "last_name": "Ibarra",
+      "phone": "+1-555-4276",
+      "rating": 3.3,
+      "role": "line_cook",
+      "status": "off_shift",
+      "updated_at": "2026-05-04T09:55:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0115",
+    "updated_at": "2026-05-04T09:55:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T09:56:00Z",
+      "email": "xavier.yamada@crew.test",
+      "first_name": "Xavier",
+      "id": "wkr_0116",
+      "is_deleted": false,
+      "last_name": "Yamada",
+      "phone": "+1-555-9191",
+      "rating": 3.6,
+      "role": "cashier",
+      "status": "on_shift",
+      "updated_at": "2026-05-04T09:56:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0116",
+    "updated_at": "2026-05-04T09:56:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T09:57:00Z",
+      "email": "linus.mbeki@crew.test",
+      "first_name": "Linus",
+      "id": "wkr_0117",
+      "is_deleted": false,
+      "last_name": "Mbeki",
+      "phone": "+1-555-2528",
+      "rating": 4.8,
+      "role": "barista",
+      "status": "off_shift",
+      "updated_at": "2026-05-04T09:57:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0117",
+    "updated_at": "2026-05-04T09:57:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T09:58:00Z",
+      "email": "ursula.oduya@crew.test",
+      "first_name": "Ursula",
+      "id": "wkr_0118",
+      "is_deleted": false,
+      "last_name": "Oduya",
+      "phone": "+1-555-4525",
+      "rating": 4.9,
+      "role": "cleaner",
+      "status": "inactive",
+      "updated_at": "2026-05-04T09:58:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0118",
+    "updated_at": "2026-05-04T09:58:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T09:59:00Z",
+      "email": "goro.oduya@crew.test",
+      "first_name": "Goro",
+      "id": "wkr_0119",
+      "is_deleted": false,
+      "last_name": "Oduya",
+      "phone": "+1-555-4140",
+      "rating": 4.7,
+      "role": "cleaner",
+      "status": "inactive",
+      "updated_at": "2026-05-04T09:59:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0119",
+    "updated_at": "2026-05-04T09:59:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T10:00:00Z",
+      "email": "sophie.byrne@crew.test",
+      "first_name": "Sophie",
+      "id": "wkr_0120",
+      "is_deleted": false,
+      "last_name": "Byrne",
+      "phone": "+1-555-7800",
+      "rating": 3.4,
+      "role": "cleaner",
+      "status": "inactive",
+      "updated_at": "2026-05-04T10:00:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "wkr_0120",
+    "updated_at": "2026-05-04T10:00:00Z"
+  }
+]

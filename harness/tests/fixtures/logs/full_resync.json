@@ -1,0 +1,7 @@
+[
+  {"ts": 0, "method": "GET", "path": "/rest/candidates", "query": {"modified_since": "2024-01-01T00:00:00Z"}, "status": 200},
+  {"ts": 10, "method": "GET", "path": "/rest/candidates", "query": {}, "status": 200},
+
+  {"ts": 20, "method": "GET", "path": "/rest/jobs", "query": {"modified_since": "2024-01-01T00:00:00Z"}, "status": 200},
+  {"ts": 30, "method": "GET", "path": "/rest/jobs", "query": {"modified_since": "2024-01-02T00:00:00Z"}, "status": 200}
+]

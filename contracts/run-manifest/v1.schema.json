@@ -1,0 +1,34 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://integration-bench.dev/contracts/run-manifest/v1.schema.json",
+  "title": "Integration-Bench run manifest v1",
+  "type": "object",
+  "required": ["schema_version", "run_id", "task", "source_revision", "task_hash", "catalog_hash", "image_lock_hash", "images", "harness_version", "contract_versions", "protocol_version", "model", "seed", "started_at", "ended_at", "status", "artifact_hashes", "artifact_locations"],
+  "properties": {
+    "schema_version": {"const": 1},
+    "run_id": {"type": "string", "minLength": 1},
+    "task": {"type": "string", "pattern": "^task-[0-9]{4}$"},
+    "source_revision": {"type": "string", "minLength": 7},
+    "task_hash": {"type": "string", "pattern": "^[a-f0-9]{64}$"},
+    "catalog_hash": {"type": "string", "pattern": "^[a-f0-9]{64}$"},
+    "image_lock_hash": {"type": "string", "pattern": "^[a-f0-9]{64}$"},
+    "images": {"type": "object", "minProperties": 1},
+    "harness_version": {"type": "string"},
+    "contract_versions": {"type": "object"},
+    "protocol_version": {"type": "string"},
+    "model": {"type": "object"},
+    "seed": {"type": "integer"},
+    "started_at": {"type": "string", "format": "date-time"},
+    "ended_at": {"type": "string", "format": "date-time"},
+    "status": {"enum": ["done", "error", "patch_failed", "provider_error", "usage_limit"]},
+    "artifact_hashes": {
+      "type": "object",
+      "additionalProperties": {"type": "string", "pattern": "^[a-f0-9]{64}$"}
+    },
+    "artifact_locations": {
+      "type": "object",
+      "additionalProperties": {"type": "string", "minLength": 1}
+    }
+  },
+  "additionalProperties": true
+}

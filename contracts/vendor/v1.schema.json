@@ -1,0 +1,25 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://integration-bench.dev/contracts/vendor/v1.schema.json",
+  "title": "Integration-Bench vendor manifest v1",
+  "type": "object",
+  "required": ["vendor", "mutations"],
+  "properties": {
+    "vendor": {
+      "type": "object",
+      "required": ["id", "display_name", "api_version"],
+      "properties": {
+        "id": {"type": "string", "pattern": "^[a-z][a-z0-9-]+$"},
+        "display_name": {"type": "string", "minLength": 1},
+        "api_version": {"type": ["string", "number"]}
+      }
+    },
+    "mutations": {
+      "type": "object",
+      "required": ["script"],
+      "properties": {"script": {"const": "runtime/mutations.yaml"}}
+    }
+  },
+  "additionalProperties": true
+}
+

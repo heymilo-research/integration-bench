@@ -1,0 +1,14 @@
+{
+  "reschedules": [
+    {
+      "client_ref": "resched-1",
+      "interview_id": "itv_0100",
+      "scheduled_at": "2026-04-10T16:30:00Z"
+    },
+    {
+      "client_ref": "resched-2",
+      "interview_id": "itv_0105",
+      "note": "malformed: no scheduled_at"
+    }
+  ]
+}

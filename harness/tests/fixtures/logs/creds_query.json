@@ -1,0 +1,4 @@
+[
+  {"ts": 0, "method": "GET", "path": "/rest/candidates", "query": {"api_key": "SECRET123"}, "status": 200},
+  {"ts": 5, "method": "GET", "path": "/rest/candidates", "query": {"cursor": "abc"}, "status": 200}
+]

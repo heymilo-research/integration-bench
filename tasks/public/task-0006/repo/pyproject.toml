@@ -1,0 +1,14 @@
+[project]
+name = "ellerby-note-mirror"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0"]
+
+[project.scripts]
+ellerby-note-mirror = "ellerby_note_mirror.cli:_entrypoint"
+
+[tool.setuptools.packages.find]
+where = ["src"]

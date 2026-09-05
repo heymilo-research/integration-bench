@@ -1,0 +1,9 @@
+[
+  {"ts": 0, "method": "GET", "path": "/rest/candidates", "query": {"cursor": "c1"}, "status": 200},
+  {"ts": 5, "method": "GET", "path": "/rest/candidates", "query": {"cursor": "c2"}, "status": 500},
+  {"ts": 10, "method": "GET", "path": "/rest/candidates", "query": {"cursor": null}, "status": 200},
+
+  {"ts": 20, "method": "GET", "path": "/rest/jobs", "query": {"cursor": "c5"}, "status": 200},
+  {"ts": 25, "method": "GET", "path": "/rest/jobs", "query": {"cursor": "c6"}, "status": 500},
+  {"ts": 30, "method": "GET", "path": "/rest/jobs", "query": {"cursor": "c6"}, "status": 200}
+]

@@ -1,0 +1,792 @@
+{
+  "schema": 2,
+  "n_total": 68,
+  "floor_fraction": 0.04411764705882353,
+  "gold_fraction": 1.0,
+  "probes": {
+    "empty": 0.04411764705882353,
+    "stub": 0.0
+  },
+  "checks": {
+    "l1": [
+      "cp0_backfill_rows_exact",
+      "cp1_webhook_delivered",
+      "cp2_webhook_delivered",
+      "cp3_webhook_delivered",
+      "webhook_freshness_rows_exact",
+      "cp1_update_applied",
+      "cp2_delete_applied",
+      "cp3_create_applied",
+      "drop_fault_actually_fired",
+      "dropped_delete_reconciled_via_poll",
+      "prior_update_also_reconciled_via_poll",
+      "reconcile_rows_exact",
+      "writeback_exit_ok",
+      "writeback_writes_fields_exact",
+      "malformed_item_reported_as_422",
+      "reauth_transparent_under_writeback",
+      "backfill_reflects_prior_writeback",
+      "resume_not_restart_under_pressure",
+      "retry_writeback_exit_ok",
+      "retry_did_not_create_new_records",
+      "retries_carry_idempotency_key",
+      "summit_writeback_exit_ok",
+      "cp2_intermediate_rows_exact",
+      "cp3_intermediate_rows_exact",
+      "cp4_intermediate_rows_exact",
+      "cp5_intermediate_rows_exact",
+      "cp6_intermediate_rows_exact",
+      "summit_rows_exact",
+      "exactly_once_end_to_end",
+      "resume_not_restart",
+      "reauth_transparent",
+      "dropped_event_reconciled",
+      "idempotent_writeback_under_faults"
+    ],
+    "hard": [
+      "no_credentials_in_query_string",
+      "no_secrets_echoed_to_vendor",
+      "no_credentials_in_query_string",
+      "no_secrets_echoed_to_vendor",
+      "no_credentials_in_query_string",
+      "no_secrets_echoed_to_vendor",
+      "no_credentials_in_query_string",
+      "no_secrets_echoed_to_vendor"
+    ],
+    "l3": [],
+    "soft": [
+      "reauth_per_request:/oauth/token",
+      "no_unnecessary_full_resync:placement",
+      "no_unnecessary_full_resync:client",
+      "no_unnecessary_full_resync:note",
+      "no_hot_loop_on_error",
+      "reauth_per_request:/oauth/token",
+      "no_unnecessary_full_resync:placement",
+      "no_unnecessary_full_resync:client",
+      "no_unnecessary_full_resync:note",
+      "no_hot_loop_on_error",
+      "reauth_per_request:/oauth/token",
+      "no_unnecessary_full_resync:placement",
+      "resume_not_restart_on_retry:placement",
+      "no_unnecessary_full_resync:client",
+      "resume_not_restart_on_retry:client",
+      "no_unnecessary_full_resync:note",
+      "resume_not_restart_on_retry:note",
+      "no_hot_loop_on_error",
+      "idempotent_write_retries",
+      "reauth_per_request:/oauth/token",
+      "no_unnecessary_full_resync:placement",
+      "resume_not_restart_on_retry:placement",
+      "no_unnecessary_full_resync:client",
+      "resume_not_restart_on_retry:client",
+      "no_unnecessary_full_resync:note",
+      "resume_not_restart_on_retry:note",
+      "no_hot_loop_on_error"
+    ]
+  },
+  "generated": "bench validate --write-baseline 2026-08-14",
+  "checks_v2": [
+    {
+      "bucket": "l1",
+      "name": "cp0_backfill_rows_exact",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "cp1_webhook_delivered",
+      "gold": true,
+      "empty": true,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "cp2_webhook_delivered",
+      "gold": true,
+      "empty": true,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "cp3_webhook_delivered",
+      "gold": true,
+      "empty": true,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "webhook_freshness_rows_exact",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": true
+    },
+    {
+      "bucket": "l1",
+      "name": "cp1_update_applied",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 1,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "cp2_delete_applied",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 1,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "cp3_create_applied",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 1,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "drop_fault_actually_fired",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "dropped_delete_reconciled_via_poll",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": true
+    },
+    {
+      "bucket": "l1",
+      "name": "prior_update_also_reconciled_via_poll",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "reconcile_rows_exact",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": true
+    },
+    {
+      "bucket": "l1",
+      "name": "writeback_exit_ok",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "writeback_writes_fields_exact",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": true
+    },
+    {
+      "bucket": "l1",
+      "name": "malformed_item_reported_as_422",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": true
+    },
+    {
+      "bucket": "l1",
+      "name": "reauth_transparent_under_writeback",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "backfill_reflects_prior_writeback",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "resume_not_restart_under_pressure",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "retry_writeback_exit_ok",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "retry_did_not_create_new_records",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": true
+    },
+    {
+      "bucket": "l1",
+      "name": "retries_carry_idempotency_key",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": true
+    },
+    {
+      "bucket": "l1",
+      "name": "summit_writeback_exit_ok",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "cp2_intermediate_rows_exact",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "cp3_intermediate_rows_exact",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "cp4_intermediate_rows_exact",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "cp5_intermediate_rows_exact",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "cp6_intermediate_rows_exact",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "summit_rows_exact",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": true
+    },
+    {
+      "bucket": "l1",
+      "name": "exactly_once_end_to_end",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": true
+    },
+    {
+      "bucket": "l1",
+      "name": "resume_not_restart",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "reauth_transparent",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "dropped_event_reconciled",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "idempotent_writeback_under_faults",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "hard",
+      "name": "no_credentials_in_query_string",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    },
+    {
+      "bucket": "hard",
+      "name": "no_secrets_echoed_to_vendor",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    },
+    {
+      "bucket": "hard",
+      "name": "no_credentials_in_query_string",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    },
+    {
+      "bucket": "hard",
+      "name": "no_secrets_echoed_to_vendor",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    },
+    {
+      "bucket": "hard",
+      "name": "no_credentials_in_query_string",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    },
+    {
+      "bucket": "hard",
+      "name": "no_secrets_echoed_to_vendor",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    },
+    {
+      "bucket": "hard",
+      "name": "no_credentials_in_query_string",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    },
+    {
+      "bucket": "hard",
+      "name": "no_secrets_echoed_to_vendor",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    },
+    {
+      "bucket": "soft",
+      "name": "reauth_per_request:/oauth/token",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "soft",
+      "name": "no_unnecessary_full_resync:placement",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "soft",
+      "name": "no_unnecessary_full_resync:client",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "soft",
+      "name": "no_unnecessary_full_resync:note",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "soft",
+      "name": "no_hot_loop_on_error",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "soft",
+      "name": "reauth_per_request:/oauth/token",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "soft",
+      "name": "no_unnecessary_full_resync:placement",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "soft",
+      "name": "no_unnecessary_full_resync:client",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "soft",
+      "name": "no_unnecessary_full_resync:note",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "soft",
+      "name": "no_hot_loop_on_error",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "soft",
+      "name": "reauth_per_request:/oauth/token",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "soft",
+      "name": "no_unnecessary_full_resync:placement",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "soft",
+      "name": "resume_not_restart_on_retry:placement",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "soft",
+      "name": "no_unnecessary_full_resync:client",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "soft",
+      "name": "resume_not_restart_on_retry:client",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "soft",
+      "name": "no_unnecessary_full_resync:note",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "soft",
+      "name": "resume_not_restart_on_retry:note",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "soft",
+      "name": "no_hot_loop_on_error",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "soft",
+      "name": "idempotent_write_retries",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "soft",
+      "name": "reauth_per_request:/oauth/token",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "soft",
+      "name": "no_unnecessary_full_resync:placement",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "soft",
+      "name": "resume_not_restart_on_retry:placement",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "soft",
+      "name": "no_unnecessary_full_resync:client",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "soft",
+      "name": "resume_not_restart_on_retry:client",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "soft",
+      "name": "no_unnecessary_full_resync:note",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "soft",
+      "name": "resume_not_restart_on_retry:note",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "soft",
+      "name": "no_hot_loop_on_error",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": 0,
+      "mandatory": false
+    }
+  ],
+  "completion": {
+    "mode": "authored_mandatory_checks",
+    "required_checks": [
+      "webhook_freshness_rows_exact",
+      "dropped_delete_reconciled_via_poll",
+      "reconcile_rows_exact",
+      "writeback_writes_fields_exact",
+      "malformed_item_reported_as_422",
+      "retry_did_not_create_new_records",
+      "retries_carry_idempotency_key",
+      "summit_rows_exact",
+      "exactly_once_end_to_end"
+    ]
+  },
+  "scoring": {
+    "version": "task-score-v4-mandatory-gated",
+    "empty_raw": -6,
+    "empty_task_score": 0.0,
+    "stub_raw": -9,
+    "stub_task_score": 0.0,
+    "floor_task_score": 0.0
+  }
+}

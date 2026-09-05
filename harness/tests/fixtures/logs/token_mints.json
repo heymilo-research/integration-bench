@@ -1,0 +1,15 @@
+[
+  {"ts": 0, "kind": "session_token", "route": "hybrid_oauth_session", "expires_in": 900},
+  {"ts": 100, "kind": "session_token", "route": "hybrid_oauth_session", "expires_in": 900},
+
+  {"ts": 0, "kind": "static_key_check", "route": "legacy_app_token", "expires_in": 30},
+  {"ts": 5, "kind": "static_key_check", "route": "legacy_app_token", "expires_in": 30},
+  {"ts": 10, "kind": "static_key_check", "route": "legacy_app_token", "expires_in": 30},
+  {"ts": 15, "kind": "static_key_check", "route": "legacy_app_token", "expires_in": 30},
+  {"ts": 20, "kind": "static_key_check", "route": "legacy_app_token", "expires_in": 30},
+  {"ts": 25, "kind": "static_key_check", "route": "legacy_app_token", "expires_in": 30},
+  {"ts": 30, "kind": "static_key_check", "route": "legacy_app_token", "expires_in": 30},
+  {"ts": 35, "kind": "static_key_check", "route": "legacy_app_token", "expires_in": 30},
+  {"ts": 40, "kind": "static_key_check", "route": "legacy_app_token", "expires_in": 30},
+  {"ts": 45, "kind": "static_key_check", "route": "legacy_app_token", "expires_in": 30}
+]

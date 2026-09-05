@@ -1,0 +1,2174 @@
+[
+  {
+    "source_id": "fbk_0001",
+    "data": {
+      "interview_id": "itv_0101",
+      "panelist_id": "pnl_0026",
+      "recommendation": "strong_hire",
+      "score": 1,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0002",
+    "data": {
+      "interview_id": "itv_0198",
+      "panelist_id": "pnl_0038",
+      "recommendation": "strong_no_hire",
+      "score": 1,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0003",
+    "data": {
+      "interview_id": "itv_0002",
+      "panelist_id": "pnl_0011",
+      "recommendation": "no_hire",
+      "score": 1,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0004",
+    "data": {
+      "interview_id": "itv_0176",
+      "panelist_id": "pnl_0028",
+      "recommendation": "strong_hire",
+      "score": 5,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0005",
+    "data": {
+      "interview_id": "itv_0205",
+      "panelist_id": "pnl_0029",
+      "recommendation": "hire",
+      "score": 1,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0006",
+    "data": {
+      "interview_id": "itv_0055",
+      "panelist_id": "pnl_0031",
+      "recommendation": "strong_no_hire",
+      "score": 4,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0007",
+    "data": {
+      "interview_id": "itv_0192",
+      "panelist_id": "pnl_0021",
+      "recommendation": "strong_hire",
+      "score": 1,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0008",
+    "data": {
+      "interview_id": "itv_0170",
+      "panelist_id": "pnl_0015",
+      "recommendation": "strong_no_hire",
+      "score": 2,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0009",
+    "data": {
+      "interview_id": "itv_0001",
+      "panelist_id": "pnl_0028",
+      "recommendation": "strong_hire",
+      "score": 5,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0010",
+    "data": {
+      "interview_id": "itv_0042",
+      "panelist_id": "pnl_0004",
+      "recommendation": "strong_hire",
+      "score": 5,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0011",
+    "data": {
+      "interview_id": "itv_0085",
+      "panelist_id": "pnl_0006",
+      "recommendation": "strong_hire",
+      "score": 1,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0012",
+    "data": {
+      "interview_id": "itv_0225",
+      "panelist_id": "pnl_0034",
+      "recommendation": "strong_hire",
+      "score": 3,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0013",
+    "data": {
+      "interview_id": "itv_0090",
+      "panelist_id": "pnl_0024",
+      "recommendation": "hire",
+      "score": 5,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0014",
+    "data": {
+      "interview_id": "itv_0013",
+      "panelist_id": "pnl_0022",
+      "recommendation": "strong_hire",
+      "score": 3,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0015",
+    "data": {
+      "interview_id": "itv_0030",
+      "panelist_id": "pnl_0006",
+      "recommendation": "hire",
+      "score": 1,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0016",
+    "data": {
+      "interview_id": "itv_0166",
+      "panelist_id": "pnl_0015",
+      "recommendation": "strong_no_hire",
+      "score": 3,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0017",
+    "data": {
+      "interview_id": "itv_0212",
+      "panelist_id": "pnl_0009",
+      "recommendation": "strong_hire",
+      "score": 2,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0018",
+    "data": {
+      "interview_id": "itv_0298",
+      "panelist_id": "pnl_0024",
+      "recommendation": "hire",
+      "score": 3,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0019",
+    "data": {
+      "interview_id": "itv_0284",
+      "panelist_id": "pnl_0004",
+      "recommendation": "strong_hire",
+      "score": 5,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0020",
+    "data": {
+      "interview_id": "itv_0151",
+      "panelist_id": "pnl_0017",
+      "recommendation": "strong_hire",
+      "score": 5,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0021",
+    "data": {
+      "interview_id": "itv_0056",
+      "panelist_id": "pnl_0020",
+      "recommendation": "strong_hire",
+      "score": 3,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0022",
+    "data": {
+      "interview_id": "itv_0294",
+      "panelist_id": "pnl_0009",
+      "recommendation": "strong_no_hire",
+      "score": 3,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0023",
+    "data": {
+      "interview_id": "itv_0237",
+      "panelist_id": "pnl_0025",
+      "recommendation": "strong_hire",
+      "score": 3,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0024",
+    "data": {
+      "interview_id": "itv_0170",
+      "panelist_id": "pnl_0039",
+      "recommendation": "no_hire",
+      "score": 4,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0025",
+    "data": {
+      "interview_id": "itv_0158",
+      "panelist_id": "pnl_0024",
+      "recommendation": "strong_hire",
+      "score": 2,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0026",
+    "data": {
+      "interview_id": "itv_0185",
+      "panelist_id": "pnl_0037",
+      "recommendation": "hire",
+      "score": 5,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0027",
+    "data": {
+      "interview_id": "itv_0124",
+      "panelist_id": "pnl_0009",
+      "recommendation": "hire",
+      "score": 1,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0028",
+    "data": {
+      "interview_id": "itv_0268",
+      "panelist_id": "pnl_0012",
+      "recommendation": "no_hire",
+      "score": 4,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0029",
+    "data": {
+      "interview_id": "itv_0276",
+      "panelist_id": "pnl_0013",
+      "recommendation": "hire",
+      "score": 4,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0030",
+    "data": {
+      "interview_id": "itv_0019",
+      "panelist_id": "pnl_0024",
+      "recommendation": "hire",
+      "score": 5,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0031",
+    "data": {
+      "interview_id": "itv_0285",
+      "panelist_id": "pnl_0015",
+      "recommendation": "strong_no_hire",
+      "score": 5,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0032",
+    "data": {
+      "interview_id": "itv_0001",
+      "panelist_id": "pnl_0025",
+      "recommendation": "strong_no_hire",
+      "score": 3,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0033",
+    "data": {
+      "interview_id": "itv_0070",
+      "panelist_id": "pnl_0023",
+      "recommendation": "strong_hire",
+      "score": 2,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0034",
+    "data": {
+      "interview_id": "itv_0169",
+      "panelist_id": "pnl_0033",
+      "recommendation": "no_hire",
+      "score": 5,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0035",
+    "data": {
+      "interview_id": "itv_0233",
+      "panelist_id": "pnl_0029",
+      "recommendation": "strong_no_hire",
+      "score": 2,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0036",
+    "data": {
+      "interview_id": "itv_0222",
+      "panelist_id": "pnl_0030",
+      "recommendation": "strong_no_hire",
+      "score": 2,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0037",
+    "data": {
+      "interview_id": "itv_0233",
+      "panelist_id": "pnl_0029",
+      "recommendation": "strong_no_hire",
+      "score": 2,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0038",
+    "data": {
+      "interview_id": "itv_0135",
+      "panelist_id": "pnl_0028",
+      "recommendation": "strong_no_hire",
+      "score": 4,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0039",
+    "data": {
+      "interview_id": "itv_0229",
+      "panelist_id": "pnl_0019",
+      "recommendation": "strong_no_hire",
+      "score": 1,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0040",
+    "data": {
+      "interview_id": "itv_0231",
+      "panelist_id": "pnl_0027",
+      "recommendation": "no_hire",
+      "score": 1,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0041",
+    "data": {
+      "interview_id": "itv_0093",
+      "panelist_id": "pnl_0017",
+      "recommendation": "strong_no_hire",
+      "score": 1,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0042",
+    "data": {
+      "interview_id": "itv_0205",
+      "panelist_id": "pnl_0032",
+      "recommendation": "strong_hire",
+      "score": 2,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0043",
+    "data": {
+      "interview_id": "itv_0103",
+      "panelist_id": "pnl_0006",
+      "recommendation": "strong_no_hire",
+      "score": 1,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0044",
+    "data": {
+      "interview_id": "itv_0082",
+      "panelist_id": "pnl_0033",
+      "recommendation": "strong_no_hire",
+      "score": 5,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0045",
+    "data": {
+      "interview_id": "itv_0122",
+      "panelist_id": "pnl_0030",
+      "recommendation": "no_hire",
+      "score": 3,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0046",
+    "data": {
+      "interview_id": "itv_0153",
+      "panelist_id": "pnl_0009",
+      "recommendation": "hire",
+      "score": 4,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0047",
+    "data": {
+      "interview_id": "itv_0094",
+      "panelist_id": "pnl_0025",
+      "recommendation": "strong_no_hire",
+      "score": 1,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0048",
+    "data": {
+      "interview_id": "itv_0054",
+      "panelist_id": "pnl_0023",
+      "recommendation": "strong_no_hire",
+      "score": 5,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0049",
+    "data": {
+      "interview_id": "itv_0193",
+      "panelist_id": "pnl_0004",
+      "recommendation": "hire",
+      "score": 5,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0050",
+    "data": {
+      "interview_id": "itv_0265",
+      "panelist_id": "pnl_0019",
+      "recommendation": "no_hire",
+      "score": 3,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0051",
+    "data": {
+      "interview_id": "itv_0192",
+      "panelist_id": "pnl_0002",
+      "recommendation": "no_hire",
+      "score": 5,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0052",
+    "data": {
+      "interview_id": "itv_0073",
+      "panelist_id": "pnl_0028",
+      "recommendation": "no_hire",
+      "score": 1,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0053",
+    "data": {
+      "interview_id": "itv_0078",
+      "panelist_id": "pnl_0037",
+      "recommendation": "no_hire",
+      "score": 4,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0054",
+    "data": {
+      "interview_id": "itv_0209",
+      "panelist_id": "pnl_0039",
+      "recommendation": "strong_hire",
+      "score": 5,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0055",
+    "data": {
+      "interview_id": "itv_0085",
+      "panelist_id": "pnl_0020",
+      "recommendation": "strong_no_hire",
+      "score": 5,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0056",
+    "data": {
+      "interview_id": "itv_0235",
+      "panelist_id": "pnl_0004",
+      "recommendation": "strong_hire",
+      "score": 2,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0057",
+    "data": {
+      "interview_id": "itv_0070",
+      "panelist_id": "pnl_0025",
+      "recommendation": "strong_hire",
+      "score": 2,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0058",
+    "data": {
+      "interview_id": "itv_0214",
+      "panelist_id": "pnl_0016",
+      "recommendation": "strong_no_hire",
+      "score": 1,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0059",
+    "data": {
+      "interview_id": "itv_0167",
+      "panelist_id": "pnl_0006",
+      "recommendation": "no_hire",
+      "score": 1,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0060",
+    "data": {
+      "interview_id": "itv_0145",
+      "panelist_id": "pnl_0018",
+      "recommendation": "no_hire",
+      "score": 2,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0061",
+    "data": {
+      "interview_id": "itv_0126",
+      "panelist_id": "pnl_0035",
+      "recommendation": "strong_hire",
+      "score": 1,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0062",
+    "data": {
+      "interview_id": "itv_0043",
+      "panelist_id": "pnl_0014",
+      "recommendation": "strong_no_hire",
+      "score": 3,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0063",
+    "data": {
+      "interview_id": "itv_0056",
+      "panelist_id": "pnl_0004",
+      "recommendation": "hire",
+      "score": 1,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0064",
+    "data": {
+      "interview_id": "itv_0278",
+      "panelist_id": "pnl_0015",
+      "recommendation": "strong_hire",
+      "score": 2,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0065",
+    "data": {
+      "interview_id": "itv_0057",
+      "panelist_id": "pnl_0021",
+      "recommendation": "no_hire",
+      "score": 2,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0066",
+    "data": {
+      "interview_id": "itv_0153",
+      "panelist_id": "pnl_0021",
+      "recommendation": "no_hire",
+      "score": 5,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0067",
+    "data": {
+      "interview_id": "itv_0085",
+      "panelist_id": "pnl_0025",
+      "recommendation": "no_hire",
+      "score": 5,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0068",
+    "data": {
+      "interview_id": "itv_0084",
+      "panelist_id": "pnl_0029",
+      "recommendation": "no_hire",
+      "score": 5,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0069",
+    "data": {
+      "interview_id": "itv_0134",
+      "panelist_id": "pnl_0021",
+      "recommendation": "hire",
+      "score": 5,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0070",
+    "data": {
+      "interview_id": "itv_0245",
+      "panelist_id": "pnl_0012",
+      "recommendation": "strong_no_hire",
+      "score": 5,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0071",
+    "data": {
+      "interview_id": "itv_0111",
+      "panelist_id": "pnl_0021",
+      "recommendation": "strong_no_hire",
+      "score": 1,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0072",
+    "data": {
+      "interview_id": "itv_0288",
+      "panelist_id": "pnl_0034",
+      "recommendation": "strong_hire",
+      "score": 3,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0073",
+    "data": {
+      "interview_id": "itv_0160",
+      "panelist_id": "pnl_0015",
+      "recommendation": "strong_hire",
+      "score": 5,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0074",
+    "data": {
+      "interview_id": "itv_0284",
+      "panelist_id": "pnl_0006",
+      "recommendation": "strong_no_hire",
+      "score": 1,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0075",
+    "data": {
+      "interview_id": "itv_0274",
+      "panelist_id": "pnl_0034",
+      "recommendation": "strong_no_hire",
+      "score": 3,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0076",
+    "data": {
+      "interview_id": "itv_0104",
+      "panelist_id": "pnl_0007",
+      "recommendation": "hire",
+      "score": 3,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0077",
+    "data": {
+      "interview_id": "itv_0003",
+      "panelist_id": "pnl_0033",
+      "recommendation": "hire",
+      "score": 4,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0078",
+    "data": {
+      "interview_id": "itv_0223",
+      "panelist_id": "pnl_0011",
+      "recommendation": "hire",
+      "score": 1,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0079",
+    "data": {
+      "interview_id": "itv_0120",
+      "panelist_id": "pnl_0011",
+      "recommendation": "no_hire",
+      "score": 5,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0080",
+    "data": {
+      "interview_id": "itv_0059",
+      "panelist_id": "pnl_0038",
+      "recommendation": "strong_no_hire",
+      "score": 2,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0081",
+    "data": {
+      "interview_id": "itv_0126",
+      "panelist_id": "pnl_0028",
+      "recommendation": "strong_no_hire",
+      "score": 2,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0082",
+    "data": {
+      "interview_id": "itv_0128",
+      "panelist_id": "pnl_0011",
+      "recommendation": "hire",
+      "score": 2,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0083",
+    "data": {
+      "interview_id": "itv_0199",
+      "panelist_id": "pnl_0015",
+      "recommendation": "strong_hire",
+      "score": 2,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0084",
+    "data": {
+      "interview_id": "itv_0289",
+      "panelist_id": "pnl_0039",
+      "recommendation": "hire",
+      "score": 2,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0085",
+    "data": {
+      "interview_id": "itv_0178",
+      "panelist_id": "pnl_0040",
+      "recommendation": "hire",
+      "score": 5,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0086",
+    "data": {
+      "interview_id": "itv_0260",
+      "panelist_id": "pnl_0039",
+      "recommendation": "hire",
+      "score": 5,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0087",
+    "data": {
+      "interview_id": "itv_0274",
+      "panelist_id": "pnl_0021",
+      "recommendation": "strong_hire",
+      "score": 1,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0088",
+    "data": {
+      "interview_id": "itv_0047",
+      "panelist_id": "pnl_0038",
+      "recommendation": "strong_no_hire",
+      "score": 5,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0089",
+    "data": {
+      "interview_id": "itv_0209",
+      "panelist_id": "pnl_0033",
+      "recommendation": "no_hire",
+      "score": 3,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0090",
+    "data": {
+      "interview_id": "itv_0051",
+      "panelist_id": "pnl_0005",
+      "recommendation": "no_hire",
+      "score": 3,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0091",
+    "data": {
+      "interview_id": "itv_0025",
+      "panelist_id": "pnl_0011",
+      "recommendation": "no_hire",
+      "score": 4,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0092",
+    "data": {
+      "interview_id": "itv_0291",
+      "panelist_id": "pnl_0031",
+      "recommendation": "hire",
+      "score": 1,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0093",
+    "data": {
+      "interview_id": "itv_0202",
+      "panelist_id": "pnl_0006",
+      "recommendation": "no_hire",
+      "score": 5,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0094",
+    "data": {
+      "interview_id": "itv_0069",
+      "panelist_id": "pnl_0010",
+      "recommendation": "strong_no_hire",
+      "score": 3,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0095",
+    "data": {
+      "interview_id": "itv_0084",
+      "panelist_id": "pnl_0038",
+      "recommendation": "strong_no_hire",
+      "score": 1,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0096",
+    "data": {
+      "interview_id": "itv_0095",
+      "panelist_id": "pnl_0019",
+      "recommendation": "strong_hire",
+      "score": 4,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0097",
+    "data": {
+      "interview_id": "itv_0236",
+      "panelist_id": "pnl_0005",
+      "recommendation": "strong_no_hire",
+      "score": 1,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0098",
+    "data": {
+      "interview_id": "itv_0084",
+      "panelist_id": "pnl_0031",
+      "recommendation": "strong_no_hire",
+      "score": 4,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0099",
+    "data": {
+      "interview_id": "itv_0219",
+      "panelist_id": "pnl_0039",
+      "recommendation": "hire",
+      "score": 5,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0100",
+    "data": {
+      "interview_id": "itv_0117",
+      "panelist_id": "pnl_0002",
+      "recommendation": "strong_no_hire",
+      "score": 4,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0101",
+    "data": {
+      "interview_id": "itv_0219",
+      "panelist_id": "pnl_0008",
+      "recommendation": "strong_no_hire",
+      "score": 3,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0102",
+    "data": {
+      "interview_id": "itv_0085",
+      "panelist_id": "pnl_0040",
+      "recommendation": "strong_hire",
+      "score": 2,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0103",
+    "data": {
+      "interview_id": "itv_0264",
+      "panelist_id": "pnl_0016",
+      "recommendation": "strong_no_hire",
+      "score": 2,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0104",
+    "data": {
+      "interview_id": "itv_0101",
+      "panelist_id": "pnl_0023",
+      "recommendation": "strong_no_hire",
+      "score": 2,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0105",
+    "data": {
+      "interview_id": "itv_0175",
+      "panelist_id": "pnl_0008",
+      "recommendation": "strong_no_hire",
+      "score": 4,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0106",
+    "data": {
+      "interview_id": "itv_0018",
+      "panelist_id": "pnl_0036",
+      "recommendation": "hire",
+      "score": 4,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0107",
+    "data": {
+      "interview_id": "itv_0155",
+      "panelist_id": "pnl_0022",
+      "recommendation": "hire",
+      "score": 4,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0108",
+    "data": {
+      "interview_id": "itv_0068",
+      "panelist_id": "pnl_0040",
+      "recommendation": "no_hire",
+      "score": 4,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0109",
+    "data": {
+      "interview_id": "itv_0121",
+      "panelist_id": "pnl_0009",
+      "recommendation": "no_hire",
+      "score": 3,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0110",
+    "data": {
+      "interview_id": "itv_0076",
+      "panelist_id": "pnl_0015",
+      "recommendation": "hire",
+      "score": 5,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0111",
+    "data": {
+      "interview_id": "itv_0185",
+      "panelist_id": "pnl_0013",
+      "recommendation": "no_hire",
+      "score": 3,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0112",
+    "data": {
+      "interview_id": "itv_0290",
+      "panelist_id": "pnl_0040",
+      "recommendation": "strong_hire",
+      "score": 4,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0113",
+    "data": {
+      "interview_id": "itv_0080",
+      "panelist_id": "pnl_0019",
+      "recommendation": "hire",
+      "score": 1,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0114",
+    "data": {
+      "interview_id": "itv_0211",
+      "panelist_id": "pnl_0036",
+      "recommendation": "hire",
+      "score": 1,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0115",
+    "data": {
+      "interview_id": "itv_0289",
+      "panelist_id": "pnl_0034",
+      "recommendation": "no_hire",
+      "score": 3,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0116",
+    "data": {
+      "interview_id": "itv_0124",
+      "panelist_id": "pnl_0015",
+      "recommendation": "strong_hire",
+      "score": 3,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0117",
+    "data": {
+      "interview_id": "itv_0180",
+      "panelist_id": "pnl_0015",
+      "recommendation": "strong_no_hire",
+      "score": 5,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0118",
+    "data": {
+      "interview_id": "itv_0089",
+      "panelist_id": "pnl_0019",
+      "recommendation": "strong_hire",
+      "score": 4,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0119",
+    "data": {
+      "interview_id": "itv_0104",
+      "panelist_id": "pnl_0002",
+      "recommendation": "strong_no_hire",
+      "score": 1,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0120",
+    "data": {
+      "interview_id": "itv_0085",
+      "panelist_id": "pnl_0037",
+      "recommendation": "hire",
+      "score": 2,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0121",
+    "data": {
+      "interview_id": "itv_0007",
+      "panelist_id": "pnl_0033",
+      "recommendation": "hire",
+      "score": 3,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0122",
+    "data": {
+      "interview_id": "itv_0068",
+      "panelist_id": "pnl_0010",
+      "recommendation": "strong_no_hire",
+      "score": 2,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0123",
+    "data": {
+      "interview_id": "itv_0261",
+      "panelist_id": "pnl_0010",
+      "recommendation": "no_hire",
+      "score": 2,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0124",
+    "data": {
+      "interview_id": "itv_0057",
+      "panelist_id": "pnl_0031",
+      "recommendation": "strong_hire",
+      "score": 5,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0125",
+    "data": {
+      "interview_id": "itv_0192",
+      "panelist_id": "pnl_0009",
+      "recommendation": "no_hire",
+      "score": 3,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0126",
+    "data": {
+      "interview_id": "itv_0078",
+      "panelist_id": "pnl_0025",
+      "recommendation": "strong_no_hire",
+      "score": 4,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0127",
+    "data": {
+      "interview_id": "itv_0070",
+      "panelist_id": "pnl_0005",
+      "recommendation": "hire",
+      "score": 5,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0128",
+    "data": {
+      "interview_id": "itv_0043",
+      "panelist_id": "pnl_0036",
+      "recommendation": "strong_hire",
+      "score": 3,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0129",
+    "data": {
+      "interview_id": "itv_0092",
+      "panelist_id": "pnl_0030",
+      "recommendation": "strong_no_hire",
+      "score": 5,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0130",
+    "data": {
+      "interview_id": "itv_0178",
+      "panelist_id": "pnl_0030",
+      "recommendation": "strong_no_hire",
+      "score": 3,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0131",
+    "data": {
+      "interview_id": "itv_0112",
+      "panelist_id": "pnl_0031",
+      "recommendation": "no_hire",
+      "score": 2,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0132",
+    "data": {
+      "interview_id": "itv_0109",
+      "panelist_id": "pnl_0021",
+      "recommendation": "no_hire",
+      "score": 1,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0133",
+    "data": {
+      "interview_id": "itv_0023",
+      "panelist_id": "pnl_0037",
+      "recommendation": "no_hire",
+      "score": 5,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0134",
+    "data": {
+      "interview_id": "itv_0061",
+      "panelist_id": "pnl_0002",
+      "recommendation": "strong_no_hire",
+      "score": 2,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0135",
+    "data": {
+      "interview_id": "itv_0046",
+      "panelist_id": "pnl_0028",
+      "recommendation": "no_hire",
+      "score": 5,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0136",
+    "data": {
+      "interview_id": "itv_0211",
+      "panelist_id": "pnl_0024",
+      "recommendation": "hire",
+      "score": 4,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0137",
+    "data": {
+      "interview_id": "itv_0296",
+      "panelist_id": "pnl_0027",
+      "recommendation": "strong_no_hire",
+      "score": 2,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0138",
+    "data": {
+      "interview_id": "itv_0200",
+      "panelist_id": "pnl_0032",
+      "recommendation": "strong_no_hire",
+      "score": 3,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0139",
+    "data": {
+      "interview_id": "itv_0194",
+      "panelist_id": "pnl_0002",
+      "recommendation": "strong_hire",
+      "score": 5,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0140",
+    "data": {
+      "interview_id": "itv_0057",
+      "panelist_id": "pnl_0037",
+      "recommendation": "strong_no_hire",
+      "score": 4,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0141",
+    "data": {
+      "interview_id": "itv_0104",
+      "panelist_id": "pnl_0002",
+      "recommendation": "strong_no_hire",
+      "score": 4,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0142",
+    "data": {
+      "interview_id": "itv_0099",
+      "panelist_id": "pnl_0040",
+      "recommendation": "strong_no_hire",
+      "score": 5,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0143",
+    "data": {
+      "interview_id": "itv_0075",
+      "panelist_id": "pnl_0037",
+      "recommendation": "strong_hire",
+      "score": 5,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0144",
+    "data": {
+      "interview_id": "itv_0190",
+      "panelist_id": "pnl_0033",
+      "recommendation": "no_hire",
+      "score": 2,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0145",
+    "data": {
+      "interview_id": "itv_0106",
+      "panelist_id": "pnl_0031",
+      "recommendation": "no_hire",
+      "score": 3,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0146",
+    "data": {
+      "interview_id": "itv_0061",
+      "panelist_id": "pnl_0005",
+      "recommendation": "no_hire",
+      "score": 5,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0147",
+    "data": {
+      "interview_id": "itv_0259",
+      "panelist_id": "pnl_0015",
+      "recommendation": "strong_hire",
+      "score": 2,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0148",
+    "data": {
+      "interview_id": "itv_0035",
+      "panelist_id": "pnl_0025",
+      "recommendation": "hire",
+      "score": 2,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0149",
+    "data": {
+      "interview_id": "itv_0039",
+      "panelist_id": "pnl_0036",
+      "recommendation": "no_hire",
+      "score": 1,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0150",
+    "data": {
+      "interview_id": "itv_0089",
+      "panelist_id": "pnl_0010",
+      "recommendation": "strong_no_hire",
+      "score": 5,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0151",
+    "data": {
+      "interview_id": "itv_0086",
+      "panelist_id": "pnl_0001",
+      "recommendation": "hire",
+      "score": 5,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0152",
+    "data": {
+      "interview_id": "itv_0220",
+      "panelist_id": "pnl_0016",
+      "recommendation": "strong_no_hire",
+      "score": 1,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0153",
+    "data": {
+      "interview_id": "itv_0124",
+      "panelist_id": "pnl_0031",
+      "recommendation": "hire",
+      "score": 4,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0154",
+    "data": {
+      "interview_id": "itv_0096",
+      "panelist_id": "pnl_0028",
+      "recommendation": "strong_no_hire",
+      "score": 3,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0155",
+    "data": {
+      "interview_id": "itv_0010",
+      "panelist_id": "pnl_0039",
+      "recommendation": "hire",
+      "score": 3,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0156",
+    "data": {
+      "interview_id": "itv_0010",
+      "panelist_id": "pnl_0034",
+      "recommendation": "hire",
+      "score": 1,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0157",
+    "data": {
+      "interview_id": "itv_0163",
+      "panelist_id": "pnl_0023",
+      "recommendation": "strong_hire",
+      "score": 2,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0158",
+    "data": {
+      "interview_id": "itv_0281",
+      "panelist_id": "pnl_0018",
+      "recommendation": "strong_no_hire",
+      "score": 2,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0159",
+    "data": {
+      "interview_id": "itv_0172",
+      "panelist_id": "pnl_0040",
+      "recommendation": "no_hire",
+      "score": 1,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0160",
+    "data": {
+      "interview_id": "itv_0240",
+      "panelist_id": "pnl_0015",
+      "recommendation": "strong_no_hire",
+      "score": 3,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0161",
+    "data": {
+      "interview_id": "itv_0025",
+      "panelist_id": "pnl_0003",
+      "recommendation": "no_hire",
+      "score": 3,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0162",
+    "data": {
+      "interview_id": "itv_0235",
+      "panelist_id": "pnl_0033",
+      "recommendation": "strong_no_hire",
+      "score": 4,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0163",
+    "data": {
+      "interview_id": "itv_0210",
+      "panelist_id": "pnl_0018",
+      "recommendation": "no_hire",
+      "score": 5,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0164",
+    "data": {
+      "interview_id": "itv_0200",
+      "panelist_id": "pnl_0014",
+      "recommendation": "hire",
+      "score": 3,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0165",
+    "data": {
+      "interview_id": "itv_0069",
+      "panelist_id": "pnl_0030",
+      "recommendation": "hire",
+      "score": 2,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0166",
+    "data": {
+      "interview_id": "itv_0203",
+      "panelist_id": "pnl_0035",
+      "recommendation": "strong_hire",
+      "score": 2,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0167",
+    "data": {
+      "interview_id": "itv_0153",
+      "panelist_id": "pnl_0002",
+      "recommendation": "hire",
+      "score": 1,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0168",
+    "data": {
+      "interview_id": "itv_0007",
+      "panelist_id": "pnl_0037",
+      "recommendation": "no_hire",
+      "score": 4,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0169",
+    "data": {
+      "interview_id": "itv_0291",
+      "panelist_id": "pnl_0015",
+      "recommendation": "no_hire",
+      "score": 3,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0170",
+    "data": {
+      "interview_id": "itv_0297",
+      "panelist_id": "pnl_0018",
+      "recommendation": "no_hire",
+      "score": 2,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0171",
+    "data": {
+      "interview_id": "itv_0079",
+      "panelist_id": "pnl_0036",
+      "recommendation": "hire",
+      "score": 5,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0172",
+    "data": {
+      "interview_id": "itv_0187",
+      "panelist_id": "pnl_0030",
+      "recommendation": "strong_hire",
+      "score": 5,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0173",
+    "data": {
+      "interview_id": "itv_0176",
+      "panelist_id": "pnl_0023",
+      "recommendation": "no_hire",
+      "score": 1,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0174",
+    "data": {
+      "interview_id": "itv_0205",
+      "panelist_id": "pnl_0013",
+      "recommendation": "no_hire",
+      "score": 4,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0175",
+    "data": {
+      "interview_id": "itv_0275",
+      "panelist_id": "pnl_0013",
+      "recommendation": "hire",
+      "score": 1,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0176",
+    "data": {
+      "interview_id": "itv_0267",
+      "panelist_id": "pnl_0021",
+      "recommendation": "hire",
+      "score": 4,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0177",
+    "data": {
+      "interview_id": "itv_0004",
+      "panelist_id": "pnl_0008",
+      "recommendation": "hire",
+      "score": 1,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0178",
+    "data": {
+      "interview_id": "itv_0163",
+      "panelist_id": "pnl_0004",
+      "recommendation": "strong_no_hire",
+      "score": 3,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0179",
+    "data": {
+      "interview_id": "itv_0089",
+      "panelist_id": "pnl_0015",
+      "recommendation": "strong_no_hire",
+      "score": 5,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_0180",
+    "data": {
+      "interview_id": "itv_0191",
+      "panelist_id": "pnl_0001",
+      "recommendation": "strong_no_hire",
+      "score": 1,
+      "created_at": "2026-03-14T10:00:00Z"
+    },
+    "updated_at": "2026-03-14T10:00:00Z",
+    "is_deleted": false
+  },
+  {
+    "source_id": "fbk_9001",
+    "data": {
+      "interview_id": "itv_0005",
+      "panelist_id": "pnl_0002",
+      "recommendation": "hire",
+      "score": 4,
+      "created_at": "2026-03-14T11:04:00Z"
+    },
+    "updated_at": "2026-03-14T11:04:00Z",
+    "is_deleted": false
+  }
+]

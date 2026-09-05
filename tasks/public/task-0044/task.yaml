@@ -1,0 +1,102 @@
+id: task-0044
+title: Nightly roster census disagrees with CrewCall about who works here
+category: fix
+vendor: crewcall
+surfaces:
+- polling
+tier: 3
+primary_mechanic: slow_count_divergence_churn_dupes
+track: python
+timeout_minutes: 60
+doc_profile: 'true'
+scenarios:
+- census_composition_under_roster_churn
+l3_scenarios: []
+entry:
+  command:
+  - python
+  - -m
+  - fenmarsh_census
+outputs:
+  files:
+  - output/roster_census.csv
+  - output/census_summary.json
+vendors:
+  crewcall:
+    data_port: 8000
+    log_path: /var/log/vendor
+    checkpoint_env: CHECKPOINT
+    credentials:
+      CC_API_KEY: crewcall-test-key
+    vendor:
+      base_path: /v1
+    entities:
+      worker:
+        plural: workers
+      gig:
+        plural: gigs
+      assignment:
+        plural: assignments
+    pagination:
+      style: offset
+      offset_param: offset
+      limit_param: limit
+      total_in_response: false
+status: authored
+contract:
+  schema_version: 1
+  version: 1.0.0
+  visibility: public
+  lifecycle: authored
+  vendor_roles:
+    crewcall:
+      vendor_id: crewcall
+      checkpoint: 88
+      required_credentials:
+      - CC_API_KEY
+      api_url_env: CREWCALL_BASE_URL
+      docs_url_env: CREWCALL_DOCS_URL
+  runtime:
+    profile: deterministic-v1
+    checkpoint: 88
+    limits:
+      wall_seconds: 3600
+      cpus: 2
+      memory: 2GiB
+      disk: 2GiB
+    network:
+      vendor_roles:
+      - crewcall
+      model_provider_egress: mode-dependent-allowlist
+    vendor_roles:
+      crewcall:
+        environment: {}
+  participant:
+    workspace_allowlist:
+    - PROBLEM.md
+    - repo/**
+    - materials/**
+    - inputs/**
+    entry_command:
+    - python
+    - -m
+    - fenmarsh_census
+    outputs:
+    - output/roster_census.csv
+    - output/census_summary.json
+    persistent_state:
+    - repo/output/**
+    runtime_environment: {}
+    persistent_mounts: []
+  verifier:
+    entry_command:
+    - python
+    - -m
+    - bench.verifier
+    - --task
+    - .
+    trusted_inputs:
+    - task.yaml
+    - verifier/fixtures/**
+    - verifier/scenarios/**
+    - vendor-logs/**

@@ -1,0 +1,1242 @@
+{
+  "arrival_tolerance_s": 300,
+  "bridged_count": 24,
+  "cancelled_shift_workers": [
+    "worker_0038",
+    "worker_0090",
+    "worker_0166"
+  ],
+  "checkpoint": 45,
+  "corrected_refs": [
+    "PCH-0102",
+    "PCH-0108",
+    "PCH-0116"
+  ],
+  "divergence": {
+    "arrival_diverges": 12,
+    "eastern_control_punches": [
+      "PCH-0104",
+      "PCH-0105",
+      "PCH-0106"
+    ],
+    "non_eastern_punches": 21,
+    "split_diverges": 21
+  },
+  "export_row_count": 32,
+  "list_path": "/api/shifts",
+  "midnight_split_count": 21,
+  "note_author": "payroll-bridge@harborpoint.test",
+  "note_workers": [
+    "worker_0001",
+    "worker_0008",
+    "worker_0022",
+    "worker_0028",
+    "worker_0034",
+    "worker_0036",
+    "worker_0037",
+    "worker_0043",
+    "worker_0051",
+    "worker_0117",
+    "worker_0148",
+    "worker_0151",
+    "worker_0154",
+    "worker_0172",
+    "worker_0190",
+    "worker_0198",
+    "worker_0206",
+    "worker_0215",
+    "worker_0226",
+    "worker_0228",
+    "worker_0231"
+  ],
+  "note_write_path_template": "/api/workers/{worker_id}/notes",
+  "notes": [
+    {
+      "body": "Payroll split | punch PCH-0101 | shift shift_0035 | America/Los_Angeles | 2026-08-04=156,2026-08-05=294",
+      "idempotency_key": "hp-PCH-0101",
+      "punch_ref": "PCH-0101",
+      "shift_id": "shift_0035",
+      "worker_id": "worker_0051"
+    },
+    {
+      "body": "Payroll split | punch PCH-0102 | shift shift_0067 | America/Los_Angeles | 2026-06-14=68,2026-06-15=412",
+      "idempotency_key": "hp-PCH-0102",
+      "punch_ref": "PCH-0102",
+      "shift_id": "shift_0067",
+      "worker_id": "worker_0022"
+    },
+    {
+      "body": "Payroll split | punch PCH-0104 | shift shift_0069 | America/New_York | 2026-07-24=218,2026-07-25=487",
+      "idempotency_key": "hp-PCH-0104",
+      "punch_ref": "PCH-0104",
+      "shift_id": "shift_0069",
+      "worker_id": "worker_0034"
+    },
+    {
+      "body": "Payroll split | punch PCH-0106 | shift shift_0093 | America/New_York | 2026-07-20=162,2026-07-21=198",
+      "idempotency_key": "hp-PCH-0106",
+      "punch_ref": "PCH-0106",
+      "shift_id": "shift_0093",
+      "worker_id": "worker_0215"
+    },
+    {
+      "body": "Payroll split | punch PCH-0107 | shift shift_0001 | America/Sao_Paulo | 2026-07-17=144,2026-07-18=456",
+      "idempotency_key": "hp-PCH-0107",
+      "punch_ref": "PCH-0107",
+      "shift_id": "shift_0001",
+      "worker_id": "worker_0206"
+    },
+    {
+      "body": "Payroll split | punch PCH-0108 | shift shift_0051 | America/Sao_Paulo | 2026-06-17=123,2026-06-18=177",
+      "idempotency_key": "hp-PCH-0108",
+      "punch_ref": "PCH-0108",
+      "shift_id": "shift_0051",
+      "worker_id": "worker_0226"
+    },
+    {
+      "body": "Payroll split | punch PCH-0109 | shift shift_0063 | America/Sao_Paulo | 2026-06-28=230,2026-06-29=310",
+      "idempotency_key": "hp-PCH-0109",
+      "punch_ref": "PCH-0109",
+      "shift_id": "shift_0063",
+      "worker_id": "worker_0151"
+    },
+    {
+      "body": "Payroll split | punch PCH-0110 | shift shift_0023 | Asia/Kolkata | 2026-07-31=230,2026-08-01=190",
+      "idempotency_key": "hp-PCH-0110",
+      "punch_ref": "PCH-0110",
+      "shift_id": "shift_0023",
+      "worker_id": "worker_0036"
+    },
+    {
+      "body": "Payroll split | punch PCH-0111 | shift shift_0025 | Asia/Kolkata | 2026-06-02=101,2026-06-03=349",
+      "idempotency_key": "hp-PCH-0111",
+      "punch_ref": "PCH-0111",
+      "shift_id": "shift_0025",
+      "worker_id": "worker_0228"
+    },
+    {
+      "body": "Payroll split | punch PCH-0112 | shift shift_0036 | Asia/Kolkata | 2026-06-04=120,2026-06-05=360",
+      "idempotency_key": "hp-PCH-0112",
+      "punch_ref": "PCH-0112",
+      "shift_id": "shift_0036",
+      "worker_id": "worker_0198"
+    },
+    {
+      "body": "Payroll split | punch PCH-0113 | shift shift_0059 | Asia/Tokyo | 2026-06-27=48,2026-06-28=192",
+      "idempotency_key": "hp-PCH-0113",
+      "punch_ref": "PCH-0113",
+      "shift_id": "shift_0059",
+      "worker_id": "worker_0008"
+    },
+    {
+      "body": "Payroll split | punch PCH-0114 | shift shift_0131 | Asia/Tokyo | 2026-06-19=133,2026-06-20=572",
+      "idempotency_key": "hp-PCH-0114",
+      "punch_ref": "PCH-0114",
+      "shift_id": "shift_0131",
+      "worker_id": "worker_0117"
+    },
+    {
+      "body": "Payroll split | punch PCH-0116 | shift shift_0007 | Australia/Sydney | 2026-06-27=101,2026-06-28=259",
+      "idempotency_key": "hp-PCH-0116",
+      "punch_ref": "PCH-0116",
+      "shift_id": "shift_0007",
+      "worker_id": "worker_0190"
+    },
+    {
+      "body": "Payroll split | punch PCH-0117 | shift shift_0052 | Australia/Sydney | 2026-06-15=61,2026-06-16=539",
+      "idempotency_key": "hp-PCH-0117",
+      "punch_ref": "PCH-0117",
+      "shift_id": "shift_0052",
+      "worker_id": "worker_0148"
+    },
+    {
+      "body": "Payroll split | punch PCH-0118 | shift shift_0053 | Australia/Sydney | 2026-08-01=184,2026-08-02=116",
+      "idempotency_key": "hp-PCH-0118",
+      "punch_ref": "PCH-0118",
+      "shift_id": "shift_0053",
+      "worker_id": "worker_0028"
+    },
+    {
+      "body": "Payroll split | punch PCH-0119 | shift shift_0045 | Europe/Berlin | 2026-07-15=63,2026-07-16=477",
+      "idempotency_key": "hp-PCH-0119",
+      "punch_ref": "PCH-0119",
+      "shift_id": "shift_0045",
+      "worker_id": "worker_0043"
+    },
+    {
+      "body": "Payroll split | punch PCH-0120 | shift shift_0103 | Europe/Berlin | 2026-06-28=77,2026-06-29=343",
+      "idempotency_key": "hp-PCH-0120",
+      "punch_ref": "PCH-0120",
+      "shift_id": "shift_0103",
+      "worker_id": "worker_0037"
+    },
+    {
+      "body": "Payroll split | punch PCH-0121 | shift shift_0106 | Europe/Berlin | 2026-06-21=184,2026-06-22=266",
+      "idempotency_key": "hp-PCH-0121",
+      "punch_ref": "PCH-0121",
+      "shift_id": "shift_0106",
+      "worker_id": "worker_0001"
+    },
+    {
+      "body": "Payroll split | punch PCH-0122 | shift shift_0006 | Pacific/Chatham | 2026-07-30=105,2026-07-31=375",
+      "idempotency_key": "hp-PCH-0122",
+      "punch_ref": "PCH-0122",
+      "shift_id": "shift_0006",
+      "worker_id": "worker_0231"
+    },
+    {
+      "body": "Payroll split | punch PCH-0123 | shift shift_0095 | Pacific/Chatham | 2026-07-13=206,2026-07-14=34",
+      "idempotency_key": "hp-PCH-0123",
+      "punch_ref": "PCH-0123",
+      "shift_id": "shift_0095",
+      "worker_id": "worker_0172"
+    },
+    {
+      "body": "Payroll split | punch PCH-0124 | shift shift_0136 | Pacific/Chatham | 2026-06-12=171,2026-06-13=534",
+      "idempotency_key": "hp-PCH-0124",
+      "punch_ref": "PCH-0124",
+      "shift_id": "shift_0136",
+      "worker_id": "worker_0154"
+    }
+  ],
+  "page_limit": 50,
+  "punch_count": 29,
+  "punches": [
+    {
+      "arrival": "early",
+      "days": [
+        {
+          "minutes": 156,
+          "payroll_date": "2026-08-04"
+        },
+        {
+          "minutes": 294,
+          "payroll_date": "2026-08-05"
+        }
+      ],
+      "minutes": 450,
+      "punch_ref": "PCH-0101",
+      "runbook_arrival": "late",
+      "runbook_days": [
+        {
+          "minutes": 450,
+          "payroll_date": "2026-08-05"
+        }
+      ],
+      "shift_id": "shift_0035",
+      "venue_timezone": "America/Los_Angeles",
+      "worker_id": "worker_0051"
+    },
+    {
+      "arrival": "on_time",
+      "days": [
+        {
+          "minutes": 68,
+          "payroll_date": "2026-06-14"
+        },
+        {
+          "minutes": 412,
+          "payroll_date": "2026-06-15"
+        }
+      ],
+      "minutes": 480,
+      "punch_ref": "PCH-0102",
+      "runbook_arrival": "late",
+      "runbook_days": [
+        {
+          "minutes": 480,
+          "payroll_date": "2026-06-15"
+        }
+      ],
+      "shift_id": "shift_0067",
+      "venue_timezone": "America/Los_Angeles",
+      "worker_id": "worker_0022"
+    },
+    {
+      "arrival": "late",
+      "days": [
+        {
+          "minutes": 450,
+          "payroll_date": "2026-06-26"
+        }
+      ],
+      "minutes": 450,
+      "punch_ref": "PCH-0103",
+      "runbook_arrival": "late",
+      "runbook_days": [
+        {
+          "minutes": 365,
+          "payroll_date": "2026-06-26"
+        },
+        {
+          "minutes": 85,
+          "payroll_date": "2026-06-27"
+        }
+      ],
+      "shift_id": "shift_0002",
+      "venue_timezone": "America/Los_Angeles",
+      "worker_id": "worker_0122"
+    },
+    {
+      "arrival": "early",
+      "days": [
+        {
+          "minutes": 218,
+          "payroll_date": "2026-07-24"
+        },
+        {
+          "minutes": 487,
+          "payroll_date": "2026-07-25"
+        }
+      ],
+      "minutes": 705,
+      "punch_ref": "PCH-0104",
+      "runbook_arrival": "early",
+      "runbook_days": [
+        {
+          "minutes": 218,
+          "payroll_date": "2026-07-24"
+        },
+        {
+          "minutes": 487,
+          "payroll_date": "2026-07-25"
+        }
+      ],
+      "shift_id": "shift_0069",
+      "venue_timezone": "America/New_York",
+      "worker_id": "worker_0034"
+    },
+    {
+      "arrival": "late",
+      "days": [
+        {
+          "minutes": 90,
+          "payroll_date": "2026-07-16"
+        }
+      ],
+      "minutes": 90,
+      "punch_ref": "PCH-0105",
+      "runbook_arrival": "late",
+      "runbook_days": [
+        {
+          "minutes": 90,
+          "payroll_date": "2026-07-16"
+        }
+      ],
+      "shift_id": "shift_0086",
+      "venue_timezone": "America/New_York",
+      "worker_id": "worker_0146"
+    },
+    {
+      "arrival": "on_time",
+      "days": [
+        {
+          "minutes": 162,
+          "payroll_date": "2026-07-20"
+        },
+        {
+          "minutes": 198,
+          "payroll_date": "2026-07-21"
+        }
+      ],
+      "minutes": 360,
+      "punch_ref": "PCH-0106",
+      "runbook_arrival": "on_time",
+      "runbook_days": [
+        {
+          "minutes": 162,
+          "payroll_date": "2026-07-20"
+        },
+        {
+          "minutes": 198,
+          "payroll_date": "2026-07-21"
+        }
+      ],
+      "shift_id": "shift_0093",
+      "venue_timezone": "America/New_York",
+      "worker_id": "worker_0215"
+    },
+    {
+      "arrival": "late",
+      "days": [
+        {
+          "minutes": 144,
+          "payroll_date": "2026-07-17"
+        },
+        {
+          "minutes": 456,
+          "payroll_date": "2026-07-18"
+        }
+      ],
+      "minutes": 600,
+      "punch_ref": "PCH-0107",
+      "runbook_arrival": "early",
+      "runbook_days": [
+        {
+          "minutes": 204,
+          "payroll_date": "2026-07-17"
+        },
+        {
+          "minutes": 396,
+          "payroll_date": "2026-07-18"
+        }
+      ],
+      "shift_id": "shift_0001",
+      "venue_timezone": "America/Sao_Paulo",
+      "worker_id": "worker_0206"
+    },
+    {
+      "arrival": "early",
+      "days": [
+        {
+          "minutes": 123,
+          "payroll_date": "2026-06-17"
+        },
+        {
+          "minutes": 177,
+          "payroll_date": "2026-06-18"
+        }
+      ],
+      "minutes": 300,
+      "punch_ref": "PCH-0108",
+      "runbook_arrival": "early",
+      "runbook_days": [
+        {
+          "minutes": 183,
+          "payroll_date": "2026-06-17"
+        },
+        {
+          "minutes": 117,
+          "payroll_date": "2026-06-18"
+        }
+      ],
+      "shift_id": "shift_0051",
+      "venue_timezone": "America/Sao_Paulo",
+      "worker_id": "worker_0226"
+    },
+    {
+      "arrival": "early",
+      "days": [
+        {
+          "minutes": 230,
+          "payroll_date": "2026-06-28"
+        },
+        {
+          "minutes": 310,
+          "payroll_date": "2026-06-29"
+        }
+      ],
+      "minutes": 540,
+      "punch_ref": "PCH-0109",
+      "runbook_arrival": "early",
+      "runbook_days": [
+        {
+          "minutes": 290,
+          "payroll_date": "2026-06-28"
+        },
+        {
+          "minutes": 250,
+          "payroll_date": "2026-06-29"
+        }
+      ],
+      "shift_id": "shift_0063",
+      "venue_timezone": "America/Sao_Paulo",
+      "worker_id": "worker_0151"
+    },
+    {
+      "arrival": "on_time",
+      "days": [
+        {
+          "minutes": 230,
+          "payroll_date": "2026-07-31"
+        },
+        {
+          "minutes": 190,
+          "payroll_date": "2026-08-01"
+        }
+      ],
+      "minutes": 420,
+      "punch_ref": "PCH-0110",
+      "runbook_arrival": "early",
+      "runbook_days": [
+        {
+          "minutes": 420,
+          "payroll_date": "2026-07-31"
+        }
+      ],
+      "shift_id": "shift_0023",
+      "venue_timezone": "Asia/Kolkata",
+      "worker_id": "worker_0036"
+    },
+    {
+      "arrival": "early",
+      "days": [
+        {
+          "minutes": 101,
+          "payroll_date": "2026-06-02"
+        },
+        {
+          "minutes": 349,
+          "payroll_date": "2026-06-03"
+        }
+      ],
+      "minutes": 450,
+      "punch_ref": "PCH-0111",
+      "runbook_arrival": "early",
+      "runbook_days": [
+        {
+          "minutes": 450,
+          "payroll_date": "2026-06-02"
+        }
+      ],
+      "shift_id": "shift_0025",
+      "venue_timezone": "Asia/Kolkata",
+      "worker_id": "worker_0228"
+    },
+    {
+      "arrival": "on_time",
+      "days": [
+        {
+          "minutes": 120,
+          "payroll_date": "2026-06-04"
+        },
+        {
+          "minutes": 360,
+          "payroll_date": "2026-06-05"
+        }
+      ],
+      "minutes": 480,
+      "punch_ref": "PCH-0112",
+      "runbook_arrival": "early",
+      "runbook_days": [
+        {
+          "minutes": 480,
+          "payroll_date": "2026-06-04"
+        }
+      ],
+      "shift_id": "shift_0036",
+      "venue_timezone": "Asia/Kolkata",
+      "worker_id": "worker_0198"
+    },
+    {
+      "arrival": "late",
+      "days": [
+        {
+          "minutes": 48,
+          "payroll_date": "2026-06-27"
+        },
+        {
+          "minutes": 192,
+          "payroll_date": "2026-06-28"
+        }
+      ],
+      "minutes": 240,
+      "punch_ref": "PCH-0113",
+      "runbook_arrival": "early",
+      "runbook_days": [
+        {
+          "minutes": 240,
+          "payroll_date": "2026-06-27"
+        }
+      ],
+      "shift_id": "shift_0059",
+      "venue_timezone": "Asia/Tokyo",
+      "worker_id": "worker_0008"
+    },
+    {
+      "arrival": "early",
+      "days": [
+        {
+          "minutes": 133,
+          "payroll_date": "2026-06-19"
+        },
+        {
+          "minutes": 572,
+          "payroll_date": "2026-06-20"
+        }
+      ],
+      "minutes": 705,
+      "punch_ref": "PCH-0114",
+      "runbook_arrival": "early",
+      "runbook_days": [
+        {
+          "minutes": 705,
+          "payroll_date": "2026-06-19"
+        }
+      ],
+      "shift_id": "shift_0131",
+      "venue_timezone": "Asia/Tokyo",
+      "worker_id": "worker_0117"
+    },
+    {
+      "arrival": "late",
+      "days": [
+        {
+          "minutes": 90,
+          "payroll_date": "2026-06-29"
+        }
+      ],
+      "minutes": 90,
+      "punch_ref": "PCH-0115",
+      "runbook_arrival": "early",
+      "runbook_days": [
+        {
+          "minutes": 90,
+          "payroll_date": "2026-06-28"
+        }
+      ],
+      "shift_id": "shift_0018",
+      "venue_timezone": "Asia/Tokyo",
+      "worker_id": "worker_0053"
+    },
+    {
+      "arrival": "on_time",
+      "days": [
+        {
+          "minutes": 101,
+          "payroll_date": "2026-06-27"
+        },
+        {
+          "minutes": 259,
+          "payroll_date": "2026-06-28"
+        }
+      ],
+      "minutes": 360,
+      "punch_ref": "PCH-0116",
+      "runbook_arrival": "early",
+      "runbook_days": [
+        {
+          "minutes": 360,
+          "payroll_date": "2026-06-27"
+        }
+      ],
+      "shift_id": "shift_0007",
+      "venue_timezone": "Australia/Sydney",
+      "worker_id": "worker_0190"
+    },
+    {
+      "arrival": "late",
+      "days": [
+        {
+          "minutes": 61,
+          "payroll_date": "2026-06-15"
+        },
+        {
+          "minutes": 539,
+          "payroll_date": "2026-06-16"
+        }
+      ],
+      "minutes": 600,
+      "punch_ref": "PCH-0117",
+      "runbook_arrival": "early",
+      "runbook_days": [
+        {
+          "minutes": 600,
+          "payroll_date": "2026-06-15"
+        }
+      ],
+      "shift_id": "shift_0052",
+      "venue_timezone": "Australia/Sydney",
+      "worker_id": "worker_0148"
+    },
+    {
+      "arrival": "early",
+      "days": [
+        {
+          "minutes": 184,
+          "payroll_date": "2026-08-01"
+        },
+        {
+          "minutes": 116,
+          "payroll_date": "2026-08-02"
+        }
+      ],
+      "minutes": 300,
+      "punch_ref": "PCH-0118",
+      "runbook_arrival": "early",
+      "runbook_days": [
+        {
+          "minutes": 300,
+          "payroll_date": "2026-08-01"
+        }
+      ],
+      "shift_id": "shift_0053",
+      "venue_timezone": "Australia/Sydney",
+      "worker_id": "worker_0028"
+    },
+    {
+      "arrival": "early",
+      "days": [
+        {
+          "minutes": 63,
+          "payroll_date": "2026-07-15"
+        },
+        {
+          "minutes": 477,
+          "payroll_date": "2026-07-16"
+        }
+      ],
+      "minutes": 540,
+      "punch_ref": "PCH-0119",
+      "runbook_arrival": "early",
+      "runbook_days": [
+        {
+          "minutes": 423,
+          "payroll_date": "2026-07-15"
+        },
+        {
+          "minutes": 117,
+          "payroll_date": "2026-07-16"
+        }
+      ],
+      "shift_id": "shift_0045",
+      "venue_timezone": "Europe/Berlin",
+      "worker_id": "worker_0043"
+    },
+    {
+      "arrival": "on_time",
+      "days": [
+        {
+          "minutes": 77,
+          "payroll_date": "2026-06-28"
+        },
+        {
+          "minutes": 343,
+          "payroll_date": "2026-06-29"
+        }
+      ],
+      "minutes": 420,
+      "punch_ref": "PCH-0120",
+      "runbook_arrival": "early",
+      "runbook_days": [
+        {
+          "minutes": 420,
+          "payroll_date": "2026-06-28"
+        }
+      ],
+      "shift_id": "shift_0103",
+      "venue_timezone": "Europe/Berlin",
+      "worker_id": "worker_0037"
+    },
+    {
+      "arrival": "early",
+      "days": [
+        {
+          "minutes": 184,
+          "payroll_date": "2026-06-21"
+        },
+        {
+          "minutes": 266,
+          "payroll_date": "2026-06-22"
+        }
+      ],
+      "minutes": 450,
+      "punch_ref": "PCH-0121",
+      "runbook_arrival": "early",
+      "runbook_days": [
+        {
+          "minutes": 450,
+          "payroll_date": "2026-06-21"
+        }
+      ],
+      "shift_id": "shift_0106",
+      "venue_timezone": "Europe/Berlin",
+      "worker_id": "worker_0001"
+    },
+    {
+      "arrival": "on_time",
+      "days": [
+        {
+          "minutes": 105,
+          "payroll_date": "2026-07-30"
+        },
+        {
+          "minutes": 375,
+          "payroll_date": "2026-07-31"
+        }
+      ],
+      "minutes": 480,
+      "punch_ref": "PCH-0122",
+      "runbook_arrival": "early",
+      "runbook_days": [
+        {
+          "minutes": 480,
+          "payroll_date": "2026-07-30"
+        }
+      ],
+      "shift_id": "shift_0006",
+      "venue_timezone": "Pacific/Chatham",
+      "worker_id": "worker_0231"
+    },
+    {
+      "arrival": "late",
+      "days": [
+        {
+          "minutes": 206,
+          "payroll_date": "2026-07-13"
+        },
+        {
+          "minutes": 34,
+          "payroll_date": "2026-07-14"
+        }
+      ],
+      "minutes": 240,
+      "punch_ref": "PCH-0123",
+      "runbook_arrival": "early",
+      "runbook_days": [
+        {
+          "minutes": 240,
+          "payroll_date": "2026-07-13"
+        }
+      ],
+      "shift_id": "shift_0095",
+      "venue_timezone": "Pacific/Chatham",
+      "worker_id": "worker_0172"
+    },
+    {
+      "arrival": "early",
+      "days": [
+        {
+          "minutes": 171,
+          "payroll_date": "2026-06-12"
+        },
+        {
+          "minutes": 534,
+          "payroll_date": "2026-06-13"
+        }
+      ],
+      "minutes": 705,
+      "punch_ref": "PCH-0124",
+      "runbook_arrival": "early",
+      "runbook_days": [
+        {
+          "minutes": 705,
+          "payroll_date": "2026-06-12"
+        }
+      ],
+      "shift_id": "shift_0136",
+      "venue_timezone": "Pacific/Chatham",
+      "worker_id": "worker_0154"
+    }
+  ],
+  "report_rows": [
+    {
+      "minutes": 156,
+      "payroll_date": "2026-08-04",
+      "punch_ref": "PCH-0101",
+      "shift_id": "shift_0035",
+      "venue_timezone": "America/Los_Angeles",
+      "worker_id": "worker_0051"
+    },
+    {
+      "minutes": 294,
+      "payroll_date": "2026-08-05",
+      "punch_ref": "PCH-0101",
+      "shift_id": "shift_0035",
+      "venue_timezone": "America/Los_Angeles",
+      "worker_id": "worker_0051"
+    },
+    {
+      "minutes": 68,
+      "payroll_date": "2026-06-14",
+      "punch_ref": "PCH-0102",
+      "shift_id": "shift_0067",
+      "venue_timezone": "America/Los_Angeles",
+      "worker_id": "worker_0022"
+    },
+    {
+      "minutes": 412,
+      "payroll_date": "2026-06-15",
+      "punch_ref": "PCH-0102",
+      "shift_id": "shift_0067",
+      "venue_timezone": "America/Los_Angeles",
+      "worker_id": "worker_0022"
+    },
+    {
+      "minutes": 450,
+      "payroll_date": "2026-06-26",
+      "punch_ref": "PCH-0103",
+      "shift_id": "shift_0002",
+      "venue_timezone": "America/Los_Angeles",
+      "worker_id": "worker_0122"
+    },
+    {
+      "minutes": 218,
+      "payroll_date": "2026-07-24",
+      "punch_ref": "PCH-0104",
+      "shift_id": "shift_0069",
+      "venue_timezone": "America/New_York",
+      "worker_id": "worker_0034"
+    },
+    {
+      "minutes": 487,
+      "payroll_date": "2026-07-25",
+      "punch_ref": "PCH-0104",
+      "shift_id": "shift_0069",
+      "venue_timezone": "America/New_York",
+      "worker_id": "worker_0034"
+    },
+    {
+      "minutes": 90,
+      "payroll_date": "2026-07-16",
+      "punch_ref": "PCH-0105",
+      "shift_id": "shift_0086",
+      "venue_timezone": "America/New_York",
+      "worker_id": "worker_0146"
+    },
+    {
+      "minutes": 162,
+      "payroll_date": "2026-07-20",
+      "punch_ref": "PCH-0106",
+      "shift_id": "shift_0093",
+      "venue_timezone": "America/New_York",
+      "worker_id": "worker_0215"
+    },
+    {
+      "minutes": 198,
+      "payroll_date": "2026-07-21",
+      "punch_ref": "PCH-0106",
+      "shift_id": "shift_0093",
+      "venue_timezone": "America/New_York",
+      "worker_id": "worker_0215"
+    },
+    {
+      "minutes": 144,
+      "payroll_date": "2026-07-17",
+      "punch_ref": "PCH-0107",
+      "shift_id": "shift_0001",
+      "venue_timezone": "America/Sao_Paulo",
+      "worker_id": "worker_0206"
+    },
+    {
+      "minutes": 456,
+      "payroll_date": "2026-07-18",
+      "punch_ref": "PCH-0107",
+      "shift_id": "shift_0001",
+      "venue_timezone": "America/Sao_Paulo",
+      "worker_id": "worker_0206"
+    },
+    {
+      "minutes": 123,
+      "payroll_date": "2026-06-17",
+      "punch_ref": "PCH-0108",
+      "shift_id": "shift_0051",
+      "venue_timezone": "America/Sao_Paulo",
+      "worker_id": "worker_0226"
+    },
+    {
+      "minutes": 177,
+      "payroll_date": "2026-06-18",
+      "punch_ref": "PCH-0108",
+      "shift_id": "shift_0051",
+      "venue_timezone": "America/Sao_Paulo",
+      "worker_id": "worker_0226"
+    },
+    {
+      "minutes": 230,
+      "payroll_date": "2026-06-28",
+      "punch_ref": "PCH-0109",
+      "shift_id": "shift_0063",
+      "venue_timezone": "America/Sao_Paulo",
+      "worker_id": "worker_0151"
+    },
+    {
+      "minutes": 310,
+      "payroll_date": "2026-06-29",
+      "punch_ref": "PCH-0109",
+      "shift_id": "shift_0063",
+      "venue_timezone": "America/Sao_Paulo",
+      "worker_id": "worker_0151"
+    },
+    {
+      "minutes": 230,
+      "payroll_date": "2026-07-31",
+      "punch_ref": "PCH-0110",
+      "shift_id": "shift_0023",
+      "venue_timezone": "Asia/Kolkata",
+      "worker_id": "worker_0036"
+    },
+    {
+      "minutes": 190,
+      "payroll_date": "2026-08-01",
+      "punch_ref": "PCH-0110",
+      "shift_id": "shift_0023",
+      "venue_timezone": "Asia/Kolkata",
+      "worker_id": "worker_0036"
+    },
+    {
+      "minutes": 101,
+      "payroll_date": "2026-06-02",
+      "punch_ref": "PCH-0111",
+      "shift_id": "shift_0025",
+      "venue_timezone": "Asia/Kolkata",
+      "worker_id": "worker_0228"
+    },
+    {
+      "minutes": 349,
+      "payroll_date": "2026-06-03",
+      "punch_ref": "PCH-0111",
+      "shift_id": "shift_0025",
+      "venue_timezone": "Asia/Kolkata",
+      "worker_id": "worker_0228"
+    },
+    {
+      "minutes": 120,
+      "payroll_date": "2026-06-04",
+      "punch_ref": "PCH-0112",
+      "shift_id": "shift_0036",
+      "venue_timezone": "Asia/Kolkata",
+      "worker_id": "worker_0198"
+    },
+    {
+      "minutes": 360,
+      "payroll_date": "2026-06-05",
+      "punch_ref": "PCH-0112",
+      "shift_id": "shift_0036",
+      "venue_timezone": "Asia/Kolkata",
+      "worker_id": "worker_0198"
+    },
+    {
+      "minutes": 48,
+      "payroll_date": "2026-06-27",
+      "punch_ref": "PCH-0113",
+      "shift_id": "shift_0059",
+      "venue_timezone": "Asia/Tokyo",
+      "worker_id": "worker_0008"
+    },
+    {
+      "minutes": 192,
+      "payroll_date": "2026-06-28",
+      "punch_ref": "PCH-0113",
+      "shift_id": "shift_0059",
+      "venue_timezone": "Asia/Tokyo",
+      "worker_id": "worker_0008"
+    },
+    {
+      "minutes": 133,
+      "payroll_date": "2026-06-19",
+      "punch_ref": "PCH-0114",
+      "shift_id": "shift_0131",
+      "venue_timezone": "Asia/Tokyo",
+      "worker_id": "worker_0117"
+    },
+    {
+      "minutes": 572,
+      "payroll_date": "2026-06-20",
+      "punch_ref": "PCH-0114",
+      "shift_id": "shift_0131",
+      "venue_timezone": "Asia/Tokyo",
+      "worker_id": "worker_0117"
+    },
+    {
+      "minutes": 90,
+      "payroll_date": "2026-06-29",
+      "punch_ref": "PCH-0115",
+      "shift_id": "shift_0018",
+      "venue_timezone": "Asia/Tokyo",
+      "worker_id": "worker_0053"
+    },
+    {
+      "minutes": 101,
+      "payroll_date": "2026-06-27",
+      "punch_ref": "PCH-0116",
+      "shift_id": "shift_0007",
+      "venue_timezone": "Australia/Sydney",
+      "worker_id": "worker_0190"
+    },
+    {
+      "minutes": 259,
+      "payroll_date": "2026-06-28",
+      "punch_ref": "PCH-0116",
+      "shift_id": "shift_0007",
+      "venue_timezone": "Australia/Sydney",
+      "worker_id": "worker_0190"
+    },
+    {
+      "minutes": 61,
+      "payroll_date": "2026-06-15",
+      "punch_ref": "PCH-0117",
+      "shift_id": "shift_0052",
+      "venue_timezone": "Australia/Sydney",
+      "worker_id": "worker_0148"
+    },
+    {
+      "minutes": 539,
+      "payroll_date": "2026-06-16",
+      "punch_ref": "PCH-0117",
+      "shift_id": "shift_0052",
+      "venue_timezone": "Australia/Sydney",
+      "worker_id": "worker_0148"
+    },
+    {
+      "minutes": 184,
+      "payroll_date": "2026-08-01",
+      "punch_ref": "PCH-0118",
+      "shift_id": "shift_0053",
+      "venue_timezone": "Australia/Sydney",
+      "worker_id": "worker_0028"
+    },
+    {
+      "minutes": 116,
+      "payroll_date": "2026-08-02",
+      "punch_ref": "PCH-0118",
+      "shift_id": "shift_0053",
+      "venue_timezone": "Australia/Sydney",
+      "worker_id": "worker_0028"
+    },
+    {
+      "minutes": 63,
+      "payroll_date": "2026-07-15",
+      "punch_ref": "PCH-0119",
+      "shift_id": "shift_0045",
+      "venue_timezone": "Europe/Berlin",
+      "worker_id": "worker_0043"
+    },
+    {
+      "minutes": 477,
+      "payroll_date": "2026-07-16",
+      "punch_ref": "PCH-0119",
+      "shift_id": "shift_0045",
+      "venue_timezone": "Europe/Berlin",
+      "worker_id": "worker_0043"
+    },
+    {
+      "minutes": 77,
+      "payroll_date": "2026-06-28",
+      "punch_ref": "PCH-0120",
+      "shift_id": "shift_0103",
+      "venue_timezone": "Europe/Berlin",
+      "worker_id": "worker_0037"
+    },
+    {
+      "minutes": 343,
+      "payroll_date": "2026-06-29",
+      "punch_ref": "PCH-0120",
+      "shift_id": "shift_0103",
+      "venue_timezone": "Europe/Berlin",
+      "worker_id": "worker_0037"
+    },
+    {
+      "minutes": 184,
+      "payroll_date": "2026-06-21",
+      "punch_ref": "PCH-0121",
+      "shift_id": "shift_0106",
+      "venue_timezone": "Europe/Berlin",
+      "worker_id": "worker_0001"
+    },
+    {
+      "minutes": 266,
+      "payroll_date": "2026-06-22",
+      "punch_ref": "PCH-0121",
+      "shift_id": "shift_0106",
+      "venue_timezone": "Europe/Berlin",
+      "worker_id": "worker_0001"
+    },
+    {
+      "minutes": 105,
+      "payroll_date": "2026-07-30",
+      "punch_ref": "PCH-0122",
+      "shift_id": "shift_0006",
+      "venue_timezone": "Pacific/Chatham",
+      "worker_id": "worker_0231"
+    },
+    {
+      "minutes": 375,
+      "payroll_date": "2026-07-31",
+      "punch_ref": "PCH-0122",
+      "shift_id": "shift_0006",
+      "venue_timezone": "Pacific/Chatham",
+      "worker_id": "worker_0231"
+    },
+    {
+      "minutes": 206,
+      "payroll_date": "2026-07-13",
+      "punch_ref": "PCH-0123",
+      "shift_id": "shift_0095",
+      "venue_timezone": "Pacific/Chatham",
+      "worker_id": "worker_0172"
+    },
+    {
+      "minutes": 34,
+      "payroll_date": "2026-07-14",
+      "punch_ref": "PCH-0123",
+      "shift_id": "shift_0095",
+      "venue_timezone": "Pacific/Chatham",
+      "worker_id": "worker_0172"
+    },
+    {
+      "minutes": 171,
+      "payroll_date": "2026-06-12",
+      "punch_ref": "PCH-0124",
+      "shift_id": "shift_0136",
+      "venue_timezone": "Pacific/Chatham",
+      "worker_id": "worker_0154"
+    },
+    {
+      "minutes": 534,
+      "payroll_date": "2026-06-13",
+      "punch_ref": "PCH-0124",
+      "shift_id": "shift_0136",
+      "venue_timezone": "Pacific/Chatham",
+      "worker_id": "worker_0154"
+    }
+  ],
+  "runbook_zone": "America/New_York",
+  "seeded_note_counts": {
+    "worker_0001": 1,
+    "worker_0008": 0,
+    "worker_0022": 1,
+    "worker_0028": 0,
+    "worker_0034": 2,
+    "worker_0036": 0,
+    "worker_0037": 1,
+    "worker_0038": 0,
+    "worker_0043": 2,
+    "worker_0051": 1,
+    "worker_0090": 1,
+    "worker_0117": 0,
+    "worker_0148": 3,
+    "worker_0151": 2,
+    "worker_0154": 1,
+    "worker_0166": 1,
+    "worker_0172": 4,
+    "worker_0190": 1,
+    "worker_0198": 0,
+    "worker_0206": 1,
+    "worker_0215": 0,
+    "worker_0226": 0,
+    "worker_0228": 1,
+    "worker_0231": 1
+  },
+  "shift_total": 182,
+  "split_line_count": 45,
+  "total_minutes": 10455,
+  "unbridgeable": [
+    {
+      "punch_ref": "PCH-0200",
+      "reason": "deleted_shift",
+      "shift_id": "shift_0012"
+    },
+    {
+      "punch_ref": "PCH-0201",
+      "reason": "deleted_shift",
+      "shift_id": "shift_0013"
+    },
+    {
+      "punch_ref": "PCH-0202",
+      "reason": "deleted_shift",
+      "shift_id": "shift_0014"
+    },
+    {
+      "punch_ref": "PCH-0210",
+      "reason": "unknown_shift",
+      "shift_id": "shift_0999"
+    },
+    {
+      "punch_ref": "PCH-0211",
+      "reason": "unknown_shift",
+      "shift_id": "shift_4242"
+    }
+  ],
+  "unbridgeable_count": 5
+}

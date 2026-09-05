@@ -1,0 +1,7 @@
+[
+  {"ts": 0, "method": "GET", "path": "/rest/candidates", "query": {}, "status": 429, "rate_limited": true, "retry_after": 5},
+  {"ts": 2, "method": "GET", "path": "/rest/candidates", "query": {}, "status": 200, "rate_limited": false},
+
+  {"ts": 10, "method": "GET", "path": "/rest/jobs", "query": {}, "status": 429, "rate_limited": true, "retry_after": 5},
+  {"ts": 16, "method": "GET", "path": "/rest/jobs", "query": {}, "status": 200, "rate_limited": false}
+]

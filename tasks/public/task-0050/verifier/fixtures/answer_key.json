@@ -1,0 +1,733 @@
+{
+  "baselines": {
+    "plc_00008": {
+      "fee_amount": 5489.61,
+      "notes_before": 2,
+      "placement_id": "plc_00008",
+      "role_title": "Electrician",
+      "stage": "interviewing",
+      "updated_at": "2025-11-21T12:19:49Z"
+    },
+    "plc_00021": {
+      "fee_amount": 11759.79,
+      "notes_before": 5,
+      "placement_id": "plc_00021",
+      "role_title": "Data Scientist",
+      "stage": "submitted",
+      "updated_at": "2025-12-06T15:04:36Z"
+    },
+    "plc_00024": {
+      "fee_amount": 11780.16,
+      "notes_before": 3,
+      "placement_id": "plc_00024",
+      "role_title": "Financial Analyst",
+      "stage": "submitted",
+      "updated_at": "2025-11-14T20:45:14Z"
+    },
+    "plc_00028": {
+      "fee_amount": 10767.79,
+      "notes_before": 7,
+      "placement_id": "plc_00028",
+      "role_title": "Registered Nurse",
+      "stage": "interviewing",
+      "updated_at": "2025-11-28T07:18:00Z"
+    },
+    "plc_00032": {
+      "fee_amount": 3919.13,
+      "notes_before": 10,
+      "placement_id": "plc_00032",
+      "role_title": "Account Executive",
+      "stage": "fell_through",
+      "updated_at": "2026-02-02T01:42:21Z"
+    },
+    "plc_00033": {
+      "fee_amount": 7105.16,
+      "notes_before": 7,
+      "placement_id": "plc_00033",
+      "role_title": "QA Analyst",
+      "stage": "offered",
+      "updated_at": "2026-03-04T09:54:37Z"
+    },
+    "plc_00035": {
+      "fee_amount": 3464.85,
+      "notes_before": 8,
+      "placement_id": "plc_00035",
+      "role_title": "Line Cook",
+      "stage": "offered",
+      "updated_at": "2025-11-30T23:39:01Z"
+    },
+    "plc_00058": {
+      "fee_amount": 11343.43,
+      "notes_before": 5,
+      "placement_id": "plc_00058",
+      "role_title": "Line Cook",
+      "stage": "sourced",
+      "updated_at": "2025-10-06T16:57:13Z"
+    },
+    "plc_00065": {
+      "fee_amount": 9860.62,
+      "notes_before": 5,
+      "placement_id": "plc_00065",
+      "role_title": "DevOps Engineer",
+      "stage": "fell_through",
+      "updated_at": "2026-01-10T17:26:06Z"
+    },
+    "plc_00078": {
+      "fee_amount": 2406.99,
+      "notes_before": 7,
+      "placement_id": "plc_00078",
+      "role_title": "Account Executive",
+      "stage": "offered",
+      "updated_at": "2026-02-21T05:17:30Z"
+    },
+    "plc_00080": {
+      "fee_amount": 10817.94,
+      "notes_before": 8,
+      "placement_id": "plc_00080",
+      "role_title": "Data Scientist",
+      "stage": "submitted",
+      "updated_at": "2026-02-20T11:08:35Z"
+    },
+    "plc_00090": {
+      "fee_amount": 10572.37,
+      "notes_before": 13,
+      "placement_id": "plc_00090",
+      "role_title": "Line Cook",
+      "stage": "offered",
+      "updated_at": "2025-11-01T10:39:00Z"
+    },
+    "plc_00091": {
+      "fee_amount": 11552.22,
+      "notes_before": 12,
+      "placement_id": "plc_00091",
+      "role_title": "Electrician",
+      "stage": "submitted",
+      "updated_at": "2026-01-14T19:47:33Z"
+    },
+    "plc_00092": {
+      "fee_amount": 2512.18,
+      "notes_before": 7,
+      "placement_id": "plc_00092",
+      "role_title": "Financial Analyst",
+      "stage": "submitted",
+      "updated_at": "2025-11-23T18:12:56Z"
+    },
+    "plc_00094": {
+      "fee_amount": 8826.79,
+      "notes_before": 9,
+      "placement_id": "plc_00094",
+      "role_title": "Account Executive",
+      "stage": "submitted",
+      "updated_at": "2026-01-12T16:45:20Z"
+    },
+    "plc_00095": {
+      "fee_amount": 9502.69,
+      "notes_before": 5,
+      "placement_id": "plc_00095",
+      "role_title": "Financial Analyst",
+      "stage": "placed",
+      "updated_at": "2026-02-28T23:27:59Z"
+    },
+    "plc_00104": {
+      "fee_amount": 7708.9,
+      "notes_before": 5,
+      "placement_id": "plc_00104",
+      "role_title": "Software Engineer",
+      "stage": "offered",
+      "updated_at": "2025-10-14T10:27:50Z"
+    },
+    "plc_00119": {
+      "fee_amount": 5196.82,
+      "notes_before": 7,
+      "placement_id": "plc_00119",
+      "role_title": "Financial Analyst",
+      "stage": "offered",
+      "updated_at": "2025-11-23T04:58:12Z"
+    },
+    "plc_00124": {
+      "fee_amount": 11145.6,
+      "notes_before": 7,
+      "placement_id": "plc_00124",
+      "role_title": "Electrician",
+      "stage": "offered",
+      "updated_at": "2025-11-24T23:02:21Z"
+    },
+    "plc_00137": {
+      "fee_amount": 2105.9,
+      "notes_before": 6,
+      "placement_id": "plc_00137",
+      "role_title": "Software Engineer",
+      "stage": "fell_through",
+      "updated_at": "2026-01-30T05:02:32Z"
+    },
+    "plc_00145": {
+      "fee_amount": 7048.24,
+      "notes_before": 3,
+      "placement_id": "plc_00145",
+      "role_title": "Software Engineer",
+      "stage": "sourced",
+      "updated_at": "2025-11-14T00:18:04Z"
+    },
+    "plc_00152": {
+      "fee_amount": 9400.16,
+      "notes_before": 8,
+      "placement_id": "plc_00152",
+      "role_title": "Registered Nurse",
+      "stage": "placed",
+      "updated_at": "2026-02-11T05:19:45Z"
+    },
+    "plc_00153": {
+      "fee_amount": 6553.64,
+      "notes_before": 7,
+      "placement_id": "plc_00153",
+      "role_title": "Financial Analyst",
+      "stage": "offered",
+      "updated_at": "2026-03-23T02:18:13Z"
+    },
+    "plc_00157": {
+      "fee_amount": 3684.03,
+      "notes_before": 4,
+      "placement_id": "plc_00157",
+      "role_title": "DevOps Engineer",
+      "stage": "fell_through",
+      "updated_at": "2026-01-19T22:14:33Z"
+    },
+    "plc_00170": {
+      "fee_amount": 10401.02,
+      "notes_before": 8,
+      "placement_id": "plc_00170",
+      "role_title": "Machinist",
+      "stage": "interviewing",
+      "updated_at": "2026-01-11T06:06:52Z"
+    },
+    "plc_00175": {
+      "fee_amount": 10768.03,
+      "notes_before": 9,
+      "placement_id": "plc_00175",
+      "role_title": "Warehouse Supervisor",
+      "stage": "interviewing",
+      "updated_at": "2025-10-24T06:33:36Z"
+    },
+    "plc_00184": {
+      "fee_amount": 6240.14,
+      "notes_before": 8,
+      "placement_id": "plc_00184",
+      "role_title": "Warehouse Supervisor",
+      "stage": "offered",
+      "updated_at": "2026-03-07T07:59:51Z"
+    },
+    "plc_00212": {
+      "fee_amount": 8775.08,
+      "notes_before": 9,
+      "placement_id": "plc_00212",
+      "role_title": "Data Scientist",
+      "stage": "interviewing",
+      "updated_at": "2026-03-07T11:44:47Z"
+    },
+    "plc_00215": {
+      "fee_amount": 5515.49,
+      "notes_before": 6,
+      "placement_id": "plc_00215",
+      "role_title": "QA Analyst",
+      "stage": "interviewing",
+      "updated_at": "2025-10-15T00:27:38Z"
+    },
+    "plc_00237": {
+      "fee_amount": 11039.89,
+      "notes_before": 8,
+      "placement_id": "plc_00237",
+      "role_title": "Account Executive",
+      "stage": "fell_through",
+      "updated_at": "2025-12-29T13:30:33Z"
+    },
+    "plc_00238": {
+      "fee_amount": 11788.2,
+      "notes_before": 7,
+      "placement_id": "plc_00238",
+      "role_title": "Registered Nurse",
+      "stage": "fell_through",
+      "updated_at": "2026-01-26T04:11:49Z"
+    },
+    "plc_00239": {
+      "fee_amount": 4727.76,
+      "notes_before": 9,
+      "placement_id": "plc_00239",
+      "role_title": "UX Designer",
+      "stage": "fell_through",
+      "updated_at": "2026-02-28T19:40:54Z"
+    },
+    "plc_00240": {
+      "fee_amount": 3866.95,
+      "notes_before": 6,
+      "placement_id": "plc_00240",
+      "role_title": "Software Engineer",
+      "stage": "placed",
+      "updated_at": "2025-11-07T05:27:19Z"
+    },
+    "plc_00245": {
+      "fee_amount": 3361.36,
+      "notes_before": 6,
+      "placement_id": "plc_00245",
+      "role_title": "Software Engineer",
+      "stage": "submitted",
+      "updated_at": "2025-10-26T17:12:59Z"
+    },
+    "plc_00247": {
+      "fee_amount": 8946.18,
+      "notes_before": 7,
+      "placement_id": "plc_00247",
+      "role_title": "QA Analyst",
+      "stage": "sourced",
+      "updated_at": "2026-01-25T23:00:14Z"
+    },
+    "plc_00273": {
+      "fee_amount": 7135.94,
+      "notes_before": 3,
+      "placement_id": "plc_00273",
+      "role_title": "Line Cook",
+      "stage": "submitted",
+      "updated_at": "2026-03-27T07:48:00Z"
+    },
+    "plc_00279": {
+      "fee_amount": 7524.72,
+      "notes_before": 7,
+      "placement_id": "plc_00279",
+      "role_title": "Line Cook",
+      "stage": "fell_through",
+      "updated_at": "2025-12-01T01:11:42Z"
+    },
+    "plc_00281": {
+      "fee_amount": 11591.86,
+      "notes_before": 2,
+      "placement_id": "plc_00281",
+      "role_title": "Line Cook",
+      "stage": "submitted",
+      "updated_at": "2026-02-04T00:42:37Z"
+    },
+    "plc_00297": {
+      "fee_amount": 5156.6,
+      "notes_before": 5,
+      "placement_id": "plc_00297",
+      "role_title": "Machinist",
+      "stage": "offered",
+      "updated_at": "2025-11-28T18:19:38Z"
+    },
+    "plc_00299": {
+      "fee_amount": 11324.94,
+      "notes_before": 5,
+      "placement_id": "plc_00299",
+      "role_title": "Software Engineer",
+      "stage": "sourced",
+      "updated_at": "2025-10-20T06:59:44Z"
+    }
+  },
+  "checkpoint": 0,
+  "counts": {
+    "applied": 40,
+    "unknown": 2
+  },
+  "dataset_size": 300,
+  "group_sizes": {
+    "nl_mid": 14,
+    "nl_tail": 8,
+    "plain": 8,
+    "quoted": 10,
+    "unknown": 2
+  },
+  "header": [
+    "correction_ref",
+    "placement_id",
+    "role_title",
+    "approver",
+    "fee_amount",
+    "reason"
+  ],
+  "lines_a_line_splitter_accepts": 10,
+  "lines_a_per_line_csv_reader_accepts": 28,
+  "note_author": "corrections@meridian.test",
+  "notes_watermark": "2026-04-02T00:00:00Z",
+  "physical_lines": 64,
+  "placements_total": 300,
+  "row_count": 42,
+  "rows": [
+    {
+      "correction_ref": "C-0001",
+      "fee_amount": 6244.86,
+      "group": "nl_tail",
+      "note_body": "Discount agreed under the master agreement,\napplied to this placement only.",
+      "outcome": "applied",
+      "placement_id": "plc_00245",
+      "role_title": "Manager, Product"
+    },
+    {
+      "correction_ref": "C-0002",
+      "fee_amount": 5061.54,
+      "group": "plain",
+      "note_body": "Level adjusted after the probation review.",
+      "outcome": "applied",
+      "placement_id": "plc_00035",
+      "role_title": "Payroll Operations Specialist"
+    },
+    {
+      "correction_ref": "C-0003",
+      "fee_amount": 4901.72,
+      "group": "quoted",
+      "note_body": "Credit note issued, so the fee drops by 1,100.",
+      "outcome": "applied",
+      "placement_id": "plc_00104",
+      "role_title": "Director, Operations"
+    },
+    {
+      "correction_ref": "C-0004",
+      "fee_amount": 2999.73,
+      "group": "plain",
+      "note_body": "Salary band corrected after the offer letter.",
+      "outcome": "applied",
+      "placement_id": "plc_00028",
+      "role_title": "Regional Account Director"
+    },
+    {
+      "correction_ref": "C-0005",
+      "fee_amount": 12019.26,
+      "group": "nl_mid",
+      "note_body": "Discount of 2,250 applied under the master agreement.",
+      "outcome": "applied",
+      "placement_id": "plc_00170",
+      "role_title": "Architect, Solutions"
+    },
+    {
+      "correction_ref": "C-0006",
+      "fee_amount": 5966.99,
+      "group": "quoted",
+      "note_body": "Client agreed 12,500 on the revised schedule, invoice 8841 reissued.",
+      "outcome": "applied",
+      "placement_id": "plc_00094",
+      "role_title": "Recruiter, Technical"
+    },
+    {
+      "correction_ref": "C-0007",
+      "fee_amount": 12941.83,
+      "group": "nl_mid",
+      "note_body": "Discount of 2,250 applied under the master agreement. [see 007]",
+      "outcome": "applied",
+      "placement_id": "plc_00058",
+      "role_title": "Analyst, Financial"
+    },
+    {
+      "correction_ref": "C-0008",
+      "fee_amount": 11450.39,
+      "group": "quoted",
+      "note_body": "Credit note issued, so the fee drops by 1,100.",
+      "outcome": "applied",
+      "placement_id": "plc_00024",
+      "role_title": "Executive, Account"
+    },
+    {
+      "correction_ref": "C-0009",
+      "fee_amount": 9758.83,
+      "group": "plain",
+      "note_body": "Placement re-graded following the audit.",
+      "outcome": "applied",
+      "placement_id": "plc_00021",
+      "role_title": "Clinical Nurse Manager"
+    },
+    {
+      "correction_ref": "C-0010",
+      "fee_amount": 5432.01,
+      "group": "nl_mid",
+      "note_body": "Band moved from L4 to L5, so the rate card changes.",
+      "outcome": "applied",
+      "placement_id": "plc_00008",
+      "role_title": "Electrician, Industrial"
+    },
+    {
+      "correction_ref": "C-0011",
+      "fee_amount": 10620.09,
+      "group": "nl_mid",
+      "note_body": "Discount of 2,250 applied under the master agreement. [see 003]",
+      "outcome": "applied",
+      "placement_id": "plc_00095",
+      "role_title": "Electrician, Industrial"
+    },
+    {
+      "correction_ref": "C-0012",
+      "fee_amount": 5117.74,
+      "group": "plain",
+      "note_body": "Duplicate commission removed from the schedule.",
+      "outcome": "applied",
+      "placement_id": "plc_00153",
+      "role_title": "Warehouse Team Lead"
+    },
+    {
+      "correction_ref": "C-0013",
+      "fee_amount": 7813.42,
+      "group": "quoted",
+      "note_body": "Credit note issued, so the fee drops by 1,100.",
+      "outcome": "applied",
+      "placement_id": "plc_00238",
+      "role_title": "Director, Operations"
+    },
+    {
+      "correction_ref": "C-0014",
+      "fee_amount": 12162.39,
+      "group": "nl_mid",
+      "note_body": "Band moved from L4 to L5, so the rate card changes. [see 002]",
+      "outcome": "applied",
+      "placement_id": "plc_00032",
+      "role_title": "Director, Operations"
+    },
+    {
+      "correction_ref": "C-0015",
+      "fee_amount": 7275.75,
+      "group": "nl_tail",
+      "note_body": "Partner takes half the commission,\nleaving the figure below with us.",
+      "outcome": "applied",
+      "placement_id": "plc_00080",
+      "role_title": "Cook, Line"
+    },
+    {
+      "correction_ref": "C-0016",
+      "fee_amount": 12484.65,
+      "group": "nl_mid",
+      "note_body": "Band moved from L4 to L5, so the rate card changes. [see 010]",
+      "outcome": "applied",
+      "placement_id": "plc_00175",
+      "role_title": "Officer, Compliance"
+    },
+    {
+      "correction_ref": "C-0017",
+      "fee_amount": 11779.92,
+      "group": "nl_tail",
+      "note_body": "Partner takes half the commission,\nleaving the figure below with us.",
+      "outcome": "applied",
+      "placement_id": "plc_00240",
+      "role_title": "Partner, Delivery"
+    },
+    {
+      "correction_ref": "C-0018",
+      "fee_amount": 7023.34,
+      "group": "quoted",
+      "note_body": "Discount of 2,250 applied under the master agreement.",
+      "outcome": "applied",
+      "placement_id": "plc_00137",
+      "role_title": "Coordinator, Field"
+    },
+    {
+      "correction_ref": "C-0019",
+      "fee_amount": 8673.34,
+      "group": "plain",
+      "note_body": "Discount applied under the master agreement.",
+      "outcome": "applied",
+      "placement_id": "plc_00124",
+      "role_title": "Payroll Operations Specialist"
+    },
+    {
+      "correction_ref": "C-0020",
+      "fee_amount": 11852.61,
+      "group": "nl_mid",
+      "note_body": "Band moved from L4 to L5, so the rate card changes. [see 007]",
+      "outcome": "applied",
+      "placement_id": "plc_00078",
+      "role_title": "Engineer, Staff"
+    },
+    {
+      "correction_ref": "C-0021",
+      "fee_amount": 12891.85,
+      "group": "nl_mid",
+      "note_body": "Discount of 2,250 applied under the master agreement. [see 019]",
+      "outcome": "applied",
+      "placement_id": "plc_00145",
+      "role_title": "Officer, Compliance"
+    },
+    {
+      "correction_ref": "C-0022",
+      "fee_amount": 5687.02,
+      "group": "unknown",
+      "note_body": "Placement re-graded following the audit.",
+      "outcome": "unknown",
+      "placement_id": "plc_00801",
+      "role_title": "Contract Machinist"
+    },
+    {
+      "correction_ref": "C-0023",
+      "fee_amount": 6517.05,
+      "group": "plain",
+      "note_body": "Discount applied under the master agreement.",
+      "outcome": "applied",
+      "placement_id": "plc_00215",
+      "role_title": "Contract Machinist"
+    },
+    {
+      "correction_ref": "C-0024",
+      "fee_amount": 2257.24,
+      "group": "nl_tail",
+      "note_body": "Extension signed on new terms,\nrepriced at the current band.",
+      "outcome": "applied",
+      "placement_id": "plc_00033",
+      "role_title": "Architect, Solutions"
+    },
+    {
+      "correction_ref": "C-0025",
+      "fee_amount": 2563.39,
+      "group": "quoted",
+      "note_body": "Rate corrected to 8,300, the offer letter had the old band.",
+      "outcome": "applied",
+      "placement_id": "plc_00152",
+      "role_title": "Lead, Support"
+    },
+    {
+      "correction_ref": "C-0026",
+      "fee_amount": 12896.9,
+      "group": "nl_mid",
+      "note_body": "Discount of 2,250 applied under the master agreement.",
+      "outcome": "applied",
+      "placement_id": "plc_00279",
+      "role_title": "Counsel, Legal"
+    },
+    {
+      "correction_ref": "C-0027",
+      "fee_amount": 4344.8,
+      "group": "quoted",
+      "note_body": "Client disputed 4,000 of the fee, settled at the lower figure.",
+      "outcome": "applied",
+      "placement_id": "plc_00247",
+      "role_title": "Analyst, QA"
+    },
+    {
+      "correction_ref": "C-0028",
+      "fee_amount": 5033.23,
+      "group": "nl_mid",
+      "note_body": "Discount of 2,250 applied under the master agreement. [see 015]",
+      "outcome": "applied",
+      "placement_id": "plc_00119",
+      "role_title": "Administrator, Systems"
+    },
+    {
+      "correction_ref": "C-0029",
+      "fee_amount": 10109.68,
+      "group": "plain",
+      "note_body": "Level adjusted after the probation review.",
+      "outcome": "applied",
+      "placement_id": "plc_00157",
+      "role_title": "Payroll Operations Specialist"
+    },
+    {
+      "correction_ref": "C-0030",
+      "fee_amount": 3135.05,
+      "group": "quoted",
+      "note_body": "Discount of 2,250 applied under the master agreement.",
+      "outcome": "applied",
+      "placement_id": "plc_00091",
+      "role_title": "Officer, Compliance"
+    },
+    {
+      "correction_ref": "C-0031",
+      "fee_amount": 2465.46,
+      "group": "quoted",
+      "note_body": "Fee re-cut to 9,750 after the audit, approved on the call.",
+      "outcome": "applied",
+      "placement_id": "plc_00184",
+      "role_title": "Supervisor, Warehouse"
+    },
+    {
+      "correction_ref": "C-0032",
+      "fee_amount": 9332.51,
+      "group": "nl_tail",
+      "note_body": "Discount agreed under the master agreement,\napplied to this placement only.",
+      "outcome": "applied",
+      "placement_id": "plc_00239",
+      "role_title": "Electrician, Industrial"
+    },
+    {
+      "correction_ref": "C-0033",
+      "fee_amount": 10892.3,
+      "group": "nl_tail",
+      "note_body": "Audit finding 12, closed:\nthe original fee double-counted the retainer.",
+      "outcome": "applied",
+      "placement_id": "plc_00092",
+      "role_title": "Coordinator, Field"
+    },
+    {
+      "correction_ref": "C-0034",
+      "fee_amount": 3630.37,
+      "group": "quoted",
+      "note_body": "Rate corrected to 8,300, the offer letter had the old band.",
+      "outcome": "applied",
+      "placement_id": "plc_00090",
+      "role_title": "Engineer, Staff"
+    },
+    {
+      "correction_ref": "C-0035",
+      "fee_amount": 10624.26,
+      "group": "nl_mid",
+      "note_body": "Band moved from L4 to L5, so the rate card changes. [see 004]",
+      "outcome": "applied",
+      "placement_id": "plc_00297",
+      "role_title": "Electrician, Industrial"
+    },
+    {
+      "correction_ref": "C-0036",
+      "fee_amount": 9616.96,
+      "group": "nl_tail",
+      "note_body": "Discount agreed under the master agreement,\napplied to this placement only.",
+      "outcome": "applied",
+      "placement_id": "plc_00281",
+      "role_title": "Specialist, Benefits"
+    },
+    {
+      "correction_ref": "C-0037",
+      "fee_amount": 1906.11,
+      "group": "nl_mid",
+      "note_body": "Band moved from L4 to L5, so the rate card changes. [see 001]",
+      "outcome": "applied",
+      "placement_id": "plc_00237",
+      "role_title": "Recruiter, Technical"
+    },
+    {
+      "correction_ref": "C-0038",
+      "fee_amount": 3199.9,
+      "group": "unknown",
+      "note_body": "Discount applied under the master agreement.",
+      "outcome": "unknown",
+      "placement_id": "plc_09090",
+      "role_title": "Site Reliability Engineer"
+    },
+    {
+      "correction_ref": "C-0039",
+      "fee_amount": 9911.26,
+      "group": "plain",
+      "note_body": "Level adjusted after the probation review.",
+      "outcome": "applied",
+      "placement_id": "plc_00299",
+      "role_title": "Contract Machinist"
+    },
+    {
+      "correction_ref": "C-0040",
+      "fee_amount": 10438.71,
+      "group": "nl_mid",
+      "note_body": "Band moved from L4 to L5, so the rate card changes.",
+      "outcome": "applied",
+      "placement_id": "plc_00065",
+      "role_title": "Director, Operations"
+    },
+    {
+      "correction_ref": "C-0041",
+      "fee_amount": 9416.72,
+      "group": "nl_mid",
+      "note_body": "Band moved from L4 to L5, so the rate card changes. [see 002]",
+      "outcome": "applied",
+      "placement_id": "plc_00212",
+      "role_title": "Executive, Account"
+    },
+    {
+      "correction_ref": "C-0042",
+      "fee_amount": 11166.2,
+      "group": "nl_tail",
+      "note_body": "Salary band corrected to L5,\nso the commission moves with it.",
+      "outcome": "applied",
+      "placement_id": "plc_00273",
+      "role_title": "Officer, Compliance"
+    }
+  ],
+  "selection_seed": 20260812
+}

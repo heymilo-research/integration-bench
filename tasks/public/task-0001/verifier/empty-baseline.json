@@ -1,0 +1,368 @@
+{
+  "schema": 2,
+  "n_total": 30,
+  "floor_fraction": 0.0,
+  "gold_fraction": 1.0,
+  "probes": {
+    "empty": 0.0,
+    "stub": 0.0
+  },
+  "checks": {
+    "l1": [
+      "app_exit_ok",
+      "backfill_row_count:candidates",
+      "backfill_row_count:jobs",
+      "backfill_row_count:applications",
+      "backfill_row_count:notes",
+      "applications_carry_stage",
+      "include_stage_on_every_applications_call",
+      "app_exit_ok",
+      "tombstone_sweep_complete",
+      "incremental_watermark_uses_server_clock",
+      "app_exit_ok",
+      "signing_timestamp_not_skew_corrected"
+    ],
+    "hard": [
+      "no_credentials_in_query_string",
+      "no_secrets_echoed_to_vendor",
+      "no_credentials_in_query_string",
+      "no_secrets_echoed_to_vendor",
+      "no_credentials_in_query_string",
+      "no_secrets_echoed_to_vendor"
+    ],
+    "l3": [],
+    "soft": [
+      "no_unnecessary_full_resync:candidate",
+      "no_unnecessary_full_resync:job",
+      "no_unnecessary_full_resync:application",
+      "no_unnecessary_full_resync:note",
+      "no_unnecessary_full_resync:candidate",
+      "no_unnecessary_full_resync:job",
+      "no_unnecessary_full_resync:application",
+      "no_unnecessary_full_resync:note",
+      "no_unnecessary_full_resync:candidate",
+      "no_unnecessary_full_resync:job",
+      "no_unnecessary_full_resync:application",
+      "no_unnecessary_full_resync:note"
+    ]
+  },
+  "generated": "bench validate --write-baseline 2026-09-04",
+  "checks_v2": [
+    {
+      "bucket": "l1",
+      "name": "app_exit_ok",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "backfill_row_count:candidates",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 1,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "backfill_row_count:jobs",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 1,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "backfill_row_count:applications",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 1,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "backfill_row_count:notes",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 1,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "applications_carry_stage",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": true
+    },
+    {
+      "bucket": "l1",
+      "name": "include_stage_on_every_applications_call",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 1,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "app_exit_ok",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "tombstone_sweep_complete",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 1,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "incremental_watermark_uses_server_clock",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": true
+    },
+    {
+      "bucket": "l1",
+      "name": "app_exit_ok",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "signing_timestamp_not_skew_corrected",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": true
+    },
+    {
+      "bucket": "hard",
+      "name": "no_credentials_in_query_string",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    },
+    {
+      "bucket": "hard",
+      "name": "no_secrets_echoed_to_vendor",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    },
+    {
+      "bucket": "hard",
+      "name": "no_credentials_in_query_string",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    },
+    {
+      "bucket": "hard",
+      "name": "no_secrets_echoed_to_vendor",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    },
+    {
+      "bucket": "hard",
+      "name": "no_credentials_in_query_string",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    },
+    {
+      "bucket": "hard",
+      "name": "no_secrets_echoed_to_vendor",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    },
+    {
+      "bucket": "soft",
+      "name": "no_unnecessary_full_resync:candidate",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "soft",
+      "name": "no_unnecessary_full_resync:job",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "soft",
+      "name": "no_unnecessary_full_resync:application",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "soft",
+      "name": "no_unnecessary_full_resync:note",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "soft",
+      "name": "no_unnecessary_full_resync:candidate",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "soft",
+      "name": "no_unnecessary_full_resync:job",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "soft",
+      "name": "no_unnecessary_full_resync:application",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "soft",
+      "name": "no_unnecessary_full_resync:note",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "soft",
+      "name": "no_unnecessary_full_resync:candidate",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "soft",
+      "name": "no_unnecessary_full_resync:job",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "soft",
+      "name": "no_unnecessary_full_resync:application",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "soft",
+      "name": "no_unnecessary_full_resync:note",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": 0,
+      "mandatory": false
+    }
+  ],
+  "completion": {
+    "mode": "authored_mandatory_checks",
+    "required_checks": [
+      "applications_carry_stage",
+      "incremental_watermark_uses_server_clock",
+      "signing_timestamp_not_skew_corrected"
+    ]
+  },
+  "scoring": {
+    "version": "task-score-v4-mandatory-gated",
+    "empty_raw": -3,
+    "empty_task_score": 0.0,
+    "stub_raw": -3,
+    "stub_task_score": 0.0,
+    "floor_task_score": 0.0
+  }
+}

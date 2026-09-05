@@ -1,0 +1,14 @@
+[project]
+name = "sandhurst-rollup"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0"]
+
+[project.scripts]
+sandhurst-rollup = "sandhurst_rollup.cli:_entrypoint"
+
+[tool.setuptools.packages.find]
+where = ["src"]

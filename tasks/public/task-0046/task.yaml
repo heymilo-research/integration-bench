@@ -1,0 +1,109 @@
+id: task-0046
+title: Deliver the scorecard export into TalentLoop, files and all
+category: build
+vendor: talentloop
+surfaces:
+- writeback
+- polling
+tier: 2
+primary_mechanic: attachment_sidecar_upload
+track: python
+timeout_minutes: 60
+doc_profile: stale
+scenarios:
+- attachment_sidecar_delivery
+l3_scenarios: []
+entry:
+  command:
+  - python
+  - -m
+  - talentloop_scorecards
+outputs:
+  files:
+  - output/attachment_report.json
+  - output/quarantine.json
+vendors:
+  talentloop:
+    data_port: 8000
+    log_path: /var/log/vendor
+    checkpoint_env: CHECKPOINT
+    credentials:
+      TL_CLIENT_ID: tl-test-client-id
+      TL_CLIENT_SECRET: tl-test-client-secret
+    auth:
+      token_endpoint: /token
+      token_ttl: 3600
+    vendor:
+      base_path: ''
+    entities:
+      candidate:
+        plural: candidates
+    pagination:
+      style: cursor
+      cursor_param: cursor
+      incremental_params:
+      - modified_since
+    writeback:
+      idempotency:
+        header: Idempotency-Key
+status: authored
+contract:
+  schema_version: 1
+  version: 1.0.0
+  visibility: public
+  lifecycle: authored
+  vendor_roles:
+    talentloop:
+      vendor_id: talentloop
+      checkpoint: 22
+      required_credentials:
+      - TL_CLIENT_ID
+      - TL_CLIENT_SECRET
+      api_url_env: TALENTLOOP_BASE_URL
+      docs_url_env: TALENTLOOP_DOCS_URL
+  runtime:
+    profile: deterministic-v1
+    checkpoint: 22
+    limits:
+      wall_seconds: 3600
+      cpus: 2
+      memory: 2GiB
+      disk: 2GiB
+    network:
+      vendor_roles:
+      - talentloop
+      model_provider_egress: mode-dependent-allowlist
+    vendor_roles:
+      talentloop:
+        environment:
+          TL_ATTACHMENTS: '1'
+  participant:
+    workspace_allowlist:
+    - PROBLEM.md
+    - repo/**
+    - materials/**
+    - inputs/**
+    entry_command:
+    - python
+    - -m
+    - talentloop_scorecards
+    outputs:
+    - output/attachment_report.json
+    - output/quarantine.json
+    persistent_state:
+    - repo/output/**
+    runtime_environment:
+      INPUT_FILE: /app/input/scorecards.json
+    persistent_mounts: []
+  verifier:
+    entry_command:
+    - python
+    - -m
+    - bench.verifier
+    - --task
+    - .
+    trusted_inputs:
+    - task.yaml
+    - verifier/fixtures/**
+    - verifier/scenarios/**
+    - vendor-logs/**

@@ -1,0 +1,105 @@
+id: task-0017
+title: Move the Brightmoor candidate mirror onto TalentForge's event subscription
+category: migrate
+vendor: talentforge
+surfaces:
+- polling
+- webhooks
+tier: 3
+primary_mechanic: poll_to_event_source_switch
+track: python
+timeout_minutes: 60
+doc_profile: stale
+scenarios:
+- poll_to_event_source_switch
+l3_scenarios: []
+entry:
+  command:
+  - python
+  - -m
+  - tf_event_cutover
+outputs:
+  files:
+  - output/mirror.json
+  - output/change_ledger.json
+  - output/state.json
+vendors:
+  talentforge:
+    data_port: 8000
+    log_path: /var/log/vendor
+    checkpoint_env: CHECKPOINT
+    credentials:
+      TF_CLIENT_ID: talentforge-test-client_id
+      TF_CLIENT_SECRET: talentforge-test-client_secret
+      TF_WEBHOOK_SECRET: tf-test-webhook-secret
+    auth:
+      token_endpoint: /oauth/token
+      token_ttl: 600
+    vendor:
+      base_path: /rest
+    entities:
+      candidate:
+        plural: candidates
+status: authored
+contract:
+  schema_version: 1
+  version: 1.0.0
+  visibility: public
+  lifecycle: authored
+  vendor_roles:
+    talentforge:
+      vendor_id: talentforge
+      checkpoint: 20
+      required_credentials:
+      - TF_CLIENT_ID
+      - TF_CLIENT_SECRET
+      - TF_WEBHOOK_SECRET
+      api_url_env: TALENTFORGE_BASE_URL
+      docs_url_env: TALENTFORGE_DOCS_URL
+  runtime:
+    profile: deterministic-v1
+    checkpoint: 20
+    limits:
+      wall_seconds: 3600
+      cpus: 2
+      memory: 2GiB
+      disk: 2GiB
+    network:
+      vendor_roles:
+      - talentforge
+      model_provider_egress: mode-dependent-allowlist
+    vendor_roles:
+      talentforge:
+        environment:
+          WEBHOOK_TARGET: http://connector:4000/webhooks/talentforge
+          TAMPER_INJECT: '1'
+  participant:
+    workspace_allowlist:
+    - PROBLEM.md
+    - repo/**
+    - materials/**
+    - inputs/**
+    entry_command:
+    - python
+    - -m
+    - tf_event_cutover
+    outputs:
+    - output/mirror.json
+    - output/change_ledger.json
+    - output/state.json
+    persistent_state:
+    - repo/output/**
+    runtime_environment: {}
+    persistent_mounts: []
+  verifier:
+    entry_command:
+    - python
+    - -m
+    - bench.verifier
+    - --task
+    - .
+    trusted_inputs:
+    - task.yaml
+    - verifier/fixtures/**
+    - verifier/scenarios/**
+    - vendor-logs/**

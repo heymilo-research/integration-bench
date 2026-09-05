@@ -1,0 +1,99 @@
+id: task-0022
+title: 'GlobalHire: 6k-record backfill under rate limits and injected 500s — honor
+  Retry-After, resume mid-page, converge'
+category: harden
+vendor: globalhire
+surfaces:
+- polling
+tier: 3
+primary_mechanic: rate_limit_gated_resume_convergence
+track: python
+timeout_minutes: 60
+doc_profile: stale
+scenarios:
+- backfill_under_faults
+- incremental_under_faults
+entry:
+  command:
+  - python
+  - -m
+  - globalhire_sync
+outputs:
+  files:
+  - output/candidates.json
+vendors:
+  globalhire:
+    data_port: 8000
+    log_path: /var/log/vendor
+    checkpoint_env: CHECKPOINT
+    credentials:
+      GH_API_KEY: gh-test-api-key
+    entities:
+      candidate:
+        id_prefix: cand
+        plural: candidates
+    vendor:
+      base_path: /v1
+    pagination:
+      style: offset
+      offset_param: offset
+      limit_param: limit
+contract:
+  schema_version: 1
+  version: 1.0.0
+  visibility: public
+  lifecycle: authored
+  vendor_roles:
+    globalhire:
+      vendor_id: globalhire
+      checkpoint: 0
+      required_credentials:
+      - GH_API_KEY
+      api_url_env: GLOBALHIRE_BASE_URL
+      docs_url_env: GLOBALHIRE_DOCS_URL
+  runtime:
+    profile: deterministic-v1
+    checkpoint: 0
+    limits:
+      wall_seconds: 3600
+      cpus: 2
+      memory: 2GiB
+      disk: 2GiB
+    network:
+      vendor_roles:
+      - globalhire
+      model_provider_egress: mode-dependent-allowlist
+    vendor_roles:
+      globalhire:
+        environment:
+          FAULT_5XX_ON_PAGE: '3000:2'
+          FAULT_RATE_LIMIT: '1'
+          GH_RATE_LIMIT: '25'
+  participant:
+    workspace_allowlist:
+    - PROBLEM.md
+    - repo/**
+    - materials/**
+    - inputs/**
+    entry_command:
+    - python
+    - -m
+    - globalhire_sync
+    outputs:
+    - output/candidates.json
+    persistent_state:
+    - repo/output/**
+    runtime_environment: {}
+    persistent_mounts: []
+  verifier:
+    entry_command:
+    - python
+    - -m
+    - bench.verifier
+    - --task
+    - .
+    trusted_inputs:
+    - task.yaml
+    - verifier/fixtures/**
+    - verifier/scenarios/**
+    - vendor-logs/**

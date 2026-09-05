@@ -1,0 +1,156 @@
+id: task-0011
+title: 'TalentForge -> Onboardly event bridge: id-only webhooks drive exactly-once
+  packet provisioning across vendors, under 20s list lag'
+category: build
+vendor: talentforge
+surfaces:
+- webhooks
+- writeback
+tier: 3
+primary_mechanic: cross_vendor_id_only_webhook_provisioning
+track: python
+timeout_minutes: 60
+doc_profile: stale
+l3_scenarios:
+- tamper_rejection
+- placed_candidate_provisioning
+scenarios:
+- webhook_freshness
+- writeback_exactly_once
+- tamper_rejection
+- placed_candidate_provisioning
+entry:
+  command:
+  - python
+  - -m
+  - talentforge_hooks
+outputs:
+  files:
+  - output/candidates.json
+  - output/applications.json
+  - output/writeback_result.json
+  - output/bridge_result.json
+vendors:
+  talentforge:
+    data_port: 8000
+    log_path: /var/log/vendor
+    checkpoint_env: CHECKPOINT
+    credentials:
+      TF_CLIENT_ID: tf-test-client-id
+      TF_CLIENT_SECRET: tf-test-client-secret
+      TF_WEBHOOK_SECRET: tf-test-webhook-secret
+    auth:
+      token_endpoint: /oauth/token
+      token_ttl: 600
+    vendor:
+      base_path: /rest
+    webhooks:
+      enabled: true
+      signing:
+        algorithm: hmac-sha256
+        signature_header: X-TF-Signature
+        timestamp_header: X-TF-Timestamp
+        secret_env: TF_WEBHOOK_SECRET
+        max_skew_s: 300
+    writeback:
+      idempotency:
+        header: Idempotency-Key
+        window_s: 3600
+      read_after_write_lag_s: 20
+  onboardly:
+    data_port: 8000
+    log_path: /var/log/vendor
+    checkpoint_env: CHECKPOINT
+    credentials:
+      OB_API_KEY: ob-test-api-key
+    entities:
+      template:
+        id_prefix: tpl
+        plural: templates
+      packet:
+        id_prefix: pkt
+        plural: packets
+    vendor:
+      base_path: /v1
+    pagination:
+      style: offset
+      offset_param: offset
+      limit_param: limit
+    writeback:
+      idempotency:
+        header: Idempotency-Key
+        window_s: 3600
+contract:
+  schema_version: 1
+  version: 1.0.0
+  visibility: public
+  lifecycle: authored
+  vendor_roles:
+    talentforge:
+      vendor_id: talentforge
+      checkpoint: 0
+      required_credentials:
+      - TF_CLIENT_ID
+      - TF_CLIENT_SECRET
+      - TF_WEBHOOK_SECRET
+      api_url_env: TALENTFORGE_BASE_URL
+      docs_url_env: TALENTFORGE_DOCS_URL
+    onboardly:
+      vendor_id: onboardly
+      checkpoint: 0
+      required_credentials:
+      - OB_API_KEY
+      api_url_env: ONBOARDLY_BASE_URL
+      docs_url_env: ONBOARDLY_DOCS_URL
+  runtime:
+    profile: deterministic-v1
+    checkpoint: 0
+    limits:
+      wall_seconds: 3600
+      cpus: 2
+      memory: 2GiB
+      disk: 2GiB
+    network:
+      vendor_roles:
+      - onboardly
+      - talentforge
+      model_provider_egress: mode-dependent-allowlist
+    vendor_roles:
+      talentforge:
+        environment:
+          WEBHOOK_TARGET: http://connector:4000/webhooks/talentforge
+          TAMPER_INJECT: '1'
+      onboardly:
+        environment: {}
+  participant:
+    workspace_allowlist:
+    - PROBLEM.md
+    - repo/**
+    - materials/**
+    - inputs/**
+    entry_command:
+    - python
+    - -m
+    - talentforge_hooks
+    outputs:
+    - output/candidates.json
+    - output/applications.json
+    - output/writeback_result.json
+    - output/bridge_result.json
+    persistent_state:
+    - repo/output/**
+    runtime_environment:
+      INPUT_FILE: /app/input/pending_writeback.json
+    persistent_mounts: []
+  verifier:
+    entry_command:
+    - python
+    - -m
+    - bench.verifier
+    - --task
+    - .
+    trusted_inputs:
+    - task.yaml
+    - verifier/fixtures/**
+    - verifier/scenarios/**
+    - vendor-logs/**

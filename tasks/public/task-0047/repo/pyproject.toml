@@ -1,0 +1,14 @@
+[project]
+name = "globalhire-mobility"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0"]
+
+[project.scripts]
+globalhire-mobility = "globalhire_mobility.cli:entrypoint"
+
+[tool.setuptools.packages.find]
+where = ["src"]

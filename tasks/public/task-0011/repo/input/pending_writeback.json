@@ -1,0 +1,33 @@
+{
+  "events": [
+    {
+      "client_ref": "wb-001-note",
+      "kind": "note",
+      "candidate_id": "cand_0010",
+      "body": "Reference check completed; strong fit for backend roles.",
+      "author": "sync-bot@tf.test"
+    },
+    {
+      "client_ref": "wb-002-stage",
+      "kind": "candidate_update",
+      "candidate_id": "cand_0020",
+      "fields": {"pipeline_status": "placed"}
+    },
+    {
+      "client_ref": "wb-003-create",
+      "kind": "candidate_create",
+      "fields": {
+        "given_name": "Priya",
+        "family_name": "Shah",
+        "email": "priya.shah@example.test"
+      }
+    },
+    {
+      "client_ref": "wb-004-bad-note",
+      "kind": "note",
+      "candidate_id": "cand_0030",
+      "body": "",
+      "author": "sync-bot@tf.test"
+    }
+  ]
+}

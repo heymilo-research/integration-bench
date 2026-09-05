@@ -1,0 +1,1751 @@
+{
+  "blind_window_ids": [
+    "wkr_0101",
+    "wkr_0102",
+    "wkr_0103",
+    "wkr_0104",
+    "wkr_0105",
+    "wkr_0106",
+    "wkr_0107",
+    "wkr_0108",
+    "wkr_0109",
+    "wkr_0110",
+    "wkr_0111",
+    "wkr_0112",
+    "wkr_0113",
+    "wkr_0114",
+    "wkr_0115",
+    "wkr_0116",
+    "wkr_0117",
+    "wkr_0118",
+    "wkr_0119",
+    "wkr_0120",
+    "wkr_0190",
+    "wkr_0191",
+    "wkr_0192",
+    "wkr_0193",
+    "wkr_0194"
+  ],
+  "blind_window_people": [
+    "amara.diallo@crew.test",
+    "charles.wang@crew.test",
+    "florence.rossi@crew.test",
+    "jean.tan@crew.test",
+    "katherine.ibarra@crew.test",
+    "katherine.quinn@crew.test",
+    "linus.mbeki@crew.test",
+    "nadia.okonkwo@crew.test",
+    "oliver.wang@crew.test",
+    "richard.santos@crew.test",
+    "ursula.oduya@crew.test",
+    "vera.ueda@crew.test"
+  ],
+  "checkpoints": {
+    "topup": 88
+  },
+  "created_people": [
+    {
+      "crew_email": "blaise.haas@crew.test",
+      "crew_name": "Blaise Haas",
+      "crew_phone": "+1-555-7032",
+      "existing_worker_id": "",
+      "outcome": "created",
+      "person_key": "blaise.haas@crew.test",
+      "placement_refs": [
+        "IV-2632",
+        "IV-2643",
+        "IV-2654"
+      ],
+      "records_on_the_address": [
+        "wkr_0038"
+      ],
+      "removed_records_on_the_address": [
+        "wkr_0038"
+      ]
+    },
+    {
+      "crew_email": "charles.larsen@crew.test",
+      "crew_name": "Charles Larsen",
+      "crew_phone": "+1-555-9719",
+      "existing_worker_id": "",
+      "outcome": "created",
+      "person_key": "charles.larsen@crew.test",
+      "placement_refs": [
+        "IV-2620",
+        "IV-2630",
+        "IV-2641"
+      ],
+      "records_on_the_address": [
+        "wkr_0040"
+      ],
+      "removed_records_on_the_address": [
+        "wkr_0040"
+      ]
+    },
+    {
+      "crew_email": "fatima.kowalski@crew.test",
+      "crew_name": "Fatima Kowalski",
+      "crew_phone": "+1-555-8252",
+      "existing_worker_id": "",
+      "outcome": "created",
+      "person_key": "fatima.kowalski@crew.test",
+      "placement_refs": [
+        "IV-2610",
+        "IV-2657",
+        "IV-2667"
+      ],
+      "records_on_the_address": [
+        "wkr_0034"
+      ],
+      "removed_records_on_the_address": [
+        "wkr_0034"
+      ]
+    },
+    {
+      "crew_email": "grace.yamada@crew.test",
+      "crew_name": "Grace Yamada",
+      "crew_phone": "+1-555-5951",
+      "existing_worker_id": "",
+      "outcome": "created",
+      "person_key": "grace.yamada@crew.test",
+      "placement_refs": [
+        "IV-2602",
+        "IV-2613",
+        "IV-2660"
+      ],
+      "records_on_the_address": [
+        "wkr_0039"
+      ],
+      "removed_records_on_the_address": [
+        "wkr_0039"
+      ]
+    },
+    {
+      "crew_email": "katherine.haas@crew.test",
+      "crew_name": "Katherine Haas",
+      "crew_phone": "+1-555-4754",
+      "existing_worker_id": "",
+      "outcome": "created",
+      "person_key": "katherine.haas@crew.test",
+      "placement_refs": [
+        "IV-2604",
+        "IV-2615",
+        "IV-2625"
+      ],
+      "records_on_the_address": [
+        "wkr_0037"
+      ],
+      "removed_records_on_the_address": [
+        "wkr_0037"
+      ]
+    },
+    {
+      "crew_email": "linus.tan@crew.test",
+      "crew_name": "Linus Tan",
+      "crew_phone": "+1-555-6694",
+      "existing_worker_id": "",
+      "outcome": "created",
+      "person_key": "linus.tan@crew.test",
+      "placement_refs": [
+        "IV-2628",
+        "IV-2640",
+        "IV-2651"
+      ],
+      "records_on_the_address": [
+        "wkr_0033"
+      ],
+      "removed_records_on_the_address": [
+        "wkr_0033"
+      ]
+    },
+    {
+      "crew_email": "linus.yamada@crew.test",
+      "crew_name": "Linus Yamada",
+      "crew_phone": "+1-555-2435",
+      "existing_worker_id": "",
+      "outcome": "created",
+      "person_key": "linus.yamada@crew.test",
+      "placement_refs": [
+        "IV-2617",
+        "IV-2627",
+        "IV-2638"
+      ],
+      "records_on_the_address": [
+        "wkr_0035"
+      ],
+      "removed_records_on_the_address": [
+        "wkr_0035"
+      ]
+    },
+    {
+      "crew_email": "marisol.okafor@ironvale.test",
+      "crew_name": "Marisol Okafor",
+      "crew_phone": "+1-555-3311",
+      "existing_worker_id": "",
+      "outcome": "created",
+      "person_key": "marisol.okafor@ironvale.test",
+      "placement_refs": [
+        "IV-2648"
+      ],
+      "records_on_the_address": [],
+      "removed_records_on_the_address": []
+    },
+    {
+      "crew_email": "niamh.doherty@ironvale.test",
+      "crew_name": "Niamh Doherty",
+      "crew_phone": "+1-555-3313",
+      "existing_worker_id": "",
+      "outcome": "created",
+      "person_key": "niamh.doherty@ironvale.test",
+      "placement_refs": [
+        "IV-2635"
+      ],
+      "records_on_the_address": [],
+      "removed_records_on_the_address": []
+    },
+    {
+      "crew_email": "peggy.zhang@crew.test",
+      "crew_name": "Peggy Zhang",
+      "crew_phone": "+1-555-4951",
+      "existing_worker_id": "",
+      "outcome": "created",
+      "person_key": "peggy.zhang@crew.test",
+      "placement_refs": [
+        "IV-2645",
+        "IV-2656",
+        "IV-2665"
+      ],
+      "records_on_the_address": [
+        "wkr_0036"
+      ],
+      "removed_records_on_the_address": [
+        "wkr_0036"
+      ]
+    },
+    {
+      "crew_email": "teodor.vasilev@ironvale.test",
+      "crew_name": "Teodor Vasilev",
+      "crew_phone": "+1-555-3312",
+      "existing_worker_id": "",
+      "outcome": "created",
+      "person_key": "teodor.vasilev@ironvale.test",
+      "placement_refs": [
+        "IV-2607"
+      ],
+      "records_on_the_address": [],
+      "removed_records_on_the_address": []
+    }
+  ],
+  "expected_created_count": 11,
+  "expected_live_workers_after": 127,
+  "expected_matched_count": 23,
+  "expected_roster_rows_after": 136,
+  "fault_window": {
+    "offset": 100,
+    "page_ordinal": 2,
+    "sweep_limit": 50
+  },
+  "list_path": "/v1/workers",
+  "live_ids_before": [
+    "wkr_0001",
+    "wkr_0002",
+    "wkr_0003",
+    "wkr_0004",
+    "wkr_0005",
+    "wkr_0006",
+    "wkr_0007",
+    "wkr_0008",
+    "wkr_0009",
+    "wkr_0010",
+    "wkr_0011",
+    "wkr_0012",
+    "wkr_0014",
+    "wkr_0015",
+    "wkr_0016",
+    "wkr_0017",
+    "wkr_0018",
+    "wkr_0019",
+    "wkr_0020",
+    "wkr_0021",
+    "wkr_0022",
+    "wkr_0023",
+    "wkr_0024",
+    "wkr_0025",
+    "wkr_0026",
+    "wkr_0027",
+    "wkr_0028",
+    "wkr_0029",
+    "wkr_0030",
+    "wkr_0031",
+    "wkr_0032",
+    "wkr_0041",
+    "wkr_0042",
+    "wkr_0043",
+    "wkr_0044",
+    "wkr_0045",
+    "wkr_0046",
+    "wkr_0047",
+    "wkr_0048",
+    "wkr_0049",
+    "wkr_0050",
+    "wkr_0051",
+    "wkr_0052",
+    "wkr_0053",
+    "wkr_0054",
+    "wkr_0055",
+    "wkr_0056",
+    "wkr_0057",
+    "wkr_0058",
+    "wkr_0059",
+    "wkr_0060",
+    "wkr_0061",
+    "wkr_0062",
+    "wkr_0063",
+    "wkr_0064",
+    "wkr_0065",
+    "wkr_0066",
+    "wkr_0067",
+    "wkr_0068",
+    "wkr_0069",
+    "wkr_0070",
+    "wkr_0071",
+    "wkr_0072",
+    "wkr_0073",
+    "wkr_0074",
+    "wkr_0075",
+    "wkr_0076",
+    "wkr_0077",
+    "wkr_0078",
+    "wkr_0079",
+    "wkr_0080",
+    "wkr_0081",
+    "wkr_0082",
+    "wkr_0083",
+    "wkr_0084",
+    "wkr_0085",
+    "wkr_0086",
+    "wkr_0087",
+    "wkr_0088",
+    "wkr_0089",
+    "wkr_0090",
+    "wkr_0091",
+    "wkr_0092",
+    "wkr_0093",
+    "wkr_0094",
+    "wkr_0095",
+    "wkr_0096",
+    "wkr_0097",
+    "wkr_0098",
+    "wkr_0099",
+    "wkr_0100",
+    "wkr_0101",
+    "wkr_0102",
+    "wkr_0103",
+    "wkr_0104",
+    "wkr_0105",
+    "wkr_0106",
+    "wkr_0107",
+    "wkr_0108",
+    "wkr_0109",
+    "wkr_0110",
+    "wkr_0111",
+    "wkr_0112",
+    "wkr_0113",
+    "wkr_0114",
+    "wkr_0115",
+    "wkr_0116",
+    "wkr_0117",
+    "wkr_0118",
+    "wkr_0119",
+    "wkr_0120",
+    "wkr_0190",
+    "wkr_0191",
+    "wkr_0192",
+    "wkr_0193",
+    "wkr_0194"
+  ],
+  "live_rows_before": 116,
+  "matched_people": [
+    {
+      "crew_email": "amara.diallo@crew.test",
+      "crew_name": "Amara Diallo",
+      "crew_phone": "+1-555-0192",
+      "existing_worker_id": "wkr_0192",
+      "outcome": "matched",
+      "person_key": "amara.diallo@crew.test",
+      "placement_refs": [
+        "IV-2612",
+        "IV-2668"
+      ],
+      "records_on_the_address": [
+        "wkr_0192"
+      ],
+      "removed_records_on_the_address": []
+    },
+    {
+      "crew_email": "blaise.petrov@crew.test",
+      "crew_name": "Blaise Petrov",
+      "crew_phone": "+1-555-5692",
+      "existing_worker_id": "wkr_0067",
+      "outcome": "matched",
+      "person_key": "blaise.petrov@crew.test",
+      "placement_refs": [
+        "IV-2603",
+        "IV-2661"
+      ],
+      "records_on_the_address": [
+        "wkr_0067"
+      ],
+      "removed_records_on_the_address": []
+    },
+    {
+      "crew_email": "charles.wang@crew.test",
+      "crew_name": "Charles Wang",
+      "crew_phone": "+1-555-6475",
+      "existing_worker_id": "wkr_0107",
+      "outcome": "matched",
+      "person_key": "charles.wang@crew.test",
+      "placement_refs": [
+        "IV-2652",
+        "IV-2662"
+      ],
+      "records_on_the_address": [
+        "wkr_0107"
+      ],
+      "removed_records_on_the_address": []
+    },
+    {
+      "crew_email": "cyrus.wang@crew.test",
+      "crew_name": "Cyrus Wang",
+      "crew_phone": "+1-555-2395",
+      "existing_worker_id": "wkr_0082",
+      "outcome": "matched",
+      "person_key": "cyrus.wang@crew.test",
+      "placement_refs": [
+        "IV-2649",
+        "IV-2659"
+      ],
+      "records_on_the_address": [
+        "wkr_0082"
+      ],
+      "removed_records_on_the_address": []
+    },
+    {
+      "crew_email": "emmy.jansen@crew.test",
+      "crew_name": "Emmy Jansen",
+      "crew_phone": "+1-555-7085",
+      "existing_worker_id": "wkr_0084",
+      "outcome": "matched",
+      "person_key": "emmy.jansen@crew.test",
+      "placement_refs": [
+        "IV-2646"
+      ],
+      "records_on_the_address": [
+        "wkr_0084"
+      ],
+      "removed_records_on_the_address": []
+    },
+    {
+      "crew_email": "emmy.quinn@crew.test",
+      "crew_name": "Emmy Quinn",
+      "crew_phone": "+1-555-9931",
+      "existing_worker_id": "wkr_0091",
+      "outcome": "matched",
+      "person_key": "emmy.quinn@crew.test",
+      "placement_refs": [
+        "IV-2608",
+        "IV-2619"
+      ],
+      "records_on_the_address": [
+        "wkr_0091"
+      ],
+      "removed_records_on_the_address": []
+    },
+    {
+      "crew_email": "florence.rossi@crew.test",
+      "crew_name": "Florence Rossi",
+      "crew_phone": "+1-555-1529",
+      "existing_worker_id": "wkr_0101",
+      "outcome": "matched",
+      "person_key": "florence.rossi@crew.test",
+      "placement_refs": [
+        "IV-2636",
+        "IV-2647"
+      ],
+      "records_on_the_address": [
+        "wkr_0101"
+      ],
+      "removed_records_on_the_address": []
+    },
+    {
+      "crew_email": "grace.ibarra@crew.test",
+      "crew_name": "Grace Ibarra",
+      "crew_phone": "+1-555-1626",
+      "existing_worker_id": "wkr_0051",
+      "outcome": "matched",
+      "person_key": "grace.ibarra@crew.test",
+      "placement_refs": [
+        "IV-2605",
+        "IV-2616"
+      ],
+      "records_on_the_address": [
+        "wkr_0051"
+      ],
+      "removed_records_on_the_address": []
+    },
+    {
+      "crew_email": "hedy.oduya@crew.test",
+      "crew_name": "Hedy Oduya",
+      "crew_phone": "+1-555-1553",
+      "existing_worker_id": "wkr_0074",
+      "outcome": "matched",
+      "person_key": "hedy.oduya@crew.test",
+      "placement_refs": [
+        "IV-2621",
+        "IV-2631"
+      ],
+      "records_on_the_address": [
+        "wkr_0074"
+      ],
+      "removed_records_on_the_address": []
+    },
+    {
+      "crew_email": "jean.tan@crew.test",
+      "crew_name": "Jean Tan",
+      "crew_phone": "+1-555-9600",
+      "existing_worker_id": "wkr_0113",
+      "outcome": "matched",
+      "person_key": "jean.tan@crew.test",
+      "placement_refs": [
+        "IV-2609",
+        "IV-2666"
+      ],
+      "records_on_the_address": [
+        "wkr_0113"
+      ],
+      "removed_records_on_the_address": []
+    },
+    {
+      "crew_email": "katherine.ibarra@crew.test",
+      "crew_name": "Katherine Ibarra",
+      "crew_phone": "+1-555-4276",
+      "existing_worker_id": "wkr_0115",
+      "outcome": "matched",
+      "person_key": "katherine.ibarra@crew.test",
+      "placement_refs": [
+        "IV-2626",
+        "IV-2637"
+      ],
+      "records_on_the_address": [
+        "wkr_0115"
+      ],
+      "removed_records_on_the_address": []
+    },
+    {
+      "crew_email": "katherine.quinn@crew.test",
+      "crew_name": "Katherine Quinn",
+      "crew_phone": "+1-555-9485",
+      "existing_worker_id": "wkr_0109",
+      "outcome": "matched",
+      "person_key": "katherine.quinn@crew.test",
+      "placement_refs": [
+        "IV-2611",
+        "IV-2622"
+      ],
+      "records_on_the_address": [
+        "wkr_0109"
+      ],
+      "removed_records_on_the_address": []
+    },
+    {
+      "crew_email": "linus.mbeki@crew.test",
+      "crew_name": "Linus Mbeki",
+      "crew_phone": "+1-555-2528",
+      "existing_worker_id": "wkr_0117",
+      "outcome": "matched",
+      "person_key": "linus.mbeki@crew.test",
+      "placement_refs": [
+        "IV-2655",
+        "IV-2664"
+      ],
+      "records_on_the_address": [
+        "wkr_0117"
+      ],
+      "removed_records_on_the_address": []
+    },
+    {
+      "crew_email": "marie.ibarra@crew.test",
+      "crew_name": "Marie Ibarra",
+      "crew_phone": "+1-555-5843",
+      "existing_worker_id": "wkr_0059",
+      "outcome": "matched",
+      "person_key": "marie.ibarra@crew.test",
+      "placement_refs": [
+        "IV-2633",
+        "IV-2644"
+      ],
+      "records_on_the_address": [
+        "wkr_0059"
+      ],
+      "removed_records_on_the_address": []
+    },
+    {
+      "crew_email": "nadia.okonkwo@crew.test",
+      "crew_name": "Nadia Okonkwo",
+      "crew_phone": "+1-555-0900",
+      "existing_worker_id": "wkr_0190",
+      "outcome": "matched",
+      "person_key": "nadia.okonkwo@crew.test",
+      "placement_refs": [
+        "IV-2642",
+        "IV-2653"
+      ],
+      "records_on_the_address": [
+        "wkr_0190"
+      ],
+      "removed_records_on_the_address": []
+    },
+    {
+      "crew_email": "oliver.wang@crew.test",
+      "crew_name": "Oliver Wang",
+      "crew_phone": "+1-555-6624",
+      "existing_worker_id": "wkr_0102",
+      "outcome": "matched",
+      "person_key": "oliver.wang@crew.test",
+      "placement_refs": [
+        "IV-2606",
+        "IV-2663"
+      ],
+      "records_on_the_address": [
+        "wkr_0102"
+      ],
+      "removed_records_on_the_address": []
+    },
+    {
+      "crew_email": "richard.santos@crew.test",
+      "crew_name": "Richard Santos",
+      "crew_phone": "+1-555-5924",
+      "existing_worker_id": "wkr_0110",
+      "outcome": "matched",
+      "person_key": "richard.santos@crew.test",
+      "placement_refs": [
+        "IV-2639",
+        "IV-2650"
+      ],
+      "records_on_the_address": [
+        "wkr_0110"
+      ],
+      "removed_records_on_the_address": []
+    },
+    {
+      "crew_email": "sophie.nakamura@crew.test",
+      "crew_name": "Sophie Nakamura",
+      "crew_phone": "+1-555-6295",
+      "existing_worker_id": "wkr_0032",
+      "outcome": "matched",
+      "person_key": "sophie.nakamura@crew.test",
+      "placement_refs": [
+        "IV-2618"
+      ],
+      "records_on_the_address": [
+        "wkr_0032"
+      ],
+      "removed_records_on_the_address": []
+    },
+    {
+      "crew_email": "ursula.mbeki@crew.test",
+      "crew_name": "Ursula Mbeki",
+      "crew_phone": "+1-555-7865",
+      "existing_worker_id": "wkr_0011",
+      "outcome": "matched",
+      "person_key": "ursula.mbeki@crew.test",
+      "placement_refs": [
+        "IV-2629"
+      ],
+      "records_on_the_address": [
+        "wkr_0011"
+      ],
+      "removed_records_on_the_address": []
+    },
+    {
+      "crew_email": "ursula.oduya@crew.test",
+      "crew_name": "Ursula Oduya",
+      "crew_phone": "+1-555-4525",
+      "existing_worker_id": "wkr_0118",
+      "outcome": "matched",
+      "person_key": "ursula.oduya@crew.test",
+      "placement_refs": [
+        "IV-2614",
+        "IV-2624"
+      ],
+      "records_on_the_address": [
+        "wkr_0118"
+      ],
+      "removed_records_on_the_address": []
+    },
+    {
+      "crew_email": "ursula.tan@crew.test",
+      "crew_name": "Ursula Tan",
+      "crew_phone": "+1-555-6233",
+      "existing_worker_id": "wkr_0001",
+      "outcome": "matched",
+      "person_key": "ursula.tan@crew.test",
+      "placement_refs": [
+        "IV-2601"
+      ],
+      "records_on_the_address": [
+        "wkr_0001"
+      ],
+      "removed_records_on_the_address": []
+    },
+    {
+      "crew_email": "vera.ueda@crew.test",
+      "crew_name": "Vera Ueda",
+      "crew_phone": "+1-555-4030",
+      "existing_worker_id": "wkr_0104",
+      "outcome": "matched",
+      "person_key": "vera.ueda@crew.test",
+      "placement_refs": [
+        "IV-2623",
+        "IV-2634"
+      ],
+      "records_on_the_address": [
+        "wkr_0104"
+      ],
+      "removed_records_on_the_address": []
+    },
+    {
+      "crew_email": "walter.tan@crew.test",
+      "crew_name": "Walter Tan",
+      "crew_phone": "+1-555-9501",
+      "existing_worker_id": "wkr_0021",
+      "outcome": "matched",
+      "person_key": "walter.tan@crew.test",
+      "placement_refs": [
+        "IV-2658"
+      ],
+      "records_on_the_address": [
+        "wkr_0021"
+      ],
+      "removed_records_on_the_address": []
+    }
+  ],
+  "over_limit_blind_people": [
+    "amara.diallo@crew.test",
+    "blaise.petrov@crew.test",
+    "charles.wang@crew.test",
+    "cyrus.wang@crew.test",
+    "emmy.quinn@crew.test",
+    "florence.rossi@crew.test",
+    "grace.ibarra@crew.test",
+    "hedy.oduya@crew.test",
+    "jean.tan@crew.test",
+    "katherine.ibarra@crew.test",
+    "katherine.quinn@crew.test",
+    "linus.mbeki@crew.test",
+    "marie.ibarra@crew.test",
+    "nadia.okonkwo@crew.test",
+    "oliver.wang@crew.test",
+    "richard.santos@crew.test",
+    "ursula.oduya@crew.test",
+    "vera.ueda@crew.test"
+  ],
+  "over_limit_sweep_rows": 53,
+  "people": [
+    {
+      "crew_email": "amara.diallo@crew.test",
+      "crew_name": "Amara Diallo",
+      "crew_phone": "+1-555-0192",
+      "existing_worker_id": "wkr_0192",
+      "outcome": "matched",
+      "person_key": "amara.diallo@crew.test",
+      "placement_refs": [
+        "IV-2612",
+        "IV-2668"
+      ],
+      "records_on_the_address": [
+        "wkr_0192"
+      ],
+      "removed_records_on_the_address": []
+    },
+    {
+      "crew_email": "blaise.haas@crew.test",
+      "crew_name": "Blaise Haas",
+      "crew_phone": "+1-555-7032",
+      "existing_worker_id": "",
+      "outcome": "created",
+      "person_key": "blaise.haas@crew.test",
+      "placement_refs": [
+        "IV-2632",
+        "IV-2643",
+        "IV-2654"
+      ],
+      "records_on_the_address": [
+        "wkr_0038"
+      ],
+      "removed_records_on_the_address": [
+        "wkr_0038"
+      ]
+    },
+    {
+      "crew_email": "blaise.petrov@crew.test",
+      "crew_name": "Blaise Petrov",
+      "crew_phone": "+1-555-5692",
+      "existing_worker_id": "wkr_0067",
+      "outcome": "matched",
+      "person_key": "blaise.petrov@crew.test",
+      "placement_refs": [
+        "IV-2603",
+        "IV-2661"
+      ],
+      "records_on_the_address": [
+        "wkr_0067"
+      ],
+      "removed_records_on_the_address": []
+    },
+    {
+      "crew_email": "charles.larsen@crew.test",
+      "crew_name": "Charles Larsen",
+      "crew_phone": "+1-555-9719",
+      "existing_worker_id": "",
+      "outcome": "created",
+      "person_key": "charles.larsen@crew.test",
+      "placement_refs": [
+        "IV-2620",
+        "IV-2630",
+        "IV-2641"
+      ],
+      "records_on_the_address": [
+        "wkr_0040"
+      ],
+      "removed_records_on_the_address": [
+        "wkr_0040"
+      ]
+    },
+    {
+      "crew_email": "charles.wang@crew.test",
+      "crew_name": "Charles Wang",
+      "crew_phone": "+1-555-6475",
+      "existing_worker_id": "wkr_0107",
+      "outcome": "matched",
+      "person_key": "charles.wang@crew.test",
+      "placement_refs": [
+        "IV-2652",
+        "IV-2662"
+      ],
+      "records_on_the_address": [
+        "wkr_0107"
+      ],
+      "removed_records_on_the_address": []
+    },
+    {
+      "crew_email": "cyrus.wang@crew.test",
+      "crew_name": "Cyrus Wang",
+      "crew_phone": "+1-555-2395",
+      "existing_worker_id": "wkr_0082",
+      "outcome": "matched",
+      "person_key": "cyrus.wang@crew.test",
+      "placement_refs": [
+        "IV-2649",
+        "IV-2659"
+      ],
+      "records_on_the_address": [
+        "wkr_0082"
+      ],
+      "removed_records_on_the_address": []
+    },
+    {
+      "crew_email": "emmy.jansen@crew.test",
+      "crew_name": "Emmy Jansen",
+      "crew_phone": "+1-555-7085",
+      "existing_worker_id": "wkr_0084",
+      "outcome": "matched",
+      "person_key": "emmy.jansen@crew.test",
+      "placement_refs": [
+        "IV-2646"
+      ],
+      "records_on_the_address": [
+        "wkr_0084"
+      ],
+      "removed_records_on_the_address": []
+    },
+    {
+      "crew_email": "emmy.quinn@crew.test",
+      "crew_name": "Emmy Quinn",
+      "crew_phone": "+1-555-9931",
+      "existing_worker_id": "wkr_0091",
+      "outcome": "matched",
+      "person_key": "emmy.quinn@crew.test",
+      "placement_refs": [
+        "IV-2608",
+        "IV-2619"
+      ],
+      "records_on_the_address": [
+        "wkr_0091"
+      ],
+      "removed_records_on_the_address": []
+    },
+    {
+      "crew_email": "fatima.kowalski@crew.test",
+      "crew_name": "Fatima Kowalski",
+      "crew_phone": "+1-555-8252",
+      "existing_worker_id": "",
+      "outcome": "created",
+      "person_key": "fatima.kowalski@crew.test",
+      "placement_refs": [
+        "IV-2610",
+        "IV-2657",
+        "IV-2667"
+      ],
+      "records_on_the_address": [
+        "wkr_0034"
+      ],
+      "removed_records_on_the_address": [
+        "wkr_0034"
+      ]
+    },
+    {
+      "crew_email": "florence.rossi@crew.test",
+      "crew_name": "Florence Rossi",
+      "crew_phone": "+1-555-1529",
+      "existing_worker_id": "wkr_0101",
+      "outcome": "matched",
+      "person_key": "florence.rossi@crew.test",
+      "placement_refs": [
+        "IV-2636",
+        "IV-2647"
+      ],
+      "records_on_the_address": [
+        "wkr_0101"
+      ],
+      "removed_records_on_the_address": []
+    },
+    {
+      "crew_email": "grace.ibarra@crew.test",
+      "crew_name": "Grace Ibarra",
+      "crew_phone": "+1-555-1626",
+      "existing_worker_id": "wkr_0051",
+      "outcome": "matched",
+      "person_key": "grace.ibarra@crew.test",
+      "placement_refs": [
+        "IV-2605",
+        "IV-2616"
+      ],
+      "records_on_the_address": [
+        "wkr_0051"
+      ],
+      "removed_records_on_the_address": []
+    },
+    {
+      "crew_email": "grace.yamada@crew.test",
+      "crew_name": "Grace Yamada",
+      "crew_phone": "+1-555-5951",
+      "existing_worker_id": "",
+      "outcome": "created",
+      "person_key": "grace.yamada@crew.test",
+      "placement_refs": [
+        "IV-2602",
+        "IV-2613",
+        "IV-2660"
+      ],
+      "records_on_the_address": [
+        "wkr_0039"
+      ],
+      "removed_records_on_the_address": [
+        "wkr_0039"
+      ]
+    },
+    {
+      "crew_email": "hedy.oduya@crew.test",
+      "crew_name": "Hedy Oduya",
+      "crew_phone": "+1-555-1553",
+      "existing_worker_id": "wkr_0074",
+      "outcome": "matched",
+      "person_key": "hedy.oduya@crew.test",
+      "placement_refs": [
+        "IV-2621",
+        "IV-2631"
+      ],
+      "records_on_the_address": [
+        "wkr_0074"
+      ],
+      "removed_records_on_the_address": []
+    },
+    {
+      "crew_email": "jean.tan@crew.test",
+      "crew_name": "Jean Tan",
+      "crew_phone": "+1-555-9600",
+      "existing_worker_id": "wkr_0113",
+      "outcome": "matched",
+      "person_key": "jean.tan@crew.test",
+      "placement_refs": [
+        "IV-2609",
+        "IV-2666"
+      ],
+      "records_on_the_address": [
+        "wkr_0113"
+      ],
+      "removed_records_on_the_address": []
+    },
+    {
+      "crew_email": "katherine.haas@crew.test",
+      "crew_name": "Katherine Haas",
+      "crew_phone": "+1-555-4754",
+      "existing_worker_id": "",
+      "outcome": "created",
+      "person_key": "katherine.haas@crew.test",
+      "placement_refs": [
+        "IV-2604",
+        "IV-2615",
+        "IV-2625"
+      ],
+      "records_on_the_address": [
+        "wkr_0037"
+      ],
+      "removed_records_on_the_address": [
+        "wkr_0037"
+      ]
+    },
+    {
+      "crew_email": "katherine.ibarra@crew.test",
+      "crew_name": "Katherine Ibarra",
+      "crew_phone": "+1-555-4276",
+      "existing_worker_id": "wkr_0115",
+      "outcome": "matched",
+      "person_key": "katherine.ibarra@crew.test",
+      "placement_refs": [
+        "IV-2626",
+        "IV-2637"
+      ],
+      "records_on_the_address": [
+        "wkr_0115"
+      ],
+      "removed_records_on_the_address": []
+    },
+    {
+      "crew_email": "katherine.quinn@crew.test",
+      "crew_name": "Katherine Quinn",
+      "crew_phone": "+1-555-9485",
+      "existing_worker_id": "wkr_0109",
+      "outcome": "matched",
+      "person_key": "katherine.quinn@crew.test",
+      "placement_refs": [
+        "IV-2611",
+        "IV-2622"
+      ],
+      "records_on_the_address": [
+        "wkr_0109"
+      ],
+      "removed_records_on_the_address": []
+    },
+    {
+      "crew_email": "linus.mbeki@crew.test",
+      "crew_name": "Linus Mbeki",
+      "crew_phone": "+1-555-2528",
+      "existing_worker_id": "wkr_0117",
+      "outcome": "matched",
+      "person_key": "linus.mbeki@crew.test",
+      "placement_refs": [
+        "IV-2655",
+        "IV-2664"
+      ],
+      "records_on_the_address": [
+        "wkr_0117"
+      ],
+      "removed_records_on_the_address": []
+    },
+    {
+      "crew_email": "linus.tan@crew.test",
+      "crew_name": "Linus Tan",
+      "crew_phone": "+1-555-6694",
+      "existing_worker_id": "",
+      "outcome": "created",
+      "person_key": "linus.tan@crew.test",
+      "placement_refs": [
+        "IV-2628",
+        "IV-2640",
+        "IV-2651"
+      ],
+      "records_on_the_address": [
+        "wkr_0033"
+      ],
+      "removed_records_on_the_address": [
+        "wkr_0033"
+      ]
+    },
+    {
+      "crew_email": "linus.yamada@crew.test",
+      "crew_name": "Linus Yamada",
+      "crew_phone": "+1-555-2435",
+      "existing_worker_id": "",
+      "outcome": "created",
+      "person_key": "linus.yamada@crew.test",
+      "placement_refs": [
+        "IV-2617",
+        "IV-2627",
+        "IV-2638"
+      ],
+      "records_on_the_address": [
+        "wkr_0035"
+      ],
+      "removed_records_on_the_address": [
+        "wkr_0035"
+      ]
+    },
+    {
+      "crew_email": "marie.ibarra@crew.test",
+      "crew_name": "Marie Ibarra",
+      "crew_phone": "+1-555-5843",
+      "existing_worker_id": "wkr_0059",
+      "outcome": "matched",
+      "person_key": "marie.ibarra@crew.test",
+      "placement_refs": [
+        "IV-2633",
+        "IV-2644"
+      ],
+      "records_on_the_address": [
+        "wkr_0059"
+      ],
+      "removed_records_on_the_address": []
+    },
+    {
+      "crew_email": "marisol.okafor@ironvale.test",
+      "crew_name": "Marisol Okafor",
+      "crew_phone": "+1-555-3311",
+      "existing_worker_id": "",
+      "outcome": "created",
+      "person_key": "marisol.okafor@ironvale.test",
+      "placement_refs": [
+        "IV-2648"
+      ],
+      "records_on_the_address": [],
+      "removed_records_on_the_address": []
+    },
+    {
+      "crew_email": "nadia.okonkwo@crew.test",
+      "crew_name": "Nadia Okonkwo",
+      "crew_phone": "+1-555-0900",
+      "existing_worker_id": "wkr_0190",
+      "outcome": "matched",
+      "person_key": "nadia.okonkwo@crew.test",
+      "placement_refs": [
+        "IV-2642",
+        "IV-2653"
+      ],
+      "records_on_the_address": [
+        "wkr_0190"
+      ],
+      "removed_records_on_the_address": []
+    },
+    {
+      "crew_email": "niamh.doherty@ironvale.test",
+      "crew_name": "Niamh Doherty",
+      "crew_phone": "+1-555-3313",
+      "existing_worker_id": "",
+      "outcome": "created",
+      "person_key": "niamh.doherty@ironvale.test",
+      "placement_refs": [
+        "IV-2635"
+      ],
+      "records_on_the_address": [],
+      "removed_records_on_the_address": []
+    },
+    {
+      "crew_email": "oliver.wang@crew.test",
+      "crew_name": "Oliver Wang",
+      "crew_phone": "+1-555-6624",
+      "existing_worker_id": "wkr_0102",
+      "outcome": "matched",
+      "person_key": "oliver.wang@crew.test",
+      "placement_refs": [
+        "IV-2606",
+        "IV-2663"
+      ],
+      "records_on_the_address": [
+        "wkr_0102"
+      ],
+      "removed_records_on_the_address": []
+    },
+    {
+      "crew_email": "peggy.zhang@crew.test",
+      "crew_name": "Peggy Zhang",
+      "crew_phone": "+1-555-4951",
+      "existing_worker_id": "",
+      "outcome": "created",
+      "person_key": "peggy.zhang@crew.test",
+      "placement_refs": [
+        "IV-2645",
+        "IV-2656",
+        "IV-2665"
+      ],
+      "records_on_the_address": [
+        "wkr_0036"
+      ],
+      "removed_records_on_the_address": [
+        "wkr_0036"
+      ]
+    },
+    {
+      "crew_email": "richard.santos@crew.test",
+      "crew_name": "Richard Santos",
+      "crew_phone": "+1-555-5924",
+      "existing_worker_id": "wkr_0110",
+      "outcome": "matched",
+      "person_key": "richard.santos@crew.test",
+      "placement_refs": [
+        "IV-2639",
+        "IV-2650"
+      ],
+      "records_on_the_address": [
+        "wkr_0110"
+      ],
+      "removed_records_on_the_address": []
+    },
+    {
+      "crew_email": "sophie.nakamura@crew.test",
+      "crew_name": "Sophie Nakamura",
+      "crew_phone": "+1-555-6295",
+      "existing_worker_id": "wkr_0032",
+      "outcome": "matched",
+      "person_key": "sophie.nakamura@crew.test",
+      "placement_refs": [
+        "IV-2618"
+      ],
+      "records_on_the_address": [
+        "wkr_0032"
+      ],
+      "removed_records_on_the_address": []
+    },
+    {
+      "crew_email": "teodor.vasilev@ironvale.test",
+      "crew_name": "Teodor Vasilev",
+      "crew_phone": "+1-555-3312",
+      "existing_worker_id": "",
+      "outcome": "created",
+      "person_key": "teodor.vasilev@ironvale.test",
+      "placement_refs": [
+        "IV-2607"
+      ],
+      "records_on_the_address": [],
+      "removed_records_on_the_address": []
+    },
+    {
+      "crew_email": "ursula.mbeki@crew.test",
+      "crew_name": "Ursula Mbeki",
+      "crew_phone": "+1-555-7865",
+      "existing_worker_id": "wkr_0011",
+      "outcome": "matched",
+      "person_key": "ursula.mbeki@crew.test",
+      "placement_refs": [
+        "IV-2629"
+      ],
+      "records_on_the_address": [
+        "wkr_0011"
+      ],
+      "removed_records_on_the_address": []
+    },
+    {
+      "crew_email": "ursula.oduya@crew.test",
+      "crew_name": "Ursula Oduya",
+      "crew_phone": "+1-555-4525",
+      "existing_worker_id": "wkr_0118",
+      "outcome": "matched",
+      "person_key": "ursula.oduya@crew.test",
+      "placement_refs": [
+        "IV-2614",
+        "IV-2624"
+      ],
+      "records_on_the_address": [
+        "wkr_0118"
+      ],
+      "removed_records_on_the_address": []
+    },
+    {
+      "crew_email": "ursula.tan@crew.test",
+      "crew_name": "Ursula Tan",
+      "crew_phone": "+1-555-6233",
+      "existing_worker_id": "wkr_0001",
+      "outcome": "matched",
+      "person_key": "ursula.tan@crew.test",
+      "placement_refs": [
+        "IV-2601"
+      ],
+      "records_on_the_address": [
+        "wkr_0001"
+      ],
+      "removed_records_on_the_address": []
+    },
+    {
+      "crew_email": "vera.ueda@crew.test",
+      "crew_name": "Vera Ueda",
+      "crew_phone": "+1-555-4030",
+      "existing_worker_id": "wkr_0104",
+      "outcome": "matched",
+      "person_key": "vera.ueda@crew.test",
+      "placement_refs": [
+        "IV-2623",
+        "IV-2634"
+      ],
+      "records_on_the_address": [
+        "wkr_0104"
+      ],
+      "removed_records_on_the_address": []
+    },
+    {
+      "crew_email": "walter.tan@crew.test",
+      "crew_name": "Walter Tan",
+      "crew_phone": "+1-555-9501",
+      "existing_worker_id": "wkr_0021",
+      "outcome": "matched",
+      "person_key": "walter.tan@crew.test",
+      "placement_refs": [
+        "IV-2658"
+      ],
+      "records_on_the_address": [
+        "wkr_0021"
+      ],
+      "removed_records_on_the_address": []
+    }
+  ],
+  "person_count": 34,
+  "roster_ids_before": [
+    "wkr_0001",
+    "wkr_0002",
+    "wkr_0003",
+    "wkr_0004",
+    "wkr_0005",
+    "wkr_0006",
+    "wkr_0007",
+    "wkr_0008",
+    "wkr_0009",
+    "wkr_0010",
+    "wkr_0011",
+    "wkr_0012",
+    "wkr_0013",
+    "wkr_0014",
+    "wkr_0015",
+    "wkr_0016",
+    "wkr_0017",
+    "wkr_0018",
+    "wkr_0019",
+    "wkr_0020",
+    "wkr_0021",
+    "wkr_0022",
+    "wkr_0023",
+    "wkr_0024",
+    "wkr_0025",
+    "wkr_0026",
+    "wkr_0027",
+    "wkr_0028",
+    "wkr_0029",
+    "wkr_0030",
+    "wkr_0031",
+    "wkr_0032",
+    "wkr_0033",
+    "wkr_0034",
+    "wkr_0035",
+    "wkr_0036",
+    "wkr_0037",
+    "wkr_0038",
+    "wkr_0039",
+    "wkr_0040",
+    "wkr_0041",
+    "wkr_0042",
+    "wkr_0043",
+    "wkr_0044",
+    "wkr_0045",
+    "wkr_0046",
+    "wkr_0047",
+    "wkr_0048",
+    "wkr_0049",
+    "wkr_0050",
+    "wkr_0051",
+    "wkr_0052",
+    "wkr_0053",
+    "wkr_0054",
+    "wkr_0055",
+    "wkr_0056",
+    "wkr_0057",
+    "wkr_0058",
+    "wkr_0059",
+    "wkr_0060",
+    "wkr_0061",
+    "wkr_0062",
+    "wkr_0063",
+    "wkr_0064",
+    "wkr_0065",
+    "wkr_0066",
+    "wkr_0067",
+    "wkr_0068",
+    "wkr_0069",
+    "wkr_0070",
+    "wkr_0071",
+    "wkr_0072",
+    "wkr_0073",
+    "wkr_0074",
+    "wkr_0075",
+    "wkr_0076",
+    "wkr_0077",
+    "wkr_0078",
+    "wkr_0079",
+    "wkr_0080",
+    "wkr_0081",
+    "wkr_0082",
+    "wkr_0083",
+    "wkr_0084",
+    "wkr_0085",
+    "wkr_0086",
+    "wkr_0087",
+    "wkr_0088",
+    "wkr_0089",
+    "wkr_0090",
+    "wkr_0091",
+    "wkr_0092",
+    "wkr_0093",
+    "wkr_0094",
+    "wkr_0095",
+    "wkr_0096",
+    "wkr_0097",
+    "wkr_0098",
+    "wkr_0099",
+    "wkr_0100",
+    "wkr_0101",
+    "wkr_0102",
+    "wkr_0103",
+    "wkr_0104",
+    "wkr_0105",
+    "wkr_0106",
+    "wkr_0107",
+    "wkr_0108",
+    "wkr_0109",
+    "wkr_0110",
+    "wkr_0111",
+    "wkr_0112",
+    "wkr_0113",
+    "wkr_0114",
+    "wkr_0115",
+    "wkr_0116",
+    "wkr_0117",
+    "wkr_0118",
+    "wkr_0119",
+    "wkr_0120",
+    "wkr_0190",
+    "wkr_0191",
+    "wkr_0192",
+    "wkr_0193",
+    "wkr_0194"
+  ],
+  "roster_rows_before": 125,
+  "row_count": 68,
+  "rows": [
+    {
+      "person_key": "ursula.tan@crew.test",
+      "placement_ref": "IV-2601"
+    },
+    {
+      "person_key": "grace.yamada@crew.test",
+      "placement_ref": "IV-2602"
+    },
+    {
+      "person_key": "blaise.petrov@crew.test",
+      "placement_ref": "IV-2603"
+    },
+    {
+      "person_key": "katherine.haas@crew.test",
+      "placement_ref": "IV-2604"
+    },
+    {
+      "person_key": "grace.ibarra@crew.test",
+      "placement_ref": "IV-2605"
+    },
+    {
+      "person_key": "oliver.wang@crew.test",
+      "placement_ref": "IV-2606"
+    },
+    {
+      "person_key": "teodor.vasilev@ironvale.test",
+      "placement_ref": "IV-2607"
+    },
+    {
+      "person_key": "emmy.quinn@crew.test",
+      "placement_ref": "IV-2608"
+    },
+    {
+      "person_key": "jean.tan@crew.test",
+      "placement_ref": "IV-2609"
+    },
+    {
+      "person_key": "fatima.kowalski@crew.test",
+      "placement_ref": "IV-2610"
+    },
+    {
+      "person_key": "katherine.quinn@crew.test",
+      "placement_ref": "IV-2611"
+    },
+    {
+      "person_key": "amara.diallo@crew.test",
+      "placement_ref": "IV-2612"
+    },
+    {
+      "person_key": "grace.yamada@crew.test",
+      "placement_ref": "IV-2613"
+    },
+    {
+      "person_key": "ursula.oduya@crew.test",
+      "placement_ref": "IV-2614"
+    },
+    {
+      "person_key": "katherine.haas@crew.test",
+      "placement_ref": "IV-2615"
+    },
+    {
+      "person_key": "grace.ibarra@crew.test",
+      "placement_ref": "IV-2616"
+    },
+    {
+      "person_key": "linus.yamada@crew.test",
+      "placement_ref": "IV-2617"
+    },
+    {
+      "person_key": "sophie.nakamura@crew.test",
+      "placement_ref": "IV-2618"
+    },
+    {
+      "person_key": "emmy.quinn@crew.test",
+      "placement_ref": "IV-2619"
+    },
+    {
+      "person_key": "charles.larsen@crew.test",
+      "placement_ref": "IV-2620"
+    },
+    {
+      "person_key": "hedy.oduya@crew.test",
+      "placement_ref": "IV-2621"
+    },
+    {
+      "person_key": "katherine.quinn@crew.test",
+      "placement_ref": "IV-2622"
+    },
+    {
+      "person_key": "vera.ueda@crew.test",
+      "placement_ref": "IV-2623"
+    },
+    {
+      "person_key": "ursula.oduya@crew.test",
+      "placement_ref": "IV-2624"
+    },
+    {
+      "person_key": "katherine.haas@crew.test",
+      "placement_ref": "IV-2625"
+    },
+    {
+      "person_key": "katherine.ibarra@crew.test",
+      "placement_ref": "IV-2626"
+    },
+    {
+      "person_key": "linus.yamada@crew.test",
+      "placement_ref": "IV-2627"
+    },
+    {
+      "person_key": "linus.tan@crew.test",
+      "placement_ref": "IV-2628"
+    },
+    {
+      "person_key": "ursula.mbeki@crew.test",
+      "placement_ref": "IV-2629"
+    },
+    {
+      "person_key": "charles.larsen@crew.test",
+      "placement_ref": "IV-2630"
+    },
+    {
+      "person_key": "hedy.oduya@crew.test",
+      "placement_ref": "IV-2631"
+    },
+    {
+      "person_key": "blaise.haas@crew.test",
+      "placement_ref": "IV-2632"
+    },
+    {
+      "person_key": "marie.ibarra@crew.test",
+      "placement_ref": "IV-2633"
+    },
+    {
+      "person_key": "vera.ueda@crew.test",
+      "placement_ref": "IV-2634"
+    },
+    {
+      "person_key": "niamh.doherty@ironvale.test",
+      "placement_ref": "IV-2635"
+    },
+    {
+      "person_key": "florence.rossi@crew.test",
+      "placement_ref": "IV-2636"
+    },
+    {
+      "person_key": "katherine.ibarra@crew.test",
+      "placement_ref": "IV-2637"
+    },
+    {
+      "person_key": "linus.yamada@crew.test",
+      "placement_ref": "IV-2638"
+    },
+    {
+      "person_key": "richard.santos@crew.test",
+      "placement_ref": "IV-2639"
+    },
+    {
+      "person_key": "linus.tan@crew.test",
+      "placement_ref": "IV-2640"
+    },
+    {
+      "person_key": "charles.larsen@crew.test",
+      "placement_ref": "IV-2641"
+    },
+    {
+      "person_key": "nadia.okonkwo@crew.test",
+      "placement_ref": "IV-2642"
+    },
+    {
+      "person_key": "blaise.haas@crew.test",
+      "placement_ref": "IV-2643"
+    },
+    {
+      "person_key": "marie.ibarra@crew.test",
+      "placement_ref": "IV-2644"
+    },
+    {
+      "person_key": "peggy.zhang@crew.test",
+      "placement_ref": "IV-2645"
+    },
+    {
+      "person_key": "emmy.jansen@crew.test",
+      "placement_ref": "IV-2646"
+    },
+    {
+      "person_key": "florence.rossi@crew.test",
+      "placement_ref": "IV-2647"
+    },
+    {
+      "person_key": "marisol.okafor@ironvale.test",
+      "placement_ref": "IV-2648"
+    },
+    {
+      "person_key": "cyrus.wang@crew.test",
+      "placement_ref": "IV-2649"
+    },
+    {
+      "person_key": "richard.santos@crew.test",
+      "placement_ref": "IV-2650"
+    },
+    {
+      "person_key": "linus.tan@crew.test",
+      "placement_ref": "IV-2651"
+    },
+    {
+      "person_key": "charles.wang@crew.test",
+      "placement_ref": "IV-2652"
+    },
+    {
+      "person_key": "nadia.okonkwo@crew.test",
+      "placement_ref": "IV-2653"
+    },
+    {
+      "person_key": "blaise.haas@crew.test",
+      "placement_ref": "IV-2654"
+    },
+    {
+      "person_key": "linus.mbeki@crew.test",
+      "placement_ref": "IV-2655"
+    },
+    {
+      "person_key": "peggy.zhang@crew.test",
+      "placement_ref": "IV-2656"
+    },
+    {
+      "person_key": "fatima.kowalski@crew.test",
+      "placement_ref": "IV-2657"
+    },
+    {
+      "person_key": "walter.tan@crew.test",
+      "placement_ref": "IV-2658"
+    },
+    {
+      "person_key": "cyrus.wang@crew.test",
+      "placement_ref": "IV-2659"
+    },
+    {
+      "person_key": "grace.yamada@crew.test",
+      "placement_ref": "IV-2660"
+    },
+    {
+      "person_key": "blaise.petrov@crew.test",
+      "placement_ref": "IV-2661"
+    },
+    {
+      "person_key": "charles.wang@crew.test",
+      "placement_ref": "IV-2662"
+    },
+    {
+      "person_key": "oliver.wang@crew.test",
+      "placement_ref": "IV-2663"
+    },
+    {
+      "person_key": "linus.mbeki@crew.test",
+      "placement_ref": "IV-2664"
+    },
+    {
+      "person_key": "peggy.zhang@crew.test",
+      "placement_ref": "IV-2665"
+    },
+    {
+      "person_key": "jean.tan@crew.test",
+      "placement_ref": "IV-2666"
+    },
+    {
+      "person_key": "fatima.kowalski@crew.test",
+      "placement_ref": "IV-2667"
+    },
+    {
+      "person_key": "amara.diallo@crew.test",
+      "placement_ref": "IV-2668"
+    }
+  ],
+  "shared_addresses_before": [
+    "blaise.quinn@crew.test",
+    "charles.oduya@crew.test",
+    "enzo.rossi@crew.test",
+    "grace.rossi@crew.test",
+    "peggy.costa@crew.test",
+    "sophie.byrne@crew.test"
+  ],
+  "single_pass_misses_by_limit": {
+    "10": [
+      "wkr_0076",
+      "wkr_0084",
+      "wkr_0100"
+    ],
+    "25": [
+      "wkr_0076",
+      "wkr_0084",
+      "wkr_0100"
+    ],
+    "50": [
+      "wkr_0084"
+    ]
+  },
+  "tombstone_only_people": [
+    "blaise.haas@crew.test",
+    "charles.larsen@crew.test",
+    "fatima.kowalski@crew.test",
+    "grace.yamada@crew.test",
+    "katherine.haas@crew.test",
+    "linus.tan@crew.test",
+    "linus.yamada@crew.test",
+    "peggy.zhang@crew.test"
+  ],
+  "vendor_env": {
+    "FAULT_5XX_ON_PAGE": "2:3"
+  },
+  "write_path": "/v1/workers"
+}

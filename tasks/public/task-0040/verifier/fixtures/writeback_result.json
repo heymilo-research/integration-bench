@@ -1,0 +1,24 @@
+{
+  "reschedules": [
+    {
+      "client_ref": "resched-1",
+      "interview_id": "itv_0100",
+      "requested_scheduled_at": "2026-04-10T16:30:00Z",
+      "idempotency_key": "reschedule:resched-1",
+      "status": "committed",
+      "confirmation_event_id": "evt_wb_00001",
+      "ok": true,
+      "error": null
+    },
+    {
+      "client_ref": "resched-2",
+      "interview_id": "itv_0105",
+      "requested_scheduled_at": null,
+      "idempotency_key": "reschedule:resched-2",
+      "status": "failed",
+      "confirmation_event_id": null,
+      "ok": false,
+      "error": { "errors": { "scheduled_at": ["is required"] } }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "op": "createNote",
+    "candidate_id": "cand_0001",
+    "ok": true,
+    "id": "note_0081",
+    "err": null
+  },
+  {
+    "op": "createNote",
+    "candidate_id": "cand_0002",
+    "ok": false,
+    "id": null,
+    "err": "MISSING note_text"
+  },
+  {
+    "op": "updateCandidate",
+    "candidate_id": "cand_0042",
+    "ok": true,
+    "id": "cand_0042",
+    "err": null
+  }
+]

@@ -1,0 +1,24 @@
+name: Public CI
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  public-contracts:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v6
+        with:
+          enable-cache: true
+      - run: uv sync --project harness --extra dev
+      - run: uv run --project harness ruff format --check harness/bench harness/tests
+      - run: uv run --project harness ruff check harness/bench harness/tests
+      - run: uv run --project harness pytest -q harness/tests
+      - run: uv run --project harness bench scoring-status --tasks-dir tasks/public --enforce
+      - run: uv run --project harness bench validate-suite --tasks-dir tasks/public --enforce

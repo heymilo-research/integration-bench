@@ -1,0 +1,17 @@
+#!/bin/sh
+set -eu
+
+repo_dir=$(CDPATH= cd -- "$(dirname -- "$0")" && pwd)
+python_bin="$repo_dir/.venv/bin/python"
+
+if [ ! -x "$python_bin" ] && [ "${1:-}" = "setup" ]; then
+  shift
+  exec python3 "$repo_dir/setup.py" "$@"
+fi
+
+if [ ! -x "$python_bin" ]; then
+  echo "bench: missing .venv; run: ./bench setup" >&2
+  exit 2
+fi
+
+exec "$python_bin" -m bench.cli "$@"

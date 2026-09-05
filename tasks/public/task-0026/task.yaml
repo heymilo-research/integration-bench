@@ -1,0 +1,113 @@
+id: task-0026
+title: Join the two quarter-close exports before writing a fee back to Placemint
+category: build
+vendor: placemint
+surfaces:
+- polling
+- writeback
+tier: 3
+primary_mechanic: two_file_join_before_upsert
+track: python
+timeout_minutes: 60
+doc_profile: 'true'
+scenarios:
+- quarter_close_two_file_join
+l3_scenarios: []
+entry:
+  command:
+  - python
+  - -m
+  - placemint_quarter_close
+  - close-quarter
+outputs:
+  files:
+  - output/close_report.json
+vendors:
+  placemint:
+    data_port: 8000
+    log_path: /var/log/vendor
+    checkpoint_env: CHECKPOINT
+    credentials:
+      PM_CLIENT_ID: placemint-test-client_id
+      PM_CLIENT_SECRET: placemint-test-client_secret
+    auth:
+      token_endpoint: /oauth/token
+      token_ttl: 60
+    vendor:
+      base_path: /api
+    pagination:
+      style: offset
+      offset_param: offset
+      limit_param: limit
+      total_in_response: true
+    writeback:
+      idempotency:
+        header: Idempotency-Key
+        window_s: 3600
+      read_after_write_lag_s: 0
+    entities:
+      placement:
+        id_prefix: plc
+        plural: placements
+status: authored
+contract:
+  schema_version: 1
+  version: 1.0.0
+  visibility: public
+  lifecycle: authored
+  vendor_roles:
+    placemint:
+      vendor_id: placemint
+      checkpoint: 56
+      required_credentials:
+      - PM_CLIENT_ID
+      - PM_CLIENT_SECRET
+      api_url_env: PLACEMINT_BASE_URL
+      docs_url_env: PLACEMINT_DOCS_URL
+  runtime:
+    profile: deterministic-v1
+    checkpoint: 56
+    limits:
+      wall_seconds: 3600
+      cpus: 2
+      memory: 2GiB
+      disk: 2GiB
+    network:
+      vendor_roles:
+      - placemint
+      model_provider_egress: mode-dependent-allowlist
+    vendor_roles:
+      placemint:
+        environment:
+          DATASET_SIZE: '400'
+  participant:
+    workspace_allowlist:
+    - PROBLEM.md
+    - repo/**
+    - materials/**
+    - inputs/**
+    entry_command:
+    - python
+    - -m
+    - placemint_quarter_close
+    - close-quarter
+    outputs:
+    - output/close_report.json
+    persistent_state:
+    - repo/output/**
+    runtime_environment:
+      INVOICES_FILE: /app/input/invoices.csv
+      LINES_FILE: /app/input/placement_lines.csv
+    persistent_mounts: []
+  verifier:
+    entry_command:
+    - python
+    - -m
+    - bench.verifier
+    - --task
+    - .
+    trusted_inputs:
+    - task.yaml
+    - verifier/fixtures/**
+    - verifier/scenarios/**
+    - vendor-logs/**

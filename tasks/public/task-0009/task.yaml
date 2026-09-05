@@ -1,0 +1,112 @@
+id: task-0009
+title: 'Bullpen: legacy X-BP-App-Token auth sunset -> migrate to OAuth client-credentials'
+category: migrate
+vendor: bullpen
+surfaces:
+- polling
+tier: 2
+primary_mechanic: auth_mechanism_sunset_state_preservation
+track: python
+timeout_minutes: 60
+doc_profile: stale
+scenarios:
+- legacy_backfill_then_sunset
+- oauth_hardening_under_faults
+entry:
+  command:
+  - python
+  - -m
+  - bullpen_migrate
+outputs:
+  files:
+  - output/candidates.json
+  - output/jobs.json
+  - output/applications.json
+  - output/state.json
+vendors:
+  bullpen:
+    data_port: 8000
+    log_path: /var/log/vendor
+    checkpoint_env: CHECKPOINT
+    credentials:
+      BP_CLIENT_ID: bp-test-client-id
+      BP_CLIENT_SECRET: bp-test-client-secret
+      BP_APP_TOKEN: bp-test-app-token
+    auth:
+      token_endpoint: /oauth/token
+      token_ttl: 300
+    vendor:
+      base_path: /v2
+    pagination:
+      style: cursor
+      cursor_param: cursor
+    writeback: {}
+    entities:
+      candidate:
+        plural: candidates
+      job:
+        plural: jobs
+      application:
+        plural: applications
+contract:
+  schema_version: 1
+  version: 1.0.0
+  visibility: public
+  lifecycle: authored
+  vendor_roles:
+    bullpen:
+      vendor_id: bullpen
+      checkpoint: 0
+      required_credentials:
+      - BP_APP_TOKEN
+      - BP_CLIENT_ID
+      - BP_CLIENT_SECRET
+      api_url_env: BULLPEN_BASE_URL
+      docs_url_env: BULLPEN_DOCS_URL
+  runtime:
+    profile: deterministic-v1
+    checkpoint: 0
+    limits:
+      wall_seconds: 3600
+      cpus: 2
+      memory: 2GiB
+      disk: 2GiB
+    network:
+      vendor_roles:
+      - bullpen
+      model_provider_egress: mode-dependent-allowlist
+    vendor_roles:
+      bullpen:
+        environment:
+          BP_LEGACY_AUTH_ENABLED: '1'
+  participant:
+    workspace_allowlist:
+    - PROBLEM.md
+    - repo/**
+    - materials/**
+    - inputs/**
+    entry_command:
+    - python
+    - -m
+    - bullpen_migrate
+    outputs:
+    - output/candidates.json
+    - output/jobs.json
+    - output/applications.json
+    - output/state.json
+    persistent_state:
+    - repo/output/**
+    runtime_environment: {}
+    persistent_mounts: []
+  verifier:
+    entry_command:
+    - python
+    - -m
+    - bench.verifier
+    - --task
+    - .
+    trusted_inputs:
+    - task.yaml
+    - verifier/fixtures/**
+    - verifier/scenarios/**
+    - vendor-logs/**

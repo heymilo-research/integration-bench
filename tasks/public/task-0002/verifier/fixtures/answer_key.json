@@ -1,0 +1,1346 @@
+{
+  "candidate_list_view": "summary",
+  "candidate_page_size": 50,
+  "checkpoints": {
+    "backfill": 0,
+    "resweep": 5
+  },
+  "collection_path": "/rest/candidates",
+  "detail_only_fields": [
+    "phone",
+    "pipeline_status"
+  ],
+  "notes_page_size": 2,
+  "phases": {
+    "backfill": {
+      "candidate_total": 400,
+      "checkpoint": 0,
+      "custodian_count": 19,
+      "custodian_ids": [
+        "cand_0012",
+        "cand_0017",
+        "cand_0042",
+        "cand_0052",
+        "cand_0071",
+        "cand_0099",
+        "cand_0147",
+        "cand_0151",
+        "cand_0157",
+        "cand_0158",
+        "cand_0171",
+        "cand_0236",
+        "cand_0280",
+        "cand_0301",
+        "cand_0322",
+        "cand_0351",
+        "cand_0355",
+        "cand_0378",
+        "cand_0398"
+      ],
+      "custodians": {
+        "cand_0012": {
+          "candidate_id": "cand_0012",
+          "created_at": "2026-03-13T19:02:30Z",
+          "family_name": "Dirac",
+          "given_name": "Sophie",
+          "is_deleted": false,
+          "matter_ref": "LH-2043",
+          "notes": [
+            {
+              "author": "coordinator@tf.test",
+              "body": "Candidate withdrew from other processes.",
+              "created_at": "2026-01-25T21:18:50Z",
+              "note_id": "note_0027"
+            },
+            {
+              "author": "coordinator@tf.test",
+              "body": "Reference check completed, all positive.",
+              "created_at": "2026-02-26T03:26:26Z",
+              "note_id": "note_0171"
+            }
+          ],
+          "phone": "+1-555-4613",
+          "pipeline_status": "archived",
+          "roster_email": "sophie.dirac@mail.test",
+          "updated_at": "2026-03-13T19:02:30Z"
+        },
+        "cand_0017": {
+          "candidate_id": "cand_0017",
+          "created_at": "2026-02-27T14:38:35Z",
+          "family_name": "Tesla",
+          "given_name": "Xavier",
+          "is_deleted": false,
+          "matter_ref": "LH-2042",
+          "notes": [
+            {
+              "author": "recruiter@tf.test",
+              "body": "Strong technical background, moving to screen.",
+              "created_at": "2026-02-25T12:57:05Z",
+              "note_id": "note_0149"
+            },
+            {
+              "author": "hm@tf.test",
+              "body": "Strong technical background, moving to screen.",
+              "created_at": "2026-03-04T07:05:51Z",
+              "note_id": "note_0178"
+            }
+          ],
+          "phone": "+1-555-3352",
+          "pipeline_status": "submitted",
+          "roster_email": "xavier.tesla@hey.test",
+          "updated_at": "2026-02-27T14:38:35Z"
+        },
+        "cand_0042": {
+          "candidate_id": "cand_0042",
+          "created_at": "2026-01-20T16:08:21Z",
+          "family_name": "Hopper",
+          "given_name": "Ada",
+          "is_deleted": false,
+          "matter_ref": "LH-2041",
+          "notes": [],
+          "phone": "+1-555-5848",
+          "pipeline_status": "archived",
+          "roster_email": "ada.hopper@hey.test",
+          "updated_at": "2026-01-20T16:08:21Z"
+        },
+        "cand_0052": {
+          "candidate_id": "cand_0052",
+          "created_at": "2026-03-06T19:42:08Z",
+          "family_name": "Curie",
+          "given_name": "Katherine",
+          "is_deleted": false,
+          "matter_ref": "LH-2044",
+          "notes": [],
+          "phone": "+1-555-7884",
+          "pipeline_status": "submitted",
+          "roster_email": "katherine.curie@example.test",
+          "updated_at": "2026-03-06T19:42:08Z"
+        },
+        "cand_0071": {
+          "candidate_id": "cand_0071",
+          "created_at": "2026-01-28T07:45:25Z",
+          "family_name": "Babbage",
+          "given_name": "Emmy",
+          "is_deleted": false,
+          "matter_ref": "LH-2046",
+          "notes": [
+            {
+              "author": "recruiter@tf.test",
+              "body": "Salary expectations above band; revisit.",
+              "created_at": "2026-01-24T17:06:34Z",
+              "note_id": "note_0060"
+            },
+            {
+              "author": "hm@tf.test",
+              "body": "Reference check completed, all positive.",
+              "created_at": "2026-01-24T14:46:07Z",
+              "note_id": "note_0064"
+            },
+            {
+              "author": "recruiter@tf.test",
+              "body": "Reference check completed, all positive.",
+              "created_at": "2026-02-26T17:14:20Z",
+              "note_id": "note_0131"
+            }
+          ],
+          "phone": "+1-555-8598",
+          "pipeline_status": "new",
+          "roster_email": "emmy.babbage@inbox.test",
+          "updated_at": "2026-01-28T07:45:25Z"
+        },
+        "cand_0099": {
+          "candidate_id": "cand_0099",
+          "created_at": "2026-02-26T01:48:39Z",
+          "family_name": "Wright",
+          "given_name": "Vera",
+          "is_deleted": false,
+          "matter_ref": "LH-2045",
+          "notes": [],
+          "phone": "+1-555-3735",
+          "pipeline_status": "new",
+          "roster_email": "vera.wright@mail.test",
+          "updated_at": "2026-02-26T01:48:39Z"
+        },
+        "cand_0147": {
+          "candidate_id": "cand_0147",
+          "created_at": "2026-02-15T01:08:10Z",
+          "family_name": "Shannon",
+          "given_name": "Richard",
+          "is_deleted": false,
+          "matter_ref": "LH-2047",
+          "notes": [
+            {
+              "author": "recruiter@tf.test",
+              "body": "Candidate withdrew from other processes.",
+              "created_at": "2026-02-12T02:04:32Z",
+              "note_id": "note_0052"
+            }
+          ],
+          "phone": "+1-555-4204",
+          "pipeline_status": "new",
+          "roster_email": "richard.shannon@example.test",
+          "updated_at": "2026-02-15T01:08:10Z"
+        },
+        "cand_0151": {
+          "candidate_id": "cand_0151",
+          "created_at": "2026-03-08T00:47:42Z",
+          "family_name": "Pascal",
+          "given_name": "Isaac",
+          "is_deleted": false,
+          "matter_ref": "LH-2049",
+          "notes": [],
+          "phone": "+1-555-6558",
+          "pipeline_status": "new",
+          "roster_email": "isaac.pascal@example.test",
+          "updated_at": "2026-03-08T00:47:42Z"
+        },
+        "cand_0157": {
+          "candidate_id": "cand_0157",
+          "created_at": "2026-02-22T06:44:57Z",
+          "family_name": "Tesla",
+          "given_name": "Xavier",
+          "is_deleted": false,
+          "matter_ref": "LH-2042",
+          "notes": [],
+          "phone": "+1-555-1922",
+          "pipeline_status": "submitted",
+          "roster_email": "xavier.tesla@hey.test",
+          "updated_at": "2026-02-22T06:44:57Z"
+        },
+        "cand_0158": {
+          "candidate_id": "cand_0158",
+          "created_at": "2026-01-22T01:31:39Z",
+          "family_name": "Xu",
+          "given_name": "Blaise",
+          "is_deleted": false,
+          "matter_ref": "LH-2048",
+          "notes": [
+            {
+              "author": "hm@tf.test",
+              "body": "Left voicemail, awaiting callback.",
+              "created_at": "2026-02-14T20:41:03Z",
+              "note_id": "note_0001"
+            },
+            {
+              "author": "coordinator@tf.test",
+              "body": "Follow up after holiday.",
+              "created_at": "2026-03-04T10:27:16Z",
+              "note_id": "note_0118"
+            },
+            {
+              "author": "coordinator@tf.test",
+              "body": "Scheduled onsite for next week.",
+              "created_at": "2026-03-14T07:11:20Z",
+              "note_id": "note_0198"
+            }
+          ],
+          "phone": "+1-555-8531",
+          "pipeline_status": "submitted",
+          "roster_email": "blaise.xu@inbox.test",
+          "updated_at": "2026-01-22T01:31:39Z"
+        },
+        "cand_0171": {
+          "candidate_id": "cand_0171",
+          "created_at": "2026-01-19T17:05:25Z",
+          "family_name": "Ramanujan",
+          "given_name": "Oliver",
+          "is_deleted": false,
+          "matter_ref": "LH-2050",
+          "notes": [
+            {
+              "author": "coordinator@tf.test",
+              "body": "Great culture fit per hiring manager.",
+              "created_at": "2026-01-22T15:26:31Z",
+              "note_id": "note_0079"
+            },
+            {
+              "author": "hm@tf.test",
+              "body": "Scheduled onsite for next week.",
+              "created_at": "2026-03-12T07:55:23Z",
+              "note_id": "note_0129"
+            },
+            {
+              "author": "recruiter@tf.test",
+              "body": "Great culture fit per hiring manager.",
+              "created_at": "2026-03-05T17:32:13Z",
+              "note_id": "note_0174"
+            }
+          ],
+          "phone": "+1-555-2573",
+          "pipeline_status": "screening",
+          "roster_email": "oliver.ramanujan@inbox.test",
+          "updated_at": "2026-01-19T17:05:25Z"
+        },
+        "cand_0236": {
+          "candidate_id": "cand_0236",
+          "created_at": "2026-02-14T13:09:38Z",
+          "family_name": "Turing",
+          "given_name": "Dorothy",
+          "is_deleted": false,
+          "matter_ref": "LH-2051",
+          "notes": [
+            {
+              "author": "sourcer@tf.test",
+              "body": "Salary expectations above band; revisit.",
+              "created_at": "2026-02-02T03:18:23Z",
+              "note_id": "note_0048"
+            },
+            {
+              "author": "sourcer@tf.test",
+              "body": "Strong technical background, moving to screen.",
+              "created_at": "2026-03-02T06:58:55Z",
+              "note_id": "note_0082"
+            },
+            {
+              "author": "sourcer@tf.test",
+              "body": "Strong technical background, moving to screen.",
+              "created_at": "2026-01-17T15:43:04Z",
+              "note_id": "note_0185"
+            }
+          ],
+          "phone": "+1-555-7282",
+          "pipeline_status": "screening",
+          "roster_email": "dorothy.turing@hey.test",
+          "updated_at": "2026-02-14T13:09:38Z"
+        },
+        "cand_0280": {
+          "candidate_id": "cand_0280",
+          "created_at": "2026-02-03T16:44:09Z",
+          "family_name": "Ramanujan",
+          "given_name": "Katherine",
+          "is_deleted": false,
+          "matter_ref": "LH-2052",
+          "notes": [
+            {
+              "author": "coordinator@tf.test",
+              "body": "Left voicemail, awaiting callback.",
+              "created_at": "2026-01-31T17:02:39Z",
+              "note_id": "note_0007"
+            },
+            {
+              "author": "sourcer@tf.test",
+              "body": "Salary expectations above band; revisit.",
+              "created_at": "2026-01-16T16:04:08Z",
+              "note_id": "note_0044"
+            },
+            {
+              "author": "hm@tf.test",
+              "body": "Scheduled onsite for next week.",
+              "created_at": "2026-02-21T05:27:39Z",
+              "note_id": "note_0126"
+            }
+          ],
+          "phone": "+1-555-5594",
+          "pipeline_status": "submitted",
+          "roster_email": "katherine.ramanujan@inbox.test",
+          "updated_at": "2026-02-03T16:44:09Z"
+        },
+        "cand_0301": {
+          "candidate_id": "cand_0301",
+          "created_at": "2026-01-25T09:54:43Z",
+          "family_name": "Shannon",
+          "given_name": "Charles",
+          "is_deleted": false,
+          "matter_ref": "LH-2053",
+          "notes": [],
+          "phone": "+1-555-2139",
+          "pipeline_status": "submitted",
+          "roster_email": "charles.shannon@hey.test",
+          "updated_at": "2026-01-25T09:54:43Z"
+        },
+        "cand_0322": {
+          "candidate_id": "cand_0322",
+          "created_at": "2026-03-06T12:29:07Z",
+          "family_name": "Babbage",
+          "given_name": "Emmy",
+          "is_deleted": false,
+          "matter_ref": "LH-2046",
+          "notes": [],
+          "phone": "+1-555-3145",
+          "pipeline_status": "screening",
+          "roster_email": "emmy.babbage@inbox.test",
+          "updated_at": "2026-03-06T12:29:07Z"
+        },
+        "cand_0351": {
+          "candidate_id": "cand_0351",
+          "created_at": "2026-03-09T21:35:08Z",
+          "family_name": "Xu",
+          "given_name": "Katherine",
+          "is_deleted": false,
+          "matter_ref": "LH-2054",
+          "notes": [],
+          "phone": "+1-555-9343",
+          "pipeline_status": "new",
+          "roster_email": "katherine.xu@hey.test",
+          "updated_at": "2026-03-09T21:35:08Z"
+        },
+        "cand_0355": {
+          "candidate_id": "cand_0355",
+          "created_at": "2026-03-07T00:08:14Z",
+          "family_name": "Shannon",
+          "given_name": "Richard",
+          "is_deleted": false,
+          "matter_ref": "LH-2047",
+          "notes": [
+            {
+              "author": "sourcer@tf.test",
+              "body": "Great culture fit per hiring manager.",
+              "created_at": "2026-03-12T14:05:56Z",
+              "note_id": "note_0088"
+            }
+          ],
+          "phone": "+1-555-9409",
+          "pipeline_status": "placed",
+          "roster_email": "richard.shannon@example.test",
+          "updated_at": "2026-03-07T00:08:14Z"
+        },
+        "cand_0378": {
+          "candidate_id": "cand_0378",
+          "created_at": "2026-02-14T02:05:49Z",
+          "family_name": "Xu",
+          "given_name": "Charles",
+          "is_deleted": false,
+          "matter_ref": "LH-2055",
+          "notes": [
+            {
+              "author": "coordinator@tf.test",
+              "body": "Salary expectations above band; revisit.",
+              "created_at": "2026-01-14T19:41:55Z",
+              "note_id": "note_0018"
+            },
+            {
+              "author": "coordinator@tf.test",
+              "body": "Follow up after holiday.",
+              "created_at": "2026-01-25T05:01:02Z",
+              "note_id": "note_0132"
+            }
+          ],
+          "phone": "+1-555-1231",
+          "pipeline_status": "screening",
+          "roster_email": "charles.xu@hey.test",
+          "updated_at": "2026-02-14T02:05:49Z"
+        },
+        "cand_0398": {
+          "candidate_id": "cand_0398",
+          "created_at": "2026-01-21T07:05:10Z",
+          "family_name": "Curie",
+          "given_name": "Yvonne",
+          "is_deleted": false,
+          "matter_ref": "LH-2056",
+          "notes": [
+            {
+              "author": "sourcer@tf.test",
+              "body": "Great culture fit per hiring manager.",
+              "created_at": "2026-01-16T06:45:07Z",
+              "note_id": "note_0029"
+            },
+            {
+              "author": "coordinator@tf.test",
+              "body": "Strong technical background, moving to screen.",
+              "created_at": "2026-02-12T20:48:14Z",
+              "note_id": "note_0046"
+            },
+            {
+              "author": "recruiter@tf.test",
+              "body": "Left voicemail, awaiting callback.",
+              "created_at": "2026-03-07T07:12:08Z",
+              "note_id": "note_0139"
+            }
+          ],
+          "phone": "+1-555-5488",
+          "pipeline_status": "submitted",
+          "roster_email": "yvonne.curie@mail.test",
+          "updated_at": "2026-01-21T07:05:10Z"
+        }
+      },
+      "duplicate_email_groups": {
+        "emmy.babbage@inbox.test": [
+          "cand_0071",
+          "cand_0322"
+        ],
+        "richard.shannon@example.test": [
+          "cand_0147",
+          "cand_0355"
+        ],
+        "xavier.tesla@hey.test": [
+          "cand_0017",
+          "cand_0157"
+        ]
+      },
+      "last_page_custodians": [
+        "cand_0351",
+        "cand_0355",
+        "cand_0378",
+        "cand_0398"
+      ],
+      "multipage_custodians": [
+        "cand_0071",
+        "cand_0158",
+        "cand_0171",
+        "cand_0236",
+        "cand_0280",
+        "cand_0398"
+      ],
+      "note_count": 26,
+      "note_ids_by_custodian": {
+        "cand_0012": [
+          "note_0027",
+          "note_0171"
+        ],
+        "cand_0017": [
+          "note_0149",
+          "note_0178"
+        ],
+        "cand_0042": [],
+        "cand_0052": [],
+        "cand_0071": [
+          "note_0060",
+          "note_0064",
+          "note_0131"
+        ],
+        "cand_0099": [],
+        "cand_0147": [
+          "note_0052"
+        ],
+        "cand_0151": [],
+        "cand_0157": [],
+        "cand_0158": [
+          "note_0001",
+          "note_0118",
+          "note_0198"
+        ],
+        "cand_0171": [
+          "note_0079",
+          "note_0129",
+          "note_0174"
+        ],
+        "cand_0236": [
+          "note_0048",
+          "note_0082",
+          "note_0185"
+        ],
+        "cand_0280": [
+          "note_0007",
+          "note_0044",
+          "note_0126"
+        ],
+        "cand_0301": [],
+        "cand_0322": [],
+        "cand_0351": [],
+        "cand_0355": [
+          "note_0088"
+        ],
+        "cand_0378": [
+          "note_0018",
+          "note_0132"
+        ],
+        "cand_0398": [
+          "note_0029",
+          "note_0046",
+          "note_0139"
+        ]
+      },
+      "note_offsets_by_custodian": {
+        "cand_0012": [
+          0
+        ],
+        "cand_0017": [
+          0
+        ],
+        "cand_0042": [
+          0
+        ],
+        "cand_0052": [
+          0
+        ],
+        "cand_0071": [
+          0,
+          2
+        ],
+        "cand_0099": [
+          0
+        ],
+        "cand_0147": [
+          0
+        ],
+        "cand_0151": [
+          0
+        ],
+        "cand_0157": [
+          0
+        ],
+        "cand_0158": [
+          0,
+          2
+        ],
+        "cand_0171": [
+          0,
+          2
+        ],
+        "cand_0236": [
+          0,
+          2
+        ],
+        "cand_0280": [
+          0,
+          2
+        ],
+        "cand_0301": [
+          0
+        ],
+        "cand_0322": [
+          0
+        ],
+        "cand_0351": [
+          0
+        ],
+        "cand_0355": [
+          0
+        ],
+        "cand_0378": [
+          0
+        ],
+        "cand_0398": [
+          0,
+          2
+        ]
+      },
+      "parent_list_offsets": [
+        0,
+        50,
+        100,
+        150,
+        200,
+        250,
+        300,
+        350
+      ],
+      "unmatched_emails": [
+        "dana.reeve@example.test",
+        "marion.zuse@archive.test"
+      ],
+      "zero_note_custodians": [
+        "cand_0042",
+        "cand_0052",
+        "cand_0099",
+        "cand_0151",
+        "cand_0157",
+        "cand_0301",
+        "cand_0322",
+        "cand_0351"
+      ]
+    },
+    "resweep": {
+      "candidate_total": 401,
+      "checkpoint": 5,
+      "custodian_count": 20,
+      "custodian_ids": [
+        "cand_0012",
+        "cand_0017",
+        "cand_0042",
+        "cand_0052",
+        "cand_0071",
+        "cand_0099",
+        "cand_0147",
+        "cand_0151",
+        "cand_0157",
+        "cand_0158",
+        "cand_0171",
+        "cand_0236",
+        "cand_0280",
+        "cand_0301",
+        "cand_0322",
+        "cand_0351",
+        "cand_0355",
+        "cand_0378",
+        "cand_0398",
+        "cand_0900"
+      ],
+      "custodians": {
+        "cand_0012": {
+          "candidate_id": "cand_0012",
+          "created_at": "2026-03-13T19:02:30Z",
+          "family_name": "Dirac",
+          "given_name": "Sophie",
+          "is_deleted": false,
+          "matter_ref": "LH-2043",
+          "notes": [
+            {
+              "author": "coordinator@tf.test",
+              "body": "Candidate withdrew from other processes.",
+              "created_at": "2026-01-25T21:18:50Z",
+              "note_id": "note_0027"
+            },
+            {
+              "author": "coordinator@tf.test",
+              "body": "Reference check completed, all positive.",
+              "created_at": "2026-02-26T03:26:26Z",
+              "note_id": "note_0171"
+            }
+          ],
+          "phone": "+1-555-4613",
+          "pipeline_status": "archived",
+          "roster_email": "sophie.dirac@mail.test",
+          "updated_at": "2026-03-13T19:02:30Z"
+        },
+        "cand_0017": {
+          "candidate_id": "cand_0017",
+          "created_at": "2026-02-27T14:38:35Z",
+          "family_name": "Tesla",
+          "given_name": "Xavier",
+          "is_deleted": true,
+          "matter_ref": "LH-2042",
+          "notes": [
+            {
+              "author": "recruiter@tf.test",
+              "body": "Strong technical background, moving to screen.",
+              "created_at": "2026-02-25T12:57:05Z",
+              "note_id": "note_0149"
+            },
+            {
+              "author": "hm@tf.test",
+              "body": "Strong technical background, moving to screen.",
+              "created_at": "2026-03-04T07:05:51Z",
+              "note_id": "note_0178"
+            }
+          ],
+          "phone": "+1-555-3352",
+          "pipeline_status": "submitted",
+          "roster_email": "xavier.tesla@hey.test",
+          "updated_at": "2026-03-14T10:00:45Z"
+        },
+        "cand_0042": {
+          "candidate_id": "cand_0042",
+          "created_at": "2026-01-20T16:08:21Z",
+          "family_name": "Hopper",
+          "given_name": "Ada",
+          "is_deleted": false,
+          "matter_ref": "LH-2041",
+          "notes": [],
+          "phone": "+1-555-0142",
+          "pipeline_status": "archived",
+          "roster_email": "ada.hopper@hey.test",
+          "updated_at": "2026-03-14T10:00:30Z"
+        },
+        "cand_0052": {
+          "candidate_id": "cand_0052",
+          "created_at": "2026-03-06T19:42:08Z",
+          "family_name": "Curie",
+          "given_name": "Katherine",
+          "is_deleted": false,
+          "matter_ref": "LH-2044",
+          "notes": [],
+          "phone": "+1-555-7884",
+          "pipeline_status": "submitted",
+          "roster_email": "katherine.curie@example.test",
+          "updated_at": "2026-03-06T19:42:08Z"
+        },
+        "cand_0071": {
+          "candidate_id": "cand_0071",
+          "created_at": "2026-01-28T07:45:25Z",
+          "family_name": "Babbage",
+          "given_name": "Emmy",
+          "is_deleted": false,
+          "matter_ref": "LH-2046",
+          "notes": [
+            {
+              "author": "recruiter@tf.test",
+              "body": "Salary expectations above band; revisit.",
+              "created_at": "2026-01-24T17:06:34Z",
+              "note_id": "note_0060"
+            },
+            {
+              "author": "hm@tf.test",
+              "body": "Reference check completed, all positive.",
+              "created_at": "2026-01-24T14:46:07Z",
+              "note_id": "note_0064"
+            },
+            {
+              "author": "recruiter@tf.test",
+              "body": "Reference check completed, all positive.",
+              "created_at": "2026-02-26T17:14:20Z",
+              "note_id": "note_0131"
+            }
+          ],
+          "phone": "+1-555-8598",
+          "pipeline_status": "new",
+          "roster_email": "emmy.babbage@inbox.test",
+          "updated_at": "2026-01-28T07:45:25Z"
+        },
+        "cand_0099": {
+          "candidate_id": "cand_0099",
+          "created_at": "2026-02-26T01:48:39Z",
+          "family_name": "Wright",
+          "given_name": "Vera",
+          "is_deleted": false,
+          "matter_ref": "LH-2045",
+          "notes": [],
+          "phone": "+1-555-3735",
+          "pipeline_status": "placed",
+          "roster_email": "vera.wright@mail.test",
+          "updated_at": "2026-03-14T10:01:40Z"
+        },
+        "cand_0147": {
+          "candidate_id": "cand_0147",
+          "created_at": "2026-02-15T01:08:10Z",
+          "family_name": "Shannon",
+          "given_name": "Richard",
+          "is_deleted": false,
+          "matter_ref": "LH-2047",
+          "notes": [
+            {
+              "author": "recruiter@tf.test",
+              "body": "Candidate withdrew from other processes.",
+              "created_at": "2026-02-12T02:04:32Z",
+              "note_id": "note_0052"
+            }
+          ],
+          "phone": "+1-555-4204",
+          "pipeline_status": "new",
+          "roster_email": "richard.shannon@example.test",
+          "updated_at": "2026-02-15T01:08:10Z"
+        },
+        "cand_0151": {
+          "candidate_id": "cand_0151",
+          "created_at": "2026-03-08T00:47:42Z",
+          "family_name": "Pascal",
+          "given_name": "Isaac",
+          "is_deleted": false,
+          "matter_ref": "LH-2049",
+          "notes": [],
+          "phone": "+1-555-6558",
+          "pipeline_status": "new",
+          "roster_email": "isaac.pascal@example.test",
+          "updated_at": "2026-03-08T00:47:42Z"
+        },
+        "cand_0157": {
+          "candidate_id": "cand_0157",
+          "created_at": "2026-02-22T06:44:57Z",
+          "family_name": "Tesla",
+          "given_name": "Xavier",
+          "is_deleted": false,
+          "matter_ref": "LH-2042",
+          "notes": [],
+          "phone": "+1-555-1922",
+          "pipeline_status": "submitted",
+          "roster_email": "xavier.tesla@hey.test",
+          "updated_at": "2026-02-22T06:44:57Z"
+        },
+        "cand_0158": {
+          "candidate_id": "cand_0158",
+          "created_at": "2026-01-22T01:31:39Z",
+          "family_name": "Xu",
+          "given_name": "Blaise",
+          "is_deleted": false,
+          "matter_ref": "LH-2048",
+          "notes": [
+            {
+              "author": "hm@tf.test",
+              "body": "Left voicemail, awaiting callback.",
+              "created_at": "2026-02-14T20:41:03Z",
+              "note_id": "note_0001"
+            },
+            {
+              "author": "coordinator@tf.test",
+              "body": "Follow up after holiday.",
+              "created_at": "2026-03-04T10:27:16Z",
+              "note_id": "note_0118"
+            },
+            {
+              "author": "coordinator@tf.test",
+              "body": "Scheduled onsite for next week.",
+              "created_at": "2026-03-14T07:11:20Z",
+              "note_id": "note_0198"
+            }
+          ],
+          "phone": "+1-555-8531",
+          "pipeline_status": "submitted",
+          "roster_email": "blaise.xu@inbox.test",
+          "updated_at": "2026-01-22T01:31:39Z"
+        },
+        "cand_0171": {
+          "candidate_id": "cand_0171",
+          "created_at": "2026-01-19T17:05:25Z",
+          "family_name": "Ramanujan",
+          "given_name": "Oliver",
+          "is_deleted": false,
+          "matter_ref": "LH-2050",
+          "notes": [
+            {
+              "author": "coordinator@tf.test",
+              "body": "Great culture fit per hiring manager.",
+              "created_at": "2026-01-22T15:26:31Z",
+              "note_id": "note_0079"
+            },
+            {
+              "author": "hm@tf.test",
+              "body": "Scheduled onsite for next week.",
+              "created_at": "2026-03-12T07:55:23Z",
+              "note_id": "note_0129"
+            },
+            {
+              "author": "recruiter@tf.test",
+              "body": "Great culture fit per hiring manager.",
+              "created_at": "2026-03-05T17:32:13Z",
+              "note_id": "note_0174"
+            }
+          ],
+          "phone": "+1-555-2573",
+          "pipeline_status": "screening",
+          "roster_email": "oliver.ramanujan@inbox.test",
+          "updated_at": "2026-01-19T17:05:25Z"
+        },
+        "cand_0236": {
+          "candidate_id": "cand_0236",
+          "created_at": "2026-02-14T13:09:38Z",
+          "family_name": "Turing",
+          "given_name": "Dorothy",
+          "is_deleted": false,
+          "matter_ref": "LH-2051",
+          "notes": [
+            {
+              "author": "sourcer@tf.test",
+              "body": "Salary expectations above band; revisit.",
+              "created_at": "2026-02-02T03:18:23Z",
+              "note_id": "note_0048"
+            },
+            {
+              "author": "sourcer@tf.test",
+              "body": "Strong technical background, moving to screen.",
+              "created_at": "2026-03-02T06:58:55Z",
+              "note_id": "note_0082"
+            },
+            {
+              "author": "sourcer@tf.test",
+              "body": "Strong technical background, moving to screen.",
+              "created_at": "2026-01-17T15:43:04Z",
+              "note_id": "note_0185"
+            }
+          ],
+          "phone": "+1-555-7282",
+          "pipeline_status": "screening",
+          "roster_email": "dorothy.turing@hey.test",
+          "updated_at": "2026-02-14T13:09:38Z"
+        },
+        "cand_0280": {
+          "candidate_id": "cand_0280",
+          "created_at": "2026-02-03T16:44:09Z",
+          "family_name": "Ramanujan",
+          "given_name": "Katherine",
+          "is_deleted": false,
+          "matter_ref": "LH-2052",
+          "notes": [
+            {
+              "author": "coordinator@tf.test",
+              "body": "Left voicemail, awaiting callback.",
+              "created_at": "2026-01-31T17:02:39Z",
+              "note_id": "note_0007"
+            },
+            {
+              "author": "sourcer@tf.test",
+              "body": "Salary expectations above band; revisit.",
+              "created_at": "2026-01-16T16:04:08Z",
+              "note_id": "note_0044"
+            },
+            {
+              "author": "hm@tf.test",
+              "body": "Scheduled onsite for next week.",
+              "created_at": "2026-02-21T05:27:39Z",
+              "note_id": "note_0126"
+            }
+          ],
+          "phone": "+1-555-5594",
+          "pipeline_status": "submitted",
+          "roster_email": "katherine.ramanujan@inbox.test",
+          "updated_at": "2026-02-03T16:44:09Z"
+        },
+        "cand_0301": {
+          "candidate_id": "cand_0301",
+          "created_at": "2026-01-25T09:54:43Z",
+          "family_name": "Shannon",
+          "given_name": "Charles",
+          "is_deleted": false,
+          "matter_ref": "LH-2053",
+          "notes": [],
+          "phone": "+1-555-2139",
+          "pipeline_status": "submitted",
+          "roster_email": "charles.shannon@hey.test",
+          "updated_at": "2026-01-25T09:54:43Z"
+        },
+        "cand_0322": {
+          "candidate_id": "cand_0322",
+          "created_at": "2026-03-06T12:29:07Z",
+          "family_name": "Babbage",
+          "given_name": "Emmy",
+          "is_deleted": false,
+          "matter_ref": "LH-2046",
+          "notes": [],
+          "phone": "+1-555-3145",
+          "pipeline_status": "screening",
+          "roster_email": "emmy.babbage@inbox.test",
+          "updated_at": "2026-03-06T12:29:07Z"
+        },
+        "cand_0351": {
+          "candidate_id": "cand_0351",
+          "created_at": "2026-03-09T21:35:08Z",
+          "family_name": "Xu",
+          "given_name": "Katherine",
+          "is_deleted": false,
+          "matter_ref": "LH-2054",
+          "notes": [],
+          "phone": "+1-555-9343",
+          "pipeline_status": "new",
+          "roster_email": "katherine.xu@hey.test",
+          "updated_at": "2026-03-09T21:35:08Z"
+        },
+        "cand_0355": {
+          "candidate_id": "cand_0355",
+          "created_at": "2026-03-07T00:08:14Z",
+          "family_name": "Shannon",
+          "given_name": "Richard",
+          "is_deleted": false,
+          "matter_ref": "LH-2047",
+          "notes": [
+            {
+              "author": "sourcer@tf.test",
+              "body": "Great culture fit per hiring manager.",
+              "created_at": "2026-03-12T14:05:56Z",
+              "note_id": "note_0088"
+            }
+          ],
+          "phone": "+1-555-9409",
+          "pipeline_status": "placed",
+          "roster_email": "richard.shannon@example.test",
+          "updated_at": "2026-03-07T00:08:14Z"
+        },
+        "cand_0378": {
+          "candidate_id": "cand_0378",
+          "created_at": "2026-02-14T02:05:49Z",
+          "family_name": "Xu",
+          "given_name": "Charles",
+          "is_deleted": false,
+          "matter_ref": "LH-2055",
+          "notes": [
+            {
+              "author": "coordinator@tf.test",
+              "body": "Salary expectations above band; revisit.",
+              "created_at": "2026-01-14T19:41:55Z",
+              "note_id": "note_0018"
+            },
+            {
+              "author": "coordinator@tf.test",
+              "body": "Follow up after holiday.",
+              "created_at": "2026-01-25T05:01:02Z",
+              "note_id": "note_0132"
+            }
+          ],
+          "phone": "+1-555-1231",
+          "pipeline_status": "screening",
+          "roster_email": "charles.xu@hey.test",
+          "updated_at": "2026-02-14T02:05:49Z"
+        },
+        "cand_0398": {
+          "candidate_id": "cand_0398",
+          "created_at": "2026-01-21T07:05:10Z",
+          "family_name": "Curie",
+          "given_name": "Yvonne",
+          "is_deleted": false,
+          "matter_ref": "LH-2056",
+          "notes": [
+            {
+              "author": "sourcer@tf.test",
+              "body": "Great culture fit per hiring manager.",
+              "created_at": "2026-01-16T06:45:07Z",
+              "note_id": "note_0029"
+            },
+            {
+              "author": "coordinator@tf.test",
+              "body": "Strong technical background, moving to screen.",
+              "created_at": "2026-02-12T20:48:14Z",
+              "note_id": "note_0046"
+            },
+            {
+              "author": "recruiter@tf.test",
+              "body": "Left voicemail, awaiting callback.",
+              "created_at": "2026-03-07T07:12:08Z",
+              "note_id": "note_0139"
+            }
+          ],
+          "phone": "+1-555-5488",
+          "pipeline_status": "submitted",
+          "roster_email": "yvonne.curie@mail.test",
+          "updated_at": "2026-01-21T07:05:10Z"
+        },
+        "cand_0900": {
+          "candidate_id": "cand_0900",
+          "created_at": "2026-03-14T10:01:00Z",
+          "family_name": "Reeve",
+          "given_name": "Dana",
+          "is_deleted": false,
+          "matter_ref": "LH-2057",
+          "notes": [],
+          "phone": "+1-555-0000",
+          "pipeline_status": "new",
+          "roster_email": "dana.reeve@example.test",
+          "updated_at": "2026-03-14T10:01:00Z"
+        }
+      },
+      "duplicate_email_groups": {
+        "emmy.babbage@inbox.test": [
+          "cand_0071",
+          "cand_0322"
+        ],
+        "richard.shannon@example.test": [
+          "cand_0147",
+          "cand_0355"
+        ],
+        "xavier.tesla@hey.test": [
+          "cand_0017",
+          "cand_0157"
+        ]
+      },
+      "last_page_custodians": [
+        "cand_0900"
+      ],
+      "multipage_custodians": [
+        "cand_0071",
+        "cand_0158",
+        "cand_0171",
+        "cand_0236",
+        "cand_0280",
+        "cand_0398"
+      ],
+      "note_count": 26,
+      "note_ids_by_custodian": {
+        "cand_0012": [
+          "note_0027",
+          "note_0171"
+        ],
+        "cand_0017": [
+          "note_0149",
+          "note_0178"
+        ],
+        "cand_0042": [],
+        "cand_0052": [],
+        "cand_0071": [
+          "note_0060",
+          "note_0064",
+          "note_0131"
+        ],
+        "cand_0099": [],
+        "cand_0147": [
+          "note_0052"
+        ],
+        "cand_0151": [],
+        "cand_0157": [],
+        "cand_0158": [
+          "note_0001",
+          "note_0118",
+          "note_0198"
+        ],
+        "cand_0171": [
+          "note_0079",
+          "note_0129",
+          "note_0174"
+        ],
+        "cand_0236": [
+          "note_0048",
+          "note_0082",
+          "note_0185"
+        ],
+        "cand_0280": [
+          "note_0007",
+          "note_0044",
+          "note_0126"
+        ],
+        "cand_0301": [],
+        "cand_0322": [],
+        "cand_0351": [],
+        "cand_0355": [
+          "note_0088"
+        ],
+        "cand_0378": [
+          "note_0018",
+          "note_0132"
+        ],
+        "cand_0398": [
+          "note_0029",
+          "note_0046",
+          "note_0139"
+        ],
+        "cand_0900": []
+      },
+      "note_offsets_by_custodian": {
+        "cand_0012": [
+          0
+        ],
+        "cand_0017": [
+          0
+        ],
+        "cand_0042": [
+          0
+        ],
+        "cand_0052": [
+          0
+        ],
+        "cand_0071": [
+          0,
+          2
+        ],
+        "cand_0099": [
+          0
+        ],
+        "cand_0147": [
+          0
+        ],
+        "cand_0151": [
+          0
+        ],
+        "cand_0157": [
+          0
+        ],
+        "cand_0158": [
+          0,
+          2
+        ],
+        "cand_0171": [
+          0,
+          2
+        ],
+        "cand_0236": [
+          0,
+          2
+        ],
+        "cand_0280": [
+          0,
+          2
+        ],
+        "cand_0301": [
+          0
+        ],
+        "cand_0322": [
+          0
+        ],
+        "cand_0351": [
+          0
+        ],
+        "cand_0355": [
+          0
+        ],
+        "cand_0378": [
+          0
+        ],
+        "cand_0398": [
+          0,
+          2
+        ],
+        "cand_0900": [
+          0
+        ]
+      },
+      "parent_list_offsets": [
+        0,
+        50,
+        100,
+        150,
+        200,
+        250,
+        300,
+        350,
+        400
+      ],
+      "unmatched_emails": [
+        "marion.zuse@archive.test"
+      ],
+      "zero_note_custodians": [
+        "cand_0042",
+        "cand_0052",
+        "cand_0099",
+        "cand_0151",
+        "cand_0157",
+        "cand_0301",
+        "cand_0322",
+        "cand_0351",
+        "cand_0900"
+      ]
+    }
+  },
+  "roster": [
+    {
+      "email": "ada.hopper@hey.test",
+      "matter_ref": "LH-2041"
+    },
+    {
+      "email": "xavier.tesla@hey.test",
+      "matter_ref": "LH-2042"
+    },
+    {
+      "email": "sophie.dirac@mail.test",
+      "matter_ref": "LH-2043"
+    },
+    {
+      "email": "katherine.curie@example.test",
+      "matter_ref": "LH-2044"
+    },
+    {
+      "email": "vera.wright@mail.test",
+      "matter_ref": "LH-2045"
+    },
+    {
+      "email": "emmy.babbage@inbox.test",
+      "matter_ref": "LH-2046"
+    },
+    {
+      "email": "richard.shannon@example.test",
+      "matter_ref": "LH-2047"
+    },
+    {
+      "email": "blaise.xu@inbox.test",
+      "matter_ref": "LH-2048"
+    },
+    {
+      "email": "isaac.pascal@example.test",
+      "matter_ref": "LH-2049"
+    },
+    {
+      "email": "oliver.ramanujan@inbox.test",
+      "matter_ref": "LH-2050"
+    },
+    {
+      "email": "dorothy.turing@hey.test",
+      "matter_ref": "LH-2051"
+    },
+    {
+      "email": "katherine.ramanujan@inbox.test",
+      "matter_ref": "LH-2052"
+    },
+    {
+      "email": "charles.shannon@hey.test",
+      "matter_ref": "LH-2053"
+    },
+    {
+      "email": "katherine.xu@hey.test",
+      "matter_ref": "LH-2054"
+    },
+    {
+      "email": "charles.xu@hey.test",
+      "matter_ref": "LH-2055"
+    },
+    {
+      "email": "yvonne.curie@mail.test",
+      "matter_ref": "LH-2056"
+    },
+    {
+      "email": "dana.reeve@example.test",
+      "matter_ref": "LH-2057"
+    },
+    {
+      "email": "marion.zuse@archive.test",
+      "matter_ref": "LH-2058"
+    }
+  ],
+  "roster_row_count": 18,
+  "subresource": "notes",
+  "task": "task-0002",
+  "vendor": "talentforge"
+}

@@ -1,0 +1,740 @@
+{
+  "absent_from_snapshot_ids": {
+    "applications": [
+      "app_0236",
+      "app_0264"
+    ],
+    "candidates": [
+      "cand_0212",
+      "cand_0225",
+      "cand_0238"
+    ],
+    "jobs": [
+      "job_0032"
+    ]
+  },
+  "applied_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51
+  ],
+  "canonical_field": {
+    "applications": "stage",
+    "candidates": "status",
+    "jobs": "status"
+  },
+  "census": {
+    "applications": 300,
+    "candidates": 253,
+    "jobs": 43
+  },
+  "checkpoint": 53,
+  "divergence_counts": {
+    "add": 20,
+    "drop": 4,
+    "remove": 7,
+    "update": 45
+  },
+  "divergence_keys": [
+    "application:app_0001",
+    "application:app_0002",
+    "application:app_0011",
+    "application:app_0012",
+    "application:app_0040",
+    "application:app_0068",
+    "application:app_0096",
+    "application:app_0124",
+    "application:app_0152",
+    "application:app_0180",
+    "application:app_0208",
+    "application:app_0236",
+    "application:app_0264",
+    "application:app_0999",
+    "candidate:cand_0001",
+    "candidate:cand_0014",
+    "candidate:cand_0028",
+    "candidate:cand_0045",
+    "candidate:cand_0046",
+    "candidate:cand_0047",
+    "candidate:cand_0048",
+    "candidate:cand_0049",
+    "candidate:cand_0050",
+    "candidate:cand_0051",
+    "candidate:cand_0052",
+    "candidate:cand_0053",
+    "candidate:cand_0054",
+    "candidate:cand_0056",
+    "candidate:cand_0069",
+    "candidate:cand_0082",
+    "candidate:cand_0095",
+    "candidate:cand_0108",
+    "candidate:cand_0121",
+    "candidate:cand_0134",
+    "candidate:cand_0147",
+    "candidate:cand_0160",
+    "candidate:cand_0173",
+    "candidate:cand_0186",
+    "candidate:cand_0199",
+    "candidate:cand_0212",
+    "candidate:cand_0225",
+    "candidate:cand_0238",
+    "candidate:cand_0777",
+    "candidate:cand_0888",
+    "candidate:cand_90001",
+    "candidate:cand_90002",
+    "candidate:cand_90003",
+    "candidate:cand_90004",
+    "candidate:cand_90005",
+    "candidate:cand_90006",
+    "candidate:cand_90007",
+    "candidate:cand_90008",
+    "job:job_0001",
+    "job:job_0002",
+    "job:job_0004",
+    "job:job_0005",
+    "job:job_0006",
+    "job:job_0008",
+    "job:job_0010",
+    "job:job_0011",
+    "job:job_0012",
+    "job:job_0013",
+    "job:job_0014",
+    "job:job_0017",
+    "job:job_0020",
+    "job:job_0023",
+    "job:job_0026",
+    "job:job_0029",
+    "job:job_0032",
+    "job:job_0555",
+    "job:job_9001",
+    "job:job_9002",
+    "job:job_9003",
+    "job:job_9004",
+    "job:job_9005",
+    "job:job_9006"
+  ],
+  "divergences": [
+    {
+      "divergence": "update",
+      "entity": "application",
+      "mirror_value": "hired",
+      "record_id": "app_0001",
+      "vendor_value": "offer"
+    },
+    {
+      "divergence": "update",
+      "entity": "application",
+      "mirror_value": "interview",
+      "record_id": "app_0002",
+      "vendor_value": "offer"
+    },
+    {
+      "divergence": "update",
+      "entity": "application",
+      "mirror_value": "applied",
+      "record_id": "app_0011",
+      "vendor_value": "interview"
+    },
+    {
+      "divergence": "update",
+      "entity": "application",
+      "mirror_value": "interview",
+      "record_id": "app_0012",
+      "vendor_value": "rejected"
+    },
+    {
+      "divergence": "update",
+      "entity": "application",
+      "mirror_value": "offer",
+      "record_id": "app_0040",
+      "vendor_value": "applied"
+    },
+    {
+      "divergence": "update",
+      "entity": "application",
+      "mirror_value": "rejected",
+      "record_id": "app_0068",
+      "vendor_value": "offer"
+    },
+    {
+      "divergence": "update",
+      "entity": "application",
+      "mirror_value": "rejected",
+      "record_id": "app_0096",
+      "vendor_value": "offer"
+    },
+    {
+      "divergence": "update",
+      "entity": "application",
+      "mirror_value": "interview",
+      "record_id": "app_0124",
+      "vendor_value": "rejected"
+    },
+    {
+      "divergence": "update",
+      "entity": "application",
+      "mirror_value": "hired",
+      "record_id": "app_0152",
+      "vendor_value": "interview"
+    },
+    {
+      "divergence": "update",
+      "entity": "application",
+      "mirror_value": "offer",
+      "record_id": "app_0180",
+      "vendor_value": "applied"
+    },
+    {
+      "divergence": "update",
+      "entity": "application",
+      "mirror_value": "rejected",
+      "record_id": "app_0208",
+      "vendor_value": "offer"
+    },
+    {
+      "divergence": "add",
+      "entity": "application",
+      "mirror_value": "",
+      "record_id": "app_0236",
+      "vendor_value": "applied"
+    },
+    {
+      "divergence": "add",
+      "entity": "application",
+      "mirror_value": "",
+      "record_id": "app_0264",
+      "vendor_value": "interview"
+    },
+    {
+      "divergence": "drop",
+      "entity": "application",
+      "mirror_value": "applied",
+      "record_id": "app_0999",
+      "vendor_value": ""
+    },
+    {
+      "divergence": "update",
+      "entity": "candidate",
+      "mirror_value": "archived",
+      "record_id": "cand_0001",
+      "vendor_value": "submitted"
+    },
+    {
+      "divergence": "update",
+      "entity": "candidate",
+      "mirror_value": "submitted",
+      "record_id": "cand_0014",
+      "vendor_value": "new"
+    },
+    {
+      "divergence": "update",
+      "entity": "candidate",
+      "mirror_value": "screening",
+      "record_id": "cand_0028",
+      "vendor_value": "archived"
+    },
+    {
+      "divergence": "update",
+      "entity": "candidate",
+      "mirror_value": "placed",
+      "record_id": "cand_0045",
+      "vendor_value": "screening"
+    },
+    {
+      "divergence": "update",
+      "entity": "candidate",
+      "mirror_value": "new",
+      "record_id": "cand_0046",
+      "vendor_value": "submitted"
+    },
+    {
+      "divergence": "update",
+      "entity": "candidate",
+      "mirror_value": "submitted",
+      "record_id": "cand_0047",
+      "vendor_value": "archived"
+    },
+    {
+      "divergence": "update",
+      "entity": "candidate",
+      "mirror_value": "new",
+      "record_id": "cand_0048",
+      "vendor_value": "placed"
+    },
+    {
+      "divergence": "update",
+      "entity": "candidate",
+      "mirror_value": "submitted",
+      "record_id": "cand_0049",
+      "vendor_value": "new"
+    },
+    {
+      "divergence": "update",
+      "entity": "candidate",
+      "mirror_value": "new",
+      "record_id": "cand_0050",
+      "vendor_value": "screening"
+    },
+    {
+      "divergence": "remove",
+      "entity": "candidate",
+      "mirror_value": "screening",
+      "record_id": "cand_0051",
+      "vendor_value": ""
+    },
+    {
+      "divergence": "remove",
+      "entity": "candidate",
+      "mirror_value": "submitted",
+      "record_id": "cand_0052",
+      "vendor_value": ""
+    },
+    {
+      "divergence": "remove",
+      "entity": "candidate",
+      "mirror_value": "placed",
+      "record_id": "cand_0053",
+      "vendor_value": ""
+    },
+    {
+      "divergence": "remove",
+      "entity": "candidate",
+      "mirror_value": "screening",
+      "record_id": "cand_0054",
+      "vendor_value": ""
+    },
+    {
+      "divergence": "update",
+      "entity": "candidate",
+      "mirror_value": "archived",
+      "record_id": "cand_0056",
+      "vendor_value": "submitted"
+    },
+    {
+      "divergence": "update",
+      "entity": "candidate",
+      "mirror_value": "placed",
+      "record_id": "cand_0069",
+      "vendor_value": "screening"
+    },
+    {
+      "divergence": "update",
+      "entity": "candidate",
+      "mirror_value": "submitted",
+      "record_id": "cand_0082",
+      "vendor_value": "new"
+    },
+    {
+      "divergence": "update",
+      "entity": "candidate",
+      "mirror_value": "placed",
+      "record_id": "cand_0095",
+      "vendor_value": "screening"
+    },
+    {
+      "divergence": "update",
+      "entity": "candidate",
+      "mirror_value": "new",
+      "record_id": "cand_0108",
+      "vendor_value": "placed"
+    },
+    {
+      "divergence": "update",
+      "entity": "candidate",
+      "mirror_value": "submitted",
+      "record_id": "cand_0121",
+      "vendor_value": "new"
+    },
+    {
+      "divergence": "update",
+      "entity": "candidate",
+      "mirror_value": "screening",
+      "record_id": "cand_0134",
+      "vendor_value": "archived"
+    },
+    {
+      "divergence": "update",
+      "entity": "candidate",
+      "mirror_value": "submitted",
+      "record_id": "cand_0147",
+      "vendor_value": "new"
+    },
+    {
+      "divergence": "update",
+      "entity": "candidate",
+      "mirror_value": "submitted",
+      "record_id": "cand_0160",
+      "vendor_value": "new"
+    },
+    {
+      "divergence": "update",
+      "entity": "candidate",
+      "mirror_value": "archived",
+      "record_id": "cand_0173",
+      "vendor_value": "submitted"
+    },
+    {
+      "divergence": "update",
+      "entity": "candidate",
+      "mirror_value": "placed",
+      "record_id": "cand_0186",
+      "vendor_value": "screening"
+    },
+    {
+      "divergence": "update",
+      "entity": "candidate",
+      "mirror_value": "new",
+      "record_id": "cand_0199",
+      "vendor_value": "placed"
+    },
+    {
+      "divergence": "add",
+      "entity": "candidate",
+      "mirror_value": "",
+      "record_id": "cand_0212",
+      "vendor_value": "new"
+    },
+    {
+      "divergence": "add",
+      "entity": "candidate",
+      "mirror_value": "",
+      "record_id": "cand_0225",
+      "vendor_value": "placed"
+    },
+    {
+      "divergence": "add",
+      "entity": "candidate",
+      "mirror_value": "",
+      "record_id": "cand_0238",
+      "vendor_value": "submitted"
+    },
+    {
+      "divergence": "drop",
+      "entity": "candidate",
+      "mirror_value": "new",
+      "record_id": "cand_0777",
+      "vendor_value": ""
+    },
+    {
+      "divergence": "drop",
+      "entity": "candidate",
+      "mirror_value": "new",
+      "record_id": "cand_0888",
+      "vendor_value": ""
+    },
+    {
+      "divergence": "add",
+      "entity": "candidate",
+      "mirror_value": "",
+      "record_id": "cand_90001",
+      "vendor_value": "new"
+    },
+    {
+      "divergence": "add",
+      "entity": "candidate",
+      "mirror_value": "",
+      "record_id": "cand_90002",
+      "vendor_value": "new"
+    },
+    {
+      "divergence": "add",
+      "entity": "candidate",
+      "mirror_value": "",
+      "record_id": "cand_90003",
+      "vendor_value": "screening"
+    },
+    {
+      "divergence": "add",
+      "entity": "candidate",
+      "mirror_value": "",
+      "record_id": "cand_90004",
+      "vendor_value": "new"
+    },
+    {
+      "divergence": "add",
+      "entity": "candidate",
+      "mirror_value": "",
+      "record_id": "cand_90005",
+      "vendor_value": "screening"
+    },
+    {
+      "divergence": "add",
+      "entity": "candidate",
+      "mirror_value": "",
+      "record_id": "cand_90006",
+      "vendor_value": "new"
+    },
+    {
+      "divergence": "add",
+      "entity": "candidate",
+      "mirror_value": "",
+      "record_id": "cand_90007",
+      "vendor_value": "screening"
+    },
+    {
+      "divergence": "add",
+      "entity": "candidate",
+      "mirror_value": "",
+      "record_id": "cand_90008",
+      "vendor_value": "new"
+    },
+    {
+      "divergence": "update",
+      "entity": "job",
+      "mirror_value": "open",
+      "record_id": "job_0001",
+      "vendor_value": "on_hold"
+    },
+    {
+      "divergence": "update",
+      "entity": "job",
+      "mirror_value": "open",
+      "record_id": "job_0002",
+      "vendor_value": "closed"
+    },
+    {
+      "divergence": "update",
+      "entity": "job",
+      "mirror_value": "open",
+      "record_id": "job_0004",
+      "vendor_value": "on_hold"
+    },
+    {
+      "divergence": "update",
+      "entity": "job",
+      "mirror_value": "open",
+      "record_id": "job_0005",
+      "vendor_value": "closed"
+    },
+    {
+      "divergence": "update",
+      "entity": "job",
+      "mirror_value": "on_hold",
+      "record_id": "job_0006",
+      "vendor_value": "closed"
+    },
+    {
+      "divergence": "update",
+      "entity": "job",
+      "mirror_value": "open",
+      "record_id": "job_0008",
+      "vendor_value": "on_hold"
+    },
+    {
+      "divergence": "update",
+      "entity": "job",
+      "mirror_value": "open",
+      "record_id": "job_0010",
+      "vendor_value": "closed"
+    },
+    {
+      "divergence": "remove",
+      "entity": "job",
+      "mirror_value": "closed",
+      "record_id": "job_0011",
+      "vendor_value": ""
+    },
+    {
+      "divergence": "remove",
+      "entity": "job",
+      "mirror_value": "closed",
+      "record_id": "job_0012",
+      "vendor_value": ""
+    },
+    {
+      "divergence": "remove",
+      "entity": "job",
+      "mirror_value": "on_hold",
+      "record_id": "job_0013",
+      "vendor_value": ""
+    },
+    {
+      "divergence": "update",
+      "entity": "job",
+      "mirror_value": "open",
+      "record_id": "job_0014",
+      "vendor_value": "on_hold"
+    },
+    {
+      "divergence": "update",
+      "entity": "job",
+      "mirror_value": "open",
+      "record_id": "job_0017",
+      "vendor_value": "on_hold"
+    },
+    {
+      "divergence": "update",
+      "entity": "job",
+      "mirror_value": "open",
+      "record_id": "job_0020",
+      "vendor_value": "on_hold"
+    },
+    {
+      "divergence": "update",
+      "entity": "job",
+      "mirror_value": "closed",
+      "record_id": "job_0023",
+      "vendor_value": "open"
+    },
+    {
+      "divergence": "update",
+      "entity": "job",
+      "mirror_value": "on_hold",
+      "record_id": "job_0026",
+      "vendor_value": "closed"
+    },
+    {
+      "divergence": "update",
+      "entity": "job",
+      "mirror_value": "closed",
+      "record_id": "job_0029",
+      "vendor_value": "open"
+    },
+    {
+      "divergence": "add",
+      "entity": "job",
+      "mirror_value": "",
+      "record_id": "job_0032",
+      "vendor_value": "closed"
+    },
+    {
+      "divergence": "drop",
+      "entity": "job",
+      "mirror_value": "open",
+      "record_id": "job_0555",
+      "vendor_value": ""
+    },
+    {
+      "divergence": "add",
+      "entity": "job",
+      "mirror_value": "",
+      "record_id": "job_9001",
+      "vendor_value": "open"
+    },
+    {
+      "divergence": "add",
+      "entity": "job",
+      "mirror_value": "",
+      "record_id": "job_9002",
+      "vendor_value": "open"
+    },
+    {
+      "divergence": "add",
+      "entity": "job",
+      "mirror_value": "",
+      "record_id": "job_9003",
+      "vendor_value": "open"
+    },
+    {
+      "divergence": "add",
+      "entity": "job",
+      "mirror_value": "",
+      "record_id": "job_9004",
+      "vendor_value": "on_hold"
+    },
+    {
+      "divergence": "add",
+      "entity": "job",
+      "mirror_value": "",
+      "record_id": "job_9005",
+      "vendor_value": "open"
+    },
+    {
+      "divergence": "add",
+      "entity": "job",
+      "mirror_value": "",
+      "record_id": "job_9006",
+      "vendor_value": "open"
+    }
+  ],
+  "envelope_totals": {
+    "applications": 300,
+    "candidates": 259,
+    "jobs": 46
+  },
+  "expected_events": [
+    {
+      "entity_id": "app_0011",
+      "event": "application.stage_changed",
+      "event_id": "evt_00053"
+    }
+  ],
+  "list_paths": {
+    "applications": "/api/applications",
+    "candidates": "/api/candidates",
+    "jobs": "/api/jobs"
+  },
+  "phantom_ids": {
+    "applications": [
+      "app_0999"
+    ],
+    "candidates": [
+      "cand_0777",
+      "cand_0888"
+    ],
+    "jobs": [
+      "job_0555"
+    ]
+  },
+  "report_columns": [
+    "entity",
+    "record_id",
+    "divergence",
+    "mirror_value",
+    "vendor_value"
+  ],
+  "snapshot_newest_updated_at": "2026-03-14T11:52:00Z",
+  "synced_through": "2026-03-14T11:20:00Z",
+  "value_drift_ids": {
+    "applications": [
+      "app_0012",
+      "app_0040",
+      "app_0068",
+      "app_0096",
+      "app_0124",
+      "app_0152",
+      "app_0180",
+      "app_0208"
+    ],
+    "candidates": [
+      "cand_0001",
+      "cand_0014",
+      "cand_0028",
+      "cand_0056",
+      "cand_0069",
+      "cand_0082",
+      "cand_0095",
+      "cand_0108",
+      "cand_0121",
+      "cand_0134",
+      "cand_0147",
+      "cand_0160",
+      "cand_0173",
+      "cand_0186",
+      "cand_0199"
+    ],
+    "jobs": [
+      "job_0006",
+      "job_0014",
+      "job_0017",
+      "job_0020",
+      "job_0023",
+      "job_0026",
+      "job_0029"
+    ]
+  }
+}

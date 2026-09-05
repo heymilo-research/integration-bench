@@ -1,0 +1,102 @@
+id: task-0031
+title: Build the morning bookable-crew board from CrewCall
+category: build
+vendor: crewcall
+surfaces:
+- polling
+tier: 2
+primary_mechanic: composite_availability_windows
+track: python
+timeout_minutes: 60
+doc_profile: 'true'
+scenarios:
+- harborline_availability_windows
+l3_scenarios: []
+entry:
+  command:
+  - python
+  - -m
+  - harborline_dispatch
+outputs:
+  files:
+  - output/availability_board.csv
+  - output/windows.json
+vendors:
+  crewcall:
+    data_port: 8000
+    log_path: /var/log/vendor
+    checkpoint_env: CHECKPOINT
+    credentials:
+      CC_API_KEY: crewcall-test-key
+    vendor:
+      base_path: /v1
+    entities:
+      worker:
+        plural: workers
+      gig:
+        plural: gigs
+      assignment:
+        plural: assignments
+    pagination:
+      style: offset
+      offset_param: offset
+      limit_param: limit
+      total_in_response: false
+status: authored
+contract:
+  schema_version: 1
+  version: 1.0.0
+  visibility: public
+  lifecycle: authored
+  vendor_roles:
+    crewcall:
+      vendor_id: crewcall
+      checkpoint: 88
+      required_credentials:
+      - CC_API_KEY
+      api_url_env: CREWCALL_BASE_URL
+      docs_url_env: CREWCALL_DOCS_URL
+  runtime:
+    profile: deterministic-v1
+    checkpoint: 88
+    limits:
+      wall_seconds: 3600
+      cpus: 2
+      memory: 2GiB
+      disk: 2GiB
+    network:
+      vendor_roles:
+      - crewcall
+      model_provider_egress: mode-dependent-allowlist
+    vendor_roles:
+      crewcall:
+        environment: {}
+  participant:
+    workspace_allowlist:
+    - PROBLEM.md
+    - repo/**
+    - materials/**
+    - inputs/**
+    entry_command:
+    - python
+    - -m
+    - harborline_dispatch
+    outputs:
+    - output/availability_board.csv
+    - output/windows.json
+    persistent_state:
+    - repo/output/**
+    runtime_environment: {}
+    persistent_mounts: []
+  verifier:
+    entry_command:
+    - python
+    - -m
+    - bench.verifier
+    - --task
+    - .
+    trusted_inputs:
+    - task.yaml
+    - verifier/fixtures/**
+    - verifier/scenarios/**
+    - vendor-logs/**

@@ -1,0 +1,14 @@
+[project]
+name = "tf-event-cutover"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0"]
+
+[project.scripts]
+tf-event-cutover = "tf_event_cutover.cli:_entrypoint"
+
+[tool.setuptools.packages.find]
+where = ["src"]

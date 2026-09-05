@@ -1,0 +1,170 @@
+[
+  {
+    "data": {
+      "created_at": "2026-05-04T08:01:00Z",
+      "id": "gig_0001",
+      "is_deleted": false,
+      "pay_rate_cents": 2500,
+      "status": "open",
+      "title": "Hotel banquet setup",
+      "updated_at": "2026-05-04T08:01:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "gig_0001",
+    "updated_at": "2026-05-04T08:01:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:02:00Z",
+      "id": "gig_0002",
+      "is_deleted": false,
+      "pay_rate_cents": 2300,
+      "status": "filled",
+      "title": "Grocery restock overnight",
+      "updated_at": "2026-05-04T08:02:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "gig_0002",
+    "updated_at": "2026-05-04T08:02:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:03:00Z",
+      "id": "gig_0003",
+      "is_deleted": false,
+      "pay_rate_cents": 2300,
+      "status": "filled",
+      "title": "Downtown lunch service",
+      "updated_at": "2026-05-04T08:03:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "gig_0003",
+    "updated_at": "2026-05-04T08:03:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:04:00Z",
+      "id": "gig_0004",
+      "is_deleted": false,
+      "pay_rate_cents": 2500,
+      "status": "open",
+      "title": "Retail holiday cover",
+      "updated_at": "2026-05-04T08:04:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "gig_0004",
+    "updated_at": "2026-05-04T08:04:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:05:00Z",
+      "id": "gig_0005",
+      "is_deleted": false,
+      "pay_rate_cents": 1700,
+      "status": "open",
+      "title": "Airport shuttle driver",
+      "updated_at": "2026-05-04T08:05:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "gig_0005",
+    "updated_at": "2026-05-04T08:05:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:06:00Z",
+      "id": "gig_0006",
+      "is_deleted": false,
+      "pay_rate_cents": 2100,
+      "status": "filled",
+      "title": "Downtown lunch service",
+      "updated_at": "2026-05-04T08:06:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "gig_0006",
+    "updated_at": "2026-05-04T08:06:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:07:00Z",
+      "id": "gig_0007",
+      "is_deleted": false,
+      "pay_rate_cents": 2400,
+      "status": "cancelled",
+      "title": "Downtown lunch service",
+      "updated_at": "2026-05-04T08:07:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "gig_0007",
+    "updated_at": "2026-05-04T08:07:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:08:00Z",
+      "id": "gig_0008",
+      "is_deleted": false,
+      "pay_rate_cents": 3200,
+      "status": "cancelled",
+      "title": "Weekend brunch rush",
+      "updated_at": "2026-05-04T08:08:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "gig_0008",
+    "updated_at": "2026-05-04T08:08:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:09:00Z",
+      "id": "gig_0009",
+      "is_deleted": false,
+      "pay_rate_cents": 2700,
+      "status": "filled",
+      "title": "Grocery restock overnight",
+      "updated_at": "2026-05-04T08:09:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "gig_0009",
+    "updated_at": "2026-05-04T08:09:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:10:00Z",
+      "id": "gig_0010",
+      "is_deleted": false,
+      "pay_rate_cents": 3400,
+      "status": "filling",
+      "title": "Grocery restock overnight",
+      "updated_at": "2026-05-04T08:10:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "gig_0010",
+    "updated_at": "2026-05-04T08:10:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:11:00Z",
+      "id": "gig_0011",
+      "is_deleted": false,
+      "pay_rate_cents": 2600,
+      "status": "open",
+      "title": "Hotel banquet setup",
+      "updated_at": "2026-05-04T08:11:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "gig_0011",
+    "updated_at": "2026-05-04T08:11:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:12:00Z",
+      "id": "gig_0012",
+      "is_deleted": false,
+      "pay_rate_cents": 2500,
+      "status": "cancelled",
+      "title": "Warehouse night shift",
+      "updated_at": "2026-05-04T08:12:00Z"
+    },
+    "is_deleted": false,
+    "source_id": "gig_0012",
+    "updated_at": "2026-05-04T08:12:00Z"
+  }
+]

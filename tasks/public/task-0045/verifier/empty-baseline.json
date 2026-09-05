@@ -1,0 +1,316 @@
+{
+  "schema": 2,
+  "n_total": 25,
+  "floor_fraction": 0.72,
+  "gold_fraction": 1.0,
+  "probes": {
+    "empty": 0.72,
+    "stub": 0.0
+  },
+  "checks": {
+    "l1": [
+      "candidates_rows_exact_baseline",
+      "jobs_rows_exact_baseline",
+      "applications_rows_exact_baseline",
+      "app_exit_ok",
+      "tombstones_captured",
+      "bullpen_untouched",
+      "app_exit_ok",
+      "candidates_rows_exact_final",
+      "jobs_rows_exact_final",
+      "applications_rows_exact_final",
+      "tombstoned_history_preserved",
+      "migration_parity",
+      "no_staffline_calls_during_migrate",
+      "app_exit_ok",
+      "retry_app_exit_ok",
+      "no_writes_to_legacy_post_cutover",
+      "writeback_writes_fields_exact",
+      "writes_land_on_bullpen",
+      "idempotency_key_reused_on_retry"
+    ],
+    "hard": [
+      "no_credentials_in_query_string",
+      "no_secrets_echoed_to_vendor"
+    ],
+    "l3": [],
+    "soft": [
+      "no_unnecessary_full_resync:candidate",
+      "no_unnecessary_full_resync:job",
+      "no_unnecessary_full_resync:application",
+      "no_unnecessary_full_resync:note"
+    ]
+  },
+  "generated": "bench validate --write-baseline 2026-08-14",
+  "checks_v2": [
+    {
+      "bucket": "l1",
+      "name": "candidates_rows_exact_baseline",
+      "gold": true,
+      "empty": true,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "jobs_rows_exact_baseline",
+      "gold": true,
+      "empty": true,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "applications_rows_exact_baseline",
+      "gold": true,
+      "empty": true,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "app_exit_ok",
+      "gold": true,
+      "empty": true,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "tombstones_captured",
+      "gold": true,
+      "empty": true,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "bullpen_untouched",
+      "gold": true,
+      "empty": true,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "app_exit_ok",
+      "gold": true,
+      "empty": true,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "candidates_rows_exact_final",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": true
+    },
+    {
+      "bucket": "l1",
+      "name": "jobs_rows_exact_final",
+      "gold": true,
+      "empty": true,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "applications_rows_exact_final",
+      "gold": true,
+      "empty": true,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "tombstoned_history_preserved",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": true
+    },
+    {
+      "bucket": "l1",
+      "name": "migration_parity",
+      "gold": true,
+      "empty": true,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "no_staffline_calls_during_migrate",
+      "gold": true,
+      "empty": true,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "app_exit_ok",
+      "gold": true,
+      "empty": true,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "retry_app_exit_ok",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "no_writes_to_legacy_post_cutover",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": true
+    },
+    {
+      "bucket": "l1",
+      "name": "writeback_writes_fields_exact",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": true
+    },
+    {
+      "bucket": "l1",
+      "name": "writes_land_on_bullpen",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": true
+    },
+    {
+      "bucket": "l1",
+      "name": "idempotency_key_reused_on_retry",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": true
+    },
+    {
+      "bucket": "hard",
+      "name": "no_credentials_in_query_string",
+      "gold": true,
+      "empty": true,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    },
+    {
+      "bucket": "hard",
+      "name": "no_secrets_echoed_to_vendor",
+      "gold": true,
+      "empty": true,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    },
+    {
+      "bucket": "soft",
+      "name": "no_unnecessary_full_resync:candidate",
+      "gold": true,
+      "empty": true,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "soft",
+      "name": "no_unnecessary_full_resync:job",
+      "gold": true,
+      "empty": true,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "soft",
+      "name": "no_unnecessary_full_resync:application",
+      "gold": true,
+      "empty": true,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "soft",
+      "name": "no_unnecessary_full_resync:note",
+      "gold": true,
+      "empty": true,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": 0,
+      "mandatory": false
+    }
+  ],
+  "completion": {
+    "mode": "authored_mandatory_checks",
+    "required_checks": [
+      "candidates_rows_exact_final",
+      "tombstoned_history_preserved",
+      "no_writes_to_legacy_post_cutover",
+      "writeback_writes_fields_exact",
+      "writes_land_on_bullpen",
+      "idempotency_key_reused_on_retry"
+    ]
+  },
+  "scoring": {
+    "version": "task-score-v4-mandatory-gated",
+    "empty_raw": -1,
+    "empty_task_score": 0.0,
+    "stub_raw": -13,
+    "stub_task_score": 0.0,
+    "floor_task_score": 0.0
+  }
+}

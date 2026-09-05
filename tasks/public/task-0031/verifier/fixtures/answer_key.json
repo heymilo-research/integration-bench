@@ -1,0 +1,2482 @@
+{
+  "assignment_rows": 63,
+  "audited_cohort": [
+    "wkr_0002",
+    "wkr_0003",
+    "wkr_0004",
+    "wkr_0005",
+    "wkr_0006",
+    "wkr_0008",
+    "wkr_0009",
+    "wkr_0010",
+    "wkr_0012",
+    "wkr_0016",
+    "wkr_0018",
+    "wkr_0020",
+    "wkr_0023",
+    "wkr_0024",
+    "wkr_0025",
+    "wkr_0027",
+    "wkr_0028",
+    "wkr_0029",
+    "wkr_0030",
+    "wkr_0031",
+    "wkr_0035",
+    "wkr_0036",
+    "wkr_0042",
+    "wkr_0043",
+    "wkr_0047",
+    "wkr_0052",
+    "wkr_0053",
+    "wkr_0054",
+    "wkr_0059",
+    "wkr_0060",
+    "wkr_0062",
+    "wkr_0063",
+    "wkr_0064",
+    "wkr_0065",
+    "wkr_0067",
+    "wkr_0068",
+    "wkr_0070",
+    "wkr_0071",
+    "wkr_0075",
+    "wkr_0077",
+    "wkr_0078",
+    "wkr_0079",
+    "wkr_0082",
+    "wkr_0085",
+    "wkr_0087",
+    "wkr_0088",
+    "wkr_0089",
+    "wkr_0090",
+    "wkr_0093",
+    "wkr_0095",
+    "wkr_0097",
+    "wkr_0101",
+    "wkr_0102",
+    "wkr_0104",
+    "wkr_0106",
+    "wkr_0107",
+    "wkr_0112",
+    "wkr_0118"
+  ],
+  "availability_sets": {
+    "committed": [
+      "wkr_0009",
+      "wkr_0018",
+      "wkr_0053",
+      "wkr_0054",
+      "wkr_0060",
+      "wkr_0064",
+      "wkr_0071",
+      "wkr_0082",
+      "wkr_0102",
+      "wkr_0112"
+    ],
+    "not_available": [
+      "wkr_0001",
+      "wkr_0007",
+      "wkr_0008",
+      "wkr_0010",
+      "wkr_0011",
+      "wkr_0014",
+      "wkr_0015",
+      "wkr_0017",
+      "wkr_0019",
+      "wkr_0020",
+      "wkr_0021",
+      "wkr_0022",
+      "wkr_0023",
+      "wkr_0026",
+      "wkr_0032",
+      "wkr_0041",
+      "wkr_0042",
+      "wkr_0044",
+      "wkr_0045",
+      "wkr_0046",
+      "wkr_0048",
+      "wkr_0049",
+      "wkr_0050",
+      "wkr_0051",
+      "wkr_0055",
+      "wkr_0056",
+      "wkr_0057",
+      "wkr_0058",
+      "wkr_0061",
+      "wkr_0063",
+      "wkr_0066",
+      "wkr_0067",
+      "wkr_0069",
+      "wkr_0072",
+      "wkr_0073",
+      "wkr_0074",
+      "wkr_0076",
+      "wkr_0077",
+      "wkr_0079",
+      "wkr_0080",
+      "wkr_0081",
+      "wkr_0083",
+      "wkr_0084",
+      "wkr_0086",
+      "wkr_0087",
+      "wkr_0089",
+      "wkr_0090",
+      "wkr_0091",
+      "wkr_0092",
+      "wkr_0094",
+      "wkr_0096",
+      "wkr_0098",
+      "wkr_0099",
+      "wkr_0101",
+      "wkr_0103",
+      "wkr_0105",
+      "wkr_0108",
+      "wkr_0109",
+      "wkr_0110",
+      "wkr_0116",
+      "wkr_0118",
+      "wkr_0119",
+      "wkr_0120"
+    ],
+    "off_roster": [
+      "wkr_0013",
+      "wkr_0033",
+      "wkr_0034",
+      "wkr_0035",
+      "wkr_0036",
+      "wkr_0037",
+      "wkr_0038",
+      "wkr_0039",
+      "wkr_0040"
+    ],
+    "offerable": [
+      "wkr_0002",
+      "wkr_0003",
+      "wkr_0004",
+      "wkr_0005",
+      "wkr_0006",
+      "wkr_0012",
+      "wkr_0016",
+      "wkr_0024",
+      "wkr_0025",
+      "wkr_0027",
+      "wkr_0028",
+      "wkr_0029",
+      "wkr_0030",
+      "wkr_0031",
+      "wkr_0043",
+      "wkr_0047",
+      "wkr_0052",
+      "wkr_0059",
+      "wkr_0062",
+      "wkr_0065",
+      "wkr_0068",
+      "wkr_0070",
+      "wkr_0075",
+      "wkr_0078",
+      "wkr_0085",
+      "wkr_0088",
+      "wkr_0093",
+      "wkr_0095",
+      "wkr_0097",
+      "wkr_0100",
+      "wkr_0104",
+      "wkr_0106",
+      "wkr_0107",
+      "wkr_0111",
+      "wkr_0113",
+      "wkr_0114",
+      "wkr_0115",
+      "wkr_0117",
+      "wkr_0190",
+      "wkr_0191",
+      "wkr_0192",
+      "wkr_0193",
+      "wkr_0194"
+    ]
+  },
+  "board_by_worker": {
+    "wkr_0001": {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0001",
+      "worker_status": "on_shift"
+    },
+    "wkr_0002": {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0002",
+      "worker_status": "available"
+    },
+    "wkr_0003": {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0003",
+      "worker_status": "off_shift"
+    },
+    "wkr_0004": {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0004",
+      "worker_status": "off_shift"
+    },
+    "wkr_0005": {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0005",
+      "worker_status": "off_shift"
+    },
+    "wkr_0006": {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0006",
+      "worker_status": "available"
+    },
+    "wkr_0007": {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0007",
+      "worker_status": "on_shift"
+    },
+    "wkr_0008": {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0008",
+      "worker_status": "on_shift"
+    },
+    "wkr_0009": {
+      "availability": "committed",
+      "blocked_by": "live_commitment",
+      "blocking_gig_id": "gig_0010",
+      "worker_id": "wkr_0009",
+      "worker_status": "available"
+    },
+    "wkr_0010": {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0010",
+      "worker_status": "inactive"
+    },
+    "wkr_0011": {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0011",
+      "worker_status": "inactive"
+    },
+    "wkr_0012": {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0012",
+      "worker_status": "off_shift"
+    },
+    "wkr_0013": {
+      "availability": "off_roster",
+      "blocked_by": "roster_removal",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0013",
+      "worker_status": "on_shift"
+    },
+    "wkr_0014": {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0014",
+      "worker_status": "on_shift"
+    },
+    "wkr_0015": {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0015",
+      "worker_status": "on_shift"
+    },
+    "wkr_0016": {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0016",
+      "worker_status": "off_shift"
+    },
+    "wkr_0017": {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0017",
+      "worker_status": "on_shift"
+    },
+    "wkr_0018": {
+      "availability": "committed",
+      "blocked_by": "live_commitment",
+      "blocking_gig_id": "gig_0011",
+      "worker_id": "wkr_0018",
+      "worker_status": "on_shift"
+    },
+    "wkr_0019": {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0019",
+      "worker_status": "inactive"
+    },
+    "wkr_0020": {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0020",
+      "worker_status": "on_shift"
+    },
+    "wkr_0021": {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0021",
+      "worker_status": "inactive"
+    },
+    "wkr_0022": {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0022",
+      "worker_status": "inactive"
+    },
+    "wkr_0023": {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0023",
+      "worker_status": "on_shift"
+    },
+    "wkr_0024": {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0024",
+      "worker_status": "off_shift"
+    },
+    "wkr_0025": {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0025",
+      "worker_status": "available"
+    },
+    "wkr_0026": {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0026",
+      "worker_status": "on_shift"
+    },
+    "wkr_0027": {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0027",
+      "worker_status": "available"
+    },
+    "wkr_0028": {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0028",
+      "worker_status": "available"
+    },
+    "wkr_0029": {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0029",
+      "worker_status": "off_shift"
+    },
+    "wkr_0030": {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0030",
+      "worker_status": "off_shift"
+    },
+    "wkr_0031": {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0031",
+      "worker_status": "available"
+    },
+    "wkr_0032": {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0032",
+      "worker_status": "inactive"
+    },
+    "wkr_0033": {
+      "availability": "off_roster",
+      "blocked_by": "roster_removal",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0033",
+      "worker_status": "available"
+    },
+    "wkr_0034": {
+      "availability": "off_roster",
+      "blocked_by": "roster_removal",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0034",
+      "worker_status": "off_shift"
+    },
+    "wkr_0035": {
+      "availability": "off_roster",
+      "blocked_by": "roster_removal",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0035",
+      "worker_status": "on_shift"
+    },
+    "wkr_0036": {
+      "availability": "off_roster",
+      "blocked_by": "roster_removal",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0036",
+      "worker_status": "inactive"
+    },
+    "wkr_0037": {
+      "availability": "off_roster",
+      "blocked_by": "roster_removal",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0037",
+      "worker_status": "on_shift"
+    },
+    "wkr_0038": {
+      "availability": "off_roster",
+      "blocked_by": "roster_removal",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0038",
+      "worker_status": "off_shift"
+    },
+    "wkr_0039": {
+      "availability": "off_roster",
+      "blocked_by": "roster_removal",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0039",
+      "worker_status": "off_shift"
+    },
+    "wkr_0040": {
+      "availability": "off_roster",
+      "blocked_by": "roster_removal",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0040",
+      "worker_status": "available"
+    },
+    "wkr_0041": {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0041",
+      "worker_status": "inactive"
+    },
+    "wkr_0042": {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0042",
+      "worker_status": "on_shift"
+    },
+    "wkr_0043": {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0043",
+      "worker_status": "available"
+    },
+    "wkr_0044": {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0044",
+      "worker_status": "on_shift"
+    },
+    "wkr_0045": {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0045",
+      "worker_status": "on_shift"
+    },
+    "wkr_0046": {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0046",
+      "worker_status": "inactive"
+    },
+    "wkr_0047": {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0047",
+      "worker_status": "off_shift"
+    },
+    "wkr_0048": {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0048",
+      "worker_status": "inactive"
+    },
+    "wkr_0049": {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0049",
+      "worker_status": "on_shift"
+    },
+    "wkr_0050": {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0050",
+      "worker_status": "on_shift"
+    },
+    "wkr_0051": {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0051",
+      "worker_status": "on_shift"
+    },
+    "wkr_0052": {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0052",
+      "worker_status": "off_shift"
+    },
+    "wkr_0053": {
+      "availability": "committed",
+      "blocked_by": "live_commitment",
+      "blocking_gig_id": "gig_0010",
+      "worker_id": "wkr_0053",
+      "worker_status": "on_shift"
+    },
+    "wkr_0054": {
+      "availability": "committed",
+      "blocked_by": "live_commitment",
+      "blocking_gig_id": "gig_0009",
+      "worker_id": "wkr_0054",
+      "worker_status": "available"
+    },
+    "wkr_0055": {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0055",
+      "worker_status": "inactive"
+    },
+    "wkr_0056": {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0056",
+      "worker_status": "inactive"
+    },
+    "wkr_0057": {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0057",
+      "worker_status": "inactive"
+    },
+    "wkr_0058": {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0058",
+      "worker_status": "inactive"
+    },
+    "wkr_0059": {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0059",
+      "worker_status": "available"
+    },
+    "wkr_0060": {
+      "availability": "committed",
+      "blocked_by": "live_commitment",
+      "blocking_gig_id": "gig_0011",
+      "worker_id": "wkr_0060",
+      "worker_status": "on_shift"
+    },
+    "wkr_0061": {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0061",
+      "worker_status": "inactive"
+    },
+    "wkr_0062": {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0062",
+      "worker_status": "available"
+    },
+    "wkr_0063": {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0063",
+      "worker_status": "inactive"
+    },
+    "wkr_0064": {
+      "availability": "committed",
+      "blocked_by": "live_commitment",
+      "blocking_gig_id": "gig_0004",
+      "worker_id": "wkr_0064",
+      "worker_status": "off_shift"
+    },
+    "wkr_0065": {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0065",
+      "worker_status": "off_shift"
+    },
+    "wkr_0066": {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0066",
+      "worker_status": "inactive"
+    },
+    "wkr_0067": {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0067",
+      "worker_status": "on_shift"
+    },
+    "wkr_0068": {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0068",
+      "worker_status": "off_shift"
+    },
+    "wkr_0069": {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0069",
+      "worker_status": "on_shift"
+    },
+    "wkr_0070": {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0070",
+      "worker_status": "off_shift"
+    },
+    "wkr_0071": {
+      "availability": "committed",
+      "blocked_by": "live_commitment",
+      "blocking_gig_id": "gig_0001",
+      "worker_id": "wkr_0071",
+      "worker_status": "inactive"
+    },
+    "wkr_0072": {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0072",
+      "worker_status": "on_shift"
+    },
+    "wkr_0073": {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0073",
+      "worker_status": "inactive"
+    },
+    "wkr_0074": {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0074",
+      "worker_status": "inactive"
+    },
+    "wkr_0075": {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0075",
+      "worker_status": "available"
+    },
+    "wkr_0076": {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0076",
+      "worker_status": "on_shift"
+    },
+    "wkr_0077": {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0077",
+      "worker_status": "inactive"
+    },
+    "wkr_0078": {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0078",
+      "worker_status": "available"
+    },
+    "wkr_0079": {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0079",
+      "worker_status": "on_shift"
+    },
+    "wkr_0080": {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0080",
+      "worker_status": "inactive"
+    },
+    "wkr_0081": {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0081",
+      "worker_status": "on_shift"
+    },
+    "wkr_0082": {
+      "availability": "committed",
+      "blocked_by": "live_commitment",
+      "blocking_gig_id": "gig_0009",
+      "worker_id": "wkr_0082",
+      "worker_status": "on_shift"
+    },
+    "wkr_0083": {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0083",
+      "worker_status": "inactive"
+    },
+    "wkr_0084": {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0084",
+      "worker_status": "inactive"
+    },
+    "wkr_0085": {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0085",
+      "worker_status": "available"
+    },
+    "wkr_0086": {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0086",
+      "worker_status": "on_shift"
+    },
+    "wkr_0087": {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0087",
+      "worker_status": "inactive"
+    },
+    "wkr_0088": {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0088",
+      "worker_status": "available"
+    },
+    "wkr_0089": {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0089",
+      "worker_status": "inactive"
+    },
+    "wkr_0090": {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0090",
+      "worker_status": "on_shift"
+    },
+    "wkr_0091": {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0091",
+      "worker_status": "inactive"
+    },
+    "wkr_0092": {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0092",
+      "worker_status": "on_shift"
+    },
+    "wkr_0093": {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0093",
+      "worker_status": "off_shift"
+    },
+    "wkr_0094": {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0094",
+      "worker_status": "inactive"
+    },
+    "wkr_0095": {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0095",
+      "worker_status": "off_shift"
+    },
+    "wkr_0096": {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0096",
+      "worker_status": "on_shift"
+    },
+    "wkr_0097": {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0097",
+      "worker_status": "available"
+    },
+    "wkr_0098": {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0098",
+      "worker_status": "on_shift"
+    },
+    "wkr_0099": {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0099",
+      "worker_status": "on_shift"
+    },
+    "wkr_0100": {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0100",
+      "worker_status": "off_shift"
+    },
+    "wkr_0101": {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0101",
+      "worker_status": "on_shift"
+    },
+    "wkr_0102": {
+      "availability": "committed",
+      "blocked_by": "live_commitment",
+      "blocking_gig_id": "gig_0004",
+      "worker_id": "wkr_0102",
+      "worker_status": "on_shift"
+    },
+    "wkr_0103": {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0103",
+      "worker_status": "inactive"
+    },
+    "wkr_0104": {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0104",
+      "worker_status": "off_shift"
+    },
+    "wkr_0105": {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0105",
+      "worker_status": "inactive"
+    },
+    "wkr_0106": {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0106",
+      "worker_status": "off_shift"
+    },
+    "wkr_0107": {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0107",
+      "worker_status": "available"
+    },
+    "wkr_0108": {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0108",
+      "worker_status": "on_shift"
+    },
+    "wkr_0109": {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0109",
+      "worker_status": "on_shift"
+    },
+    "wkr_0110": {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0110",
+      "worker_status": "on_shift"
+    },
+    "wkr_0111": {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0111",
+      "worker_status": "off_shift"
+    },
+    "wkr_0112": {
+      "availability": "committed",
+      "blocked_by": "live_commitment",
+      "blocking_gig_id": "gig_0005",
+      "worker_id": "wkr_0112",
+      "worker_status": "available"
+    },
+    "wkr_0113": {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0113",
+      "worker_status": "off_shift"
+    },
+    "wkr_0114": {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0114",
+      "worker_status": "available"
+    },
+    "wkr_0115": {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0115",
+      "worker_status": "off_shift"
+    },
+    "wkr_0116": {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0116",
+      "worker_status": "on_shift"
+    },
+    "wkr_0117": {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0117",
+      "worker_status": "off_shift"
+    },
+    "wkr_0118": {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0118",
+      "worker_status": "inactive"
+    },
+    "wkr_0119": {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0119",
+      "worker_status": "inactive"
+    },
+    "wkr_0120": {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0120",
+      "worker_status": "inactive"
+    },
+    "wkr_0190": {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0190",
+      "worker_status": "available"
+    },
+    "wkr_0191": {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0191",
+      "worker_status": "available"
+    },
+    "wkr_0192": {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0192",
+      "worker_status": "available"
+    },
+    "wkr_0193": {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0193",
+      "worker_status": "available"
+    },
+    "wkr_0194": {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0194",
+      "worker_status": "available"
+    }
+  },
+  "board_rows": [
+    {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0001",
+      "worker_status": "on_shift"
+    },
+    {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0002",
+      "worker_status": "available"
+    },
+    {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0003",
+      "worker_status": "off_shift"
+    },
+    {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0004",
+      "worker_status": "off_shift"
+    },
+    {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0005",
+      "worker_status": "off_shift"
+    },
+    {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0006",
+      "worker_status": "available"
+    },
+    {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0007",
+      "worker_status": "on_shift"
+    },
+    {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0008",
+      "worker_status": "on_shift"
+    },
+    {
+      "availability": "committed",
+      "blocked_by": "live_commitment",
+      "blocking_gig_id": "gig_0010",
+      "worker_id": "wkr_0009",
+      "worker_status": "available"
+    },
+    {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0010",
+      "worker_status": "inactive"
+    },
+    {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0011",
+      "worker_status": "inactive"
+    },
+    {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0012",
+      "worker_status": "off_shift"
+    },
+    {
+      "availability": "off_roster",
+      "blocked_by": "roster_removal",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0013",
+      "worker_status": "on_shift"
+    },
+    {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0014",
+      "worker_status": "on_shift"
+    },
+    {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0015",
+      "worker_status": "on_shift"
+    },
+    {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0016",
+      "worker_status": "off_shift"
+    },
+    {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0017",
+      "worker_status": "on_shift"
+    },
+    {
+      "availability": "committed",
+      "blocked_by": "live_commitment",
+      "blocking_gig_id": "gig_0011",
+      "worker_id": "wkr_0018",
+      "worker_status": "on_shift"
+    },
+    {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0019",
+      "worker_status": "inactive"
+    },
+    {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0020",
+      "worker_status": "on_shift"
+    },
+    {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0021",
+      "worker_status": "inactive"
+    },
+    {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0022",
+      "worker_status": "inactive"
+    },
+    {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0023",
+      "worker_status": "on_shift"
+    },
+    {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0024",
+      "worker_status": "off_shift"
+    },
+    {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0025",
+      "worker_status": "available"
+    },
+    {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0026",
+      "worker_status": "on_shift"
+    },
+    {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0027",
+      "worker_status": "available"
+    },
+    {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0028",
+      "worker_status": "available"
+    },
+    {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0029",
+      "worker_status": "off_shift"
+    },
+    {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0030",
+      "worker_status": "off_shift"
+    },
+    {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0031",
+      "worker_status": "available"
+    },
+    {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0032",
+      "worker_status": "inactive"
+    },
+    {
+      "availability": "off_roster",
+      "blocked_by": "roster_removal",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0033",
+      "worker_status": "available"
+    },
+    {
+      "availability": "off_roster",
+      "blocked_by": "roster_removal",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0034",
+      "worker_status": "off_shift"
+    },
+    {
+      "availability": "off_roster",
+      "blocked_by": "roster_removal",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0035",
+      "worker_status": "on_shift"
+    },
+    {
+      "availability": "off_roster",
+      "blocked_by": "roster_removal",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0036",
+      "worker_status": "inactive"
+    },
+    {
+      "availability": "off_roster",
+      "blocked_by": "roster_removal",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0037",
+      "worker_status": "on_shift"
+    },
+    {
+      "availability": "off_roster",
+      "blocked_by": "roster_removal",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0038",
+      "worker_status": "off_shift"
+    },
+    {
+      "availability": "off_roster",
+      "blocked_by": "roster_removal",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0039",
+      "worker_status": "off_shift"
+    },
+    {
+      "availability": "off_roster",
+      "blocked_by": "roster_removal",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0040",
+      "worker_status": "available"
+    },
+    {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0041",
+      "worker_status": "inactive"
+    },
+    {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0042",
+      "worker_status": "on_shift"
+    },
+    {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0043",
+      "worker_status": "available"
+    },
+    {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0044",
+      "worker_status": "on_shift"
+    },
+    {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0045",
+      "worker_status": "on_shift"
+    },
+    {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0046",
+      "worker_status": "inactive"
+    },
+    {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0047",
+      "worker_status": "off_shift"
+    },
+    {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0048",
+      "worker_status": "inactive"
+    },
+    {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0049",
+      "worker_status": "on_shift"
+    },
+    {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0050",
+      "worker_status": "on_shift"
+    },
+    {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0051",
+      "worker_status": "on_shift"
+    },
+    {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0052",
+      "worker_status": "off_shift"
+    },
+    {
+      "availability": "committed",
+      "blocked_by": "live_commitment",
+      "blocking_gig_id": "gig_0010",
+      "worker_id": "wkr_0053",
+      "worker_status": "on_shift"
+    },
+    {
+      "availability": "committed",
+      "blocked_by": "live_commitment",
+      "blocking_gig_id": "gig_0009",
+      "worker_id": "wkr_0054",
+      "worker_status": "available"
+    },
+    {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0055",
+      "worker_status": "inactive"
+    },
+    {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0056",
+      "worker_status": "inactive"
+    },
+    {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0057",
+      "worker_status": "inactive"
+    },
+    {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0058",
+      "worker_status": "inactive"
+    },
+    {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0059",
+      "worker_status": "available"
+    },
+    {
+      "availability": "committed",
+      "blocked_by": "live_commitment",
+      "blocking_gig_id": "gig_0011",
+      "worker_id": "wkr_0060",
+      "worker_status": "on_shift"
+    },
+    {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0061",
+      "worker_status": "inactive"
+    },
+    {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0062",
+      "worker_status": "available"
+    },
+    {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0063",
+      "worker_status": "inactive"
+    },
+    {
+      "availability": "committed",
+      "blocked_by": "live_commitment",
+      "blocking_gig_id": "gig_0004",
+      "worker_id": "wkr_0064",
+      "worker_status": "off_shift"
+    },
+    {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0065",
+      "worker_status": "off_shift"
+    },
+    {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0066",
+      "worker_status": "inactive"
+    },
+    {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0067",
+      "worker_status": "on_shift"
+    },
+    {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0068",
+      "worker_status": "off_shift"
+    },
+    {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0069",
+      "worker_status": "on_shift"
+    },
+    {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0070",
+      "worker_status": "off_shift"
+    },
+    {
+      "availability": "committed",
+      "blocked_by": "live_commitment",
+      "blocking_gig_id": "gig_0001",
+      "worker_id": "wkr_0071",
+      "worker_status": "inactive"
+    },
+    {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0072",
+      "worker_status": "on_shift"
+    },
+    {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0073",
+      "worker_status": "inactive"
+    },
+    {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0074",
+      "worker_status": "inactive"
+    },
+    {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0075",
+      "worker_status": "available"
+    },
+    {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0076",
+      "worker_status": "on_shift"
+    },
+    {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0077",
+      "worker_status": "inactive"
+    },
+    {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0078",
+      "worker_status": "available"
+    },
+    {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0079",
+      "worker_status": "on_shift"
+    },
+    {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0080",
+      "worker_status": "inactive"
+    },
+    {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0081",
+      "worker_status": "on_shift"
+    },
+    {
+      "availability": "committed",
+      "blocked_by": "live_commitment",
+      "blocking_gig_id": "gig_0009",
+      "worker_id": "wkr_0082",
+      "worker_status": "on_shift"
+    },
+    {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0083",
+      "worker_status": "inactive"
+    },
+    {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0084",
+      "worker_status": "inactive"
+    },
+    {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0085",
+      "worker_status": "available"
+    },
+    {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0086",
+      "worker_status": "on_shift"
+    },
+    {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0087",
+      "worker_status": "inactive"
+    },
+    {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0088",
+      "worker_status": "available"
+    },
+    {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0089",
+      "worker_status": "inactive"
+    },
+    {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0090",
+      "worker_status": "on_shift"
+    },
+    {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0091",
+      "worker_status": "inactive"
+    },
+    {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0092",
+      "worker_status": "on_shift"
+    },
+    {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0093",
+      "worker_status": "off_shift"
+    },
+    {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0094",
+      "worker_status": "inactive"
+    },
+    {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0095",
+      "worker_status": "off_shift"
+    },
+    {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0096",
+      "worker_status": "on_shift"
+    },
+    {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0097",
+      "worker_status": "available"
+    },
+    {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0098",
+      "worker_status": "on_shift"
+    },
+    {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0099",
+      "worker_status": "on_shift"
+    },
+    {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0100",
+      "worker_status": "off_shift"
+    },
+    {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0101",
+      "worker_status": "on_shift"
+    },
+    {
+      "availability": "committed",
+      "blocked_by": "live_commitment",
+      "blocking_gig_id": "gig_0004",
+      "worker_id": "wkr_0102",
+      "worker_status": "on_shift"
+    },
+    {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0103",
+      "worker_status": "inactive"
+    },
+    {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0104",
+      "worker_status": "off_shift"
+    },
+    {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0105",
+      "worker_status": "inactive"
+    },
+    {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0106",
+      "worker_status": "off_shift"
+    },
+    {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0107",
+      "worker_status": "available"
+    },
+    {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0108",
+      "worker_status": "on_shift"
+    },
+    {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0109",
+      "worker_status": "on_shift"
+    },
+    {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0110",
+      "worker_status": "on_shift"
+    },
+    {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0111",
+      "worker_status": "off_shift"
+    },
+    {
+      "availability": "committed",
+      "blocked_by": "live_commitment",
+      "blocking_gig_id": "gig_0005",
+      "worker_id": "wkr_0112",
+      "worker_status": "available"
+    },
+    {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0113",
+      "worker_status": "off_shift"
+    },
+    {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0114",
+      "worker_status": "available"
+    },
+    {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0115",
+      "worker_status": "off_shift"
+    },
+    {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0116",
+      "worker_status": "on_shift"
+    },
+    {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0117",
+      "worker_status": "off_shift"
+    },
+    {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0118",
+      "worker_status": "inactive"
+    },
+    {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0119",
+      "worker_status": "inactive"
+    },
+    {
+      "availability": "not_available",
+      "blocked_by": "worker_status",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0120",
+      "worker_status": "inactive"
+    },
+    {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0190",
+      "worker_status": "available"
+    },
+    {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0191",
+      "worker_status": "available"
+    },
+    {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0192",
+      "worker_status": "available"
+    },
+    {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0193",
+      "worker_status": "available"
+    },
+    {
+      "availability": "offerable",
+      "blocked_by": "",
+      "blocking_gig_id": "",
+      "worker_id": "wkr_0194",
+      "worker_status": "available"
+    }
+  ],
+  "checkpoints": {
+    "board": 88
+  },
+  "gig_rows": 13,
+  "max_page_size": 50,
+  "roster_ids": [
+    "wkr_0001",
+    "wkr_0002",
+    "wkr_0003",
+    "wkr_0004",
+    "wkr_0005",
+    "wkr_0006",
+    "wkr_0007",
+    "wkr_0008",
+    "wkr_0009",
+    "wkr_0010",
+    "wkr_0011",
+    "wkr_0012",
+    "wkr_0013",
+    "wkr_0014",
+    "wkr_0015",
+    "wkr_0016",
+    "wkr_0017",
+    "wkr_0018",
+    "wkr_0019",
+    "wkr_0020",
+    "wkr_0021",
+    "wkr_0022",
+    "wkr_0023",
+    "wkr_0024",
+    "wkr_0025",
+    "wkr_0026",
+    "wkr_0027",
+    "wkr_0028",
+    "wkr_0029",
+    "wkr_0030",
+    "wkr_0031",
+    "wkr_0032",
+    "wkr_0033",
+    "wkr_0034",
+    "wkr_0035",
+    "wkr_0036",
+    "wkr_0037",
+    "wkr_0038",
+    "wkr_0039",
+    "wkr_0040",
+    "wkr_0041",
+    "wkr_0042",
+    "wkr_0043",
+    "wkr_0044",
+    "wkr_0045",
+    "wkr_0046",
+    "wkr_0047",
+    "wkr_0048",
+    "wkr_0049",
+    "wkr_0050",
+    "wkr_0051",
+    "wkr_0052",
+    "wkr_0053",
+    "wkr_0054",
+    "wkr_0055",
+    "wkr_0056",
+    "wkr_0057",
+    "wkr_0058",
+    "wkr_0059",
+    "wkr_0060",
+    "wkr_0061",
+    "wkr_0062",
+    "wkr_0063",
+    "wkr_0064",
+    "wkr_0065",
+    "wkr_0066",
+    "wkr_0067",
+    "wkr_0068",
+    "wkr_0069",
+    "wkr_0070",
+    "wkr_0071",
+    "wkr_0072",
+    "wkr_0073",
+    "wkr_0074",
+    "wkr_0075",
+    "wkr_0076",
+    "wkr_0077",
+    "wkr_0078",
+    "wkr_0079",
+    "wkr_0080",
+    "wkr_0081",
+    "wkr_0082",
+    "wkr_0083",
+    "wkr_0084",
+    "wkr_0085",
+    "wkr_0086",
+    "wkr_0087",
+    "wkr_0088",
+    "wkr_0089",
+    "wkr_0090",
+    "wkr_0091",
+    "wkr_0092",
+    "wkr_0093",
+    "wkr_0094",
+    "wkr_0095",
+    "wkr_0096",
+    "wkr_0097",
+    "wkr_0098",
+    "wkr_0099",
+    "wkr_0100",
+    "wkr_0101",
+    "wkr_0102",
+    "wkr_0103",
+    "wkr_0104",
+    "wkr_0105",
+    "wkr_0106",
+    "wkr_0107",
+    "wkr_0108",
+    "wkr_0109",
+    "wkr_0110",
+    "wkr_0111",
+    "wkr_0112",
+    "wkr_0113",
+    "wkr_0114",
+    "wkr_0115",
+    "wkr_0116",
+    "wkr_0117",
+    "wkr_0118",
+    "wkr_0119",
+    "wkr_0120",
+    "wkr_0190",
+    "wkr_0191",
+    "wkr_0192",
+    "wkr_0193",
+    "wkr_0194"
+  ],
+  "roster_rows": 125,
+  "single_pass_misses_by_limit": {
+    "10": [
+      "wkr_0076",
+      "wkr_0084",
+      "wkr_0100"
+    ],
+    "25": [
+      "wkr_0076",
+      "wkr_0084",
+      "wkr_0100"
+    ],
+    "50": [
+      "wkr_0084"
+    ]
+  },
+  "totals": {
+    "committed": 10,
+    "not_available": 63,
+    "off_roster": 9,
+    "offerable": 43,
+    "roster_rows": 125
+  },
+  "window_ids_in_order": [
+    "gig_0010",
+    "gig_0011",
+    "gig_0001",
+    "gig_0004",
+    "gig_0900",
+    "gig_0005"
+  ],
+  "windows": [
+    {
+      "admitted_despite_withdrawn_row": [
+        "wkr_0097"
+      ],
+      "barred_by_own_row": [
+        "wkr_0070"
+      ],
+      "eligible_count": 42,
+      "eligible_worker_ids": [
+        "wkr_0002",
+        "wkr_0003",
+        "wkr_0004",
+        "wkr_0005",
+        "wkr_0006",
+        "wkr_0012",
+        "wkr_0016",
+        "wkr_0024",
+        "wkr_0025",
+        "wkr_0027",
+        "wkr_0028",
+        "wkr_0029",
+        "wkr_0030",
+        "wkr_0031",
+        "wkr_0043",
+        "wkr_0047",
+        "wkr_0052",
+        "wkr_0059",
+        "wkr_0062",
+        "wkr_0065",
+        "wkr_0068",
+        "wkr_0075",
+        "wkr_0078",
+        "wkr_0085",
+        "wkr_0088",
+        "wkr_0093",
+        "wkr_0095",
+        "wkr_0097",
+        "wkr_0100",
+        "wkr_0104",
+        "wkr_0106",
+        "wkr_0107",
+        "wkr_0111",
+        "wkr_0113",
+        "wkr_0114",
+        "wkr_0115",
+        "wkr_0117",
+        "wkr_0190",
+        "wkr_0191",
+        "wkr_0192",
+        "wkr_0193",
+        "wkr_0194"
+      ],
+      "gig_id": "gig_0010",
+      "gig_status": "filling",
+      "pay_rate_cents": 3400,
+      "place_audit": {
+        "wkr_0070": false,
+        "wkr_0097": true
+      }
+    },
+    {
+      "admitted_despite_withdrawn_row": [
+        "wkr_0104"
+      ],
+      "barred_by_own_row": [
+        "wkr_0031",
+        "wkr_0068",
+        "wkr_0075"
+      ],
+      "eligible_count": 40,
+      "eligible_worker_ids": [
+        "wkr_0002",
+        "wkr_0003",
+        "wkr_0004",
+        "wkr_0005",
+        "wkr_0006",
+        "wkr_0012",
+        "wkr_0016",
+        "wkr_0024",
+        "wkr_0025",
+        "wkr_0027",
+        "wkr_0028",
+        "wkr_0029",
+        "wkr_0030",
+        "wkr_0043",
+        "wkr_0047",
+        "wkr_0052",
+        "wkr_0059",
+        "wkr_0062",
+        "wkr_0065",
+        "wkr_0070",
+        "wkr_0078",
+        "wkr_0085",
+        "wkr_0088",
+        "wkr_0093",
+        "wkr_0095",
+        "wkr_0097",
+        "wkr_0100",
+        "wkr_0104",
+        "wkr_0106",
+        "wkr_0107",
+        "wkr_0111",
+        "wkr_0113",
+        "wkr_0114",
+        "wkr_0115",
+        "wkr_0117",
+        "wkr_0190",
+        "wkr_0191",
+        "wkr_0192",
+        "wkr_0193",
+        "wkr_0194"
+      ],
+      "gig_id": "gig_0011",
+      "gig_status": "open",
+      "pay_rate_cents": 2600,
+      "place_audit": {
+        "wkr_0031": false,
+        "wkr_0068": false,
+        "wkr_0075": false,
+        "wkr_0104": true
+      }
+    },
+    {
+      "admitted_despite_withdrawn_row": [
+        "wkr_0107"
+      ],
+      "barred_by_own_row": [
+        "wkr_0027",
+        "wkr_0047",
+        "wkr_0088"
+      ],
+      "eligible_count": 40,
+      "eligible_worker_ids": [
+        "wkr_0002",
+        "wkr_0003",
+        "wkr_0004",
+        "wkr_0005",
+        "wkr_0006",
+        "wkr_0012",
+        "wkr_0016",
+        "wkr_0024",
+        "wkr_0025",
+        "wkr_0028",
+        "wkr_0029",
+        "wkr_0030",
+        "wkr_0031",
+        "wkr_0043",
+        "wkr_0052",
+        "wkr_0059",
+        "wkr_0062",
+        "wkr_0065",
+        "wkr_0068",
+        "wkr_0070",
+        "wkr_0075",
+        "wkr_0078",
+        "wkr_0085",
+        "wkr_0093",
+        "wkr_0095",
+        "wkr_0097",
+        "wkr_0100",
+        "wkr_0104",
+        "wkr_0106",
+        "wkr_0107",
+        "wkr_0111",
+        "wkr_0113",
+        "wkr_0114",
+        "wkr_0115",
+        "wkr_0117",
+        "wkr_0190",
+        "wkr_0191",
+        "wkr_0192",
+        "wkr_0193",
+        "wkr_0194"
+      ],
+      "gig_id": "gig_0001",
+      "gig_status": "filling",
+      "pay_rate_cents": 2500,
+      "place_audit": {
+        "wkr_0027": false,
+        "wkr_0047": false,
+        "wkr_0088": false,
+        "wkr_0107": true
+      }
+    },
+    {
+      "admitted_despite_withdrawn_row": [
+        "wkr_0093"
+      ],
+      "barred_by_own_row": [
+        "wkr_0052"
+      ],
+      "eligible_count": 42,
+      "eligible_worker_ids": [
+        "wkr_0002",
+        "wkr_0003",
+        "wkr_0004",
+        "wkr_0005",
+        "wkr_0006",
+        "wkr_0012",
+        "wkr_0016",
+        "wkr_0024",
+        "wkr_0025",
+        "wkr_0027",
+        "wkr_0028",
+        "wkr_0029",
+        "wkr_0030",
+        "wkr_0031",
+        "wkr_0043",
+        "wkr_0047",
+        "wkr_0059",
+        "wkr_0062",
+        "wkr_0065",
+        "wkr_0068",
+        "wkr_0070",
+        "wkr_0075",
+        "wkr_0078",
+        "wkr_0085",
+        "wkr_0088",
+        "wkr_0093",
+        "wkr_0095",
+        "wkr_0097",
+        "wkr_0100",
+        "wkr_0104",
+        "wkr_0106",
+        "wkr_0107",
+        "wkr_0111",
+        "wkr_0113",
+        "wkr_0114",
+        "wkr_0115",
+        "wkr_0117",
+        "wkr_0190",
+        "wkr_0191",
+        "wkr_0192",
+        "wkr_0193",
+        "wkr_0194"
+      ],
+      "gig_id": "gig_0004",
+      "gig_status": "filling",
+      "pay_rate_cents": 2500,
+      "place_audit": {
+        "wkr_0052": false,
+        "wkr_0093": true
+      }
+    },
+    {
+      "admitted_despite_withdrawn_row": [
+        "wkr_0106"
+      ],
+      "barred_by_own_row": [
+        "wkr_0078"
+      ],
+      "eligible_count": 42,
+      "eligible_worker_ids": [
+        "wkr_0002",
+        "wkr_0003",
+        "wkr_0004",
+        "wkr_0005",
+        "wkr_0006",
+        "wkr_0012",
+        "wkr_0016",
+        "wkr_0024",
+        "wkr_0025",
+        "wkr_0027",
+        "wkr_0028",
+        "wkr_0029",
+        "wkr_0030",
+        "wkr_0031",
+        "wkr_0043",
+        "wkr_0047",
+        "wkr_0052",
+        "wkr_0059",
+        "wkr_0062",
+        "wkr_0065",
+        "wkr_0068",
+        "wkr_0070",
+        "wkr_0075",
+        "wkr_0085",
+        "wkr_0088",
+        "wkr_0093",
+        "wkr_0095",
+        "wkr_0097",
+        "wkr_0100",
+        "wkr_0104",
+        "wkr_0106",
+        "wkr_0107",
+        "wkr_0111",
+        "wkr_0113",
+        "wkr_0114",
+        "wkr_0115",
+        "wkr_0117",
+        "wkr_0190",
+        "wkr_0191",
+        "wkr_0192",
+        "wkr_0193",
+        "wkr_0194"
+      ],
+      "gig_id": "gig_0900",
+      "gig_status": "open",
+      "pay_rate_cents": 2200,
+      "place_audit": {
+        "wkr_0078": false,
+        "wkr_0106": true
+      }
+    },
+    {
+      "admitted_despite_withdrawn_row": [
+        "wkr_0095"
+      ],
+      "barred_by_own_row": [
+        "wkr_0062",
+        "wkr_0068"
+      ],
+      "eligible_count": 41,
+      "eligible_worker_ids": [
+        "wkr_0002",
+        "wkr_0003",
+        "wkr_0004",
+        "wkr_0005",
+        "wkr_0006",
+        "wkr_0012",
+        "wkr_0016",
+        "wkr_0024",
+        "wkr_0025",
+        "wkr_0027",
+        "wkr_0028",
+        "wkr_0029",
+        "wkr_0030",
+        "wkr_0031",
+        "wkr_0043",
+        "wkr_0047",
+        "wkr_0052",
+        "wkr_0059",
+        "wkr_0065",
+        "wkr_0070",
+        "wkr_0075",
+        "wkr_0078",
+        "wkr_0085",
+        "wkr_0088",
+        "wkr_0093",
+        "wkr_0095",
+        "wkr_0097",
+        "wkr_0100",
+        "wkr_0104",
+        "wkr_0106",
+        "wkr_0107",
+        "wkr_0111",
+        "wkr_0113",
+        "wkr_0114",
+        "wkr_0115",
+        "wkr_0117",
+        "wkr_0190",
+        "wkr_0191",
+        "wkr_0192",
+        "wkr_0193",
+        "wkr_0194"
+      ],
+      "gig_id": "gig_0005",
+      "gig_status": "filling",
+      "pay_rate_cents": 1700,
+      "place_audit": {
+        "wkr_0062": false,
+        "wkr_0068": false,
+        "wkr_0095": true
+      }
+    }
+  ]
+}

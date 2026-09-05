@@ -1,0 +1,1045 @@
+{
+  "active_headcount": 116,
+  "audited_cohort": [
+    "wkr_0001",
+    "wkr_0010",
+    "wkr_0012",
+    "wkr_0019",
+    "wkr_0023",
+    "wkr_0028",
+    "wkr_0034",
+    "wkr_0036",
+    "wkr_0038",
+    "wkr_0046",
+    "wkr_0047",
+    "wkr_0053",
+    "wkr_0057",
+    "wkr_0059",
+    "wkr_0066",
+    "wkr_0067",
+    "wkr_0071",
+    "wkr_0076",
+    "wkr_0080",
+    "wkr_0083",
+    "wkr_0084",
+    "wkr_0087",
+    "wkr_0094",
+    "wkr_0096",
+    "wkr_0097",
+    "wkr_0102",
+    "wkr_0106",
+    "wkr_0108",
+    "wkr_0110",
+    "wkr_0115",
+    "wkr_0118",
+    "wkr_0120",
+    "wkr_0190",
+    "wkr_0194"
+  ],
+  "by_role": [
+    {
+      "active": 14,
+      "removed": 0,
+      "role": "barista"
+    },
+    {
+      "active": 12,
+      "removed": 2,
+      "role": "cashier"
+    },
+    {
+      "active": 8,
+      "removed": 0,
+      "role": "cleaner"
+    },
+    {
+      "active": 11,
+      "removed": 0,
+      "role": "dishwasher"
+    },
+    {
+      "active": 12,
+      "removed": 2,
+      "role": "driver"
+    },
+    {
+      "active": 6,
+      "removed": 1,
+      "role": "host"
+    },
+    {
+      "active": 10,
+      "removed": 3,
+      "role": "line_cook"
+    },
+    {
+      "active": 14,
+      "removed": 0,
+      "role": "server"
+    },
+    {
+      "active": 14,
+      "removed": 0,
+      "role": "stocker"
+    },
+    {
+      "active": 15,
+      "removed": 1,
+      "role": "warehouse"
+    }
+  ],
+  "by_status": [
+    {
+      "headcount": 24,
+      "status": "available"
+    },
+    {
+      "headcount": 32,
+      "status": "inactive"
+    },
+    {
+      "headcount": 23,
+      "status": "off_shift"
+    },
+    {
+      "headcount": 37,
+      "status": "on_shift"
+    }
+  ],
+  "census_limit": 10,
+  "checkpoints": {
+    "census": 88
+  },
+  "control_ids": [
+    "wkr_0001",
+    "wkr_0012",
+    "wkr_0023",
+    "wkr_0034",
+    "wkr_0046",
+    "wkr_0059",
+    "wkr_0071",
+    "wkr_0083",
+    "wkr_0096",
+    "wkr_0110"
+  ],
+  "distinct_seen_by_one_sweep": 113,
+  "duplicated_by_one_sweep": [
+    "wkr_0010",
+    "wkr_0019",
+    "wkr_0028",
+    "wkr_0038",
+    "wkr_0047",
+    "wkr_0057",
+    "wkr_0067",
+    "wkr_0076",
+    "wkr_0087",
+    "wkr_0097",
+    "wkr_0108",
+    "wkr_0118"
+  ],
+  "hidden_from_one_sweep": [
+    "wkr_0036",
+    "wkr_0053",
+    "wkr_0066",
+    "wkr_0080",
+    "wkr_0084",
+    "wkr_0094",
+    "wkr_0102",
+    "wkr_0106",
+    "wkr_0115",
+    "wkr_0120",
+    "wkr_0190",
+    "wkr_0194"
+  ],
+  "lines": [
+    {
+      "role": "server",
+      "standing": "active",
+      "status": "on_shift",
+      "worker_id": "wkr_0001"
+    },
+    {
+      "role": "barista",
+      "standing": "active",
+      "status": "available",
+      "worker_id": "wkr_0002"
+    },
+    {
+      "role": "stocker",
+      "standing": "active",
+      "status": "off_shift",
+      "worker_id": "wkr_0003"
+    },
+    {
+      "role": "dishwasher",
+      "standing": "active",
+      "status": "off_shift",
+      "worker_id": "wkr_0004"
+    },
+    {
+      "role": "barista",
+      "standing": "active",
+      "status": "off_shift",
+      "worker_id": "wkr_0005"
+    },
+    {
+      "role": "warehouse",
+      "standing": "active",
+      "status": "available",
+      "worker_id": "wkr_0006"
+    },
+    {
+      "role": "stocker",
+      "standing": "active",
+      "status": "on_shift",
+      "worker_id": "wkr_0007"
+    },
+    {
+      "role": "warehouse",
+      "standing": "active",
+      "status": "on_shift",
+      "worker_id": "wkr_0008"
+    },
+    {
+      "role": "cleaner",
+      "standing": "active",
+      "status": "available",
+      "worker_id": "wkr_0009"
+    },
+    {
+      "role": "line_cook",
+      "standing": "active",
+      "status": "inactive",
+      "worker_id": "wkr_0010"
+    },
+    {
+      "role": "warehouse",
+      "standing": "active",
+      "status": "inactive",
+      "worker_id": "wkr_0011"
+    },
+    {
+      "role": "driver",
+      "standing": "active",
+      "status": "off_shift",
+      "worker_id": "wkr_0012"
+    },
+    {
+      "role": "cashier",
+      "standing": "removed",
+      "status": "on_shift",
+      "worker_id": "wkr_0013"
+    },
+    {
+      "role": "stocker",
+      "standing": "active",
+      "status": "on_shift",
+      "worker_id": "wkr_0014"
+    },
+    {
+      "role": "server",
+      "standing": "active",
+      "status": "on_shift",
+      "worker_id": "wkr_0015"
+    },
+    {
+      "role": "warehouse",
+      "standing": "active",
+      "status": "off_shift",
+      "worker_id": "wkr_0016"
+    },
+    {
+      "role": "barista",
+      "standing": "active",
+      "status": "on_shift",
+      "worker_id": "wkr_0017"
+    },
+    {
+      "role": "server",
+      "standing": "active",
+      "status": "on_shift",
+      "worker_id": "wkr_0018"
+    },
+    {
+      "role": "line_cook",
+      "standing": "active",
+      "status": "inactive",
+      "worker_id": "wkr_0019"
+    },
+    {
+      "role": "barista",
+      "standing": "active",
+      "status": "on_shift",
+      "worker_id": "wkr_0020"
+    },
+    {
+      "role": "stocker",
+      "standing": "active",
+      "status": "inactive",
+      "worker_id": "wkr_0021"
+    },
+    {
+      "role": "driver",
+      "standing": "active",
+      "status": "inactive",
+      "worker_id": "wkr_0022"
+    },
+    {
+      "role": "server",
+      "standing": "active",
+      "status": "on_shift",
+      "worker_id": "wkr_0023"
+    },
+    {
+      "role": "dishwasher",
+      "standing": "active",
+      "status": "off_shift",
+      "worker_id": "wkr_0024"
+    },
+    {
+      "role": "cleaner",
+      "standing": "active",
+      "status": "available",
+      "worker_id": "wkr_0025"
+    },
+    {
+      "role": "cashier",
+      "standing": "active",
+      "status": "on_shift",
+      "worker_id": "wkr_0026"
+    },
+    {
+      "role": "line_cook",
+      "standing": "active",
+      "status": "available",
+      "worker_id": "wkr_0027"
+    },
+    {
+      "role": "warehouse",
+      "standing": "active",
+      "status": "available",
+      "worker_id": "wkr_0028"
+    },
+    {
+      "role": "stocker",
+      "standing": "active",
+      "status": "off_shift",
+      "worker_id": "wkr_0029"
+    },
+    {
+      "role": "dishwasher",
+      "standing": "active",
+      "status": "off_shift",
+      "worker_id": "wkr_0030"
+    },
+    {
+      "role": "server",
+      "standing": "active",
+      "status": "available",
+      "worker_id": "wkr_0031"
+    },
+    {
+      "role": "host",
+      "standing": "active",
+      "status": "inactive",
+      "worker_id": "wkr_0032"
+    },
+    {
+      "role": "driver",
+      "standing": "removed",
+      "status": "available",
+      "worker_id": "wkr_0033"
+    },
+    {
+      "role": "driver",
+      "standing": "removed",
+      "status": "off_shift",
+      "worker_id": "wkr_0034"
+    },
+    {
+      "role": "line_cook",
+      "standing": "removed",
+      "status": "on_shift",
+      "worker_id": "wkr_0035"
+    },
+    {
+      "role": "cashier",
+      "standing": "removed",
+      "status": "inactive",
+      "worker_id": "wkr_0036"
+    },
+    {
+      "role": "line_cook",
+      "standing": "removed",
+      "status": "on_shift",
+      "worker_id": "wkr_0037"
+    },
+    {
+      "role": "host",
+      "standing": "removed",
+      "status": "off_shift",
+      "worker_id": "wkr_0038"
+    },
+    {
+      "role": "warehouse",
+      "standing": "removed",
+      "status": "off_shift",
+      "worker_id": "wkr_0039"
+    },
+    {
+      "role": "line_cook",
+      "standing": "removed",
+      "status": "available",
+      "worker_id": "wkr_0040"
+    },
+    {
+      "role": "host",
+      "standing": "active",
+      "status": "inactive",
+      "worker_id": "wkr_0041"
+    },
+    {
+      "role": "cashier",
+      "standing": "active",
+      "status": "on_shift",
+      "worker_id": "wkr_0042"
+    },
+    {
+      "role": "warehouse",
+      "standing": "active",
+      "status": "available",
+      "worker_id": "wkr_0043"
+    },
+    {
+      "role": "warehouse",
+      "standing": "active",
+      "status": "on_shift",
+      "worker_id": "wkr_0044"
+    },
+    {
+      "role": "line_cook",
+      "standing": "active",
+      "status": "on_shift",
+      "worker_id": "wkr_0045"
+    },
+    {
+      "role": "warehouse",
+      "standing": "active",
+      "status": "inactive",
+      "worker_id": "wkr_0046"
+    },
+    {
+      "role": "host",
+      "standing": "active",
+      "status": "off_shift",
+      "worker_id": "wkr_0047"
+    },
+    {
+      "role": "server",
+      "standing": "active",
+      "status": "inactive",
+      "worker_id": "wkr_0048"
+    },
+    {
+      "role": "driver",
+      "standing": "active",
+      "status": "on_shift",
+      "worker_id": "wkr_0049"
+    },
+    {
+      "role": "cleaner",
+      "standing": "active",
+      "status": "on_shift",
+      "worker_id": "wkr_0050"
+    },
+    {
+      "role": "barista",
+      "standing": "active",
+      "status": "on_shift",
+      "worker_id": "wkr_0051"
+    },
+    {
+      "role": "stocker",
+      "standing": "active",
+      "status": "off_shift",
+      "worker_id": "wkr_0052"
+    },
+    {
+      "role": "driver",
+      "standing": "active",
+      "status": "on_shift",
+      "worker_id": "wkr_0053"
+    },
+    {
+      "role": "line_cook",
+      "standing": "active",
+      "status": "available",
+      "worker_id": "wkr_0054"
+    },
+    {
+      "role": "warehouse",
+      "standing": "active",
+      "status": "inactive",
+      "worker_id": "wkr_0055"
+    },
+    {
+      "role": "stocker",
+      "standing": "active",
+      "status": "inactive",
+      "worker_id": "wkr_0056"
+    },
+    {
+      "role": "dishwasher",
+      "standing": "active",
+      "status": "inactive",
+      "worker_id": "wkr_0057"
+    },
+    {
+      "role": "line_cook",
+      "standing": "active",
+      "status": "inactive",
+      "worker_id": "wkr_0058"
+    },
+    {
+      "role": "server",
+      "standing": "active",
+      "status": "available",
+      "worker_id": "wkr_0059"
+    },
+    {
+      "role": "stocker",
+      "standing": "active",
+      "status": "on_shift",
+      "worker_id": "wkr_0060"
+    },
+    {
+      "role": "barista",
+      "standing": "active",
+      "status": "inactive",
+      "worker_id": "wkr_0061"
+    },
+    {
+      "role": "host",
+      "standing": "active",
+      "status": "available",
+      "worker_id": "wkr_0062"
+    },
+    {
+      "role": "stocker",
+      "standing": "active",
+      "status": "inactive",
+      "worker_id": "wkr_0063"
+    },
+    {
+      "role": "host",
+      "standing": "active",
+      "status": "off_shift",
+      "worker_id": "wkr_0064"
+    },
+    {
+      "role": "cashier",
+      "standing": "active",
+      "status": "off_shift",
+      "worker_id": "wkr_0065"
+    },
+    {
+      "role": "stocker",
+      "standing": "active",
+      "status": "inactive",
+      "worker_id": "wkr_0066"
+    },
+    {
+      "role": "dishwasher",
+      "standing": "active",
+      "status": "on_shift",
+      "worker_id": "wkr_0067"
+    },
+    {
+      "role": "line_cook",
+      "standing": "active",
+      "status": "off_shift",
+      "worker_id": "wkr_0068"
+    },
+    {
+      "role": "server",
+      "standing": "active",
+      "status": "on_shift",
+      "worker_id": "wkr_0069"
+    },
+    {
+      "role": "stocker",
+      "standing": "active",
+      "status": "off_shift",
+      "worker_id": "wkr_0070"
+    },
+    {
+      "role": "driver",
+      "standing": "active",
+      "status": "inactive",
+      "worker_id": "wkr_0071"
+    },
+    {
+      "role": "server",
+      "standing": "active",
+      "status": "on_shift",
+      "worker_id": "wkr_0072"
+    },
+    {
+      "role": "line_cook",
+      "standing": "active",
+      "status": "inactive",
+      "worker_id": "wkr_0073"
+    },
+    {
+      "role": "dishwasher",
+      "standing": "active",
+      "status": "inactive",
+      "worker_id": "wkr_0074"
+    },
+    {
+      "role": "server",
+      "standing": "active",
+      "status": "available",
+      "worker_id": "wkr_0075"
+    },
+    {
+      "role": "driver",
+      "standing": "active",
+      "status": "on_shift",
+      "worker_id": "wkr_0076"
+    },
+    {
+      "role": "warehouse",
+      "standing": "active",
+      "status": "inactive",
+      "worker_id": "wkr_0077"
+    },
+    {
+      "role": "driver",
+      "standing": "active",
+      "status": "available",
+      "worker_id": "wkr_0078"
+    },
+    {
+      "role": "cashier",
+      "standing": "active",
+      "status": "on_shift",
+      "worker_id": "wkr_0079"
+    },
+    {
+      "role": "cashier",
+      "standing": "active",
+      "status": "inactive",
+      "worker_id": "wkr_0080"
+    },
+    {
+      "role": "barista",
+      "standing": "active",
+      "status": "on_shift",
+      "worker_id": "wkr_0081"
+    },
+    {
+      "role": "barista",
+      "standing": "active",
+      "status": "on_shift",
+      "worker_id": "wkr_0082"
+    },
+    {
+      "role": "warehouse",
+      "standing": "active",
+      "status": "inactive",
+      "worker_id": "wkr_0083"
+    },
+    {
+      "role": "cashier",
+      "standing": "active",
+      "status": "inactive",
+      "worker_id": "wkr_0084"
+    },
+    {
+      "role": "cashier",
+      "standing": "active",
+      "status": "available",
+      "worker_id": "wkr_0085"
+    },
+    {
+      "role": "stocker",
+      "standing": "active",
+      "status": "on_shift",
+      "worker_id": "wkr_0086"
+    },
+    {
+      "role": "barista",
+      "standing": "active",
+      "status": "inactive",
+      "worker_id": "wkr_0087"
+    },
+    {
+      "role": "cashier",
+      "standing": "active",
+      "status": "available",
+      "worker_id": "wkr_0088"
+    },
+    {
+      "role": "cleaner",
+      "standing": "active",
+      "status": "inactive",
+      "worker_id": "wkr_0089"
+    },
+    {
+      "role": "cashier",
+      "standing": "active",
+      "status": "on_shift",
+      "worker_id": "wkr_0090"
+    },
+    {
+      "role": "cashier",
+      "standing": "active",
+      "status": "inactive",
+      "worker_id": "wkr_0091"
+    },
+    {
+      "role": "warehouse",
+      "standing": "active",
+      "status": "on_shift",
+      "worker_id": "wkr_0092"
+    },
+    {
+      "role": "server",
+      "standing": "active",
+      "status": "off_shift",
+      "worker_id": "wkr_0093"
+    },
+    {
+      "role": "line_cook",
+      "standing": "active",
+      "status": "inactive",
+      "worker_id": "wkr_0094"
+    },
+    {
+      "role": "barista",
+      "standing": "active",
+      "status": "off_shift",
+      "worker_id": "wkr_0095"
+    },
+    {
+      "role": "cleaner",
+      "standing": "active",
+      "status": "on_shift",
+      "worker_id": "wkr_0096"
+    },
+    {
+      "role": "host",
+      "standing": "active",
+      "status": "available",
+      "worker_id": "wkr_0097"
+    },
+    {
+      "role": "driver",
+      "standing": "active",
+      "status": "on_shift",
+      "worker_id": "wkr_0098"
+    },
+    {
+      "role": "dishwasher",
+      "standing": "active",
+      "status": "on_shift",
+      "worker_id": "wkr_0099"
+    },
+    {
+      "role": "warehouse",
+      "standing": "active",
+      "status": "off_shift",
+      "worker_id": "wkr_0100"
+    },
+    {
+      "role": "server",
+      "standing": "active",
+      "status": "on_shift",
+      "worker_id": "wkr_0101"
+    },
+    {
+      "role": "driver",
+      "standing": "active",
+      "status": "on_shift",
+      "worker_id": "wkr_0102"
+    },
+    {
+      "role": "dishwasher",
+      "standing": "active",
+      "status": "inactive",
+      "worker_id": "wkr_0103"
+    },
+    {
+      "role": "barista",
+      "standing": "active",
+      "status": "off_shift",
+      "worker_id": "wkr_0104"
+    },
+    {
+      "role": "dishwasher",
+      "standing": "active",
+      "status": "inactive",
+      "worker_id": "wkr_0105"
+    },
+    {
+      "role": "stocker",
+      "standing": "active",
+      "status": "off_shift",
+      "worker_id": "wkr_0106"
+    },
+    {
+      "role": "driver",
+      "standing": "active",
+      "status": "available",
+      "worker_id": "wkr_0107"
+    },
+    {
+      "role": "barista",
+      "standing": "active",
+      "status": "on_shift",
+      "worker_id": "wkr_0108"
+    },
+    {
+      "role": "dishwasher",
+      "standing": "active",
+      "status": "on_shift",
+      "worker_id": "wkr_0109"
+    },
+    {
+      "role": "dishwasher",
+      "standing": "active",
+      "status": "on_shift",
+      "worker_id": "wkr_0110"
+    },
+    {
+      "role": "cashier",
+      "standing": "active",
+      "status": "off_shift",
+      "worker_id": "wkr_0111"
+    },
+    {
+      "role": "warehouse",
+      "standing": "active",
+      "status": "available",
+      "worker_id": "wkr_0112"
+    },
+    {
+      "role": "server",
+      "standing": "active",
+      "status": "off_shift",
+      "worker_id": "wkr_0113"
+    },
+    {
+      "role": "stocker",
+      "standing": "active",
+      "status": "available",
+      "worker_id": "wkr_0114"
+    },
+    {
+      "role": "line_cook",
+      "standing": "active",
+      "status": "off_shift",
+      "worker_id": "wkr_0115"
+    },
+    {
+      "role": "cashier",
+      "standing": "active",
+      "status": "on_shift",
+      "worker_id": "wkr_0116"
+    },
+    {
+      "role": "barista",
+      "standing": "active",
+      "status": "off_shift",
+      "worker_id": "wkr_0117"
+    },
+    {
+      "role": "cleaner",
+      "standing": "active",
+      "status": "inactive",
+      "worker_id": "wkr_0118"
+    },
+    {
+      "role": "cleaner",
+      "standing": "active",
+      "status": "inactive",
+      "worker_id": "wkr_0119"
+    },
+    {
+      "role": "cleaner",
+      "standing": "active",
+      "status": "inactive",
+      "worker_id": "wkr_0120"
+    },
+    {
+      "role": "driver",
+      "standing": "active",
+      "status": "available",
+      "worker_id": "wkr_0190"
+    },
+    {
+      "role": "warehouse",
+      "standing": "active",
+      "status": "available",
+      "worker_id": "wkr_0191"
+    },
+    {
+      "role": "server",
+      "standing": "active",
+      "status": "available",
+      "worker_id": "wkr_0192"
+    },
+    {
+      "role": "driver",
+      "standing": "active",
+      "status": "available",
+      "worker_id": "wkr_0193"
+    },
+    {
+      "role": "barista",
+      "standing": "active",
+      "status": "available",
+      "worker_id": "wkr_0194"
+    }
+  ],
+  "list_path": "/v1/workers",
+  "removed_headcount": 9,
+  "roles_a_row_count_still_gets_right": [
+    "cleaner",
+    "line_cook",
+    "server"
+  ],
+  "roster_ids": [
+    "wkr_0001",
+    "wkr_0002",
+    "wkr_0003",
+    "wkr_0004",
+    "wkr_0005",
+    "wkr_0006",
+    "wkr_0007",
+    "wkr_0008",
+    "wkr_0009",
+    "wkr_0010",
+    "wkr_0011",
+    "wkr_0012",
+    "wkr_0013",
+    "wkr_0014",
+    "wkr_0015",
+    "wkr_0016",
+    "wkr_0017",
+    "wkr_0018",
+    "wkr_0019",
+    "wkr_0020",
+    "wkr_0021",
+    "wkr_0022",
+    "wkr_0023",
+    "wkr_0024",
+    "wkr_0025",
+    "wkr_0026",
+    "wkr_0027",
+    "wkr_0028",
+    "wkr_0029",
+    "wkr_0030",
+    "wkr_0031",
+    "wkr_0032",
+    "wkr_0033",
+    "wkr_0034",
+    "wkr_0035",
+    "wkr_0036",
+    "wkr_0037",
+    "wkr_0038",
+    "wkr_0039",
+    "wkr_0040",
+    "wkr_0041",
+    "wkr_0042",
+    "wkr_0043",
+    "wkr_0044",
+    "wkr_0045",
+    "wkr_0046",
+    "wkr_0047",
+    "wkr_0048",
+    "wkr_0049",
+    "wkr_0050",
+    "wkr_0051",
+    "wkr_0052",
+    "wkr_0053",
+    "wkr_0054",
+    "wkr_0055",
+    "wkr_0056",
+    "wkr_0057",
+    "wkr_0058",
+    "wkr_0059",
+    "wkr_0060",
+    "wkr_0061",
+    "wkr_0062",
+    "wkr_0063",
+    "wkr_0064",
+    "wkr_0065",
+    "wkr_0066",
+    "wkr_0067",
+    "wkr_0068",
+    "wkr_0069",
+    "wkr_0070",
+    "wkr_0071",
+    "wkr_0072",
+    "wkr_0073",
+    "wkr_0074",
+    "wkr_0075",
+    "wkr_0076",
+    "wkr_0077",
+    "wkr_0078",
+    "wkr_0079",
+    "wkr_0080",
+    "wkr_0081",
+    "wkr_0082",
+    "wkr_0083",
+    "wkr_0084",
+    "wkr_0085",
+    "wkr_0086",
+    "wkr_0087",
+    "wkr_0088",
+    "wkr_0089",
+    "wkr_0090",
+    "wkr_0091",
+    "wkr_0092",
+    "wkr_0093",
+    "wkr_0094",
+    "wkr_0095",
+    "wkr_0096",
+    "wkr_0097",
+    "wkr_0098",
+    "wkr_0099",
+    "wkr_0100",
+    "wkr_0101",
+    "wkr_0102",
+    "wkr_0103",
+    "wkr_0104",
+    "wkr_0105",
+    "wkr_0106",
+    "wkr_0107",
+    "wkr_0108",
+    "wkr_0109",
+    "wkr_0110",
+    "wkr_0111",
+    "wkr_0112",
+    "wkr_0113",
+    "wkr_0114",
+    "wkr_0115",
+    "wkr_0116",
+    "wkr_0117",
+    "wkr_0118",
+    "wkr_0119",
+    "wkr_0120",
+    "wkr_0190",
+    "wkr_0191",
+    "wkr_0192",
+    "wkr_0193",
+    "wkr_0194"
+  ],
+  "roster_rows": 125,
+  "rows_served_by_one_sweep": 125,
+  "vendor_env": {
+    "CC_DRIFT_SCHEDULE": "wkr_0094,wkr_0036,wkr_0084,wkr_0053,wkr_0190,wkr_0066,wkr_0106,wkr_0080,wkr_0102,wkr_0115,wkr_0120,wkr_0194"
+  }
+}

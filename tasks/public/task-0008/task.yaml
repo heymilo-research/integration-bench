@@ -1,0 +1,101 @@
+id: task-0008
+title: 'StaffLine: build a full-sync + RPC-writeback connector (tombstone-only deletes,
+  200-status write errors)'
+category: build
+vendor: staffline
+surfaces:
+- polling
+- writeback
+tier: 2
+primary_mechanic: rpc_over_200_errors
+track: python
+timeout_minutes: 60
+doc_profile: sparse
+scenarios:
+- initial_sync
+- incremental
+- writeback_rpc_errors
+entry:
+  command:
+  - python
+  - -m
+  - staffline_fullsync
+outputs:
+  files:
+  - output/candidates.json
+  - output/applications.json
+  - output/writeback.json
+vendors:
+  staffline:
+    data_port: 8000
+    log_path: /var/log/vendor
+    checkpoint_env: CHECKPOINT
+    credentials:
+      SL_APP_TOKEN: sl-test-app-token
+      SL_HMAC_SECRET: sl-test-hmac-secret
+    vendor:
+      base_path: /svc
+    entities:
+      candidate:
+        plural: candidates
+      application:
+        plural: applications
+contract:
+  schema_version: 1
+  version: 1.0.0
+  visibility: public
+  lifecycle: authored
+  vendor_roles:
+    staffline:
+      vendor_id: staffline
+      checkpoint: 0
+      required_credentials:
+      - SL_APP_TOKEN
+      - SL_HMAC_SECRET
+      api_url_env: STAFFLINE_BASE_URL
+      docs_url_env: STAFFLINE_DOCS_URL
+  runtime:
+    profile: deterministic-v1
+    checkpoint: 0
+    limits:
+      wall_seconds: 3600
+      cpus: 2
+      memory: 2GiB
+      disk: 2GiB
+    network:
+      vendor_roles:
+      - staffline
+      model_provider_egress: mode-dependent-allowlist
+    vendor_roles:
+      staffline:
+        environment: {}
+  participant:
+    workspace_allowlist:
+    - PROBLEM.md
+    - repo/**
+    - materials/**
+    - inputs/**
+    entry_command:
+    - python
+    - -m
+    - staffline_fullsync
+    outputs:
+    - output/candidates.json
+    - output/applications.json
+    - output/writeback.json
+    persistent_state:
+    - repo/output/**
+    runtime_environment: {}
+    persistent_mounts: []
+  verifier:
+    entry_command:
+    - python
+    - -m
+    - bench.verifier
+    - --task
+    - .
+    trusted_inputs:
+    - task.yaml
+    - verifier/fixtures/**
+    - verifier/scenarios/**
+    - vendor-logs/**

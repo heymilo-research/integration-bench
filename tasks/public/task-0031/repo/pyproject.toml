@@ -1,0 +1,14 @@
+[project]
+name = "harborline-dispatch"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0"]
+
+[project.scripts]
+harborline-dispatch = "harborline_dispatch.cli:_entrypoint"
+
+[tool.setuptools.packages.find]
+where = ["src"]

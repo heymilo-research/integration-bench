@@ -1,0 +1,13 @@
+[project]
+name = "staffline-to-bullpen-migrate"
+version = "0.1.0"
+requires-python = ">=3.11"
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0"]
+
+[project.scripts]
+staffline-to-bullpen-migrate = "staffline_to_bullpen_migrate.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

@@ -1,0 +1,22 @@
+{
+  "writes": [
+    {
+      "client_ref": "wb-1",
+      "kind": "create_assignment",
+      "employee_id": "emp_0001",
+      "role": "Payroll Analyst",
+      "pay_rate": 5200
+    },
+    {
+      "client_ref": "wb-2",
+      "kind": "update_employee",
+      "employee_id": "emp_0002",
+      "fields": {"status": "leave"}
+    },
+    {
+      "client_ref": "wb-3",
+      "kind": "create_assignment",
+      "employee_id": "emp_0003"
+    }
+  ]
+}

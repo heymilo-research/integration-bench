@@ -1,0 +1,124 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://integration-bench.dev/contracts/task/v1.schema.json",
+  "title": "Integration-Bench task manifest v1",
+  "type": "object",
+  "required": ["id", "title", "category", "entry", "outputs", "vendors", "contract"],
+  "properties": {
+    "id": {"type": "string", "pattern": "^task-[0-9]{4}$"},
+    "title": {"type": "string", "minLength": 1},
+    "category": {"enum": ["build", "fix", "migrate", "harden", "build+harden"]},
+    "entry": {
+      "type": "object",
+      "required": ["command"],
+      "properties": {"command": {"type": "array", "minItems": 1, "items": {"type": "string"}}}
+    },
+    "outputs": {"type": "object", "required": ["files"]},
+    "vendors": {
+      "type": "object",
+      "minProperties": 1,
+      "additionalProperties": {
+        "type": "object",
+        "required": ["data_port", "checkpoint_env", "credentials"],
+        "properties": {
+          "data_port": {"type": "integer", "minimum": 1, "maximum": 65535},
+          "checkpoint_env": {"type": "string", "minLength": 1},
+          "credentials": {"type": "object"}
+        }
+      }
+    },
+    "contract": {
+      "type": "object",
+      "required": ["schema_version", "version", "visibility", "lifecycle", "vendor_roles", "runtime", "participant", "verifier"],
+      "properties": {
+        "schema_version": {"const": 1},
+        "version": {"type": "string", "pattern": "^[0-9]+\\.[0-9]+\\.[0-9]+$"},
+        "visibility": {"enum": ["public", "private"]},
+        "lifecycle": {"enum": ["draft", "authored", "validated", "retired"]},
+        "vendor_roles": {
+          "type": "object",
+          "minProperties": 1,
+          "additionalProperties": {
+            "type": "object",
+            "required": ["vendor_id", "checkpoint", "required_credentials", "api_url_env", "docs_url_env"],
+            "properties": {
+              "vendor_id": {"type": "string", "pattern": "^[a-z][a-z0-9-]*$"},
+              "checkpoint": {"type": "integer", "minimum": 0},
+              "required_credentials": {"type": "array", "items": {"type": "string"}, "uniqueItems": true},
+              "api_url_env": {"type": "string", "pattern": "^[A-Z][A-Z0-9_]*_BASE_URL$"},
+              "docs_url_env": {"type": "string", "pattern": "^[A-Z][A-Z0-9_]*_DOCS_URL$"}
+            },
+            "additionalProperties": false
+          }
+        },
+        "runtime": {
+          "type": "object",
+          "required": ["profile", "checkpoint", "limits", "network", "vendor_roles"],
+          "properties": {
+            "profile": {"type": "string", "minLength": 1},
+            "checkpoint": {"type": "integer", "minimum": 0},
+            "limits": {
+              "type": "object",
+              "required": ["wall_seconds", "cpus", "memory", "disk"],
+              "properties": {
+                "wall_seconds": {"type": "integer", "minimum": 1},
+                "cpus": {"type": "number", "exclusiveMinimum": 0},
+                "memory": {"type": "string", "minLength": 1},
+                "disk": {"type": "string", "minLength": 1}
+              }
+            },
+            "network": {"type": "object", "required": ["vendor_roles", "model_provider_egress"]},
+            "vendor_roles": {
+              "type": "object",
+              "additionalProperties": {
+                "type": "object",
+                "required": ["environment"],
+                "properties": {"environment": {"type": "object"}},
+                "additionalProperties": false
+              }
+            }
+          }
+        },
+        "participant": {
+          "type": "object",
+          "required": ["workspace_allowlist", "entry_command", "outputs", "persistent_state", "runtime_environment", "persistent_mounts"],
+          "properties": {
+            "workspace_allowlist": {"type": "array", "items": {"type": "string"}},
+            "entry_command": {"type": "array", "items": {"type": "string"}},
+            "outputs": {"type": "array", "items": {"type": "string"}},
+            "persistent_state": {"type": "array", "items": {"type": "string"}, "uniqueItems": true},
+            "runtime_environment": {"type": "object"},
+            "persistent_mounts": {
+              "type": "array",
+              "items": {
+                "oneOf": [
+                  {"type": "string", "pattern": "^[a-zA-Z0-9_.-]+:/[^:]+$"},
+                  {
+                    "type": "object",
+                    "required": ["type", "source", "target"],
+                    "properties": {
+                      "type": {"const": "volume"},
+                      "source": {"type": "string", "pattern": "^[a-zA-Z0-9_.-]+$"},
+                      "target": {"type": "string", "pattern": "^/[^:]+$"},
+                      "read_only": {"type": "boolean"}
+                    },
+                    "additionalProperties": false
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "verifier": {
+          "type": "object",
+          "required": ["entry_command", "trusted_inputs"],
+          "properties": {
+            "entry_command": {"type": "array", "minItems": 1, "items": {"type": "string"}},
+            "trusted_inputs": {"type": "array", "items": {"type": "string"}}
+          }
+        }
+      }
+    }
+  },
+  "additionalProperties": true
+}

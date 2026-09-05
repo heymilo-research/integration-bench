@@ -1,0 +1,1151 @@
+{
+  "account_manager_moves": {
+    "plc_00015": "offered",
+    "plc_00017": "interviewing",
+    "plc_00018": "fell_through",
+    "plc_00019": "submitted"
+  },
+  "applications_list_path": "/api/applications",
+  "ats_stage_cycle1": {
+    "app_0001": "hired",
+    "app_0002": "interview",
+    "app_0003": "hired",
+    "app_0004": "rejected",
+    "app_0006": "interview",
+    "app_0007": "hired",
+    "app_0008": "rejected",
+    "app_0009": "rejected",
+    "app_0010": "hired",
+    "app_0011": "applied",
+    "app_0020": "applied",
+    "app_0021": "applied",
+    "app_0022": "hired",
+    "app_0023": "applied",
+    "app_0030": "hired",
+    "app_0031": "rejected",
+    "app_0032": "applied",
+    "app_0033": "rejected",
+    "app_0034": "hired",
+    "app_0035": "hired",
+    "app_0036": "applied",
+    "app_0037": "hired",
+    "app_0038": "interview",
+    "app_0039": "rejected",
+    "app_0044": "interview",
+    "app_0045": "offer",
+    "app_0046": "applied",
+    "app_0047": "applied",
+    "app_0050": "offer",
+    "app_0051": "interview",
+    "app_0052": "offer",
+    "app_0060": "applied",
+    "app_0061": "interview",
+    "app_0062": "rejected",
+    "app_0063": "hired",
+    "app_0064": "hired",
+    "app_0065": "applied",
+    "app_0066": "offer",
+    "app_0067": "applied",
+    "app_0070": "hired",
+    "app_0071": "hired"
+  },
+  "ats_stage_cycle2": {
+    "app_0001": "offer",
+    "app_0002": "offer",
+    "app_0003": "rejected",
+    "app_0004": "offer",
+    "app_0006": "hired",
+    "app_0007": "offer",
+    "app_0008": "interview",
+    "app_0009": "hired",
+    "app_0010": "applied",
+    "app_0011": "interview",
+    "app_0020": "applied",
+    "app_0021": "applied",
+    "app_0022": "hired",
+    "app_0023": "applied",
+    "app_0030": "hired",
+    "app_0031": "rejected",
+    "app_0032": "applied",
+    "app_0033": "rejected",
+    "app_0034": "hired",
+    "app_0035": "hired",
+    "app_0036": "applied",
+    "app_0037": "hired",
+    "app_0038": "interview",
+    "app_0039": "rejected",
+    "app_0044": "interview",
+    "app_0045": "offer",
+    "app_0046": "applied",
+    "app_0047": "applied",
+    "app_0050": "offer",
+    "app_0051": "interview",
+    "app_0052": "offer",
+    "app_0060": "applied",
+    "app_0061": "interview",
+    "app_0062": "rejected",
+    "app_0063": "hired",
+    "app_0064": "hired",
+    "app_0065": "applied",
+    "app_0066": "offer",
+    "app_0067": "applied",
+    "app_0070": "hired",
+    "app_0071": "hired"
+  },
+  "ats_watermark_after_cycle1": "2026-03-14T11:06:00Z",
+  "checkpoints": {
+    "placemint": 56,
+    "placemint_dataset_size": 300,
+    "recruitos_cycle1": 43,
+    "recruitos_cycle2": 53
+  },
+  "cycle1_counts": {
+    "in_sync": 4,
+    "inbound": 0,
+    "pushed": 21,
+    "retired": 14,
+    "unlinked": 2
+  },
+  "cycle1_rows": {
+    "app_0001": {
+      "ats_stage": "hired",
+      "outcome": "in_sync",
+      "resulting_stage": "placed",
+      "target_stage": "placed"
+    },
+    "app_0002": {
+      "ats_stage": "interview",
+      "outcome": "pushed",
+      "resulting_stage": "interviewing",
+      "target_stage": "interviewing"
+    },
+    "app_0003": {
+      "ats_stage": "hired",
+      "outcome": "pushed",
+      "resulting_stage": "placed",
+      "target_stage": "placed"
+    },
+    "app_0004": {
+      "ats_stage": "rejected",
+      "outcome": "in_sync",
+      "resulting_stage": "fell_through",
+      "target_stage": "fell_through"
+    },
+    "app_0006": {
+      "ats_stage": "interview",
+      "outcome": "pushed",
+      "resulting_stage": "interviewing",
+      "target_stage": "interviewing"
+    },
+    "app_0007": {
+      "ats_stage": "hired",
+      "outcome": "pushed",
+      "resulting_stage": "placed",
+      "target_stage": "placed"
+    },
+    "app_0008": {
+      "ats_stage": "rejected",
+      "outcome": "pushed",
+      "resulting_stage": "fell_through",
+      "target_stage": "fell_through"
+    },
+    "app_0009": {
+      "ats_stage": "rejected",
+      "outcome": "pushed",
+      "resulting_stage": "fell_through",
+      "target_stage": "fell_through"
+    },
+    "app_0010": {
+      "ats_stage": "hired",
+      "outcome": "pushed",
+      "resulting_stage": "placed",
+      "target_stage": "placed"
+    },
+    "app_0011": {
+      "ats_stage": "applied",
+      "outcome": "pushed",
+      "resulting_stage": "sourced",
+      "target_stage": "sourced"
+    },
+    "app_0020": {
+      "ats_stage": "applied",
+      "outcome": "pushed",
+      "resulting_stage": "sourced",
+      "target_stage": "sourced"
+    },
+    "app_0021": {
+      "ats_stage": "applied",
+      "outcome": "in_sync",
+      "resulting_stage": "sourced",
+      "target_stage": "sourced"
+    },
+    "app_0022": {
+      "ats_stage": "hired",
+      "outcome": "pushed",
+      "resulting_stage": "placed",
+      "target_stage": "placed"
+    },
+    "app_0023": {
+      "ats_stage": "applied",
+      "outcome": "pushed",
+      "resulting_stage": "sourced",
+      "target_stage": "sourced"
+    },
+    "app_0030": {
+      "ats_stage": "hired",
+      "outcome": "retired",
+      "resulting_stage": "placed",
+      "target_stage": "placed"
+    },
+    "app_0031": {
+      "ats_stage": "rejected",
+      "outcome": "retired",
+      "resulting_stage": "placed",
+      "target_stage": "fell_through"
+    },
+    "app_0032": {
+      "ats_stage": "applied",
+      "outcome": "retired",
+      "resulting_stage": "submitted",
+      "target_stage": "sourced"
+    },
+    "app_0033": {
+      "ats_stage": "rejected",
+      "outcome": "retired",
+      "resulting_stage": "offered",
+      "target_stage": "fell_through"
+    },
+    "app_0034": {
+      "ats_stage": "hired",
+      "outcome": "retired",
+      "resulting_stage": "sourced",
+      "target_stage": "placed"
+    },
+    "app_0035": {
+      "ats_stage": "hired",
+      "outcome": "retired",
+      "resulting_stage": "submitted",
+      "target_stage": "placed"
+    },
+    "app_0036": {
+      "ats_stage": "applied",
+      "outcome": "retired",
+      "resulting_stage": "offered",
+      "target_stage": "sourced"
+    },
+    "app_0037": {
+      "ats_stage": "hired",
+      "outcome": "retired",
+      "resulting_stage": "fell_through",
+      "target_stage": "placed"
+    },
+    "app_0038": {
+      "ats_stage": "interview",
+      "outcome": "retired",
+      "resulting_stage": "fell_through",
+      "target_stage": "interviewing"
+    },
+    "app_0039": {
+      "ats_stage": "rejected",
+      "outcome": "retired",
+      "resulting_stage": "placed",
+      "target_stage": "fell_through"
+    },
+    "app_0044": {
+      "ats_stage": "interview",
+      "outcome": "retired",
+      "resulting_stage": "submitted",
+      "target_stage": "interviewing"
+    },
+    "app_0045": {
+      "ats_stage": "offer",
+      "outcome": "retired",
+      "resulting_stage": "submitted",
+      "target_stage": "offered"
+    },
+    "app_0046": {
+      "ats_stage": "applied",
+      "outcome": "retired",
+      "resulting_stage": "interviewing",
+      "target_stage": "sourced"
+    },
+    "app_0047": {
+      "ats_stage": "applied",
+      "outcome": "retired",
+      "resulting_stage": "submitted",
+      "target_stage": "sourced"
+    },
+    "app_0050": {
+      "ats_stage": "offer",
+      "outcome": "pushed",
+      "resulting_stage": "offered",
+      "target_stage": "offered"
+    },
+    "app_0051": {
+      "ats_stage": "interview",
+      "outcome": "pushed",
+      "resulting_stage": "interviewing",
+      "target_stage": "interviewing"
+    },
+    "app_0052": {
+      "ats_stage": "offer",
+      "outcome": "in_sync",
+      "resulting_stage": "offered",
+      "target_stage": "offered"
+    },
+    "app_0060": {
+      "ats_stage": "applied",
+      "outcome": "pushed",
+      "resulting_stage": "sourced",
+      "target_stage": "sourced"
+    },
+    "app_0061": {
+      "ats_stage": "interview",
+      "outcome": "pushed",
+      "resulting_stage": "interviewing",
+      "target_stage": "interviewing"
+    },
+    "app_0062": {
+      "ats_stage": "rejected",
+      "outcome": "pushed",
+      "resulting_stage": "fell_through",
+      "target_stage": "fell_through"
+    },
+    "app_0063": {
+      "ats_stage": "hired",
+      "outcome": "pushed",
+      "resulting_stage": "placed",
+      "target_stage": "placed"
+    },
+    "app_0064": {
+      "ats_stage": "hired",
+      "outcome": "pushed",
+      "resulting_stage": "placed",
+      "target_stage": "placed"
+    },
+    "app_0065": {
+      "ats_stage": "applied",
+      "outcome": "pushed",
+      "resulting_stage": "sourced",
+      "target_stage": "sourced"
+    },
+    "app_0066": {
+      "ats_stage": "offer",
+      "outcome": "pushed",
+      "resulting_stage": "offered",
+      "target_stage": "offered"
+    },
+    "app_0067": {
+      "ats_stage": "applied",
+      "outcome": "pushed",
+      "resulting_stage": "sourced",
+      "target_stage": "sourced"
+    },
+    "app_0070": {
+      "ats_stage": "hired",
+      "outcome": "unlinked",
+      "resulting_stage": "",
+      "target_stage": "placed"
+    },
+    "app_0071": {
+      "ats_stage": "hired",
+      "outcome": "unlinked",
+      "resulting_stage": "",
+      "target_stage": "placed"
+    }
+  },
+  "cycle2_counts": {
+    "in_sync": 11,
+    "inbound": 4,
+    "pushed": 10,
+    "retired": 14,
+    "unlinked": 2
+  },
+  "cycle2_rows": {
+    "app_0001": {
+      "ats_stage": "offer",
+      "outcome": "pushed",
+      "resulting_stage": "offered",
+      "target_stage": "offered"
+    },
+    "app_0002": {
+      "ats_stage": "offer",
+      "outcome": "pushed",
+      "resulting_stage": "offered",
+      "target_stage": "offered"
+    },
+    "app_0003": {
+      "ats_stage": "rejected",
+      "outcome": "pushed",
+      "resulting_stage": "fell_through",
+      "target_stage": "fell_through"
+    },
+    "app_0004": {
+      "ats_stage": "offer",
+      "outcome": "pushed",
+      "resulting_stage": "offered",
+      "target_stage": "offered"
+    },
+    "app_0006": {
+      "ats_stage": "hired",
+      "outcome": "pushed",
+      "resulting_stage": "placed",
+      "target_stage": "placed"
+    },
+    "app_0007": {
+      "ats_stage": "offer",
+      "outcome": "pushed",
+      "resulting_stage": "offered",
+      "target_stage": "offered"
+    },
+    "app_0008": {
+      "ats_stage": "interview",
+      "outcome": "pushed",
+      "resulting_stage": "interviewing",
+      "target_stage": "interviewing"
+    },
+    "app_0009": {
+      "ats_stage": "hired",
+      "outcome": "pushed",
+      "resulting_stage": "placed",
+      "target_stage": "placed"
+    },
+    "app_0010": {
+      "ats_stage": "applied",
+      "outcome": "pushed",
+      "resulting_stage": "sourced",
+      "target_stage": "sourced"
+    },
+    "app_0011": {
+      "ats_stage": "interview",
+      "outcome": "pushed",
+      "resulting_stage": "interviewing",
+      "target_stage": "interviewing"
+    },
+    "app_0020": {
+      "ats_stage": "applied",
+      "outcome": "inbound",
+      "resulting_stage": "offered",
+      "target_stage": "sourced"
+    },
+    "app_0021": {
+      "ats_stage": "applied",
+      "outcome": "inbound",
+      "resulting_stage": "interviewing",
+      "target_stage": "sourced"
+    },
+    "app_0022": {
+      "ats_stage": "hired",
+      "outcome": "inbound",
+      "resulting_stage": "fell_through",
+      "target_stage": "placed"
+    },
+    "app_0023": {
+      "ats_stage": "applied",
+      "outcome": "inbound",
+      "resulting_stage": "submitted",
+      "target_stage": "sourced"
+    },
+    "app_0030": {
+      "ats_stage": "hired",
+      "outcome": "retired",
+      "resulting_stage": "placed",
+      "target_stage": "placed"
+    },
+    "app_0031": {
+      "ats_stage": "rejected",
+      "outcome": "retired",
+      "resulting_stage": "placed",
+      "target_stage": "fell_through"
+    },
+    "app_0032": {
+      "ats_stage": "applied",
+      "outcome": "retired",
+      "resulting_stage": "submitted",
+      "target_stage": "sourced"
+    },
+    "app_0033": {
+      "ats_stage": "rejected",
+      "outcome": "retired",
+      "resulting_stage": "offered",
+      "target_stage": "fell_through"
+    },
+    "app_0034": {
+      "ats_stage": "hired",
+      "outcome": "retired",
+      "resulting_stage": "sourced",
+      "target_stage": "placed"
+    },
+    "app_0035": {
+      "ats_stage": "hired",
+      "outcome": "retired",
+      "resulting_stage": "submitted",
+      "target_stage": "placed"
+    },
+    "app_0036": {
+      "ats_stage": "applied",
+      "outcome": "retired",
+      "resulting_stage": "offered",
+      "target_stage": "sourced"
+    },
+    "app_0037": {
+      "ats_stage": "hired",
+      "outcome": "retired",
+      "resulting_stage": "fell_through",
+      "target_stage": "placed"
+    },
+    "app_0038": {
+      "ats_stage": "interview",
+      "outcome": "retired",
+      "resulting_stage": "fell_through",
+      "target_stage": "interviewing"
+    },
+    "app_0039": {
+      "ats_stage": "rejected",
+      "outcome": "retired",
+      "resulting_stage": "placed",
+      "target_stage": "fell_through"
+    },
+    "app_0044": {
+      "ats_stage": "interview",
+      "outcome": "retired",
+      "resulting_stage": "submitted",
+      "target_stage": "interviewing"
+    },
+    "app_0045": {
+      "ats_stage": "offer",
+      "outcome": "retired",
+      "resulting_stage": "submitted",
+      "target_stage": "offered"
+    },
+    "app_0046": {
+      "ats_stage": "applied",
+      "outcome": "retired",
+      "resulting_stage": "interviewing",
+      "target_stage": "sourced"
+    },
+    "app_0047": {
+      "ats_stage": "applied",
+      "outcome": "retired",
+      "resulting_stage": "submitted",
+      "target_stage": "sourced"
+    },
+    "app_0050": {
+      "ats_stage": "offer",
+      "outcome": "in_sync",
+      "resulting_stage": "offered",
+      "target_stage": "offered"
+    },
+    "app_0051": {
+      "ats_stage": "interview",
+      "outcome": "in_sync",
+      "resulting_stage": "interviewing",
+      "target_stage": "interviewing"
+    },
+    "app_0052": {
+      "ats_stage": "offer",
+      "outcome": "in_sync",
+      "resulting_stage": "offered",
+      "target_stage": "offered"
+    },
+    "app_0060": {
+      "ats_stage": "applied",
+      "outcome": "in_sync",
+      "resulting_stage": "sourced",
+      "target_stage": "sourced"
+    },
+    "app_0061": {
+      "ats_stage": "interview",
+      "outcome": "in_sync",
+      "resulting_stage": "interviewing",
+      "target_stage": "interviewing"
+    },
+    "app_0062": {
+      "ats_stage": "rejected",
+      "outcome": "in_sync",
+      "resulting_stage": "fell_through",
+      "target_stage": "fell_through"
+    },
+    "app_0063": {
+      "ats_stage": "hired",
+      "outcome": "in_sync",
+      "resulting_stage": "placed",
+      "target_stage": "placed"
+    },
+    "app_0064": {
+      "ats_stage": "hired",
+      "outcome": "in_sync",
+      "resulting_stage": "placed",
+      "target_stage": "placed"
+    },
+    "app_0065": {
+      "ats_stage": "applied",
+      "outcome": "in_sync",
+      "resulting_stage": "sourced",
+      "target_stage": "sourced"
+    },
+    "app_0066": {
+      "ats_stage": "offer",
+      "outcome": "in_sync",
+      "resulting_stage": "offered",
+      "target_stage": "offered"
+    },
+    "app_0067": {
+      "ats_stage": "applied",
+      "outcome": "in_sync",
+      "resulting_stage": "sourced",
+      "target_stage": "sourced"
+    },
+    "app_0070": {
+      "ats_stage": "hired",
+      "outcome": "unlinked",
+      "resulting_stage": "",
+      "target_stage": "placed"
+    },
+    "app_0071": {
+      "ats_stage": "hired",
+      "outcome": "unlinked",
+      "resulting_stage": "",
+      "target_stage": "placed"
+    }
+  },
+  "link_order": [
+    "app_0030",
+    "app_0007",
+    "app_0038",
+    "app_0071",
+    "app_0070",
+    "app_0032",
+    "app_0020",
+    "app_0031",
+    "app_0021",
+    "app_0064",
+    "app_0065",
+    "app_0044",
+    "app_0010",
+    "app_0001",
+    "app_0035",
+    "app_0062",
+    "app_0022",
+    "app_0037",
+    "app_0067",
+    "app_0061",
+    "app_0034",
+    "app_0052",
+    "app_0047",
+    "app_0033",
+    "app_0046",
+    "app_0009",
+    "app_0051",
+    "app_0050",
+    "app_0060",
+    "app_0003",
+    "app_0002",
+    "app_0023",
+    "app_0066",
+    "app_0039",
+    "app_0008",
+    "app_0063",
+    "app_0006",
+    "app_0004",
+    "app_0045",
+    "app_0011",
+    "app_0036"
+  ],
+  "links": {
+    "app_0001": "plc_00003",
+    "app_0002": "plc_00004",
+    "app_0003": "plc_00007",
+    "app_0004": "plc_00006",
+    "app_0006": "plc_00005",
+    "app_0007": "plc_00008",
+    "app_0008": "plc_00009",
+    "app_0009": "plc_00010",
+    "app_0010": "plc_00011",
+    "app_0011": "plc_00012",
+    "app_0020": "plc_00015",
+    "app_0021": "plc_00017",
+    "app_0022": "plc_00018",
+    "app_0023": "plc_00019",
+    "app_0030": "plc_00001",
+    "app_0031": "plc_00002",
+    "app_0032": "plc_00013",
+    "app_0033": "plc_00014",
+    "app_0034": "plc_00016",
+    "app_0035": "plc_00025",
+    "app_0036": "plc_00038",
+    "app_0037": "plc_00030",
+    "app_0038": "plc_00053",
+    "app_0039": "plc_00084",
+    "app_0044": "plc_00091",
+    "app_0045": "plc_00092",
+    "app_0046": "plc_00100",
+    "app_0047": "plc_00103",
+    "app_0050": "plc_00036",
+    "app_0051": "plc_00024",
+    "app_0052": "plc_00041",
+    "app_0060": "plc_00020",
+    "app_0061": "plc_00021",
+    "app_0062": "plc_00022",
+    "app_0063": "plc_00023",
+    "app_0064": "plc_00026",
+    "app_0065": "plc_00028",
+    "app_0066": "plc_00027",
+    "app_0067": "plc_00029",
+    "app_0070": "plc_00901",
+    "app_0071": "plc_00902"
+  },
+  "marketplace_watermark_after_cycle1": "2026-04-01T09:14:15Z",
+  "missing_placements": [
+    "plc_00901",
+    "plc_00902"
+  ],
+  "placement_seed_state": {
+    "plc_00001": {
+      "is_deleted": true,
+      "stage": "placed",
+      "updated_at": "2026-04-01T09:09:30Z"
+    },
+    "plc_00002": {
+      "is_deleted": true,
+      "stage": "placed",
+      "updated_at": "2026-04-01T09:07:00Z"
+    },
+    "plc_00003": {
+      "is_deleted": false,
+      "stage": "placed",
+      "updated_at": "2026-02-21T04:09:38Z"
+    },
+    "plc_00004": {
+      "is_deleted": false,
+      "stage": "placed",
+      "updated_at": "2026-02-20T22:08:31Z"
+    },
+    "plc_00005": {
+      "is_deleted": false,
+      "stage": "fell_through",
+      "updated_at": "2025-10-06T18:50:38Z"
+    },
+    "plc_00006": {
+      "is_deleted": false,
+      "stage": "fell_through",
+      "updated_at": "2026-02-28T20:50:01Z"
+    },
+    "plc_00007": {
+      "is_deleted": false,
+      "stage": "sourced",
+      "updated_at": "2025-10-18T06:35:49Z"
+    },
+    "plc_00008": {
+      "is_deleted": false,
+      "stage": "interviewing",
+      "updated_at": "2025-11-21T12:19:49Z"
+    },
+    "plc_00009": {
+      "is_deleted": false,
+      "stage": "interviewing",
+      "updated_at": "2026-01-12T05:27:32Z"
+    },
+    "plc_00010": {
+      "is_deleted": false,
+      "stage": "submitted",
+      "updated_at": "2025-10-10T00:44:45Z"
+    },
+    "plc_00011": {
+      "is_deleted": false,
+      "stage": "offered",
+      "updated_at": "2025-12-26T05:00:46Z"
+    },
+    "plc_00012": {
+      "is_deleted": false,
+      "stage": "offered",
+      "updated_at": "2025-11-15T16:41:30Z"
+    },
+    "plc_00013": {
+      "is_deleted": true,
+      "stage": "submitted",
+      "updated_at": "2026-04-01T09:07:15Z"
+    },
+    "plc_00014": {
+      "is_deleted": true,
+      "stage": "offered",
+      "updated_at": "2026-04-01T09:07:30Z"
+    },
+    "plc_00015": {
+      "is_deleted": false,
+      "stage": "interviewing",
+      "updated_at": "2026-03-19T08:09:24Z"
+    },
+    "plc_00016": {
+      "is_deleted": true,
+      "stage": "sourced",
+      "updated_at": "2026-04-01T09:11:00Z"
+    },
+    "plc_00017": {
+      "is_deleted": false,
+      "stage": "sourced",
+      "updated_at": "2025-10-26T03:41:32Z"
+    },
+    "plc_00018": {
+      "is_deleted": false,
+      "stage": "submitted",
+      "updated_at": "2025-12-14T20:01:35Z"
+    },
+    "plc_00019": {
+      "is_deleted": false,
+      "stage": "placed",
+      "updated_at": "2026-01-29T12:08:24Z"
+    },
+    "plc_00020": {
+      "is_deleted": false,
+      "stage": "interviewing",
+      "updated_at": "2025-11-15T04:44:39Z"
+    },
+    "plc_00021": {
+      "is_deleted": false,
+      "stage": "submitted",
+      "updated_at": "2025-12-06T15:04:36Z"
+    },
+    "plc_00022": {
+      "is_deleted": false,
+      "stage": "offered",
+      "updated_at": "2025-11-28T01:08:16Z"
+    },
+    "plc_00023": {
+      "is_deleted": false,
+      "stage": "submitted",
+      "updated_at": "2025-11-30T23:52:59Z"
+    },
+    "plc_00024": {
+      "is_deleted": false,
+      "stage": "submitted",
+      "updated_at": "2025-11-14T20:45:14Z"
+    },
+    "plc_00025": {
+      "is_deleted": true,
+      "stage": "submitted",
+      "updated_at": "2026-04-01T09:09:45Z"
+    },
+    "plc_00026": {
+      "is_deleted": false,
+      "stage": "interviewing",
+      "updated_at": "2025-12-30T01:45:35Z"
+    },
+    "plc_00027": {
+      "is_deleted": false,
+      "stage": "fell_through",
+      "updated_at": "2026-02-01T21:46:56Z"
+    },
+    "plc_00028": {
+      "is_deleted": false,
+      "stage": "interviewing",
+      "updated_at": "2025-11-28T07:18:00Z"
+    },
+    "plc_00029": {
+      "is_deleted": false,
+      "stage": "submitted",
+      "updated_at": "2025-10-15T09:29:20Z"
+    },
+    "plc_00030": {
+      "is_deleted": true,
+      "stage": "fell_through",
+      "updated_at": "2026-04-01T09:11:15Z"
+    },
+    "plc_00036": {
+      "is_deleted": false,
+      "stage": "sourced",
+      "updated_at": "2026-02-09T11:44:19Z"
+    },
+    "plc_00038": {
+      "is_deleted": true,
+      "stage": "offered",
+      "updated_at": "2026-04-01T09:11:30Z"
+    },
+    "plc_00041": {
+      "is_deleted": false,
+      "stage": "offered",
+      "updated_at": "2026-01-01T22:21:14Z"
+    },
+    "plc_00053": {
+      "is_deleted": true,
+      "stage": "fell_through",
+      "updated_at": "2026-04-01T09:11:45Z"
+    },
+    "plc_00084": {
+      "is_deleted": true,
+      "stage": "placed",
+      "updated_at": "2026-04-01T09:07:45Z"
+    },
+    "plc_00091": {
+      "is_deleted": true,
+      "stage": "submitted",
+      "updated_at": "2026-04-01T09:12:00Z"
+    },
+    "plc_00092": {
+      "is_deleted": true,
+      "stage": "submitted",
+      "updated_at": "2026-04-01T09:08:00Z"
+    },
+    "plc_00100": {
+      "is_deleted": true,
+      "stage": "interviewing",
+      "updated_at": "2026-04-01T09:00:45Z"
+    },
+    "plc_00103": {
+      "is_deleted": true,
+      "stage": "submitted",
+      "updated_at": "2026-04-01T09:12:15Z"
+    }
+  },
+  "placement_state_after_cycle1": {
+    "plc_00001": {
+      "is_deleted": true,
+      "stage": "placed"
+    },
+    "plc_00002": {
+      "is_deleted": true,
+      "stage": "placed"
+    },
+    "plc_00003": {
+      "is_deleted": false,
+      "stage": "placed"
+    },
+    "plc_00004": {
+      "is_deleted": false,
+      "stage": "interviewing"
+    },
+    "plc_00005": {
+      "is_deleted": false,
+      "stage": "interviewing"
+    },
+    "plc_00006": {
+      "is_deleted": false,
+      "stage": "fell_through"
+    },
+    "plc_00007": {
+      "is_deleted": false,
+      "stage": "placed"
+    },
+    "plc_00008": {
+      "is_deleted": false,
+      "stage": "placed"
+    },
+    "plc_00009": {
+      "is_deleted": false,
+      "stage": "fell_through"
+    },
+    "plc_00010": {
+      "is_deleted": false,
+      "stage": "fell_through"
+    },
+    "plc_00011": {
+      "is_deleted": false,
+      "stage": "placed"
+    },
+    "plc_00012": {
+      "is_deleted": false,
+      "stage": "sourced"
+    },
+    "plc_00013": {
+      "is_deleted": true,
+      "stage": "submitted"
+    },
+    "plc_00014": {
+      "is_deleted": true,
+      "stage": "offered"
+    },
+    "plc_00015": {
+      "is_deleted": false,
+      "stage": "sourced"
+    },
+    "plc_00016": {
+      "is_deleted": true,
+      "stage": "sourced"
+    },
+    "plc_00017": {
+      "is_deleted": false,
+      "stage": "sourced"
+    },
+    "plc_00018": {
+      "is_deleted": false,
+      "stage": "placed"
+    },
+    "plc_00019": {
+      "is_deleted": false,
+      "stage": "sourced"
+    },
+    "plc_00020": {
+      "is_deleted": false,
+      "stage": "sourced"
+    },
+    "plc_00021": {
+      "is_deleted": false,
+      "stage": "interviewing"
+    },
+    "plc_00022": {
+      "is_deleted": false,
+      "stage": "fell_through"
+    },
+    "plc_00023": {
+      "is_deleted": false,
+      "stage": "placed"
+    },
+    "plc_00024": {
+      "is_deleted": false,
+      "stage": "interviewing"
+    },
+    "plc_00025": {
+      "is_deleted": true,
+      "stage": "submitted"
+    },
+    "plc_00026": {
+      "is_deleted": false,
+      "stage": "placed"
+    },
+    "plc_00027": {
+      "is_deleted": false,
+      "stage": "offered"
+    },
+    "plc_00028": {
+      "is_deleted": false,
+      "stage": "sourced"
+    },
+    "plc_00029": {
+      "is_deleted": false,
+      "stage": "sourced"
+    },
+    "plc_00030": {
+      "is_deleted": true,
+      "stage": "fell_through"
+    },
+    "plc_00036": {
+      "is_deleted": false,
+      "stage": "offered"
+    },
+    "plc_00038": {
+      "is_deleted": true,
+      "stage": "offered"
+    },
+    "plc_00041": {
+      "is_deleted": false,
+      "stage": "offered"
+    },
+    "plc_00053": {
+      "is_deleted": true,
+      "stage": "fell_through"
+    },
+    "plc_00084": {
+      "is_deleted": true,
+      "stage": "placed"
+    },
+    "plc_00091": {
+      "is_deleted": true,
+      "stage": "submitted"
+    },
+    "plc_00092": {
+      "is_deleted": true,
+      "stage": "submitted"
+    },
+    "plc_00100": {
+      "is_deleted": true,
+      "stage": "interviewing"
+    },
+    "plc_00103": {
+      "is_deleted": true,
+      "stage": "submitted"
+    }
+  },
+  "placement_state_after_cycle2": {
+    "plc_00001": "placed",
+    "plc_00002": "placed",
+    "plc_00003": "offered",
+    "plc_00004": "offered",
+    "plc_00005": "placed",
+    "plc_00006": "offered",
+    "plc_00007": "fell_through",
+    "plc_00008": "offered",
+    "plc_00009": "interviewing",
+    "plc_00010": "placed",
+    "plc_00011": "sourced",
+    "plc_00012": "interviewing",
+    "plc_00013": "submitted",
+    "plc_00014": "offered",
+    "plc_00015": "offered",
+    "plc_00016": "sourced",
+    "plc_00017": "interviewing",
+    "plc_00018": "fell_through",
+    "plc_00019": "submitted",
+    "plc_00020": "sourced",
+    "plc_00021": "interviewing",
+    "plc_00022": "fell_through",
+    "plc_00023": "placed",
+    "plc_00024": "interviewing",
+    "plc_00025": "submitted",
+    "plc_00026": "placed",
+    "plc_00027": "offered",
+    "plc_00028": "sourced",
+    "plc_00029": "sourced",
+    "plc_00030": "fell_through",
+    "plc_00036": "offered",
+    "plc_00038": "offered",
+    "plc_00041": "offered",
+    "plc_00053": "fell_through",
+    "plc_00084": "placed",
+    "plc_00091": "submitted",
+    "plc_00092": "submitted",
+    "plc_00100": "interviewing",
+    "plc_00103": "submitted"
+  },
+  "placement_write_path": "/api/placements/{placement_id}",
+  "placements_list_path": "/api/placements",
+  "pushed_placements_cycle2": [
+    "plc_00003",
+    "plc_00004",
+    "plc_00005",
+    "plc_00006",
+    "plc_00007",
+    "plc_00008",
+    "plc_00009",
+    "plc_00010",
+    "plc_00011",
+    "plc_00012"
+  ],
+  "quiet_placements_cycle2": [
+    "plc_00020",
+    "plc_00021",
+    "plc_00022",
+    "plc_00023",
+    "plc_00024",
+    "plc_00026",
+    "plc_00027",
+    "plc_00028",
+    "plc_00029",
+    "plc_00036",
+    "plc_00041"
+  ],
+  "retired_placements": [
+    "plc_00001",
+    "plc_00002",
+    "plc_00013",
+    "plc_00014",
+    "plc_00016",
+    "plc_00025",
+    "plc_00030",
+    "plc_00038",
+    "plc_00053",
+    "plc_00084",
+    "plc_00091",
+    "plc_00092",
+    "plc_00100",
+    "plc_00103"
+  ],
+  "stage_map": {
+    "applied": "sourced",
+    "hired": "placed",
+    "interview": "interviewing",
+    "offer": "offered",
+    "rejected": "fell_through"
+  },
+  "total_applications": 300,
+  "total_placements": 310
+}

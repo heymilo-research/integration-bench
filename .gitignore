@@ -1,0 +1,52 @@
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+.secrets/
+*.pem
+*.key
+auth.json
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.venv/
+venv/
+*.egg-info/
+
+# Benchmark outputs
+.bench/
+artifacts/
+output/
+outputs/
+grades/
+predictions/
+rollouts/
+
+# Build products
+build/
+dist/
+*.tar
+*.tar.gz
+*.zip
+*.whl
+*.sbom.json
+
+# Paper products (source and curated inputs stay tracked)
+paper/*.aux
+paper/*.bbl
+paper/*.blg
+paper/*.fdb_latexmk
+paper/*.fls
+paper/*.log
+paper/*.out
+paper/*.pdf
+
+# Editors and OS
+.DS_Store
+.idea/
+.vscode/
+*~

@@ -1,0 +1,48 @@
+{
+  "writes": [
+    {
+      "client_ref": "w-1",
+      "ok": true,
+      "kind": "note",
+      "record": {
+        "id": "note_w0001",
+        "source_id": "note_w0001",
+        "placement_id": "plc_00001",
+        "body": "Client confirmed start date under pressure.",
+        "author": "csengineer@ourcompany.test",
+        "created_at": "2026-04-02T12:46:41Z",
+        "updated_at": "2026-04-02T12:46:41Z",
+        "is_deleted": false
+      }
+    },
+    {
+      "client_ref": "w-2",
+      "ok": true,
+      "kind": "placement_update",
+      "record": {
+        "id": "plc_00002",
+        "source_id": "plc_00002",
+        "client_id": "client_0057",
+        "candidate_name": "Dorothy Dirac",
+        "role_title": "Account Executive",
+        "stage": "placed",
+        "fee_amount": 9000.0,
+        "created_at": "2026-02-19T05:19:54Z",
+        "updated_at": "2026-04-02T12:46:42Z",
+        "is_deleted": false
+      }
+    },
+    {
+      "client_ref": "w-3",
+      "ok": false,
+      "error": {
+        "status": 422,
+        "field_errors": {
+          "body": [
+            "is required"
+          ]
+        }
+      }
+    }
+  ]
+}

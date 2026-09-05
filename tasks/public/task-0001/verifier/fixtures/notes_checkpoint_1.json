@@ -1,0 +1,962 @@
+[
+  {
+    "source_id": "note_0001",
+    "data": {
+      "candidate_id": "cand_0077",
+      "note_text": "Offer extended verbally.",
+      "created_by": "arecruiter",
+      "crt_ts": 1546819260000,
+      "mod_ts": 1546819260000
+    },
+    "updated_at": 1546819260000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0002",
+    "data": {
+      "candidate_id": "cand_0079",
+      "note_text": "Strong technical screen; advancing.",
+      "created_by": "csourcer",
+      "crt_ts": 1546819320000,
+      "mod_ts": 1546819320000
+    },
+    "updated_at": 1546819320000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0003",
+    "data": {
+      "candidate_id": "cand_0120",
+      "note_text": "Reference check passed.",
+      "created_by": "csourcer",
+      "crt_ts": 1546819380000,
+      "mod_ts": 1546819380000
+    },
+    "updated_at": 1546819380000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0004",
+    "data": {
+      "candidate_id": "cand_0090",
+      "note_text": "Candidate requested remote-only roles.",
+      "created_by": "dpartner",
+      "crt_ts": 1546819440000,
+      "mod_ts": 1546819440000
+    },
+    "updated_at": 1546819440000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0005",
+    "data": {
+      "candidate_id": "cand_0133",
+      "note_text": "Strong technical screen; advancing.",
+      "created_by": "csourcer",
+      "crt_ts": 1546819500000,
+      "mod_ts": 1546819500000
+    },
+    "updated_at": 1546819500000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0006",
+    "data": {
+      "candidate_id": "cand_0066",
+      "note_text": "Left voicemail, awaiting callback.",
+      "created_by": "csourcer",
+      "crt_ts": 1546819560000,
+      "mod_ts": 1546819560000
+    },
+    "updated_at": 1546819560000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0007",
+    "data": {
+      "candidate_id": "cand_0053",
+      "note_text": "Salary expectations above band.",
+      "created_by": "bmanager",
+      "crt_ts": 1546819620000,
+      "mod_ts": 1546819620000
+    },
+    "updated_at": 1546819620000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0008",
+    "data": {
+      "candidate_id": "cand_0116",
+      "note_text": "Reference check passed.",
+      "created_by": "system",
+      "crt_ts": 1546819680000,
+      "mod_ts": 1546819680000
+    },
+    "updated_at": 1546819680000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0009",
+    "data": {
+      "candidate_id": "cand_0037",
+      "note_text": "Strong technical screen; advancing.",
+      "created_by": "bmanager",
+      "crt_ts": 1546819740000,
+      "mod_ts": 1546819740000
+    },
+    "updated_at": 1546819740000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0010",
+    "data": {
+      "candidate_id": "cand_0003",
+      "note_text": "Offer extended verbally.",
+      "created_by": "csourcer",
+      "crt_ts": 1546819800000,
+      "mod_ts": 1546819800000
+    },
+    "updated_at": 1546819800000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0011",
+    "data": {
+      "candidate_id": "cand_0017",
+      "note_text": "Offer extended verbally.",
+      "created_by": "dpartner",
+      "crt_ts": 1546819860000,
+      "mod_ts": 1546819860000
+    },
+    "updated_at": 1546819860000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0012",
+    "data": {
+      "candidate_id": "cand_0054",
+      "note_text": "Not a fit for this req; keep warm.",
+      "created_by": "csourcer",
+      "crt_ts": 1546819920000,
+      "mod_ts": 1546819920000
+    },
+    "updated_at": 1546819920000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0013",
+    "data": {
+      "candidate_id": "cand_0005",
+      "note_text": "Candidate requested remote-only roles.",
+      "created_by": "arecruiter",
+      "crt_ts": 1546819980000,
+      "mod_ts": 1546819980000
+    },
+    "updated_at": 1546819980000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0014",
+    "data": {
+      "candidate_id": "cand_0067",
+      "note_text": "Salary expectations above band.",
+      "created_by": "system",
+      "crt_ts": 1546820040000,
+      "mod_ts": 1546820040000
+    },
+    "updated_at": 1546820040000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0015",
+    "data": {
+      "candidate_id": "cand_0084",
+      "note_text": "Reference check passed.",
+      "created_by": "arecruiter",
+      "crt_ts": 1546820100000,
+      "mod_ts": 1546820100000
+    },
+    "updated_at": 1546820100000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0016",
+    "data": {
+      "candidate_id": "cand_0029",
+      "note_text": "Offer extended verbally.",
+      "created_by": "arecruiter",
+      "crt_ts": 1546820160000,
+      "mod_ts": 1546820160000
+    },
+    "updated_at": 1546820160000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0017",
+    "data": {
+      "candidate_id": "cand_0066",
+      "note_text": "Candidate requested remote-only roles.",
+      "created_by": "system",
+      "crt_ts": 1546820220000,
+      "mod_ts": 1546820220000
+    },
+    "updated_at": 1546820220000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0018",
+    "data": {
+      "candidate_id": "cand_0042",
+      "note_text": "Rescheduled interview to next week.",
+      "created_by": "system",
+      "crt_ts": 1546820280000,
+      "mod_ts": 1546820280000
+    },
+    "updated_at": 1546820280000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0019",
+    "data": {
+      "candidate_id": "cand_0036",
+      "note_text": "Strong technical screen; advancing.",
+      "created_by": "bmanager",
+      "crt_ts": 1546820340000,
+      "mod_ts": 1546820340000
+    },
+    "updated_at": 1546820340000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0020",
+    "data": {
+      "candidate_id": "cand_0070",
+      "note_text": "Strong technical screen; advancing.",
+      "created_by": "arecruiter",
+      "crt_ts": 1546820400000,
+      "mod_ts": 1546820400000
+    },
+    "updated_at": 1546820400000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0021",
+    "data": {
+      "candidate_id": "cand_0092",
+      "note_text": "Rescheduled interview to next week.",
+      "created_by": "csourcer",
+      "crt_ts": 1546820460000,
+      "mod_ts": 1546820460000
+    },
+    "updated_at": 1546820460000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0022",
+    "data": {
+      "candidate_id": "cand_0124",
+      "note_text": "Candidate requested remote-only roles.",
+      "created_by": "csourcer",
+      "crt_ts": 1546820520000,
+      "mod_ts": 1546820520000
+    },
+    "updated_at": 1546820520000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0023",
+    "data": {
+      "candidate_id": "cand_0085",
+      "note_text": "Left voicemail, awaiting callback.",
+      "created_by": "dpartner",
+      "crt_ts": 1546820580000,
+      "mod_ts": 1546820580000
+    },
+    "updated_at": 1546820580000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0024",
+    "data": {
+      "candidate_id": "cand_0092",
+      "note_text": "Reference check passed.",
+      "created_by": "csourcer",
+      "crt_ts": 1546820640000,
+      "mod_ts": 1546820640000
+    },
+    "updated_at": 1546820640000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0025",
+    "data": {
+      "candidate_id": "cand_0025",
+      "note_text": "Strong technical screen; advancing.",
+      "created_by": "bmanager",
+      "crt_ts": 1546820700000,
+      "mod_ts": 1546820700000
+    },
+    "updated_at": 1546820700000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0026",
+    "data": {
+      "candidate_id": "cand_0011",
+      "note_text": "Strong technical screen; advancing.",
+      "created_by": "system",
+      "crt_ts": 1546820760000,
+      "mod_ts": 1546820760000
+    },
+    "updated_at": 1546820760000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0027",
+    "data": {
+      "candidate_id": "cand_0113",
+      "note_text": "Offer extended verbally.",
+      "created_by": "dpartner",
+      "crt_ts": 1546820820000,
+      "mod_ts": 1546820820000
+    },
+    "updated_at": 1546820820000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0028",
+    "data": {
+      "candidate_id": "cand_0013",
+      "note_text": "Strong technical screen; advancing.",
+      "created_by": "system",
+      "crt_ts": 1546820880000,
+      "mod_ts": 1546820880000
+    },
+    "updated_at": 1546820880000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0029",
+    "data": {
+      "candidate_id": "cand_0105",
+      "note_text": "Left voicemail, awaiting callback.",
+      "created_by": "csourcer",
+      "crt_ts": 1546820940000,
+      "mod_ts": 1546820940000
+    },
+    "updated_at": 1546820940000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0030",
+    "data": {
+      "candidate_id": "cand_0077",
+      "note_text": "Candidate requested remote-only roles.",
+      "created_by": "bmanager",
+      "crt_ts": 1546821000000,
+      "mod_ts": 1546821000000
+    },
+    "updated_at": 1546821000000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0031",
+    "data": {
+      "candidate_id": "cand_0067",
+      "note_text": "Salary expectations above band.",
+      "created_by": "bmanager",
+      "crt_ts": 1546821060000,
+      "mod_ts": 1546821060000
+    },
+    "updated_at": 1546821060000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0032",
+    "data": {
+      "candidate_id": "cand_0101",
+      "note_text": "Reference check passed.",
+      "created_by": "arecruiter",
+      "crt_ts": 1546821120000,
+      "mod_ts": 1546821120000
+    },
+    "updated_at": 1546821120000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0033",
+    "data": {
+      "candidate_id": "cand_0097",
+      "note_text": "Salary expectations above band.",
+      "created_by": "arecruiter",
+      "crt_ts": 1546821180000,
+      "mod_ts": 1546821180000
+    },
+    "updated_at": 1546821180000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0034",
+    "data": {
+      "candidate_id": "cand_0045",
+      "note_text": "Rescheduled interview to next week.",
+      "created_by": "csourcer",
+      "crt_ts": 1546821240000,
+      "mod_ts": 1546821240000
+    },
+    "updated_at": 1546821240000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0035",
+    "data": {
+      "candidate_id": "cand_0123",
+      "note_text": "Candidate requested remote-only roles.",
+      "created_by": "bmanager",
+      "crt_ts": 1546821300000,
+      "mod_ts": 1546821300000
+    },
+    "updated_at": 1546821300000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0036",
+    "data": {
+      "candidate_id": "cand_0017",
+      "note_text": "Not a fit for this req; keep warm.",
+      "created_by": "arecruiter",
+      "crt_ts": 1546821360000,
+      "mod_ts": 1546821360000
+    },
+    "updated_at": 1546821360000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0037",
+    "data": {
+      "candidate_id": "cand_0046",
+      "note_text": "Salary expectations above band.",
+      "created_by": "csourcer",
+      "crt_ts": 1546821420000,
+      "mod_ts": 1546821420000
+    },
+    "updated_at": 1546821420000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0038",
+    "data": {
+      "candidate_id": "cand_0028",
+      "note_text": "Left voicemail, awaiting callback.",
+      "created_by": "arecruiter",
+      "crt_ts": 1546821480000,
+      "mod_ts": 1546821480000
+    },
+    "updated_at": 1546821480000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0039",
+    "data": {
+      "candidate_id": "cand_0107",
+      "note_text": "Left voicemail, awaiting callback.",
+      "created_by": "csourcer",
+      "crt_ts": 1546821540000,
+      "mod_ts": 1546821540000
+    },
+    "updated_at": 1546821540000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0040",
+    "data": {
+      "candidate_id": "cand_0001",
+      "note_text": "Salary expectations above band.",
+      "created_by": "csourcer",
+      "crt_ts": 1546821600000,
+      "mod_ts": 1546821600000
+    },
+    "updated_at": 1546821600000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0041",
+    "data": {
+      "candidate_id": "cand_0136",
+      "note_text": "Candidate requested remote-only roles.",
+      "created_by": "bmanager",
+      "crt_ts": 1546821660000,
+      "mod_ts": 1546821660000
+    },
+    "updated_at": 1546821660000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0042",
+    "data": {
+      "candidate_id": "cand_0132",
+      "note_text": "Salary expectations above band.",
+      "created_by": "bmanager",
+      "crt_ts": 1546821720000,
+      "mod_ts": 1546821720000
+    },
+    "updated_at": 1546821720000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0043",
+    "data": {
+      "candidate_id": "cand_0127",
+      "note_text": "Candidate requested remote-only roles.",
+      "created_by": "arecruiter",
+      "crt_ts": 1546821780000,
+      "mod_ts": 1546821780000
+    },
+    "updated_at": 1546821780000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0044",
+    "data": {
+      "candidate_id": "cand_0052",
+      "note_text": "Salary expectations above band.",
+      "created_by": "system",
+      "crt_ts": 1546821840000,
+      "mod_ts": 1546821840000
+    },
+    "updated_at": 1546821840000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0045",
+    "data": {
+      "candidate_id": "cand_0045",
+      "note_text": "Rescheduled interview to next week.",
+      "created_by": "dpartner",
+      "crt_ts": 1546821900000,
+      "mod_ts": 1546821900000
+    },
+    "updated_at": 1546821900000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0046",
+    "data": {
+      "candidate_id": "cand_0061",
+      "note_text": "Reference check passed.",
+      "created_by": "dpartner",
+      "crt_ts": 1546821960000,
+      "mod_ts": 1546821960000
+    },
+    "updated_at": 1546821960000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0047",
+    "data": {
+      "candidate_id": "cand_0008",
+      "note_text": "Salary expectations above band.",
+      "created_by": "dpartner",
+      "crt_ts": 1546822020000,
+      "mod_ts": 1546822020000
+    },
+    "updated_at": 1546822020000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0048",
+    "data": {
+      "candidate_id": "cand_0042",
+      "note_text": "Left voicemail, awaiting callback.",
+      "created_by": "csourcer",
+      "crt_ts": 1546822080000,
+      "mod_ts": 1546822080000
+    },
+    "updated_at": 1546822080000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0049",
+    "data": {
+      "candidate_id": "cand_0039",
+      "note_text": "Salary expectations above band.",
+      "created_by": "bmanager",
+      "crt_ts": 1546822140000,
+      "mod_ts": 1546822140000
+    },
+    "updated_at": 1546822140000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0050",
+    "data": {
+      "candidate_id": "cand_0049",
+      "note_text": "Offer extended verbally.",
+      "created_by": "arecruiter",
+      "crt_ts": 1546822200000,
+      "mod_ts": 1546822200000
+    },
+    "updated_at": 1546822200000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0051",
+    "data": {
+      "candidate_id": "cand_0043",
+      "note_text": "Salary expectations above band.",
+      "created_by": "bmanager",
+      "crt_ts": 1546822260000,
+      "mod_ts": 1546822260000
+    },
+    "updated_at": 1546822260000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0052",
+    "data": {
+      "candidate_id": "cand_0053",
+      "note_text": "Not a fit for this req; keep warm.",
+      "created_by": "system",
+      "crt_ts": 1546822320000,
+      "mod_ts": 1546822320000
+    },
+    "updated_at": 1546822320000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0053",
+    "data": {
+      "candidate_id": "cand_0061",
+      "note_text": "Reference check passed.",
+      "created_by": "dpartner",
+      "crt_ts": 1546822380000,
+      "mod_ts": 1546822380000
+    },
+    "updated_at": 1546822380000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0054",
+    "data": {
+      "candidate_id": "cand_0085",
+      "note_text": "Left voicemail, awaiting callback.",
+      "created_by": "csourcer",
+      "crt_ts": 1546822440000,
+      "mod_ts": 1546822440000
+    },
+    "updated_at": 1546822440000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0055",
+    "data": {
+      "candidate_id": "cand_0030",
+      "note_text": "Offer extended verbally.",
+      "created_by": "bmanager",
+      "crt_ts": 1546822500000,
+      "mod_ts": 1546822500000
+    },
+    "updated_at": 1546822500000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0056",
+    "data": {
+      "candidate_id": "cand_0038",
+      "note_text": "Salary expectations above band.",
+      "created_by": "dpartner",
+      "crt_ts": 1546822560000,
+      "mod_ts": 1546822560000
+    },
+    "updated_at": 1546822560000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0057",
+    "data": {
+      "candidate_id": "cand_0040",
+      "note_text": "Strong technical screen; advancing.",
+      "created_by": "bmanager",
+      "crt_ts": 1546822620000,
+      "mod_ts": 1546822620000
+    },
+    "updated_at": 1546822620000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0058",
+    "data": {
+      "candidate_id": "cand_0022",
+      "note_text": "Salary expectations above band.",
+      "created_by": "csourcer",
+      "crt_ts": 1546822680000,
+      "mod_ts": 1546822680000
+    },
+    "updated_at": 1546822680000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0059",
+    "data": {
+      "candidate_id": "cand_0025",
+      "note_text": "Reference check passed.",
+      "created_by": "bmanager",
+      "crt_ts": 1546822740000,
+      "mod_ts": 1546822740000
+    },
+    "updated_at": 1546822740000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0060",
+    "data": {
+      "candidate_id": "cand_0038",
+      "note_text": "Salary expectations above band.",
+      "created_by": "arecruiter",
+      "crt_ts": 1546822800000,
+      "mod_ts": 1546822800000
+    },
+    "updated_at": 1546822800000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0061",
+    "data": {
+      "candidate_id": "cand_0062",
+      "note_text": "Offer extended verbally.",
+      "created_by": "system",
+      "crt_ts": 1546822860000,
+      "mod_ts": 1546822860000
+    },
+    "updated_at": 1546822860000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0062",
+    "data": {
+      "candidate_id": "cand_0141",
+      "note_text": "Offer extended verbally.",
+      "created_by": "arecruiter",
+      "crt_ts": 1546822920000,
+      "mod_ts": 1546822920000
+    },
+    "updated_at": 1546822920000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0063",
+    "data": {
+      "candidate_id": "cand_0123",
+      "note_text": "Salary expectations above band.",
+      "created_by": "csourcer",
+      "crt_ts": 1546822980000,
+      "mod_ts": 1546822980000
+    },
+    "updated_at": 1546822980000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0064",
+    "data": {
+      "candidate_id": "cand_0052",
+      "note_text": "Offer extended verbally.",
+      "created_by": "dpartner",
+      "crt_ts": 1546823040000,
+      "mod_ts": 1546823040000
+    },
+    "updated_at": 1546823040000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0065",
+    "data": {
+      "candidate_id": "cand_0039",
+      "note_text": "Rescheduled interview to next week.",
+      "created_by": "dpartner",
+      "crt_ts": 1546823100000,
+      "mod_ts": 1546823100000
+    },
+    "updated_at": 1546823100000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0066",
+    "data": {
+      "candidate_id": "cand_0024",
+      "note_text": "Rescheduled interview to next week.",
+      "created_by": "dpartner",
+      "crt_ts": 1546823160000,
+      "mod_ts": 1546823160000
+    },
+    "updated_at": 1546823160000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0067",
+    "data": {
+      "candidate_id": "cand_0053",
+      "note_text": "Reference check passed.",
+      "created_by": "bmanager",
+      "crt_ts": 1546823220000,
+      "mod_ts": 1546823220000
+    },
+    "updated_at": 1546823220000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0068",
+    "data": {
+      "candidate_id": "cand_0126",
+      "note_text": "Salary expectations above band.",
+      "created_by": "bmanager",
+      "crt_ts": 1546823280000,
+      "mod_ts": 1546823280000
+    },
+    "updated_at": 1546823280000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0069",
+    "data": {
+      "candidate_id": "cand_0052",
+      "note_text": "Rescheduled interview to next week.",
+      "created_by": "bmanager",
+      "crt_ts": 1546823340000,
+      "mod_ts": 1546823340000
+    },
+    "updated_at": 1546823340000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0070",
+    "data": {
+      "candidate_id": "cand_0037",
+      "note_text": "Rescheduled interview to next week.",
+      "created_by": "system",
+      "crt_ts": 1546823400000,
+      "mod_ts": 1546823400000
+    },
+    "updated_at": 1546823400000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0071",
+    "data": {
+      "candidate_id": "cand_0007",
+      "note_text": "Strong technical screen; advancing.",
+      "created_by": "arecruiter",
+      "crt_ts": 1546823460000,
+      "mod_ts": 1546823460000
+    },
+    "updated_at": 1546823460000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0072",
+    "data": {
+      "candidate_id": "cand_0084",
+      "note_text": "Candidate requested remote-only roles.",
+      "created_by": "dpartner",
+      "crt_ts": 1546823520000,
+      "mod_ts": 1546823520000
+    },
+    "updated_at": 1546823520000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0073",
+    "data": {
+      "candidate_id": "cand_0061",
+      "note_text": "Rescheduled interview to next week.",
+      "created_by": "system",
+      "crt_ts": 1546823580000,
+      "mod_ts": 1546823580000
+    },
+    "updated_at": 1546823580000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0074",
+    "data": {
+      "candidate_id": "cand_0132",
+      "note_text": "Not a fit for this req; keep warm.",
+      "created_by": "arecruiter",
+      "crt_ts": 1546823640000,
+      "mod_ts": 1546823640000
+    },
+    "updated_at": 1546823640000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0075",
+    "data": {
+      "candidate_id": "cand_0125",
+      "note_text": "Reference check passed.",
+      "created_by": "dpartner",
+      "crt_ts": 1546823700000,
+      "mod_ts": 1546823700000
+    },
+    "updated_at": 1546823700000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0076",
+    "data": {
+      "candidate_id": "cand_0140",
+      "note_text": "Offer extended verbally.",
+      "created_by": "csourcer",
+      "crt_ts": 1546823760000,
+      "mod_ts": 1546823760000
+    },
+    "updated_at": 1546823760000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0077",
+    "data": {
+      "candidate_id": "cand_0020",
+      "note_text": "Reference check passed.",
+      "created_by": "arecruiter",
+      "crt_ts": 1546823820000,
+      "mod_ts": 1546823820000
+    },
+    "updated_at": 1546823820000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0078",
+    "data": {
+      "candidate_id": "cand_0007",
+      "note_text": "Salary expectations above band.",
+      "created_by": "csourcer",
+      "crt_ts": 1546823880000,
+      "mod_ts": 1546823880000
+    },
+    "updated_at": 1546823880000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0079",
+    "data": {
+      "candidate_id": "cand_0049",
+      "note_text": "Strong technical screen; advancing.",
+      "created_by": "arecruiter",
+      "crt_ts": 1546823940000,
+      "mod_ts": 1546823940000
+    },
+    "updated_at": 1546823940000,
+    "is_deleted": false
+  },
+  {
+    "source_id": "note_0080",
+    "data": {
+      "candidate_id": "cand_0136",
+      "note_text": "Not a fit for this req; keep warm.",
+      "created_by": "arecruiter",
+      "crt_ts": 1546824000000,
+      "mod_ts": 1546824000000
+    },
+    "updated_at": 1546824000000,
+    "is_deleted": false
+  }
+]

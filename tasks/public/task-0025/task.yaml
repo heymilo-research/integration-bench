@@ -1,0 +1,99 @@
+id: task-0025
+title: Reset a stale worker-id watermark after tenant regeneration
+category: fix
+vendor: crewcall
+surfaces:
+- polling
+tier: 3
+primary_mechanic: nonmonotonic_id_watermark_reset
+track: python
+timeout_minutes: 60
+doc_profile: 'true'
+scenarios:
+- task_0025
+l3_scenarios: []
+entry:
+  command:
+  - python
+  - -m
+  - crewcall_roster
+outputs:
+  files:
+  - output/result.json
+  - output/import_report.csv
+vendors:
+  crewcall:
+    data_port: 8000
+    log_path: /var/log/vendor
+    checkpoint_env: CHECKPOINT
+    credentials:
+      CC_API_KEY: crewcall-test-key
+    vendor:
+      base_path: /v1
+    entities:
+      worker:
+        plural: workers
+      gig:
+        plural: gigs
+      assignment:
+        plural: assignments
+status: authored
+contract:
+  schema_version: 1
+  version: 1.0.0
+  visibility: public
+  lifecycle: authored
+  vendor_roles:
+    crewcall:
+      vendor_id: crewcall
+      checkpoint: 1
+      required_credentials:
+      - CC_API_KEY
+      api_url_env: CREWCALL_BASE_URL
+      docs_url_env: CREWCALL_DOCS_URL
+  runtime:
+    profile: deterministic-v1
+    checkpoint: 1
+    limits:
+      wall_seconds: 3600
+      cpus: 2
+      memory: 2GiB
+      disk: 2GiB
+    network:
+      vendor_roles:
+      - crewcall
+      model_provider_egress: mode-dependent-allowlist
+    vendor_roles:
+      crewcall:
+        environment:
+          CC_DRIFT_SCHEDULE: wkr_0041+wkr_0042+wkr_0043+wkr_0044+wkr_0045+wkr_0046+wkr_0047+wkr_0048,wkr_0049+wkr_0050+wkr_0051+wkr_0052+wkr_0053+wkr_0054+wkr_0055+wkr_0056,wkr_0057+wkr_0058+wkr_0059+wkr_0060+wkr_0061+wkr_0062+wkr_0063+wkr_0064,wkr_0065+wkr_0066+wkr_0067+wkr_0068+wkr_0069+wkr_0070+wkr_0071+wkr_0072,wkr_0073+wkr_0074+wkr_0075+wkr_0076+wkr_0077+wkr_0078+wkr_0079+wkr_0080,wkr_0081+wkr_0082+wkr_0083+wkr_0084+wkr_0085+wkr_0086+wkr_0087+wkr_0088,wkr_0089+wkr_0090+wkr_0091+wkr_0092+wkr_0093+wkr_0094+wkr_0095+wkr_0096,wkr_0097+wkr_0098+wkr_0099+wkr_0100+wkr_0101+wkr_0102+wkr_0103+wkr_0104,wkr_0105+wkr_0106+wkr_0107+wkr_0108+wkr_0109+wkr_0110+wkr_0111+wkr_0112,wkr_0113+wkr_0114+wkr_0115+wkr_0116+wkr_0117+wkr_0118+wkr_0119+wkr_0120
+          WATERMARK_FILE: /app/input/worker-watermark.json
+  participant:
+    workspace_allowlist:
+    - PROBLEM.md
+    - repo/**
+    - materials/**
+    - inputs/**
+    entry_command:
+    - python
+    - -m
+    - crewcall_roster
+    outputs:
+    - output/result.json
+    - output/import_report.csv
+    persistent_state:
+    - repo/output/**
+    runtime_environment: {}
+    persistent_mounts: []
+  verifier:
+    entry_command:
+    - python
+    - -m
+    - bench.verifier
+    - --task
+    - .
+    trusted_inputs:
+    - task.yaml
+    - verifier/fixtures/**
+    - verifier/scenarios/**
+    - vendor-logs/**

@@ -1,0 +1,134 @@
+{
+  "corrections": [
+    {
+      "candidate_id": "cand_0019",
+      "ok": true,
+      "stage": "rejected"
+    },
+    {
+      "candidate_id": "cand_0020",
+      "ok": true,
+      "stage": "rejected"
+    },
+    {
+      "candidate_id": "cand_0023",
+      "ok": true,
+      "stage": "rejected"
+    },
+    {
+      "candidate_id": "cand_0028",
+      "ok": true,
+      "stage": "rejected"
+    },
+    {
+      "candidate_id": "cand_0030",
+      "ok": true,
+      "stage": "rejected"
+    },
+    {
+      "candidate_id": "cand_0036",
+      "ok": true,
+      "stage": "rejected"
+    },
+    {
+      "candidate_id": "cand_0040",
+      "ok": true,
+      "stage": "rejected"
+    },
+    {
+      "candidate_id": "cand_0044",
+      "ok": true,
+      "stage": "rejected"
+    },
+    {
+      "candidate_id": "cand_0046",
+      "ok": true,
+      "stage": "rejected"
+    },
+    {
+      "candidate_id": "cand_0052",
+      "ok": true,
+      "stage": "rejected"
+    },
+    {
+      "candidate_id": "cand_0053",
+      "ok": true,
+      "stage": "rejected"
+    },
+    {
+      "candidate_id": "cand_0055",
+      "ok": true,
+      "stage": "rejected"
+    },
+    {
+      "candidate_id": "cand_0056",
+      "ok": true,
+      "stage": "rejected"
+    },
+    {
+      "candidate_id": "cand_0058",
+      "ok": true,
+      "stage": "rejected"
+    },
+    {
+      "candidate_id": "cand_0064",
+      "ok": true,
+      "stage": "rejected"
+    },
+    {
+      "candidate_id": "cand_0067",
+      "ok": true,
+      "stage": "rejected"
+    },
+    {
+      "candidate_id": "cand_0079",
+      "ok": true,
+      "stage": "rejected"
+    },
+    {
+      "candidate_id": "cand_0083",
+      "ok": true,
+      "stage": "rejected"
+    },
+    {
+      "candidate_id": "cand_0084",
+      "ok": true,
+      "stage": "rejected"
+    },
+    {
+      "candidate_id": "cand_0087",
+      "ok": true,
+      "stage": "rejected"
+    },
+    {
+      "candidate_id": "cand_0104",
+      "ok": true,
+      "stage": "rejected"
+    },
+    {
+      "candidate_id": "cand_0106",
+      "ok": true,
+      "stage": "rejected"
+    },
+    {
+      "candidate_id": "cand_0110",
+      "ok": true,
+      "stage": "rejected"
+    },
+    {
+      "candidate_id": "cand_0113",
+      "ok": true,
+      "stage": "rejected"
+    },
+    {
+      "candidate_id": "cand_0114",
+      "ok": true,
+      "stage": "rejected"
+    },
+    {
+      "candidate_id": "cand_0118",
+      "ok": true,
+      "stage": "rejected"
+    }
+  ]
+}

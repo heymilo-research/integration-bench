@@ -1,0 +1,119 @@
+id: task-0023
+title: 'TalentLoop: consume candidate.deleted/application.deleted events or lose deletions
+  — docs claim a flag that doesn''t exist'
+category: fix
+vendor: talentloop
+surfaces:
+- webhooks
+- polling
+tier: 2
+primary_mechanic: phantom_delete_flag_detection
+track: python
+timeout_minutes: 60
+doc_profile: stale
+l3_scenarios:
+- tamper_rejection
+scenarios:
+- webhook_delete_freshness
+- poll_reconcile
+- tamper_rejection
+entry:
+  command:
+  - python
+  - -m
+  - talentloop_deletes
+outputs:
+  files:
+  - output/candidates.json
+  - output/applications.json
+vendors:
+  talentloop:
+    data_port: 8000
+    log_path: /var/log/vendor
+    checkpoint_env: CHECKPOINT
+    credentials:
+      TL_CLIENT_ID: tl-test-client-id
+      TL_CLIENT_SECRET: tl-test-client-secret
+      TL_WEBHOOK_SECRET: tl-test-webhook-secret
+    auth:
+      token_endpoint: /token
+      token_ttl: 3600
+    vendor:
+      base_path: ''
+    entities:
+      candidate:
+        plural: candidates
+      application:
+        plural: applications
+    pagination:
+      style: cursor
+      cursor_param: cursor
+    webhooks:
+      enabled: true
+      signing:
+        algorithm: hmac-sha256
+        signature_header: X-TL-Signature
+        timestamp_header: X-TL-Timestamp
+        secret_env: TL_WEBHOOK_SECRET
+        max_skew_s: 300
+contract:
+  schema_version: 1
+  version: 1.0.0
+  visibility: public
+  lifecycle: authored
+  vendor_roles:
+    talentloop:
+      vendor_id: talentloop
+      checkpoint: 0
+      required_credentials:
+      - TL_CLIENT_ID
+      - TL_CLIENT_SECRET
+      - TL_WEBHOOK_SECRET
+      api_url_env: TALENTLOOP_BASE_URL
+      docs_url_env: TALENTLOOP_DOCS_URL
+  runtime:
+    profile: deterministic-v1
+    checkpoint: 0
+    limits:
+      wall_seconds: 3600
+      cpus: 2
+      memory: 2GiB
+      disk: 2GiB
+    network:
+      vendor_roles:
+      - talentloop
+      model_provider_egress: mode-dependent-allowlist
+    vendor_roles:
+      talentloop:
+        environment:
+          WEBHOOK_TARGET: http://connector:4000/webhooks/talentloop
+          TAMPER_INJECT: '1'
+  participant:
+    workspace_allowlist:
+    - PROBLEM.md
+    - repo/**
+    - materials/**
+    - inputs/**
+    entry_command:
+    - python
+    - -m
+    - talentloop_deletes
+    outputs:
+    - output/candidates.json
+    - output/applications.json
+    persistent_state:
+    - repo/output/**
+    runtime_environment: {}
+    persistent_mounts: []
+  verifier:
+    entry_command:
+    - python
+    - -m
+    - bench.verifier
+    - --task
+    - .
+    trusted_inputs:
+    - task.yaml
+    - verifier/fixtures/**
+    - verifier/scenarios/**
+    - vendor-logs/**

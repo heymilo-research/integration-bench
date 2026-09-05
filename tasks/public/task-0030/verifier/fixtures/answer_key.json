@@ -1,0 +1,2241 @@
+{
+  "_generated_by": "tools/rework/gen_answer_key_0095.py",
+  "board_row_count": 133,
+  "checkpoint": 56,
+  "covered": [
+    {
+      "is_deleted": true,
+      "on_the_board": true,
+      "placement_id": "plc_00001"
+    },
+    {
+      "is_deleted": true,
+      "on_the_board": true,
+      "placement_id": "plc_00002"
+    },
+    {
+      "is_deleted": false,
+      "on_the_board": true,
+      "placement_id": "plc_00003"
+    },
+    {
+      "is_deleted": false,
+      "on_the_board": true,
+      "placement_id": "plc_00005"
+    },
+    {
+      "is_deleted": false,
+      "on_the_board": true,
+      "placement_id": "plc_00007"
+    },
+    {
+      "is_deleted": false,
+      "on_the_board": true,
+      "placement_id": "plc_00008"
+    },
+    {
+      "is_deleted": false,
+      "on_the_board": true,
+      "placement_id": "plc_00009"
+    },
+    {
+      "is_deleted": false,
+      "on_the_board": true,
+      "placement_id": "plc_00010"
+    },
+    {
+      "is_deleted": false,
+      "on_the_board": true,
+      "placement_id": "plc_00011"
+    },
+    {
+      "is_deleted": true,
+      "on_the_board": true,
+      "placement_id": "plc_00013"
+    },
+    {
+      "is_deleted": true,
+      "on_the_board": true,
+      "placement_id": "plc_00014"
+    },
+    {
+      "is_deleted": true,
+      "on_the_board": true,
+      "placement_id": "plc_00016"
+    },
+    {
+      "is_deleted": false,
+      "on_the_board": true,
+      "placement_id": "plc_00017"
+    },
+    {
+      "is_deleted": false,
+      "on_the_board": true,
+      "placement_id": "plc_00020"
+    },
+    {
+      "is_deleted": false,
+      "on_the_board": true,
+      "placement_id": "plc_00021"
+    },
+    {
+      "is_deleted": false,
+      "on_the_board": true,
+      "placement_id": "plc_00024"
+    },
+    {
+      "is_deleted": true,
+      "on_the_board": true,
+      "placement_id": "plc_00025"
+    },
+    {
+      "is_deleted": false,
+      "on_the_board": true,
+      "placement_id": "plc_00027"
+    },
+    {
+      "is_deleted": false,
+      "on_the_board": true,
+      "placement_id": "plc_00028"
+    },
+    {
+      "is_deleted": false,
+      "on_the_board": true,
+      "placement_id": "plc_00029"
+    },
+    {
+      "is_deleted": true,
+      "on_the_board": false,
+      "placement_id": "plc_00030"
+    },
+    {
+      "is_deleted": false,
+      "on_the_board": true,
+      "placement_id": "plc_00031"
+    },
+    {
+      "is_deleted": false,
+      "on_the_board": true,
+      "placement_id": "plc_00032"
+    },
+    {
+      "is_deleted": false,
+      "on_the_board": true,
+      "placement_id": "plc_00033"
+    },
+    {
+      "is_deleted": false,
+      "on_the_board": true,
+      "placement_id": "plc_00034"
+    },
+    {
+      "is_deleted": false,
+      "on_the_board": true,
+      "placement_id": "plc_00035"
+    },
+    {
+      "is_deleted": false,
+      "on_the_board": true,
+      "placement_id": "plc_00036"
+    },
+    {
+      "is_deleted": false,
+      "on_the_board": true,
+      "placement_id": "plc_00037"
+    },
+    {
+      "is_deleted": true,
+      "on_the_board": true,
+      "placement_id": "plc_00038"
+    },
+    {
+      "is_deleted": false,
+      "on_the_board": true,
+      "placement_id": "plc_00039"
+    },
+    {
+      "is_deleted": false,
+      "on_the_board": true,
+      "placement_id": "plc_00040"
+    },
+    {
+      "is_deleted": false,
+      "on_the_board": true,
+      "placement_id": "plc_00042"
+    },
+    {
+      "is_deleted": false,
+      "on_the_board": true,
+      "placement_id": "plc_00045"
+    },
+    {
+      "is_deleted": false,
+      "on_the_board": true,
+      "placement_id": "plc_00046"
+    },
+    {
+      "is_deleted": false,
+      "on_the_board": true,
+      "placement_id": "plc_00049"
+    },
+    {
+      "is_deleted": false,
+      "on_the_board": true,
+      "placement_id": "plc_00051"
+    },
+    {
+      "is_deleted": true,
+      "on_the_board": true,
+      "placement_id": "plc_00053"
+    },
+    {
+      "is_deleted": false,
+      "on_the_board": true,
+      "placement_id": "plc_00055"
+    },
+    {
+      "is_deleted": false,
+      "on_the_board": true,
+      "placement_id": "plc_00058"
+    },
+    {
+      "is_deleted": false,
+      "on_the_board": true,
+      "placement_id": "plc_00059"
+    },
+    {
+      "is_deleted": false,
+      "on_the_board": true,
+      "placement_id": "plc_00062"
+    },
+    {
+      "is_deleted": false,
+      "on_the_board": true,
+      "placement_id": "plc_00063"
+    },
+    {
+      "is_deleted": false,
+      "on_the_board": true,
+      "placement_id": "plc_00068"
+    },
+    {
+      "is_deleted": false,
+      "on_the_board": true,
+      "placement_id": "plc_00073"
+    },
+    {
+      "is_deleted": false,
+      "on_the_board": true,
+      "placement_id": "plc_00074"
+    },
+    {
+      "is_deleted": false,
+      "on_the_board": true,
+      "placement_id": "plc_00075"
+    },
+    {
+      "is_deleted": false,
+      "on_the_board": true,
+      "placement_id": "plc_00076"
+    },
+    {
+      "is_deleted": false,
+      "on_the_board": true,
+      "placement_id": "plc_00077"
+    },
+    {
+      "is_deleted": false,
+      "on_the_board": true,
+      "placement_id": "plc_00079"
+    },
+    {
+      "is_deleted": false,
+      "on_the_board": true,
+      "placement_id": "plc_00081"
+    },
+    {
+      "is_deleted": true,
+      "on_the_board": true,
+      "placement_id": "plc_00084"
+    },
+    {
+      "is_deleted": false,
+      "on_the_board": true,
+      "placement_id": "plc_00085"
+    },
+    {
+      "is_deleted": false,
+      "on_the_board": true,
+      "placement_id": "plc_00087"
+    },
+    {
+      "is_deleted": false,
+      "on_the_board": true,
+      "placement_id": "plc_00089"
+    },
+    {
+      "is_deleted": false,
+      "on_the_board": true,
+      "placement_id": "plc_00090"
+    },
+    {
+      "is_deleted": true,
+      "on_the_board": false,
+      "placement_id": "plc_00091"
+    },
+    {
+      "is_deleted": true,
+      "on_the_board": true,
+      "placement_id": "plc_00092"
+    },
+    {
+      "is_deleted": false,
+      "on_the_board": true,
+      "placement_id": "plc_00093"
+    },
+    {
+      "is_deleted": false,
+      "on_the_board": true,
+      "placement_id": "plc_00094"
+    },
+    {
+      "is_deleted": false,
+      "on_the_board": true,
+      "placement_id": "plc_00096"
+    },
+    {
+      "is_deleted": false,
+      "on_the_board": true,
+      "placement_id": "plc_00098"
+    },
+    {
+      "is_deleted": true,
+      "on_the_board": true,
+      "placement_id": "plc_00100"
+    },
+    {
+      "is_deleted": false,
+      "on_the_board": true,
+      "placement_id": "plc_00101"
+    },
+    {
+      "is_deleted": false,
+      "on_the_board": true,
+      "placement_id": "plc_00102"
+    },
+    {
+      "is_deleted": true,
+      "on_the_board": true,
+      "placement_id": "plc_00103"
+    },
+    {
+      "is_deleted": false,
+      "on_the_board": true,
+      "placement_id": "plc_00104"
+    },
+    {
+      "is_deleted": true,
+      "on_the_board": false,
+      "placement_id": "plc_00105"
+    },
+    {
+      "is_deleted": false,
+      "on_the_board": true,
+      "placement_id": "plc_00108"
+    },
+    {
+      "is_deleted": false,
+      "on_the_board": true,
+      "placement_id": "plc_00109"
+    },
+    {
+      "is_deleted": true,
+      "on_the_board": true,
+      "placement_id": "plc_00110"
+    },
+    {
+      "is_deleted": true,
+      "on_the_board": true,
+      "placement_id": "plc_00111"
+    },
+    {
+      "is_deleted": false,
+      "on_the_board": true,
+      "placement_id": "plc_00112"
+    },
+    {
+      "is_deleted": false,
+      "on_the_board": true,
+      "placement_id": "plc_00113"
+    },
+    {
+      "is_deleted": true,
+      "on_the_board": false,
+      "placement_id": "plc_00115"
+    },
+    {
+      "is_deleted": false,
+      "on_the_board": true,
+      "placement_id": "plc_00116"
+    },
+    {
+      "is_deleted": false,
+      "on_the_board": true,
+      "placement_id": "plc_00117"
+    },
+    {
+      "is_deleted": false,
+      "on_the_board": true,
+      "placement_id": "plc_00120"
+    },
+    {
+      "is_deleted": false,
+      "on_the_board": true,
+      "placement_id": "plc_95001"
+    },
+    {
+      "is_deleted": false,
+      "on_the_board": true,
+      "placement_id": "plc_95004"
+    },
+    {
+      "is_deleted": false,
+      "on_the_board": true,
+      "placement_id": "plc_95005"
+    },
+    {
+      "is_deleted": false,
+      "on_the_board": true,
+      "placement_id": "plc_95007"
+    },
+    {
+      "is_deleted": false,
+      "on_the_board": true,
+      "placement_id": "plc_95008"
+    },
+    {
+      "is_deleted": false,
+      "on_the_board": true,
+      "placement_id": "plc_95100"
+    }
+  ],
+  "dataset_size": 120,
+  "group_counts": {
+    "clean": 25,
+    "conflict_console": 10,
+    "conflict_ref": 20,
+    "dup": 14,
+    "legacy": 40,
+    "retired_exact": 10,
+    "retired_legacy": 4,
+    "unknown": 10
+  },
+  "live_count": 112,
+  "note_author": "boardcensus@meridian.test",
+  "note_template": "Desk board census: no Meridian board row for this placement (stage: {stage}).",
+  "notes_watermark": "2026-04-02T00:00:00Z",
+  "placement_count": 130,
+  "retired_count": 18,
+  "rows": [
+    {
+      "board_ref": "MB-0001",
+      "candidate_name": "Blaise Zuse",
+      "client_id": "client_0143",
+      "group": "legacy",
+      "placement_id": "plc_00049",
+      "placemint_ref": "49",
+      "points_at": null,
+      "source_line": 2,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0002",
+      "candidate_name": "Florence Noether",
+      "client_id": "client_0001",
+      "group": "legacy",
+      "placement_id": "plc_95008",
+      "placemint_ref": "95008",
+      "points_at": null,
+      "source_line": 3,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0003",
+      "candidate_name": "Nikola Hopper",
+      "client_id": "client_0251",
+      "group": "retired_exact",
+      "placement_id": "plc_00100",
+      "placemint_ref": "plc_00100",
+      "points_at": null,
+      "source_line": 4,
+      "verdict": "retired"
+    },
+    {
+      "board_ref": "MB-0004",
+      "candidate_name": "Tim Ramanujan",
+      "client_id": "client_0063",
+      "group": "clean",
+      "placement_id": "plc_00035",
+      "placemint_ref": "plc_00035",
+      "points_at": null,
+      "source_line": 5,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0005",
+      "candidate_name": "Walter Feynman",
+      "client_id": "client_0050",
+      "group": "dup",
+      "placement_id": "plc_00037",
+      "placemint_ref": "plc_00037",
+      "points_at": null,
+      "source_line": 6,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0006",
+      "candidate_name": "Ursula Tesla",
+      "client_id": "client_0277",
+      "group": "legacy",
+      "placement_id": "plc_00076",
+      "placemint_ref": "76",
+      "points_at": null,
+      "source_line": 7,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0007",
+      "candidate_name": "Richard Hopper",
+      "client_id": "client_0049",
+      "group": "legacy",
+      "placement_id": "plc_00010",
+      "placemint_ref": "10",
+      "points_at": null,
+      "source_line": 8,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0008",
+      "candidate_name": "Peggy Gauss",
+      "client_id": "client_0110",
+      "group": "legacy",
+      "placement_id": "plc_00108",
+      "placemint_ref": "108",
+      "points_at": null,
+      "source_line": 9,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0009",
+      "candidate_name": "Yvonne Lovelace",
+      "client_id": "client_0129",
+      "group": "legacy",
+      "placement_id": "plc_00051",
+      "placemint_ref": "51",
+      "points_at": null,
+      "source_line": 10,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0010",
+      "candidate_name": "Florence Lovelace",
+      "client_id": "client_0223",
+      "group": "retired_exact",
+      "placement_id": "plc_00053",
+      "placemint_ref": "plc_00053",
+      "points_at": null,
+      "source_line": 11,
+      "verdict": "retired"
+    },
+    {
+      "board_ref": "MB-0011",
+      "candidate_name": "Ivo Ferreira",
+      "client_id": "client_0057",
+      "group": "unknown",
+      "placement_id": null,
+      "placemint_ref": "plc_00456",
+      "points_at": null,
+      "source_line": 12,
+      "verdict": "unmatched"
+    },
+    {
+      "board_ref": "MB-0012",
+      "candidate_name": "Nikola Noether",
+      "client_id": "client_0160",
+      "group": "legacy",
+      "placement_id": "plc_00101",
+      "placemint_ref": "101",
+      "points_at": null,
+      "source_line": 13,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0013",
+      "candidate_name": "Hedy Noether",
+      "client_id": "client_0030",
+      "group": "clean",
+      "placement_id": "plc_00075",
+      "placemint_ref": "plc_00075",
+      "points_at": null,
+      "source_line": 14,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0014",
+      "candidate_name": "Dorothy Dirac",
+      "client_id": "client_0057",
+      "group": "retired_legacy",
+      "placement_id": "plc_00002",
+      "placemint_ref": "2",
+      "points_at": null,
+      "source_line": 15,
+      "verdict": "retired"
+    },
+    {
+      "board_ref": "MB-0015",
+      "candidate_name": "Isaac Ramanujan",
+      "client_id": "client_0076",
+      "group": "dup",
+      "placement_id": "plc_00059",
+      "placemint_ref": "59",
+      "points_at": null,
+      "source_line": 16,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0016",
+      "candidate_name": "Xavier Curie",
+      "client_id": "client_0148",
+      "group": "clean",
+      "placement_id": "plc_00081",
+      "placemint_ref": "plc_00081",
+      "points_at": null,
+      "source_line": 17,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0017",
+      "candidate_name": "Hedy Turing",
+      "client_id": "client_0203",
+      "group": "retired_exact",
+      "placement_id": "plc_00084",
+      "placemint_ref": "plc_00084",
+      "points_at": null,
+      "source_line": 18,
+      "verdict": "retired"
+    },
+    {
+      "board_ref": "MB-0018",
+      "candidate_name": "Florence Babbage",
+      "client_id": "client_0014",
+      "group": "clean",
+      "placement_id": "plc_00117",
+      "placemint_ref": "plc_00117",
+      "points_at": null,
+      "source_line": 19,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0019",
+      "candidate_name": "Oliver Noether",
+      "client_id": "client_0187",
+      "group": "retired_exact",
+      "placement_id": "plc_00110",
+      "placemint_ref": "plc_00110",
+      "points_at": null,
+      "source_line": 20,
+      "verdict": "retired"
+    },
+    {
+      "board_ref": "MB-0020",
+      "candidate_name": "Rania Okonkwo",
+      "client_id": "client_0232",
+      "group": "conflict_console",
+      "placement_id": null,
+      "placemint_ref": "41",
+      "points_at": "plc_00041",
+      "source_line": 21,
+      "verdict": "unmatched"
+    },
+    {
+      "board_ref": "MB-0021",
+      "candidate_name": "Walter Tesla",
+      "client_id": "client_0291",
+      "group": "retired_legacy",
+      "placement_id": "plc_00111",
+      "placemint_ref": "111",
+      "points_at": null,
+      "source_line": 22,
+      "verdict": "retired"
+    },
+    {
+      "board_ref": "MB-0022",
+      "candidate_name": "Marie Ramanujan",
+      "client_id": "client_0085",
+      "group": "clean",
+      "placement_id": "plc_00104",
+      "placemint_ref": "plc_00104",
+      "points_at": null,
+      "source_line": 23,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0023",
+      "candidate_name": "Lucia Lindqvist",
+      "client_id": "client_0001",
+      "group": "unknown",
+      "placement_id": null,
+      "placemint_ref": "435",
+      "points_at": null,
+      "source_line": 24,
+      "verdict": "unmatched"
+    },
+    {
+      "board_ref": "MB-0024",
+      "candidate_name": "Katherine Von Neumann",
+      "client_id": "client_0035",
+      "group": "legacy",
+      "placement_id": "plc_00109",
+      "placemint_ref": "109",
+      "points_at": null,
+      "source_line": 25,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0025",
+      "candidate_name": "Casper Baptiste",
+      "client_id": "client_0183",
+      "group": "conflict_console",
+      "placement_id": null,
+      "placemint_ref": "80",
+      "points_at": "plc_00080",
+      "source_line": 26,
+      "verdict": "unmatched"
+    },
+    {
+      "board_ref": "MB-0026",
+      "candidate_name": "Rafael Vasquez",
+      "client_id": "client_0113",
+      "group": "unknown",
+      "placement_id": null,
+      "placemint_ref": "421",
+      "points_at": null,
+      "source_line": 27,
+      "verdict": "unmatched"
+    },
+    {
+      "board_ref": "MB-0027",
+      "candidate_name": "Ada Gauss",
+      "client_id": "client_0127",
+      "group": "legacy",
+      "placement_id": "plc_00008",
+      "placemint_ref": "8",
+      "points_at": null,
+      "source_line": 28,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0028",
+      "candidate_name": "Nikola Noether",
+      "client_id": "client_0180",
+      "group": "legacy",
+      "placement_id": "plc_00079",
+      "placemint_ref": "79",
+      "points_at": null,
+      "source_line": 29,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0029",
+      "candidate_name": "Marie Einstein",
+      "client_id": "client_0077",
+      "group": "dup",
+      "placement_id": "plc_00098",
+      "placemint_ref": "plc_00098",
+      "points_at": null,
+      "source_line": 30,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0030",
+      "candidate_name": "Sophie Noether",
+      "client_id": "client_0006",
+      "group": "clean",
+      "placement_id": "plc_00028",
+      "placemint_ref": "plc_00028",
+      "points_at": null,
+      "source_line": 31,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0031",
+      "candidate_name": "Ivo Vasquez",
+      "client_id": "client_0040",
+      "group": "conflict_console",
+      "placement_id": null,
+      "placemint_ref": "52",
+      "points_at": "plc_00052",
+      "source_line": 32,
+      "verdict": "unmatched"
+    },
+    {
+      "board_ref": "MB-0032",
+      "candidate_name": "Hedy Von Neumann",
+      "client_id": "client_0287",
+      "group": "retired_legacy",
+      "placement_id": "plc_00103",
+      "placemint_ref": "103",
+      "points_at": null,
+      "source_line": 33,
+      "verdict": "retired"
+    },
+    {
+      "board_ref": "MB-0033",
+      "candidate_name": "Tobias Ferreira",
+      "client_id": "client_0008",
+      "group": "conflict_ref",
+      "placement_id": null,
+      "placemint_ref": "plc_00050",
+      "points_at": "plc_00050",
+      "source_line": 34,
+      "verdict": "unmatched"
+    },
+    {
+      "board_ref": "MB-0034",
+      "candidate_name": "Nikola Noether",
+      "client_id": "client_0134",
+      "group": "legacy",
+      "placement_id": "plc_00074",
+      "placemint_ref": "74",
+      "points_at": null,
+      "source_line": 35,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0035",
+      "candidate_name": "Zelda Shannon",
+      "client_id": "client_0276",
+      "group": "legacy",
+      "placement_id": "plc_00116",
+      "placemint_ref": "116",
+      "points_at": null,
+      "source_line": 36,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0036",
+      "candidate_name": "Grace Feynman",
+      "client_id": "client_0189",
+      "group": "legacy",
+      "placement_id": "plc_00093",
+      "placemint_ref": "93",
+      "points_at": null,
+      "source_line": 37,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0037",
+      "candidate_name": "Peggy Xu",
+      "client_id": "client_0272",
+      "group": "legacy",
+      "placement_id": "plc_00036",
+      "placemint_ref": "36",
+      "points_at": null,
+      "source_line": 38,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0038",
+      "candidate_name": "Hedy Feynman",
+      "client_id": "client_0025",
+      "group": "clean",
+      "placement_id": "plc_00096",
+      "placemint_ref": "plc_00096",
+      "points_at": null,
+      "source_line": 39,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0039",
+      "candidate_name": "Lucia Ferreira",
+      "client_id": "client_0186",
+      "group": "conflict_ref",
+      "placement_id": null,
+      "placemint_ref": "plc_00069",
+      "points_at": "plc_00069",
+      "source_line": 40,
+      "verdict": "unmatched"
+    },
+    {
+      "board_ref": "MB-0040",
+      "candidate_name": "Casper Vasquez",
+      "client_id": "client_0274",
+      "group": "conflict_ref",
+      "placement_id": null,
+      "placemint_ref": "plc_00026",
+      "points_at": "plc_00026",
+      "source_line": 41,
+      "verdict": "unmatched"
+    },
+    {
+      "board_ref": "MB-0041",
+      "candidate_name": "Xavier Lovelace",
+      "client_id": "client_0125",
+      "group": "clean",
+      "placement_id": "plc_00007",
+      "placemint_ref": "plc_00007",
+      "points_at": null,
+      "source_line": 42,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0042",
+      "candidate_name": "Hedy Gauss",
+      "client_id": "client_0267",
+      "group": "legacy",
+      "placement_id": "plc_00120",
+      "placemint_ref": "120",
+      "points_at": null,
+      "source_line": 43,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0043",
+      "candidate_name": "Linus Noether",
+      "client_id": "client_0097",
+      "group": "clean",
+      "placement_id": "plc_00039",
+      "placemint_ref": "plc_00039",
+      "points_at": null,
+      "source_line": 44,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0044",
+      "candidate_name": "Sophie Shannon",
+      "client_id": "client_0031",
+      "group": "legacy",
+      "placement_id": "plc_00032",
+      "placemint_ref": "32",
+      "points_at": null,
+      "source_line": 45,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0045",
+      "candidate_name": "Jean Hopper",
+      "client_id": "client_0001",
+      "group": "clean",
+      "placement_id": "plc_95004",
+      "placemint_ref": "plc_95004",
+      "points_at": null,
+      "source_line": 46,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0046",
+      "candidate_name": "Delia Vasquez",
+      "client_id": "client_0167",
+      "group": "conflict_ref",
+      "placement_id": null,
+      "placemint_ref": "plc_00088",
+      "points_at": "plc_00088",
+      "source_line": 47,
+      "verdict": "unmatched"
+    },
+    {
+      "board_ref": "MB-0047",
+      "candidate_name": "Xavier Xu",
+      "client_id": "client_0241",
+      "group": "legacy",
+      "placement_id": "plc_00102",
+      "placemint_ref": "102",
+      "points_at": null,
+      "source_line": 48,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0048",
+      "candidate_name": "Florence Babbage",
+      "client_id": "client_0014",
+      "group": "dup",
+      "placement_id": "plc_00117",
+      "placemint_ref": "plc_00117",
+      "points_at": null,
+      "source_line": 49,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0049",
+      "candidate_name": "Linus Gauss",
+      "client_id": "client_0235",
+      "group": "legacy",
+      "placement_id": "plc_00034",
+      "placemint_ref": "34",
+      "points_at": null,
+      "source_line": 50,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0050",
+      "candidate_name": "Jean Gauss",
+      "client_id": "client_0091",
+      "group": "legacy",
+      "placement_id": "plc_00011",
+      "placemint_ref": "11",
+      "points_at": null,
+      "source_line": 51,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0051",
+      "candidate_name": "Rafael Renner",
+      "client_id": "client_0199",
+      "group": "unknown",
+      "placement_id": null,
+      "placemint_ref": "407",
+      "points_at": null,
+      "source_line": 52,
+      "verdict": "unmatched"
+    },
+    {
+      "board_ref": "MB-0052",
+      "candidate_name": "Isaac Babbage",
+      "client_id": "client_0253",
+      "group": "legacy",
+      "placement_id": "plc_00021",
+      "placemint_ref": "21",
+      "points_at": null,
+      "source_line": 53,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0053",
+      "candidate_name": "Emmy Young",
+      "client_id": "client_0108",
+      "group": "retired_exact",
+      "placement_id": "plc_00092",
+      "placemint_ref": "plc_00092",
+      "points_at": null,
+      "source_line": 54,
+      "verdict": "retired"
+    },
+    {
+      "board_ref": "MB-0054",
+      "candidate_name": "Zelda Von Neumann",
+      "client_id": "client_0198",
+      "group": "clean",
+      "placement_id": "plc_00033",
+      "placemint_ref": "plc_00033",
+      "points_at": null,
+      "source_line": 55,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0055",
+      "candidate_name": "Rania Nakamura",
+      "client_id": "client_0085",
+      "group": "conflict_ref",
+      "placement_id": null,
+      "placemint_ref": "plc_00061",
+      "points_at": "plc_00061",
+      "source_line": 56,
+      "verdict": "unmatched"
+    },
+    {
+      "board_ref": "MB-0056",
+      "candidate_name": "Grace Young",
+      "client_id": "client_0001",
+      "group": "clean",
+      "placement_id": "plc_95005",
+      "placemint_ref": "plc_95005",
+      "points_at": null,
+      "source_line": 57,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0057",
+      "candidate_name": "Blaise Wright",
+      "client_id": "client_0122",
+      "group": "retired_legacy",
+      "placement_id": "plc_00038",
+      "placemint_ref": "38",
+      "points_at": null,
+      "source_line": 58,
+      "verdict": "retired"
+    },
+    {
+      "board_ref": "MB-0058",
+      "candidate_name": "Noor Nakamura",
+      "client_id": "client_0148",
+      "group": "conflict_console",
+      "placement_id": null,
+      "placemint_ref": "86",
+      "points_at": "plc_00086",
+      "source_line": 59,
+      "verdict": "unmatched"
+    },
+    {
+      "board_ref": "MB-0059",
+      "candidate_name": "Hedy Wright",
+      "client_id": "client_0107",
+      "group": "dup",
+      "placement_id": "plc_00094",
+      "placemint_ref": "plc_00094",
+      "points_at": null,
+      "source_line": 60,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0060",
+      "candidate_name": "Nikola Wright",
+      "client_id": "client_0059",
+      "group": "clean",
+      "placement_id": "plc_00087",
+      "placemint_ref": "plc_00087",
+      "points_at": null,
+      "source_line": 61,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0061",
+      "candidate_name": "Otto Halvorsen",
+      "client_id": "client_0248",
+      "group": "conflict_ref",
+      "placement_id": null,
+      "placemint_ref": "plc_00018",
+      "points_at": "plc_00018",
+      "source_line": 62,
+      "verdict": "unmatched"
+    },
+    {
+      "board_ref": "MB-0062",
+      "candidate_name": "Delia Vasquez",
+      "client_id": "client_0110",
+      "group": "conflict_ref",
+      "placement_id": null,
+      "placemint_ref": "plc_00006",
+      "points_at": "plc_00006",
+      "source_line": 63,
+      "verdict": "unmatched"
+    },
+    {
+      "board_ref": "MB-0063",
+      "candidate_name": "Bram Okonkwo",
+      "client_id": "client_0259",
+      "group": "conflict_ref",
+      "placement_id": null,
+      "placemint_ref": "plc_00072",
+      "points_at": "plc_00072",
+      "source_line": 64,
+      "verdict": "unmatched"
+    },
+    {
+      "board_ref": "MB-0064",
+      "candidate_name": "Zelda Zuse",
+      "client_id": "client_0231",
+      "group": "legacy",
+      "placement_id": "plc_00113",
+      "placemint_ref": "113",
+      "points_at": null,
+      "source_line": 65,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0065",
+      "candidate_name": "Walter Feynman",
+      "client_id": "client_0050",
+      "group": "clean",
+      "placement_id": "plc_00037",
+      "placemint_ref": "plc_00037",
+      "points_at": null,
+      "source_line": 66,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0066",
+      "candidate_name": "Ada Gauss",
+      "client_id": "client_0065",
+      "group": "legacy",
+      "placement_id": "plc_00005",
+      "placemint_ref": "5",
+      "points_at": null,
+      "source_line": 67,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0067",
+      "candidate_name": "Delia Nakamura",
+      "client_id": "client_0080",
+      "group": "conflict_ref",
+      "placement_id": null,
+      "placemint_ref": "plc_00095",
+      "points_at": "plc_00095",
+      "source_line": 68,
+      "verdict": "unmatched"
+    },
+    {
+      "board_ref": "MB-0068",
+      "candidate_name": "Florence Zuse",
+      "client_id": "client_0001",
+      "group": "legacy",
+      "placement_id": "plc_95001",
+      "placemint_ref": "95001",
+      "points_at": null,
+      "source_line": 69,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0069",
+      "candidate_name": "Marie Young",
+      "client_id": "client_0208",
+      "group": "clean",
+      "placement_id": "plc_00003",
+      "placemint_ref": "plc_00003",
+      "points_at": null,
+      "source_line": 70,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0070",
+      "candidate_name": "Isaac Ramanujan",
+      "client_id": "client_0076",
+      "group": "legacy",
+      "placement_id": "plc_00059",
+      "placemint_ref": "59",
+      "points_at": null,
+      "source_line": 71,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0071",
+      "candidate_name": "Emeka Baptiste",
+      "client_id": "client_0182",
+      "group": "conflict_ref",
+      "placement_id": null,
+      "placemint_ref": "plc_00082",
+      "points_at": "plc_00082",
+      "source_line": 72,
+      "verdict": "unmatched"
+    },
+    {
+      "board_ref": "MB-0072",
+      "candidate_name": "Richard Curie",
+      "client_id": "client_0042",
+      "group": "clean",
+      "placement_id": "plc_00062",
+      "placemint_ref": "plc_00062",
+      "points_at": null,
+      "source_line": 73,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0073",
+      "candidate_name": "Saskia Okonkwo",
+      "client_id": "client_0074",
+      "group": "conflict_console",
+      "placement_id": null,
+      "placemint_ref": "67",
+      "points_at": "plc_00067",
+      "source_line": 74,
+      "verdict": "unmatched"
+    },
+    {
+      "board_ref": "MB-0074",
+      "candidate_name": "Charles Ramanujan",
+      "client_id": "client_0155",
+      "group": "retired_exact",
+      "placement_id": "plc_00016",
+      "placemint_ref": "plc_00016",
+      "points_at": null,
+      "source_line": 75,
+      "verdict": "retired"
+    },
+    {
+      "board_ref": "MB-0075",
+      "candidate_name": "Emeka Okonkwo",
+      "client_id": "client_0097",
+      "group": "unknown",
+      "placement_id": null,
+      "placemint_ref": "plc_00400",
+      "points_at": null,
+      "source_line": 76,
+      "verdict": "unmatched"
+    },
+    {
+      "board_ref": "MB-0076",
+      "candidate_name": "Sophie Shannon",
+      "client_id": "client_0031",
+      "group": "dup",
+      "placement_id": "plc_00032",
+      "placemint_ref": "32",
+      "points_at": null,
+      "source_line": 77,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0077",
+      "candidate_name": "Marie Shannon",
+      "client_id": "client_0138",
+      "group": "legacy",
+      "placement_id": "plc_00073",
+      "placemint_ref": "73",
+      "points_at": null,
+      "source_line": 78,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0078",
+      "candidate_name": "Ines Marchetti",
+      "client_id": "client_0261",
+      "group": "conflict_ref",
+      "placement_id": null,
+      "placemint_ref": "plc_00060",
+      "points_at": "plc_00060",
+      "source_line": 79,
+      "verdict": "unmatched"
+    },
+    {
+      "board_ref": "MB-0079",
+      "candidate_name": "Marie Shannon",
+      "client_id": "client_0138",
+      "group": "dup",
+      "placement_id": "plc_00073",
+      "placemint_ref": "73",
+      "points_at": null,
+      "source_line": 80,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0080",
+      "candidate_name": "Xavier Ramanujan",
+      "client_id": "client_0041",
+      "group": "legacy",
+      "placement_id": "plc_00017",
+      "placemint_ref": "17",
+      "points_at": null,
+      "source_line": 81,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0081",
+      "candidate_name": "Peggy Shannon",
+      "client_id": "client_0150",
+      "group": "legacy",
+      "placement_id": "plc_00089",
+      "placemint_ref": "89",
+      "points_at": null,
+      "source_line": 82,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0082",
+      "candidate_name": "Nikola Wright",
+      "client_id": "client_0059",
+      "group": "dup",
+      "placement_id": "plc_00087",
+      "placemint_ref": "plc_00087",
+      "points_at": null,
+      "source_line": 83,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0083",
+      "candidate_name": "Casper Lindqvist",
+      "client_id": "client_0001",
+      "group": "conflict_ref",
+      "placement_id": null,
+      "placemint_ref": "plc_95006",
+      "points_at": "plc_95006",
+      "source_line": 84,
+      "verdict": "unmatched"
+    },
+    {
+      "board_ref": "MB-0084",
+      "candidate_name": "Casper Renner",
+      "client_id": "client_0268",
+      "group": "conflict_console",
+      "placement_id": null,
+      "placemint_ref": "44",
+      "points_at": "plc_00044",
+      "source_line": 85,
+      "verdict": "unmatched"
+    },
+    {
+      "board_ref": "MB-0085",
+      "candidate_name": "Grace Young",
+      "client_id": "client_0111",
+      "group": "clean",
+      "placement_id": "plc_00085",
+      "placemint_ref": "plc_00085",
+      "points_at": null,
+      "source_line": 86,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0086",
+      "candidate_name": "Otto Baptiste",
+      "client_id": "client_0001",
+      "group": "conflict_ref",
+      "placement_id": null,
+      "placemint_ref": "plc_95002",
+      "points_at": "plc_95002",
+      "source_line": 87,
+      "verdict": "unmatched"
+    },
+    {
+      "board_ref": "MB-0087",
+      "candidate_name": "Oliver Shannon",
+      "client_id": "client_0066",
+      "group": "retired_exact",
+      "placement_id": "plc_00025",
+      "placemint_ref": "plc_00025",
+      "points_at": null,
+      "source_line": 88,
+      "verdict": "retired"
+    },
+    {
+      "board_ref": "MB-0088",
+      "candidate_name": "Xavier Babbage",
+      "client_id": "client_0093",
+      "group": "retired_exact",
+      "placement_id": "plc_00013",
+      "placemint_ref": "plc_00013",
+      "points_at": null,
+      "source_line": 89,
+      "verdict": "retired"
+    },
+    {
+      "board_ref": "MB-0089",
+      "candidate_name": "Katherine Curie",
+      "client_id": "client_0268",
+      "group": "dup",
+      "placement_id": "plc_00027",
+      "placemint_ref": "plc_00027",
+      "points_at": null,
+      "source_line": 90,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0090",
+      "candidate_name": "Ursula Tesla",
+      "client_id": "client_0277",
+      "group": "dup",
+      "placement_id": "plc_00076",
+      "placemint_ref": "76",
+      "points_at": null,
+      "source_line": 91,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0091",
+      "candidate_name": "Rania Lindqvist",
+      "client_id": "client_0010",
+      "group": "conflict_console",
+      "placement_id": null,
+      "placemint_ref": "47",
+      "points_at": "plc_00047",
+      "source_line": 92,
+      "verdict": "unmatched"
+    },
+    {
+      "board_ref": "MB-0092",
+      "candidate_name": "Noor Nakamura",
+      "client_id": "client_0148",
+      "group": "unknown",
+      "placement_id": null,
+      "placemint_ref": "463",
+      "points_at": null,
+      "source_line": 93,
+      "verdict": "unmatched"
+    },
+    {
+      "board_ref": "MB-0093",
+      "candidate_name": "Rafael Okonkwo",
+      "client_id": "client_0001",
+      "group": "conflict_ref",
+      "placement_id": null,
+      "placemint_ref": "plc_90001",
+      "points_at": "plc_90001",
+      "source_line": 94,
+      "verdict": "unmatched"
+    },
+    {
+      "board_ref": "MB-0094",
+      "candidate_name": "Peggy Einstein",
+      "client_id": "client_0284",
+      "group": "legacy",
+      "placement_id": "plc_00045",
+      "placemint_ref": "45",
+      "points_at": null,
+      "source_line": 95,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0095",
+      "candidate_name": "Walter Pascal",
+      "client_id": "client_0141",
+      "group": "legacy",
+      "placement_id": "plc_00024",
+      "placemint_ref": "24",
+      "points_at": null,
+      "source_line": 96,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0096",
+      "candidate_name": "Oliver Lovelace",
+      "client_id": "client_0102",
+      "group": "legacy",
+      "placement_id": "plc_00055",
+      "placemint_ref": "55",
+      "points_at": null,
+      "source_line": 97,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0097",
+      "candidate_name": "Emmy Dirac",
+      "client_id": "client_0244",
+      "group": "clean",
+      "placement_id": "plc_00077",
+      "placemint_ref": "plc_00077",
+      "points_at": null,
+      "source_line": 98,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0098",
+      "candidate_name": "Hedy Wright",
+      "client_id": "client_0107",
+      "group": "clean",
+      "placement_id": "plc_00094",
+      "placemint_ref": "plc_00094",
+      "points_at": null,
+      "source_line": 99,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0099",
+      "candidate_name": "Nikola Von Neumann",
+      "client_id": "client_0189",
+      "group": "dup",
+      "placement_id": "plc_00020",
+      "placemint_ref": "20",
+      "points_at": null,
+      "source_line": 100,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0100",
+      "candidate_name": "Hedy Babbage",
+      "client_id": "client_0195",
+      "group": "legacy",
+      "placement_id": "plc_00029",
+      "placemint_ref": "29",
+      "points_at": null,
+      "source_line": 101,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0101",
+      "candidate_name": "Blaise Xu",
+      "client_id": "client_0228",
+      "group": "legacy",
+      "placement_id": "plc_00046",
+      "placemint_ref": "46",
+      "points_at": null,
+      "source_line": 102,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0102",
+      "candidate_name": "Isaac Einstein",
+      "client_id": "client_0076",
+      "group": "legacy",
+      "placement_id": "plc_00090",
+      "placemint_ref": "90",
+      "points_at": null,
+      "source_line": 103,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0103",
+      "candidate_name": "Hedy Feynman",
+      "client_id": "client_0025",
+      "group": "dup",
+      "placement_id": "plc_00096",
+      "placemint_ref": "plc_00096",
+      "points_at": null,
+      "source_line": 104,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0104",
+      "candidate_name": "Katherine Curie",
+      "client_id": "client_0009",
+      "group": "retired_exact",
+      "placement_id": "plc_00001",
+      "placemint_ref": "plc_00001",
+      "points_at": null,
+      "source_line": 105,
+      "verdict": "retired"
+    },
+    {
+      "board_ref": "MB-0105",
+      "candidate_name": "Xavier Xu",
+      "client_id": "client_0241",
+      "group": "dup",
+      "placement_id": "plc_00102",
+      "placemint_ref": "102",
+      "points_at": null,
+      "source_line": 106,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0106",
+      "candidate_name": "Jean Young",
+      "client_id": "client_0176",
+      "group": "legacy",
+      "placement_id": "plc_00112",
+      "placemint_ref": "112",
+      "points_at": null,
+      "source_line": 107,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0107",
+      "candidate_name": "Emeka Ferreira",
+      "client_id": "client_0001",
+      "group": "conflict_console",
+      "placement_id": null,
+      "placemint_ref": "95003",
+      "points_at": "plc_95003",
+      "source_line": 108,
+      "verdict": "unmatched"
+    },
+    {
+      "board_ref": "MB-0108",
+      "candidate_name": "Florence Tesla",
+      "client_id": "client_0197",
+      "group": "legacy",
+      "placement_id": "plc_00031",
+      "placemint_ref": "31",
+      "points_at": null,
+      "source_line": 109,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0109",
+      "candidate_name": "Oliver Pascal",
+      "client_id": "client_0001",
+      "group": "clean",
+      "placement_id": "plc_95007",
+      "placemint_ref": "plc_95007",
+      "points_at": null,
+      "source_line": 110,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0110",
+      "candidate_name": "Florence Babbage",
+      "client_id": "client_0004",
+      "group": "retired_exact",
+      "placement_id": "plc_00014",
+      "placemint_ref": "plc_00014",
+      "points_at": null,
+      "source_line": 111,
+      "verdict": "retired"
+    },
+    {
+      "board_ref": "MB-0111",
+      "candidate_name": "Oliver Xu",
+      "client_id": "client_0290",
+      "group": "clean",
+      "placement_id": "plc_00040",
+      "placemint_ref": "plc_00040",
+      "points_at": null,
+      "source_line": 112,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0112",
+      "candidate_name": "Lucia Renner",
+      "client_id": "client_0233",
+      "group": "conflict_console",
+      "placement_id": null,
+      "placemint_ref": "15",
+      "points_at": "plc_00015",
+      "source_line": 113,
+      "verdict": "unmatched"
+    },
+    {
+      "board_ref": "MB-0113",
+      "candidate_name": "Rania Vasquez",
+      "client_id": "client_0150",
+      "group": "unknown",
+      "placement_id": null,
+      "placemint_ref": "plc_00442",
+      "points_at": null,
+      "source_line": 114,
+      "verdict": "unmatched"
+    },
+    {
+      "board_ref": "MB-0114",
+      "candidate_name": "Otto Halvorsen",
+      "client_id": "client_0142",
+      "group": "conflict_ref",
+      "placement_id": null,
+      "placemint_ref": "plc_00065",
+      "points_at": "plc_00065",
+      "source_line": 115,
+      "verdict": "unmatched"
+    },
+    {
+      "board_ref": "MB-0115",
+      "candidate_name": "Hedy Babbage",
+      "client_id": "client_0195",
+      "group": "dup",
+      "placement_id": "plc_00029",
+      "placemint_ref": "29",
+      "points_at": null,
+      "source_line": 116,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0116",
+      "candidate_name": "Mira Vasquez",
+      "client_id": "client_0264",
+      "group": "conflict_ref",
+      "placement_id": null,
+      "placemint_ref": "plc_00078",
+      "points_at": "plc_00078",
+      "source_line": 117,
+      "verdict": "unmatched"
+    },
+    {
+      "board_ref": "MB-0117",
+      "candidate_name": "Otto Nakamura",
+      "client_id": "client_0137",
+      "group": "conflict_ref",
+      "placement_id": null,
+      "placemint_ref": "plc_00056",
+      "points_at": "plc_00056",
+      "source_line": 118,
+      "verdict": "unmatched"
+    },
+    {
+      "board_ref": "MB-0118",
+      "candidate_name": "Blaise Tesla",
+      "client_id": "client_0159",
+      "group": "legacy",
+      "placement_id": "plc_00009",
+      "placemint_ref": "9",
+      "points_at": null,
+      "source_line": 119,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0119",
+      "candidate_name": "Walter Shannon",
+      "client_id": "client_0002",
+      "group": "clean",
+      "placement_id": "plc_95100",
+      "placemint_ref": "plc_95100",
+      "points_at": null,
+      "source_line": 120,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0120",
+      "candidate_name": "Delia Okonkwo",
+      "client_id": "client_0272",
+      "group": "unknown",
+      "placement_id": null,
+      "placemint_ref": "449",
+      "points_at": null,
+      "source_line": 121,
+      "verdict": "unmatched"
+    },
+    {
+      "board_ref": "MB-0121",
+      "candidate_name": "Katherine Dirac",
+      "client_id": "client_0056",
+      "group": "legacy",
+      "placement_id": "plc_00042",
+      "placemint_ref": "42",
+      "points_at": null,
+      "source_line": 122,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0122",
+      "candidate_name": "Peggy Pascal",
+      "client_id": "client_0081",
+      "group": "clean",
+      "placement_id": "plc_00058",
+      "placemint_ref": "plc_00058",
+      "points_at": null,
+      "source_line": 123,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0123",
+      "candidate_name": "Saskia Halvorsen",
+      "client_id": "client_0113",
+      "group": "conflict_ref",
+      "placement_id": null,
+      "placemint_ref": "plc_00119",
+      "points_at": "plc_00119",
+      "source_line": 124,
+      "verdict": "unmatched"
+    },
+    {
+      "board_ref": "MB-0124",
+      "candidate_name": "Tobias Okonkwo",
+      "client_id": "client_0171",
+      "group": "conflict_console",
+      "placement_id": null,
+      "placemint_ref": "114",
+      "points_at": "plc_00114",
+      "source_line": 125,
+      "verdict": "unmatched"
+    },
+    {
+      "board_ref": "MB-0125",
+      "candidate_name": "Bram Baptiste",
+      "client_id": "client_0025",
+      "group": "unknown",
+      "placement_id": null,
+      "placemint_ref": "plc_00428",
+      "points_at": null,
+      "source_line": 126,
+      "verdict": "unmatched"
+    },
+    {
+      "board_ref": "MB-0126",
+      "candidate_name": "Nikola Von Neumann",
+      "client_id": "client_0189",
+      "group": "legacy",
+      "placement_id": "plc_00020",
+      "placemint_ref": "20",
+      "points_at": null,
+      "source_line": 127,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0127",
+      "candidate_name": "Casper Halvorsen",
+      "client_id": "client_0290",
+      "group": "conflict_ref",
+      "placement_id": null,
+      "placemint_ref": "plc_00106",
+      "points_at": "plc_00106",
+      "source_line": 128,
+      "verdict": "unmatched"
+    },
+    {
+      "board_ref": "MB-0128",
+      "candidate_name": "Ada Hopper",
+      "client_id": "client_0123",
+      "group": "legacy",
+      "placement_id": "plc_00063",
+      "placemint_ref": "63",
+      "points_at": null,
+      "source_line": 129,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0129",
+      "candidate_name": "Mira Vasquez",
+      "client_id": "client_0028",
+      "group": "unknown",
+      "placement_id": null,
+      "placemint_ref": "plc_00414",
+      "points_at": null,
+      "source_line": 130,
+      "verdict": "unmatched"
+    },
+    {
+      "board_ref": "MB-0130",
+      "candidate_name": "Rafael Halvorsen",
+      "client_id": "client_0213",
+      "group": "conflict_ref",
+      "placement_id": null,
+      "placemint_ref": "plc_00019",
+      "points_at": "plc_00019",
+      "source_line": 131,
+      "verdict": "unmatched"
+    },
+    {
+      "board_ref": "MB-0131",
+      "candidate_name": "Marie Einstein",
+      "client_id": "client_0077",
+      "group": "clean",
+      "placement_id": "plc_00098",
+      "placemint_ref": "plc_00098",
+      "points_at": null,
+      "source_line": 132,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0132",
+      "candidate_name": "Nikola Gauss",
+      "client_id": "client_0048",
+      "group": "legacy",
+      "placement_id": "plc_00068",
+      "placemint_ref": "68",
+      "points_at": null,
+      "source_line": 133,
+      "verdict": "matched"
+    },
+    {
+      "board_ref": "MB-0133",
+      "candidate_name": "Katherine Curie",
+      "client_id": "client_0268",
+      "group": "clean",
+      "placement_id": "plc_00027",
+      "placemint_ref": "plc_00027",
+      "points_at": null,
+      "source_line": 134,
+      "verdict": "matched"
+    }
+  ],
+  "unclaimed": [
+    {
+      "client_id": "client_0001",
+      "note_body": "Desk board census: no Meridian board row for this placement (stage: placed).",
+      "placement_id": "plc_00004",
+      "pointed_at_by_a_conflict_row": false,
+      "stage": "placed"
+    },
+    {
+      "client_id": "client_0110",
+      "note_body": "Desk board census: no Meridian board row for this placement (stage: fell_through).",
+      "placement_id": "plc_00006",
+      "pointed_at_by_a_conflict_row": true,
+      "stage": "fell_through"
+    },
+    {
+      "client_id": "client_0255",
+      "note_body": "Desk board census: no Meridian board row for this placement (stage: offered).",
+      "placement_id": "plc_00012",
+      "pointed_at_by_a_conflict_row": false,
+      "stage": "offered"
+    },
+    {
+      "client_id": "client_0233",
+      "note_body": "Desk board census: no Meridian board row for this placement (stage: interviewing).",
+      "placement_id": "plc_00015",
+      "pointed_at_by_a_conflict_row": true,
+      "stage": "interviewing"
+    },
+    {
+      "client_id": "client_0248",
+      "note_body": "Desk board census: no Meridian board row for this placement (stage: submitted).",
+      "placement_id": "plc_00018",
+      "pointed_at_by_a_conflict_row": true,
+      "stage": "submitted"
+    },
+    {
+      "client_id": "client_0213",
+      "note_body": "Desk board census: no Meridian board row for this placement (stage: placed).",
+      "placement_id": "plc_00019",
+      "pointed_at_by_a_conflict_row": true,
+      "stage": "placed"
+    },
+    {
+      "client_id": "client_0236",
+      "note_body": "Desk board census: no Meridian board row for this placement (stage: offered).",
+      "placement_id": "plc_00022",
+      "pointed_at_by_a_conflict_row": false,
+      "stage": "offered"
+    },
+    {
+      "client_id": "client_0034",
+      "note_body": "Desk board census: no Meridian board row for this placement (stage: submitted).",
+      "placement_id": "plc_00023",
+      "pointed_at_by_a_conflict_row": false,
+      "stage": "submitted"
+    },
+    {
+      "client_id": "client_0274",
+      "note_body": "Desk board census: no Meridian board row for this placement (stage: interviewing).",
+      "placement_id": "plc_00026",
+      "pointed_at_by_a_conflict_row": true,
+      "stage": "interviewing"
+    },
+    {
+      "client_id": "client_0232",
+      "note_body": "Desk board census: no Meridian board row for this placement (stage: offered).",
+      "placement_id": "plc_00041",
+      "pointed_at_by_a_conflict_row": true,
+      "stage": "offered"
+    },
+    {
+      "client_id": "client_0123",
+      "note_body": "Desk board census: no Meridian board row for this placement (stage: submitted).",
+      "placement_id": "plc_00043",
+      "pointed_at_by_a_conflict_row": false,
+      "stage": "submitted"
+    },
+    {
+      "client_id": "client_0268",
+      "note_body": "Desk board census: no Meridian board row for this placement (stage: submitted).",
+      "placement_id": "plc_00044",
+      "pointed_at_by_a_conflict_row": true,
+      "stage": "submitted"
+    },
+    {
+      "client_id": "client_0010",
+      "note_body": "Desk board census: no Meridian board row for this placement (stage: offered).",
+      "placement_id": "plc_00047",
+      "pointed_at_by_a_conflict_row": true,
+      "stage": "offered"
+    },
+    {
+      "client_id": "client_0263",
+      "note_body": "Desk board census: no Meridian board row for this placement (stage: fell_through).",
+      "placement_id": "plc_00048",
+      "pointed_at_by_a_conflict_row": false,
+      "stage": "fell_through"
+    },
+    {
+      "client_id": "client_0008",
+      "note_body": "Desk board census: no Meridian board row for this placement (stage: placed).",
+      "placement_id": "plc_00050",
+      "pointed_at_by_a_conflict_row": true,
+      "stage": "placed"
+    },
+    {
+      "client_id": "client_0040",
+      "note_body": "Desk board census: no Meridian board row for this placement (stage: submitted).",
+      "placement_id": "plc_00052",
+      "pointed_at_by_a_conflict_row": true,
+      "stage": "submitted"
+    },
+    {
+      "client_id": "client_0293",
+      "note_body": "Desk board census: no Meridian board row for this placement (stage: fell_through).",
+      "placement_id": "plc_00054",
+      "pointed_at_by_a_conflict_row": false,
+      "stage": "fell_through"
+    },
+    {
+      "client_id": "client_0137",
+      "note_body": "Desk board census: no Meridian board row for this placement (stage: submitted).",
+      "placement_id": "plc_00056",
+      "pointed_at_by_a_conflict_row": true,
+      "stage": "submitted"
+    },
+    {
+      "client_id": "client_0117",
+      "note_body": "Desk board census: no Meridian board row for this placement (stage: submitted).",
+      "placement_id": "plc_00057",
+      "pointed_at_by_a_conflict_row": false,
+      "stage": "submitted"
+    },
+    {
+      "client_id": "client_0261",
+      "note_body": "Desk board census: no Meridian board row for this placement (stage: interviewing).",
+      "placement_id": "plc_00060",
+      "pointed_at_by_a_conflict_row": true,
+      "stage": "interviewing"
+    },
+    {
+      "client_id": "client_0085",
+      "note_body": "Desk board census: no Meridian board row for this placement (stage: sourced).",
+      "placement_id": "plc_00061",
+      "pointed_at_by_a_conflict_row": true,
+      "stage": "sourced"
+    },
+    {
+      "client_id": "client_0004",
+      "note_body": "Desk board census: no Meridian board row for this placement (stage: offered).",
+      "placement_id": "plc_00064",
+      "pointed_at_by_a_conflict_row": false,
+      "stage": "offered"
+    },
+    {
+      "client_id": "client_0142",
+      "note_body": "Desk board census: no Meridian board row for this placement (stage: fell_through).",
+      "placement_id": "plc_00065",
+      "pointed_at_by_a_conflict_row": true,
+      "stage": "fell_through"
+    },
+    {
+      "client_id": "client_0169",
+      "note_body": "Desk board census: no Meridian board row for this placement (stage: fell_through).",
+      "placement_id": "plc_00066",
+      "pointed_at_by_a_conflict_row": false,
+      "stage": "fell_through"
+    },
+    {
+      "client_id": "client_0074",
+      "note_body": "Desk board census: no Meridian board row for this placement (stage: fell_through).",
+      "placement_id": "plc_00067",
+      "pointed_at_by_a_conflict_row": true,
+      "stage": "fell_through"
+    },
+    {
+      "client_id": "client_0186",
+      "note_body": "Desk board census: no Meridian board row for this placement (stage: interviewing).",
+      "placement_id": "plc_00069",
+      "pointed_at_by_a_conflict_row": true,
+      "stage": "interviewing"
+    },
+    {
+      "client_id": "client_0117",
+      "note_body": "Desk board census: no Meridian board row for this placement (stage: fell_through).",
+      "placement_id": "plc_00070",
+      "pointed_at_by_a_conflict_row": false,
+      "stage": "fell_through"
+    },
+    {
+      "client_id": "client_0125",
+      "note_body": "Desk board census: no Meridian board row for this placement (stage: sourced).",
+      "placement_id": "plc_00071",
+      "pointed_at_by_a_conflict_row": false,
+      "stage": "sourced"
+    },
+    {
+      "client_id": "client_0259",
+      "note_body": "Desk board census: no Meridian board row for this placement (stage: interviewing).",
+      "placement_id": "plc_00072",
+      "pointed_at_by_a_conflict_row": true,
+      "stage": "interviewing"
+    },
+    {
+      "client_id": "client_0264",
+      "note_body": "Desk board census: no Meridian board row for this placement (stage: offered).",
+      "placement_id": "plc_00078",
+      "pointed_at_by_a_conflict_row": true,
+      "stage": "offered"
+    },
+    {
+      "client_id": "client_0183",
+      "note_body": "Desk board census: no Meridian board row for this placement (stage: submitted).",
+      "placement_id": "plc_00080",
+      "pointed_at_by_a_conflict_row": true,
+      "stage": "submitted"
+    },
+    {
+      "client_id": "client_0182",
+      "note_body": "Desk board census: no Meridian board row for this placement (stage: sourced).",
+      "placement_id": "plc_00082",
+      "pointed_at_by_a_conflict_row": true,
+      "stage": "sourced"
+    },
+    {
+      "client_id": "client_0056",
+      "note_body": "Desk board census: no Meridian board row for this placement (stage: interviewing).",
+      "placement_id": "plc_00083",
+      "pointed_at_by_a_conflict_row": false,
+      "stage": "interviewing"
+    },
+    {
+      "client_id": "client_0148",
+      "note_body": "Desk board census: no Meridian board row for this placement (stage: interviewing).",
+      "placement_id": "plc_00086",
+      "pointed_at_by_a_conflict_row": true,
+      "stage": "interviewing"
+    },
+    {
+      "client_id": "client_0167",
+      "note_body": "Desk board census: no Meridian board row for this placement (stage: fell_through).",
+      "placement_id": "plc_00088",
+      "pointed_at_by_a_conflict_row": true,
+      "stage": "fell_through"
+    },
+    {
+      "client_id": "client_0080",
+      "note_body": "Desk board census: no Meridian board row for this placement (stage: placed).",
+      "placement_id": "plc_00095",
+      "pointed_at_by_a_conflict_row": true,
+      "stage": "placed"
+    },
+    {
+      "client_id": "client_0184",
+      "note_body": "Desk board census: no Meridian board row for this placement (stage: interviewing).",
+      "placement_id": "plc_00097",
+      "pointed_at_by_a_conflict_row": false,
+      "stage": "interviewing"
+    },
+    {
+      "client_id": "client_0199",
+      "note_body": "Desk board census: no Meridian board row for this placement (stage: fell_through).",
+      "placement_id": "plc_00099",
+      "pointed_at_by_a_conflict_row": false,
+      "stage": "fell_through"
+    },
+    {
+      "client_id": "client_0290",
+      "note_body": "Desk board census: no Meridian board row for this placement (stage: offered).",
+      "placement_id": "plc_00106",
+      "pointed_at_by_a_conflict_row": true,
+      "stage": "offered"
+    },
+    {
+      "client_id": "client_0177",
+      "note_body": "Desk board census: no Meridian board row for this placement (stage: fell_through).",
+      "placement_id": "plc_00107",
+      "pointed_at_by_a_conflict_row": false,
+      "stage": "fell_through"
+    },
+    {
+      "client_id": "client_0171",
+      "note_body": "Desk board census: no Meridian board row for this placement (stage: fell_through).",
+      "placement_id": "plc_00114",
+      "pointed_at_by_a_conflict_row": true,
+      "stage": "fell_through"
+    },
+    {
+      "client_id": "client_0057",
+      "note_body": "Desk board census: no Meridian board row for this placement (stage: submitted).",
+      "placement_id": "plc_00118",
+      "pointed_at_by_a_conflict_row": false,
+      "stage": "submitted"
+    },
+    {
+      "client_id": "client_0113",
+      "note_body": "Desk board census: no Meridian board row for this placement (stage: offered).",
+      "placement_id": "plc_00119",
+      "pointed_at_by_a_conflict_row": true,
+      "stage": "offered"
+    },
+    {
+      "client_id": "client_0001",
+      "note_body": "Desk board census: no Meridian board row for this placement (stage: sourced).",
+      "placement_id": "plc_90001",
+      "pointed_at_by_a_conflict_row": true,
+      "stage": "sourced"
+    },
+    {
+      "client_id": "client_0001",
+      "note_body": "Desk board census: no Meridian board row for this placement (stage: interviewing).",
+      "placement_id": "plc_95002",
+      "pointed_at_by_a_conflict_row": true,
+      "stage": "interviewing"
+    },
+    {
+      "client_id": "client_0001",
+      "note_body": "Desk board census: no Meridian board row for this placement (stage: placed).",
+      "placement_id": "plc_95003",
+      "pointed_at_by_a_conflict_row": true,
+      "stage": "placed"
+    },
+    {
+      "client_id": "client_0001",
+      "note_body": "Desk board census: no Meridian board row for this placement (stage: interviewing).",
+      "placement_id": "plc_95006",
+      "pointed_at_by_a_conflict_row": true,
+      "stage": "interviewing"
+    }
+  ],
+  "unclaimed_count": 47,
+  "verdict_counts": {
+    "matched": 79,
+    "retired": 14,
+    "unmatched": 40
+  }
+}

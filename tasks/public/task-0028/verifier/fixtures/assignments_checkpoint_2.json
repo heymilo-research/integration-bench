@@ -1,0 +1,562 @@
+[
+  {
+    "data": {
+      "created_at": "2026-05-04T08:01:00Z",
+      "gig_id": "gig_0010",
+      "id": "asg_0001",
+      "is_deleted": false,
+      "status": "no_show",
+      "updated_at": "2026-05-04T08:01:00Z",
+      "worker_id": "wkr_0009"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0001",
+    "updated_at": "2026-05-04T08:01:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:02:00Z",
+      "gig_id": "gig_0005",
+      "id": "asg_0002",
+      "is_deleted": false,
+      "status": "accepted",
+      "updated_at": "2026-05-04T08:02:00Z",
+      "worker_id": "wkr_0112"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0002",
+    "updated_at": "2026-05-04T08:02:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:03:00Z",
+      "gig_id": "gig_0005",
+      "id": "asg_0003",
+      "is_deleted": false,
+      "status": "checked_in",
+      "updated_at": "2026-05-04T08:03:00Z",
+      "worker_id": "wkr_0090"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0003",
+    "updated_at": "2026-05-04T08:03:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:04:00Z",
+      "gig_id": "gig_0005",
+      "id": "asg_0004",
+      "is_deleted": false,
+      "status": "completed",
+      "updated_at": "2026-05-04T08:04:00Z",
+      "worker_id": "wkr_0118"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0004",
+    "updated_at": "2026-05-04T08:04:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:05:00Z",
+      "gig_id": "gig_0007",
+      "id": "asg_0005",
+      "is_deleted": false,
+      "status": "no_show",
+      "updated_at": "2026-05-04T08:05:00Z",
+      "worker_id": "wkr_0101"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0005",
+    "updated_at": "2026-05-04T08:05:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:06:00Z",
+      "gig_id": "gig_0004",
+      "id": "asg_0006",
+      "is_deleted": false,
+      "status": "accepted",
+      "updated_at": "2026-05-04T08:06:00Z",
+      "worker_id": "wkr_0102"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0006",
+    "updated_at": "2026-05-04T08:06:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:07:00Z",
+      "gig_id": "gig_0008",
+      "id": "asg_0007",
+      "is_deleted": false,
+      "status": "completed",
+      "updated_at": "2026-05-04T08:07:00Z",
+      "worker_id": "wkr_0101"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0007",
+    "updated_at": "2026-05-04T08:07:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:08:00Z",
+      "gig_id": "gig_0007",
+      "id": "asg_0008",
+      "is_deleted": false,
+      "status": "offered",
+      "updated_at": "2026-05-04T08:08:00Z",
+      "worker_id": "wkr_0087"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0008",
+    "updated_at": "2026-05-04T08:08:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:09:00Z",
+      "gig_id": "gig_0001",
+      "id": "asg_0009",
+      "is_deleted": false,
+      "status": "offered",
+      "updated_at": "2026-05-04T08:09:00Z",
+      "worker_id": "wkr_0071"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0009",
+    "updated_at": "2026-05-04T08:09:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:10:00Z",
+      "gig_id": "gig_0010",
+      "id": "asg_0010",
+      "is_deleted": false,
+      "status": "completed",
+      "updated_at": "2026-05-04T08:10:00Z",
+      "worker_id": "wkr_0063"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0010",
+    "updated_at": "2026-05-04T08:10:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:11:00Z",
+      "gig_id": "gig_0003",
+      "id": "asg_0011",
+      "is_deleted": false,
+      "status": "checked_in",
+      "updated_at": "2026-05-04T08:11:00Z",
+      "worker_id": "wkr_0035"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0011",
+    "updated_at": "2026-05-04T08:11:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:12:00Z",
+      "gig_id": "gig_0007",
+      "id": "asg_0012",
+      "is_deleted": false,
+      "status": "offered",
+      "updated_at": "2026-05-04T08:12:00Z",
+      "worker_id": "wkr_0079"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0012",
+    "updated_at": "2026-05-04T08:12:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:13:00Z",
+      "gig_id": "gig_0007",
+      "id": "asg_0013",
+      "is_deleted": false,
+      "status": "checked_in",
+      "updated_at": "2026-05-04T08:13:00Z",
+      "worker_id": "wkr_0006"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0013",
+    "updated_at": "2026-05-04T08:13:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:14:00Z",
+      "gig_id": "gig_0009",
+      "id": "asg_0014",
+      "is_deleted": false,
+      "status": "accepted",
+      "updated_at": "2026-05-04T08:14:00Z",
+      "worker_id": "wkr_0082"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0014",
+    "updated_at": "2026-05-04T08:14:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:15:00Z",
+      "gig_id": "gig_0002",
+      "id": "asg_0015",
+      "is_deleted": false,
+      "status": "checked_in",
+      "updated_at": "2026-05-04T08:15:00Z",
+      "worker_id": "wkr_0008"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0015",
+    "updated_at": "2026-05-04T08:15:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:16:00Z",
+      "gig_id": "gig_0004",
+      "id": "asg_0016",
+      "is_deleted": false,
+      "status": "accepted",
+      "updated_at": "2026-05-04T08:16:00Z",
+      "worker_id": "wkr_0064"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0016",
+    "updated_at": "2026-05-04T08:16:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:17:00Z",
+      "gig_id": "gig_0007",
+      "id": "asg_0017",
+      "is_deleted": false,
+      "status": "no_show",
+      "updated_at": "2026-05-04T08:17:00Z",
+      "worker_id": "wkr_0065"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0017",
+    "updated_at": "2026-05-04T08:17:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:18:00Z",
+      "gig_id": "gig_0011",
+      "id": "asg_0018",
+      "is_deleted": false,
+      "status": "completed",
+      "updated_at": "2026-05-04T08:18:00Z",
+      "worker_id": "wkr_0031"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0018",
+    "updated_at": "2026-05-04T08:18:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:19:00Z",
+      "gig_id": "gig_0012",
+      "id": "asg_0019",
+      "is_deleted": false,
+      "status": "offered",
+      "updated_at": "2026-05-04T08:19:00Z",
+      "worker_id": "wkr_0036"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0019",
+    "updated_at": "2026-05-04T08:19:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:20:00Z",
+      "gig_id": "gig_0002",
+      "id": "asg_0020",
+      "is_deleted": false,
+      "status": "no_show",
+      "updated_at": "2026-05-04T08:20:00Z",
+      "worker_id": "wkr_0023"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0020",
+    "updated_at": "2026-05-04T08:20:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:21:00Z",
+      "gig_id": "gig_0008",
+      "id": "asg_0021",
+      "is_deleted": false,
+      "status": "completed",
+      "updated_at": "2026-05-04T08:21:00Z",
+      "worker_id": "wkr_0077"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0021",
+    "updated_at": "2026-05-04T08:21:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:22:00Z",
+      "gig_id": "gig_0007",
+      "id": "asg_0022",
+      "is_deleted": false,
+      "status": "accepted",
+      "updated_at": "2026-05-04T08:22:00Z",
+      "worker_id": "wkr_0003"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0022",
+    "updated_at": "2026-05-04T08:22:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:23:00Z",
+      "gig_id": "gig_0011",
+      "id": "asg_0023",
+      "is_deleted": false,
+      "status": "completed",
+      "updated_at": "2026-05-04T08:23:00Z",
+      "worker_id": "wkr_0068"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0023",
+    "updated_at": "2026-05-04T08:23:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:24:00Z",
+      "gig_id": "gig_0001",
+      "id": "asg_0024",
+      "is_deleted": false,
+      "status": "no_show",
+      "updated_at": "2026-05-04T08:24:00Z",
+      "worker_id": "wkr_0027"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0024",
+    "updated_at": "2026-05-04T08:24:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:25:00Z",
+      "gig_id": "gig_0005",
+      "id": "asg_0025",
+      "is_deleted": false,
+      "status": "completed",
+      "updated_at": "2026-05-04T08:25:00Z",
+      "worker_id": "wkr_0068"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0025",
+    "updated_at": "2026-05-04T08:25:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:26:00Z",
+      "gig_id": "gig_0009",
+      "id": "asg_0026",
+      "is_deleted": false,
+      "status": "no_show",
+      "updated_at": "2026-05-04T08:26:00Z",
+      "worker_id": "wkr_0028"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0026",
+    "updated_at": "2026-05-04T08:26:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:27:00Z",
+      "gig_id": "gig_0003",
+      "id": "asg_0027",
+      "is_deleted": false,
+      "status": "accepted",
+      "updated_at": "2026-05-04T08:27:00Z",
+      "worker_id": "wkr_0031"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0027",
+    "updated_at": "2026-05-04T08:27:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:28:00Z",
+      "gig_id": "gig_0011",
+      "id": "asg_0028",
+      "is_deleted": false,
+      "status": "no_show",
+      "updated_at": "2026-05-04T08:28:00Z",
+      "worker_id": "wkr_0042"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0028",
+    "updated_at": "2026-05-04T08:28:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:29:00Z",
+      "gig_id": "gig_0011",
+      "id": "asg_0029",
+      "is_deleted": false,
+      "status": "no_show",
+      "updated_at": "2026-05-04T08:29:00Z",
+      "worker_id": "wkr_0020"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0029",
+    "updated_at": "2026-05-04T08:29:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:30:00Z",
+      "gig_id": "gig_0008",
+      "id": "asg_0030",
+      "is_deleted": false,
+      "status": "offered",
+      "updated_at": "2026-05-04T08:30:00Z",
+      "worker_id": "wkr_0059"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0030",
+    "updated_at": "2026-05-04T08:30:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:31:00Z",
+      "gig_id": "gig_0007",
+      "id": "asg_0031",
+      "is_deleted": false,
+      "status": "completed",
+      "updated_at": "2026-05-04T08:31:00Z",
+      "worker_id": "wkr_0067"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0031",
+    "updated_at": "2026-05-04T08:31:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:32:00Z",
+      "gig_id": "gig_0009",
+      "id": "asg_0032",
+      "is_deleted": false,
+      "status": "accepted",
+      "updated_at": "2026-05-04T08:32:00Z",
+      "worker_id": "wkr_0054"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0032",
+    "updated_at": "2026-05-04T08:32:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:33:00Z",
+      "gig_id": "gig_0007",
+      "id": "asg_0033",
+      "is_deleted": false,
+      "status": "checked_in",
+      "updated_at": "2026-05-04T08:33:00Z",
+      "worker_id": "wkr_0025"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0033",
+    "updated_at": "2026-05-04T08:33:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:34:00Z",
+      "gig_id": "gig_0012",
+      "id": "asg_0034",
+      "is_deleted": false,
+      "status": "no_show",
+      "updated_at": "2026-05-04T08:34:00Z",
+      "worker_id": "wkr_0010"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0034",
+    "updated_at": "2026-05-04T08:34:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:35:00Z",
+      "gig_id": "gig_0006",
+      "id": "asg_0035",
+      "is_deleted": false,
+      "status": "no_show",
+      "updated_at": "2026-05-04T08:35:00Z",
+      "worker_id": "wkr_0089"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0035",
+    "updated_at": "2026-05-04T08:35:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:36:00Z",
+      "gig_id": "gig_0011",
+      "id": "asg_0036",
+      "is_deleted": false,
+      "status": "offered",
+      "updated_at": "2026-05-04T08:36:00Z",
+      "worker_id": "wkr_0060"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0036",
+    "updated_at": "2026-05-04T08:36:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:37:00Z",
+      "gig_id": "gig_0002",
+      "id": "asg_0037",
+      "is_deleted": false,
+      "status": "completed",
+      "updated_at": "2026-05-04T08:37:00Z",
+      "worker_id": "wkr_0077"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0037",
+    "updated_at": "2026-05-04T08:37:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:38:00Z",
+      "gig_id": "gig_0010",
+      "id": "asg_0038",
+      "is_deleted": false,
+      "status": "checked_in",
+      "updated_at": "2026-05-04T08:38:00Z",
+      "worker_id": "wkr_0053"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0038",
+    "updated_at": "2026-05-04T08:38:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:39:00Z",
+      "gig_id": "gig_0006",
+      "id": "asg_0039",
+      "is_deleted": false,
+      "status": "no_show",
+      "updated_at": "2026-05-04T08:39:00Z",
+      "worker_id": "wkr_0043"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0039",
+    "updated_at": "2026-05-04T08:39:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-05-04T08:40:00Z",
+      "gig_id": "gig_0002",
+      "id": "asg_0040",
+      "is_deleted": false,
+      "status": "completed",
+      "updated_at": "2026-05-04T08:40:00Z",
+      "worker_id": "wkr_0059"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0040",
+    "updated_at": "2026-05-04T08:40:00Z"
+  }
+]

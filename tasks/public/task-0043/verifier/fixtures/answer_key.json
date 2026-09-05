@@ -1,0 +1,503 @@
+{
+  "checkpoints": [
+    20,
+    34,
+    55
+  ],
+  "collections": {
+    "interview": "interviews",
+    "shift": "shifts",
+    "worker": "workers"
+  },
+  "delete_count": 10,
+  "distinct_record_count": 55,
+  "ledger": [
+    {
+      "change": "upsert",
+      "entity": "shift",
+      "record_id": "shift_0007",
+      "run": 1,
+      "updated_at_utc": "2026-07-23T14:03:52Z"
+    },
+    {
+      "change": "upsert",
+      "entity": "worker",
+      "record_id": "worker_0042",
+      "run": 1,
+      "updated_at_utc": "2026-07-23T14:04:07Z"
+    },
+    {
+      "change": "delete",
+      "entity": "worker",
+      "record_id": "worker_0017",
+      "run": 1,
+      "updated_at_utc": "2026-07-23T14:04:22Z"
+    },
+    {
+      "change": "upsert",
+      "entity": "interview",
+      "record_id": "interview_0003",
+      "run": 1,
+      "updated_at_utc": "2026-07-23T14:04:37Z"
+    },
+    {
+      "change": "upsert",
+      "entity": "worker",
+      "record_id": "worker_90000",
+      "run": 1,
+      "updated_at_utc": "2026-07-23T14:05:02Z"
+    },
+    {
+      "change": "upsert",
+      "entity": "worker",
+      "record_id": "worker_0001",
+      "run": 1,
+      "updated_at_utc": "2026-07-23T14:06:02Z"
+    },
+    {
+      "change": "upsert",
+      "entity": "worker",
+      "record_id": "worker_0002",
+      "run": 1,
+      "updated_at_utc": "2026-07-23T14:07:02Z"
+    },
+    {
+      "change": "upsert",
+      "entity": "worker",
+      "record_id": "worker_0003",
+      "run": 1,
+      "updated_at_utc": "2026-07-23T14:08:02Z"
+    },
+    {
+      "change": "upsert",
+      "entity": "worker",
+      "record_id": "worker_0004",
+      "run": 1,
+      "updated_at_utc": "2026-07-23T14:09:02Z"
+    },
+    {
+      "change": "upsert",
+      "entity": "worker",
+      "record_id": "worker_0005",
+      "run": 1,
+      "updated_at_utc": "2026-07-23T14:10:02Z"
+    },
+    {
+      "change": "upsert",
+      "entity": "worker",
+      "record_id": "worker_0006",
+      "run": 1,
+      "updated_at_utc": "2026-07-23T14:11:02Z"
+    },
+    {
+      "change": "upsert",
+      "entity": "worker",
+      "record_id": "worker_0007",
+      "run": 1,
+      "updated_at_utc": "2026-07-23T14:12:02Z"
+    },
+    {
+      "change": "upsert",
+      "entity": "worker",
+      "record_id": "worker_0008",
+      "run": 1,
+      "updated_at_utc": "2026-07-23T14:13:02Z"
+    },
+    {
+      "change": "upsert",
+      "entity": "worker",
+      "record_id": "worker_0009",
+      "run": 1,
+      "updated_at_utc": "2026-07-23T14:14:02Z"
+    },
+    {
+      "change": "upsert",
+      "entity": "worker",
+      "record_id": "worker_0010",
+      "run": 1,
+      "updated_at_utc": "2026-07-23T14:15:02Z"
+    },
+    {
+      "change": "upsert",
+      "entity": "worker",
+      "record_id": "worker_0011",
+      "run": 1,
+      "updated_at_utc": "2026-07-23T14:16:02Z"
+    },
+    {
+      "change": "upsert",
+      "entity": "worker",
+      "record_id": "worker_0012",
+      "run": 1,
+      "updated_at_utc": "2026-07-23T14:17:02Z"
+    },
+    {
+      "change": "upsert",
+      "entity": "worker",
+      "record_id": "worker_0013",
+      "run": 1,
+      "updated_at_utc": "2026-07-23T14:18:02Z"
+    },
+    {
+      "change": "upsert",
+      "entity": "worker",
+      "record_id": "worker_0014",
+      "run": 1,
+      "updated_at_utc": "2026-07-23T14:19:02Z"
+    },
+    {
+      "change": "upsert",
+      "entity": "worker",
+      "record_id": "worker_0015",
+      "run": 1,
+      "updated_at_utc": "2026-07-23T14:20:02Z"
+    },
+    {
+      "change": "upsert",
+      "entity": "worker",
+      "record_id": "worker_0016",
+      "run": 2,
+      "updated_at_utc": "2026-07-23T14:21:02Z"
+    },
+    {
+      "change": "delete",
+      "entity": "worker",
+      "record_id": "worker_0018",
+      "run": 2,
+      "updated_at_utc": "2026-07-23T14:22:02Z"
+    },
+    {
+      "change": "delete",
+      "entity": "worker",
+      "record_id": "worker_0019",
+      "run": 2,
+      "updated_at_utc": "2026-07-23T14:23:02Z"
+    },
+    {
+      "change": "delete",
+      "entity": "worker",
+      "record_id": "worker_0020",
+      "run": 2,
+      "updated_at_utc": "2026-07-23T14:24:02Z"
+    },
+    {
+      "change": "delete",
+      "entity": "worker",
+      "record_id": "worker_0021",
+      "run": 2,
+      "updated_at_utc": "2026-07-23T14:25:02Z"
+    },
+    {
+      "change": "upsert",
+      "entity": "worker",
+      "record_id": "worker_90001",
+      "run": 2,
+      "updated_at_utc": "2026-07-23T14:26:02Z"
+    },
+    {
+      "change": "upsert",
+      "entity": "worker",
+      "record_id": "worker_90002",
+      "run": 2,
+      "updated_at_utc": "2026-07-23T14:27:02Z"
+    },
+    {
+      "change": "upsert",
+      "entity": "worker",
+      "record_id": "worker_90003",
+      "run": 2,
+      "updated_at_utc": "2026-07-23T14:28:02Z"
+    },
+    {
+      "change": "upsert",
+      "entity": "shift",
+      "record_id": "shift_0001",
+      "run": 2,
+      "updated_at_utc": "2026-07-23T14:29:02Z"
+    },
+    {
+      "change": "upsert",
+      "entity": "shift",
+      "record_id": "shift_0002",
+      "run": 2,
+      "updated_at_utc": "2026-07-23T14:30:02Z"
+    },
+    {
+      "change": "upsert",
+      "entity": "shift",
+      "record_id": "shift_0003",
+      "run": 2,
+      "updated_at_utc": "2026-07-23T14:31:02Z"
+    },
+    {
+      "change": "upsert",
+      "entity": "shift",
+      "record_id": "shift_0004",
+      "run": 2,
+      "updated_at_utc": "2026-07-23T14:32:02Z"
+    },
+    {
+      "change": "upsert",
+      "entity": "shift",
+      "record_id": "shift_0005",
+      "run": 2,
+      "updated_at_utc": "2026-07-23T14:33:02Z"
+    },
+    {
+      "change": "upsert",
+      "entity": "shift",
+      "record_id": "shift_0006",
+      "run": 2,
+      "updated_at_utc": "2026-07-23T14:34:02Z"
+    },
+    {
+      "change": "upsert",
+      "entity": "shift",
+      "record_id": "shift_0008",
+      "run": 3,
+      "updated_at_utc": "2026-07-23T14:35:02Z"
+    },
+    {
+      "change": "upsert",
+      "entity": "shift",
+      "record_id": "shift_0009",
+      "run": 3,
+      "updated_at_utc": "2026-07-23T14:36:02Z"
+    },
+    {
+      "change": "upsert",
+      "entity": "shift",
+      "record_id": "shift_0010",
+      "run": 3,
+      "updated_at_utc": "2026-07-23T14:37:02Z"
+    },
+    {
+      "change": "upsert",
+      "entity": "shift",
+      "record_id": "shift_0011",
+      "run": 3,
+      "updated_at_utc": "2026-07-23T14:38:02Z"
+    },
+    {
+      "change": "delete",
+      "entity": "shift",
+      "record_id": "shift_0012",
+      "run": 3,
+      "updated_at_utc": "2026-07-23T14:39:02Z"
+    },
+    {
+      "change": "delete",
+      "entity": "shift",
+      "record_id": "shift_0013",
+      "run": 3,
+      "updated_at_utc": "2026-07-23T14:40:02Z"
+    },
+    {
+      "change": "delete",
+      "entity": "shift",
+      "record_id": "shift_0014",
+      "run": 3,
+      "updated_at_utc": "2026-07-23T14:41:02Z"
+    },
+    {
+      "change": "upsert",
+      "entity": "shift",
+      "record_id": "shift_9001",
+      "run": 3,
+      "updated_at_utc": "2026-07-23T14:42:02Z"
+    },
+    {
+      "change": "upsert",
+      "entity": "shift",
+      "record_id": "shift_9002",
+      "run": 3,
+      "updated_at_utc": "2026-07-23T14:43:02Z"
+    },
+    {
+      "change": "upsert",
+      "entity": "interview",
+      "record_id": "interview_0001",
+      "run": 3,
+      "updated_at_utc": "2026-07-23T14:44:02Z"
+    },
+    {
+      "change": "upsert",
+      "entity": "interview",
+      "record_id": "interview_0002",
+      "run": 3,
+      "updated_at_utc": "2026-07-23T14:45:02Z"
+    },
+    {
+      "change": "upsert",
+      "entity": "interview",
+      "record_id": "interview_0004",
+      "run": 3,
+      "updated_at_utc": "2026-07-23T14:46:02Z"
+    },
+    {
+      "change": "upsert",
+      "entity": "interview",
+      "record_id": "interview_0005",
+      "run": 3,
+      "updated_at_utc": "2026-07-23T14:47:02Z"
+    },
+    {
+      "change": "upsert",
+      "entity": "interview",
+      "record_id": "interview_0006",
+      "run": 3,
+      "updated_at_utc": "2026-07-23T14:48:02Z"
+    },
+    {
+      "change": "upsert",
+      "entity": "interview",
+      "record_id": "interview_0007",
+      "run": 3,
+      "updated_at_utc": "2026-07-23T14:49:02Z"
+    },
+    {
+      "change": "upsert",
+      "entity": "interview",
+      "record_id": "interview_0008",
+      "run": 3,
+      "updated_at_utc": "2026-07-23T14:50:02Z"
+    },
+    {
+      "change": "upsert",
+      "entity": "interview",
+      "record_id": "interview_0009",
+      "run": 3,
+      "updated_at_utc": "2026-07-23T14:51:02Z"
+    },
+    {
+      "change": "delete",
+      "entity": "interview",
+      "record_id": "interview_0010",
+      "run": 3,
+      "updated_at_utc": "2026-07-23T14:52:02Z"
+    },
+    {
+      "change": "delete",
+      "entity": "interview",
+      "record_id": "interview_0011",
+      "run": 3,
+      "updated_at_utc": "2026-07-23T14:53:02Z"
+    },
+    {
+      "change": "upsert",
+      "entity": "interview",
+      "record_id": "interview_9001",
+      "run": 3,
+      "updated_at_utc": "2026-07-23T14:54:02Z"
+    },
+    {
+      "change": "upsert",
+      "entity": "interview",
+      "record_id": "interview_9002",
+      "run": 3,
+      "updated_at_utc": "2026-07-23T14:55:02Z"
+    }
+  ],
+  "ledger_row_count": 55,
+  "page_limit": 50,
+  "rewind_s": 3600,
+  "run_count": 3,
+  "runs": [
+    {
+      "checkpoint": 20,
+      "deletes": 1,
+      "emitted": [
+        "interview_0003",
+        "shift_0007",
+        "worker_0001",
+        "worker_0002",
+        "worker_0003",
+        "worker_0004",
+        "worker_0005",
+        "worker_0006",
+        "worker_0007",
+        "worker_0008",
+        "worker_0009",
+        "worker_0010",
+        "worker_0011",
+        "worker_0012",
+        "worker_0013",
+        "worker_0014",
+        "worker_0015",
+        "worker_0017",
+        "worker_0042",
+        "worker_90000"
+      ],
+      "newest_change_epoch": 1784816402,
+      "newest_change_naive_utc": "2026-07-23T14:20:02",
+      "row_count": 20,
+      "run": 1,
+      "upserts": 19,
+      "watermark_in": "2026-07-23T14:03:22",
+      "watermark_out": "2026-07-23T14:20:02"
+    },
+    {
+      "checkpoint": 34,
+      "deletes": 4,
+      "emitted": [
+        "shift_0001",
+        "shift_0002",
+        "shift_0003",
+        "shift_0004",
+        "shift_0005",
+        "shift_0006",
+        "worker_0016",
+        "worker_0018",
+        "worker_0019",
+        "worker_0020",
+        "worker_0021",
+        "worker_90001",
+        "worker_90002",
+        "worker_90003"
+      ],
+      "newest_change_epoch": 1784817242,
+      "newest_change_naive_utc": "2026-07-23T14:34:02",
+      "row_count": 14,
+      "run": 2,
+      "upserts": 10,
+      "watermark_in": "2026-07-23T14:20:02",
+      "watermark_out": "2026-07-23T14:34:02"
+    },
+    {
+      "checkpoint": 55,
+      "deletes": 5,
+      "emitted": [
+        "interview_0001",
+        "interview_0002",
+        "interview_0004",
+        "interview_0005",
+        "interview_0006",
+        "interview_0007",
+        "interview_0008",
+        "interview_0009",
+        "interview_0010",
+        "interview_0011",
+        "interview_9001",
+        "interview_9002",
+        "shift_0008",
+        "shift_0009",
+        "shift_0010",
+        "shift_0011",
+        "shift_0012",
+        "shift_0013",
+        "shift_0014",
+        "shift_9001",
+        "shift_9002"
+      ],
+      "newest_change_epoch": 1784818502,
+      "newest_change_naive_utc": "2026-07-23T14:55:02",
+      "row_count": 21,
+      "run": 3,
+      "upserts": 16,
+      "watermark_in": "2026-07-23T14:34:02",
+      "watermark_out": "2026-07-23T14:55:02"
+    }
+  ],
+  "sync_since": "2026-07-23T14:03:22",
+  "widest_wire_string_run_1": "2026-07-24T00:03:52 Australia/Sydney"
+}

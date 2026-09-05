@@ -1,0 +1,60 @@
+{
+  "events": [
+    {
+      "candidate": {
+        "created_ts": 1773473400,
+        "email": "nikola.tesla@hey.test",
+        "full_name": "Nikola Tesla",
+        "id": "cand_0001",
+        "is_deleted": false,
+        "phone": "+1-555-5051",
+        "stage": "offer",
+        "updated_ts": 1773482400
+      },
+      "client_ref": "evt-1",
+      "event": {
+        "candidate_id": "cand_0001",
+        "created_ts": 1773482400,
+        "event_type": "stage_changed",
+        "id": "evt_90001",
+        "note": "advanced to offer",
+        "updated_ts": 1773482400
+      },
+      "ok": true
+    },
+    {
+      "candidate": {
+        "created_ts": 1773473760,
+        "email": "sophie.einstein@inbox.test",
+        "full_name": "Sophie Einstein",
+        "id": "cand_0007",
+        "is_deleted": false,
+        "phone": "+1-555-2279",
+        "stage": "hired",
+        "updated_ts": 1773482400
+      },
+      "client_ref": "evt-2",
+      "event": {
+        "candidate_id": "cand_0007",
+        "created_ts": 1773482400,
+        "event_type": "stage_changed",
+        "id": "evt_90002",
+        "note": "advanced to hired",
+        "updated_ts": 1773482400
+      },
+      "ok": true
+    },
+    {
+      "client_ref": "evt-3",
+      "error": {
+        "field_errors": {
+          "event_type": [
+            "is required"
+          ]
+        },
+        "status": 422
+      },
+      "ok": false
+    }
+  ]
+}

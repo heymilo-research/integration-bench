@@ -1,0 +1,3202 @@
+[
+  {
+    "source_id": "plc_00001",
+    "data": {
+      "id": "plc_00001",
+      "client_id": "client_0009",
+      "candidate_name": "Katherine Curie",
+      "role_title": "QA Analyst",
+      "stage": "placed",
+      "fee_amount": 1952.76,
+      "created_at": "2026-03-16T15:55:20Z",
+      "updated_at": "2026-03-16T15:55:20Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-16T15:55:20Z"
+  },
+  {
+    "source_id": "plc_00002",
+    "data": {
+      "id": "plc_00002",
+      "client_id": "client_0057",
+      "candidate_name": "Dorothy Dirac",
+      "role_title": "Account Executive",
+      "stage": "placed",
+      "fee_amount": 11823.17,
+      "created_at": "2026-02-19T05:19:54Z",
+      "updated_at": "2026-02-19T05:19:54Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-19T05:19:54Z"
+  },
+  {
+    "source_id": "plc_00003",
+    "data": {
+      "id": "plc_00003",
+      "client_id": "client_0208",
+      "candidate_name": "Marie Young",
+      "role_title": "DevOps Engineer",
+      "stage": "placed",
+      "fee_amount": 9280.91,
+      "created_at": "2026-02-21T04:09:38Z",
+      "updated_at": "2026-02-21T04:09:38Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-21T04:09:38Z"
+  },
+  {
+    "source_id": "plc_00004",
+    "data": {
+      "id": "plc_00004",
+      "client_id": "client_0001",
+      "candidate_name": "Ursula Xu",
+      "role_title": "Line Cook",
+      "stage": "placed",
+      "fee_amount": 7322.9,
+      "created_at": "2026-02-20T22:08:31Z",
+      "updated_at": "2026-02-20T22:08:31Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-20T22:08:31Z"
+  },
+  {
+    "source_id": "plc_00005",
+    "data": {
+      "id": "plc_00005",
+      "client_id": "client_0065",
+      "candidate_name": "Ada Gauss",
+      "role_title": "DevOps Engineer",
+      "stage": "fell_through",
+      "fee_amount": 7485.81,
+      "created_at": "2025-10-06T18:50:38Z",
+      "updated_at": "2025-10-06T18:50:38Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-10-06T18:50:38Z"
+  },
+  {
+    "source_id": "plc_00006",
+    "data": {
+      "id": "plc_00006",
+      "client_id": "client_0110",
+      "candidate_name": "Charles Gauss",
+      "role_title": "Solutions Architect",
+      "stage": "fell_through",
+      "fee_amount": 3555.59,
+      "created_at": "2026-02-28T20:50:01Z",
+      "updated_at": "2026-02-28T20:50:01Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-28T20:50:01Z"
+  },
+  {
+    "source_id": "plc_00007",
+    "data": {
+      "id": "plc_00007",
+      "client_id": "client_0125",
+      "candidate_name": "Xavier Lovelace",
+      "role_title": "Software Engineer",
+      "stage": "sourced",
+      "fee_amount": 3906.88,
+      "created_at": "2025-10-18T06:35:49Z",
+      "updated_at": "2025-10-18T06:35:49Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-10-18T06:35:49Z"
+  },
+  {
+    "source_id": "plc_00008",
+    "data": {
+      "id": "plc_00008",
+      "client_id": "client_0127",
+      "candidate_name": "Ada Gauss",
+      "role_title": "Electrician",
+      "stage": "interviewing",
+      "fee_amount": 5489.61,
+      "created_at": "2025-11-21T12:19:49Z",
+      "updated_at": "2025-11-21T12:19:49Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-11-21T12:19:49Z"
+  },
+  {
+    "source_id": "plc_00009",
+    "data": {
+      "id": "plc_00009",
+      "client_id": "client_0159",
+      "candidate_name": "Blaise Tesla",
+      "role_title": "QA Analyst",
+      "stage": "interviewing",
+      "fee_amount": 4397.53,
+      "created_at": "2026-01-12T05:27:32Z",
+      "updated_at": "2026-01-12T05:27:32Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-01-12T05:27:32Z"
+  },
+  {
+    "source_id": "plc_00010",
+    "data": {
+      "id": "plc_00010",
+      "client_id": "client_0049",
+      "candidate_name": "Richard Hopper",
+      "role_title": "Financial Analyst",
+      "stage": "submitted",
+      "fee_amount": 10279.38,
+      "created_at": "2025-10-10T00:44:45Z",
+      "updated_at": "2025-10-10T00:44:45Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-10-10T00:44:45Z"
+  },
+  {
+    "source_id": "plc_00011",
+    "data": {
+      "id": "plc_00011",
+      "client_id": "client_0091",
+      "candidate_name": "Jean Gauss",
+      "role_title": "UX Designer",
+      "stage": "offered",
+      "fee_amount": 5606.95,
+      "created_at": "2025-12-26T05:00:46Z",
+      "updated_at": "2025-12-26T05:00:46Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-12-26T05:00:46Z"
+  },
+  {
+    "source_id": "plc_00012",
+    "data": {
+      "id": "plc_00012",
+      "client_id": "client_0255",
+      "candidate_name": "Walter Shannon",
+      "role_title": "Product Manager",
+      "stage": "offered",
+      "fee_amount": 2183.42,
+      "created_at": "2025-11-15T16:41:30Z",
+      "updated_at": "2025-11-15T16:41:30Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-11-15T16:41:30Z"
+  },
+  {
+    "source_id": "plc_00013",
+    "data": {
+      "id": "plc_00013",
+      "client_id": "client_0093",
+      "candidate_name": "Xavier Babbage",
+      "role_title": "Data Scientist",
+      "stage": "submitted",
+      "fee_amount": 7524.64,
+      "created_at": "2025-10-11T14:49:26Z",
+      "updated_at": "2025-10-11T14:49:26Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-10-11T14:49:26Z"
+  },
+  {
+    "source_id": "plc_00014",
+    "data": {
+      "id": "plc_00014",
+      "client_id": "client_0004",
+      "candidate_name": "Florence Babbage",
+      "role_title": "Account Executive",
+      "stage": "offered",
+      "fee_amount": 9351.8,
+      "created_at": "2026-02-25T11:25:46Z",
+      "updated_at": "2026-02-25T11:25:46Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-25T11:25:46Z"
+  },
+  {
+    "source_id": "plc_00015",
+    "data": {
+      "id": "plc_00015",
+      "client_id": "client_0233",
+      "candidate_name": "Ursula Gauss",
+      "role_title": "Machinist",
+      "stage": "interviewing",
+      "fee_amount": 11601.4,
+      "created_at": "2026-03-19T08:09:24Z",
+      "updated_at": "2026-03-19T08:09:24Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-19T08:09:24Z"
+  },
+  {
+    "source_id": "plc_00016",
+    "data": {
+      "id": "plc_00016",
+      "client_id": "client_0155",
+      "candidate_name": "Charles Ramanujan",
+      "role_title": "DevOps Engineer",
+      "stage": "sourced",
+      "fee_amount": 10787.3,
+      "created_at": "2025-10-09T08:48:06Z",
+      "updated_at": "2025-10-09T08:48:06Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-10-09T08:48:06Z"
+  },
+  {
+    "source_id": "plc_00017",
+    "data": {
+      "id": "plc_00017",
+      "client_id": "client_0041",
+      "candidate_name": "Xavier Ramanujan",
+      "role_title": "DevOps Engineer",
+      "stage": "sourced",
+      "fee_amount": 6512.38,
+      "created_at": "2025-10-26T03:41:32Z",
+      "updated_at": "2025-10-26T03:41:32Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-10-26T03:41:32Z"
+  },
+  {
+    "source_id": "plc_00018",
+    "data": {
+      "id": "plc_00018",
+      "client_id": "client_0248",
+      "candidate_name": "Isaac Shannon",
+      "role_title": "Support Lead",
+      "stage": "submitted",
+      "fee_amount": 5837.96,
+      "created_at": "2025-12-14T20:01:35Z",
+      "updated_at": "2025-12-14T20:01:35Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-12-14T20:01:35Z"
+  },
+  {
+    "source_id": "plc_00019",
+    "data": {
+      "id": "plc_00019",
+      "client_id": "client_0213",
+      "candidate_name": "Blaise Wright",
+      "role_title": "Data Scientist",
+      "stage": "placed",
+      "fee_amount": 4057.96,
+      "created_at": "2026-01-29T12:08:24Z",
+      "updated_at": "2026-01-29T12:08:24Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-01-29T12:08:24Z"
+  },
+  {
+    "source_id": "plc_00020",
+    "data": {
+      "id": "plc_00020",
+      "client_id": "client_0189",
+      "candidate_name": "Nikola Von Neumann",
+      "role_title": "Line Cook",
+      "stage": "interviewing",
+      "fee_amount": 4920.89,
+      "created_at": "2025-11-15T04:44:39Z",
+      "updated_at": "2025-11-15T04:44:39Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-11-15T04:44:39Z"
+  },
+  {
+    "source_id": "plc_00021",
+    "data": {
+      "id": "plc_00021",
+      "client_id": "client_0253",
+      "candidate_name": "Isaac Babbage",
+      "role_title": "Data Scientist",
+      "stage": "submitted",
+      "fee_amount": 11759.79,
+      "created_at": "2025-12-06T15:04:36Z",
+      "updated_at": "2025-12-06T15:04:36Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-12-06T15:04:36Z"
+  },
+  {
+    "source_id": "plc_00022",
+    "data": {
+      "id": "plc_00022",
+      "client_id": "client_0236",
+      "candidate_name": "Isaac Ramanujan",
+      "role_title": "Account Executive",
+      "stage": "offered",
+      "fee_amount": 4493.46,
+      "created_at": "2025-11-28T01:08:16Z",
+      "updated_at": "2025-11-28T01:08:16Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-11-28T01:08:16Z"
+  },
+  {
+    "source_id": "plc_00023",
+    "data": {
+      "id": "plc_00023",
+      "client_id": "client_0034",
+      "candidate_name": "Ursula Feynman",
+      "role_title": "QA Analyst",
+      "stage": "submitted",
+      "fee_amount": 10761.96,
+      "created_at": "2025-11-30T23:52:59Z",
+      "updated_at": "2025-11-30T23:52:59Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-11-30T23:52:59Z"
+  },
+  {
+    "source_id": "plc_00024",
+    "data": {
+      "id": "plc_00024",
+      "client_id": "client_0141",
+      "candidate_name": "Walter Pascal",
+      "role_title": "Financial Analyst",
+      "stage": "submitted",
+      "fee_amount": 11780.16,
+      "created_at": "2025-11-14T20:45:14Z",
+      "updated_at": "2025-11-14T20:45:14Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-11-14T20:45:14Z"
+  },
+  {
+    "source_id": "plc_00025",
+    "data": {
+      "id": "plc_00025",
+      "client_id": "client_0066",
+      "candidate_name": "Oliver Shannon",
+      "role_title": "Product Manager",
+      "stage": "submitted",
+      "fee_amount": 8952.27,
+      "created_at": "2025-12-23T11:42:31Z",
+      "updated_at": "2025-12-23T11:42:31Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-12-23T11:42:31Z"
+  },
+  {
+    "source_id": "plc_00026",
+    "data": {
+      "id": "plc_00026",
+      "client_id": "client_0274",
+      "candidate_name": "Peggy Noether",
+      "role_title": "Line Cook",
+      "stage": "interviewing",
+      "fee_amount": 6982.69,
+      "created_at": "2025-12-30T01:45:35Z",
+      "updated_at": "2025-12-30T01:45:35Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-12-30T01:45:35Z"
+  },
+  {
+    "source_id": "plc_00027",
+    "data": {
+      "id": "plc_00027",
+      "client_id": "client_0268",
+      "candidate_name": "Katherine Curie",
+      "role_title": "Solutions Architect",
+      "stage": "fell_through",
+      "fee_amount": 7702.4,
+      "created_at": "2026-02-01T21:46:56Z",
+      "updated_at": "2026-02-01T21:46:56Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-01T21:46:56Z"
+  },
+  {
+    "source_id": "plc_00028",
+    "data": {
+      "id": "plc_00028",
+      "client_id": "client_0006",
+      "candidate_name": "Sophie Noether",
+      "role_title": "Registered Nurse",
+      "stage": "interviewing",
+      "fee_amount": 10767.79,
+      "created_at": "2025-11-28T07:18:00Z",
+      "updated_at": "2025-11-28T07:18:00Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-11-28T07:18:00Z"
+  },
+  {
+    "source_id": "plc_00029",
+    "data": {
+      "id": "plc_00029",
+      "client_id": "client_0195",
+      "candidate_name": "Hedy Babbage",
+      "role_title": "Financial Analyst",
+      "stage": "submitted",
+      "fee_amount": 9429.86,
+      "created_at": "2025-10-15T09:29:20Z",
+      "updated_at": "2025-10-15T09:29:20Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-10-15T09:29:20Z"
+  },
+  {
+    "source_id": "plc_00030",
+    "data": {
+      "id": "plc_00030",
+      "client_id": "client_0086",
+      "candidate_name": "Yvonne Von Neumann",
+      "role_title": "Account Executive",
+      "stage": "fell_through",
+      "fee_amount": 6021.78,
+      "created_at": "2025-12-05T19:35:36Z",
+      "updated_at": "2025-12-05T19:35:36Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-12-05T19:35:36Z"
+  },
+  {
+    "source_id": "plc_00031",
+    "data": {
+      "id": "plc_00031",
+      "client_id": "client_0197",
+      "candidate_name": "Florence Tesla",
+      "role_title": "Account Executive",
+      "stage": "interviewing",
+      "fee_amount": 7368.77,
+      "created_at": "2026-01-16T09:13:37Z",
+      "updated_at": "2026-01-16T09:13:37Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-01-16T09:13:37Z"
+  },
+  {
+    "source_id": "plc_00032",
+    "data": {
+      "id": "plc_00032",
+      "client_id": "client_0031",
+      "candidate_name": "Sophie Shannon",
+      "role_title": "Account Executive",
+      "stage": "fell_through",
+      "fee_amount": 3919.13,
+      "created_at": "2026-02-02T01:42:21Z",
+      "updated_at": "2026-02-02T01:42:21Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-02T01:42:21Z"
+  },
+  {
+    "source_id": "plc_00033",
+    "data": {
+      "id": "plc_00033",
+      "client_id": "client_0198",
+      "candidate_name": "Zelda Von Neumann",
+      "role_title": "QA Analyst",
+      "stage": "offered",
+      "fee_amount": 7105.16,
+      "created_at": "2026-03-04T09:54:37Z",
+      "updated_at": "2026-03-04T09:54:37Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-04T09:54:37Z"
+  },
+  {
+    "source_id": "plc_00034",
+    "data": {
+      "id": "plc_00034",
+      "client_id": "client_0235",
+      "candidate_name": "Linus Gauss",
+      "role_title": "Product Manager",
+      "stage": "submitted",
+      "fee_amount": 9731.9,
+      "created_at": "2026-01-26T11:57:41Z",
+      "updated_at": "2026-01-26T11:57:41Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-01-26T11:57:41Z"
+  },
+  {
+    "source_id": "plc_00035",
+    "data": {
+      "id": "plc_00035",
+      "client_id": "client_0063",
+      "candidate_name": "Tim Ramanujan",
+      "role_title": "Line Cook",
+      "stage": "offered",
+      "fee_amount": 3464.85,
+      "created_at": "2025-11-30T23:39:01Z",
+      "updated_at": "2025-11-30T23:39:01Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-11-30T23:39:01Z"
+  },
+  {
+    "source_id": "plc_00036",
+    "data": {
+      "id": "plc_00036",
+      "client_id": "client_0272",
+      "candidate_name": "Peggy Xu",
+      "role_title": "UX Designer",
+      "stage": "sourced",
+      "fee_amount": 5842.12,
+      "created_at": "2026-02-09T11:44:19Z",
+      "updated_at": "2026-02-09T11:44:19Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-09T11:44:19Z"
+  },
+  {
+    "source_id": "plc_00037",
+    "data": {
+      "id": "plc_00037",
+      "client_id": "client_0050",
+      "candidate_name": "Walter Feynman",
+      "role_title": "Line Cook",
+      "stage": "sourced",
+      "fee_amount": 4159.04,
+      "created_at": "2026-03-29T15:53:14Z",
+      "updated_at": "2026-03-29T15:53:14Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-29T15:53:14Z"
+  },
+  {
+    "source_id": "plc_00038",
+    "data": {
+      "id": "plc_00038",
+      "client_id": "client_0122",
+      "candidate_name": "Blaise Wright",
+      "role_title": "Electrician",
+      "stage": "offered",
+      "fee_amount": 7358.19,
+      "created_at": "2025-11-12T00:10:56Z",
+      "updated_at": "2025-11-12T00:10:56Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-11-12T00:10:56Z"
+  },
+  {
+    "source_id": "plc_00039",
+    "data": {
+      "id": "plc_00039",
+      "client_id": "client_0097",
+      "candidate_name": "Linus Noether",
+      "role_title": "Data Scientist",
+      "stage": "sourced",
+      "fee_amount": 10421.93,
+      "created_at": "2025-12-04T18:02:36Z",
+      "updated_at": "2025-12-04T18:02:36Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-12-04T18:02:36Z"
+  },
+  {
+    "source_id": "plc_00040",
+    "data": {
+      "id": "plc_00040",
+      "client_id": "client_0290",
+      "candidate_name": "Oliver Xu",
+      "role_title": "Registered Nurse",
+      "stage": "fell_through",
+      "fee_amount": 10371.02,
+      "created_at": "2026-01-13T03:20:17Z",
+      "updated_at": "2026-01-13T03:20:17Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-01-13T03:20:17Z"
+  },
+  {
+    "source_id": "plc_00041",
+    "data": {
+      "id": "plc_00041",
+      "client_id": "client_0232",
+      "candidate_name": "Grace Turing",
+      "role_title": "Account Executive",
+      "stage": "offered",
+      "fee_amount": 3284.39,
+      "created_at": "2026-01-01T22:21:14Z",
+      "updated_at": "2026-01-01T22:21:14Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-01-01T22:21:14Z"
+  },
+  {
+    "source_id": "plc_00042",
+    "data": {
+      "id": "plc_00042",
+      "client_id": "client_0056",
+      "candidate_name": "Katherine Dirac",
+      "role_title": "Warehouse Supervisor",
+      "stage": "fell_through",
+      "fee_amount": 9306.7,
+      "created_at": "2026-01-05T01:35:45Z",
+      "updated_at": "2026-01-05T01:35:45Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-01-05T01:35:45Z"
+  },
+  {
+    "source_id": "plc_00043",
+    "data": {
+      "id": "plc_00043",
+      "client_id": "client_0123",
+      "candidate_name": "Isaac Einstein",
+      "role_title": "UX Designer",
+      "stage": "submitted",
+      "fee_amount": 4034.06,
+      "created_at": "2026-02-19T13:44:02Z",
+      "updated_at": "2026-02-19T13:44:02Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-19T13:44:02Z"
+  },
+  {
+    "source_id": "plc_00044",
+    "data": {
+      "id": "plc_00044",
+      "client_id": "client_0268",
+      "candidate_name": "Emmy Wright",
+      "role_title": "Account Executive",
+      "stage": "submitted",
+      "fee_amount": 9402.06,
+      "created_at": "2025-10-21T02:28:05Z",
+      "updated_at": "2025-10-21T02:28:05Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-10-21T02:28:05Z"
+  },
+  {
+    "source_id": "plc_00045",
+    "data": {
+      "id": "plc_00045",
+      "client_id": "client_0284",
+      "candidate_name": "Peggy Einstein",
+      "role_title": "Line Cook",
+      "stage": "offered",
+      "fee_amount": 5667.91,
+      "created_at": "2026-01-24T07:25:30Z",
+      "updated_at": "2026-01-24T07:25:30Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-01-24T07:25:30Z"
+  },
+  {
+    "source_id": "plc_00046",
+    "data": {
+      "id": "plc_00046",
+      "client_id": "client_0228",
+      "candidate_name": "Blaise Xu",
+      "role_title": "Software Engineer",
+      "stage": "interviewing",
+      "fee_amount": 4944.01,
+      "created_at": "2025-11-20T11:56:53Z",
+      "updated_at": "2025-11-20T11:56:53Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-11-20T11:56:53Z"
+  },
+  {
+    "source_id": "plc_00047",
+    "data": {
+      "id": "plc_00047",
+      "client_id": "client_0010",
+      "candidate_name": "Walter Hopper",
+      "role_title": "Machinist",
+      "stage": "offered",
+      "fee_amount": 11582.52,
+      "created_at": "2026-01-19T23:43:30Z",
+      "updated_at": "2026-01-19T23:43:30Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-01-19T23:43:30Z"
+  },
+  {
+    "source_id": "plc_00048",
+    "data": {
+      "id": "plc_00048",
+      "client_id": "client_0263",
+      "candidate_name": "Sophie Babbage",
+      "role_title": "Software Engineer",
+      "stage": "fell_through",
+      "fee_amount": 5237.09,
+      "created_at": "2025-11-18T11:58:16Z",
+      "updated_at": "2025-11-18T11:58:16Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-11-18T11:58:16Z"
+  },
+  {
+    "source_id": "plc_00049",
+    "data": {
+      "id": "plc_00049",
+      "client_id": "client_0143",
+      "candidate_name": "Blaise Zuse",
+      "role_title": "Data Scientist",
+      "stage": "placed",
+      "fee_amount": 8016.7,
+      "created_at": "2025-10-08T04:47:24Z",
+      "updated_at": "2025-10-08T04:47:24Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-10-08T04:47:24Z"
+  },
+  {
+    "source_id": "plc_00050",
+    "data": {
+      "id": "plc_00050",
+      "client_id": "client_0008",
+      "candidate_name": "Richard Ramanujan",
+      "role_title": "Account Executive",
+      "stage": "placed",
+      "fee_amount": 6769.37,
+      "created_at": "2025-11-30T22:04:56Z",
+      "updated_at": "2025-11-30T22:04:56Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-11-30T22:04:56Z"
+  },
+  {
+    "source_id": "plc_00051",
+    "data": {
+      "id": "plc_00051",
+      "client_id": "client_0129",
+      "candidate_name": "Yvonne Lovelace",
+      "role_title": "Data Scientist",
+      "stage": "submitted",
+      "fee_amount": 3287.68,
+      "created_at": "2026-03-14T01:31:46Z",
+      "updated_at": "2026-03-14T01:31:46Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-14T01:31:46Z"
+  },
+  {
+    "source_id": "plc_00052",
+    "data": {
+      "id": "plc_00052",
+      "client_id": "client_0040",
+      "candidate_name": "Peggy Von Neumann",
+      "role_title": "Solutions Architect",
+      "stage": "submitted",
+      "fee_amount": 11762.38,
+      "created_at": "2025-10-12T12:55:50Z",
+      "updated_at": "2025-10-12T12:55:50Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-10-12T12:55:50Z"
+  },
+  {
+    "source_id": "plc_00053",
+    "data": {
+      "id": "plc_00053",
+      "client_id": "client_0223",
+      "candidate_name": "Florence Lovelace",
+      "role_title": "Electrician",
+      "stage": "fell_through",
+      "fee_amount": 6772.96,
+      "created_at": "2025-11-11T02:16:53Z",
+      "updated_at": "2025-11-11T02:16:53Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-11-11T02:16:53Z"
+  },
+  {
+    "source_id": "plc_00054",
+    "data": {
+      "id": "plc_00054",
+      "client_id": "client_0293",
+      "candidate_name": "Yvonne Xu",
+      "role_title": "Line Cook",
+      "stage": "fell_through",
+      "fee_amount": 5195.28,
+      "created_at": "2026-03-18T02:22:19Z",
+      "updated_at": "2026-03-18T02:22:19Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-18T02:22:19Z"
+  },
+  {
+    "source_id": "plc_00055",
+    "data": {
+      "id": "plc_00055",
+      "client_id": "client_0102",
+      "candidate_name": "Oliver Lovelace",
+      "role_title": "Solutions Architect",
+      "stage": "sourced",
+      "fee_amount": 6802.45,
+      "created_at": "2026-01-20T13:42:01Z",
+      "updated_at": "2026-01-20T13:42:01Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-01-20T13:42:01Z"
+  },
+  {
+    "source_id": "plc_00056",
+    "data": {
+      "id": "plc_00056",
+      "client_id": "client_0137",
+      "candidate_name": "Grace Xu",
+      "role_title": "Warehouse Supervisor",
+      "stage": "submitted",
+      "fee_amount": 1694.86,
+      "created_at": "2025-12-15T16:51:53Z",
+      "updated_at": "2025-12-15T16:51:53Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-12-15T16:51:53Z"
+  },
+  {
+    "source_id": "plc_00057",
+    "data": {
+      "id": "plc_00057",
+      "client_id": "client_0117",
+      "candidate_name": "Jean Noether",
+      "role_title": "DevOps Engineer",
+      "stage": "submitted",
+      "fee_amount": 10708.71,
+      "created_at": "2026-02-12T12:01:02Z",
+      "updated_at": "2026-02-12T12:01:02Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-12T12:01:02Z"
+  },
+  {
+    "source_id": "plc_00058",
+    "data": {
+      "id": "plc_00058",
+      "client_id": "client_0081",
+      "candidate_name": "Peggy Pascal",
+      "role_title": "Line Cook",
+      "stage": "sourced",
+      "fee_amount": 11343.43,
+      "created_at": "2025-10-06T16:57:13Z",
+      "updated_at": "2025-10-06T16:57:13Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-10-06T16:57:13Z"
+  },
+  {
+    "source_id": "plc_00059",
+    "data": {
+      "id": "plc_00059",
+      "client_id": "client_0076",
+      "candidate_name": "Isaac Ramanujan",
+      "role_title": "Electrician",
+      "stage": "offered",
+      "fee_amount": 2704.44,
+      "created_at": "2025-10-17T11:05:11Z",
+      "updated_at": "2025-10-17T11:05:11Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-10-17T11:05:11Z"
+  },
+  {
+    "source_id": "plc_00060",
+    "data": {
+      "id": "plc_00060",
+      "client_id": "client_0261",
+      "candidate_name": "Grace Gauss",
+      "role_title": "Registered Nurse",
+      "stage": "fell_through",
+      "fee_amount": 7997.51,
+      "created_at": "2026-02-01T13:20:42Z",
+      "updated_at": "2026-02-01T13:20:42Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-01T13:20:42Z"
+  },
+  {
+    "source_id": "plc_00061",
+    "data": {
+      "id": "plc_00061",
+      "client_id": "client_0085",
+      "candidate_name": "Ada Tesla",
+      "role_title": "Financial Analyst",
+      "stage": "sourced",
+      "fee_amount": 7450.9,
+      "created_at": "2025-11-13T07:46:48Z",
+      "updated_at": "2025-11-13T07:46:48Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-11-13T07:46:48Z"
+  },
+  {
+    "source_id": "plc_00062",
+    "data": {
+      "id": "plc_00062",
+      "client_id": "client_0042",
+      "candidate_name": "Richard Curie",
+      "role_title": "Product Manager",
+      "stage": "sourced",
+      "fee_amount": 3051.99,
+      "created_at": "2026-01-22T11:08:15Z",
+      "updated_at": "2026-01-22T11:08:15Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-01-22T11:08:15Z"
+  },
+  {
+    "source_id": "plc_00063",
+    "data": {
+      "id": "plc_00063",
+      "client_id": "client_0123",
+      "candidate_name": "Ada Hopper",
+      "role_title": "Software Engineer",
+      "stage": "placed",
+      "fee_amount": 11901.94,
+      "created_at": "2025-10-22T17:26:43Z",
+      "updated_at": "2025-10-22T17:26:43Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-10-22T17:26:43Z"
+  },
+  {
+    "source_id": "plc_00064",
+    "data": {
+      "id": "plc_00064",
+      "client_id": "client_0004",
+      "candidate_name": "Oliver Einstein",
+      "role_title": "Data Scientist",
+      "stage": "offered",
+      "fee_amount": 7278.26,
+      "created_at": "2026-02-27T00:07:24Z",
+      "updated_at": "2026-02-27T00:07:24Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-27T00:07:24Z"
+  },
+  {
+    "source_id": "plc_00065",
+    "data": {
+      "id": "plc_00065",
+      "client_id": "client_0142",
+      "candidate_name": "Peggy Xu",
+      "role_title": "DevOps Engineer",
+      "stage": "fell_through",
+      "fee_amount": 9860.62,
+      "created_at": "2026-01-10T17:26:06Z",
+      "updated_at": "2026-01-10T17:26:06Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-01-10T17:26:06Z"
+  },
+  {
+    "source_id": "plc_00066",
+    "data": {
+      "id": "plc_00066",
+      "client_id": "client_0169",
+      "candidate_name": "Hedy Gauss",
+      "role_title": "QA Analyst",
+      "stage": "fell_through",
+      "fee_amount": 5239.22,
+      "created_at": "2025-10-06T09:36:46Z",
+      "updated_at": "2025-10-06T09:36:46Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-10-06T09:36:46Z"
+  },
+  {
+    "source_id": "plc_00067",
+    "data": {
+      "id": "plc_00067",
+      "client_id": "client_0074",
+      "candidate_name": "Katherine Feynman",
+      "role_title": "Data Scientist",
+      "stage": "fell_through",
+      "fee_amount": 6838.76,
+      "created_at": "2025-10-23T06:14:15Z",
+      "updated_at": "2025-10-23T06:14:15Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-10-23T06:14:15Z"
+  },
+  {
+    "source_id": "plc_00068",
+    "data": {
+      "id": "plc_00068",
+      "client_id": "client_0048",
+      "candidate_name": "Nikola Gauss",
+      "role_title": "Warehouse Supervisor",
+      "stage": "sourced",
+      "fee_amount": 2587.32,
+      "created_at": "2025-11-12T19:01:00Z",
+      "updated_at": "2025-11-12T19:01:00Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-11-12T19:01:00Z"
+  },
+  {
+    "source_id": "plc_00069",
+    "data": {
+      "id": "plc_00069",
+      "client_id": "client_0186",
+      "candidate_name": "Zelda Turing",
+      "role_title": "Warehouse Supervisor",
+      "stage": "interviewing",
+      "fee_amount": 5060.53,
+      "created_at": "2025-12-09T21:52:09Z",
+      "updated_at": "2025-12-09T21:52:09Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-12-09T21:52:09Z"
+  },
+  {
+    "source_id": "plc_00070",
+    "data": {
+      "id": "plc_00070",
+      "client_id": "client_0117",
+      "candidate_name": "Charles Pascal",
+      "role_title": "DevOps Engineer",
+      "stage": "fell_through",
+      "fee_amount": 5419.03,
+      "created_at": "2025-10-10T09:30:50Z",
+      "updated_at": "2025-10-10T09:30:50Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-10-10T09:30:50Z"
+  },
+  {
+    "source_id": "plc_00071",
+    "data": {
+      "id": "plc_00071",
+      "client_id": "client_0125",
+      "candidate_name": "Peggy Einstein",
+      "role_title": "Warehouse Supervisor",
+      "stage": "sourced",
+      "fee_amount": 3717.59,
+      "created_at": "2025-12-27T23:52:41Z",
+      "updated_at": "2025-12-27T23:52:41Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-12-27T23:52:41Z"
+  },
+  {
+    "source_id": "plc_00072",
+    "data": {
+      "id": "plc_00072",
+      "client_id": "client_0259",
+      "candidate_name": "Ada Turing",
+      "role_title": "Machinist",
+      "stage": "interviewing",
+      "fee_amount": 11578.43,
+      "created_at": "2026-03-11T08:55:22Z",
+      "updated_at": "2026-03-11T08:55:22Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-11T08:55:22Z"
+  },
+  {
+    "source_id": "plc_00073",
+    "data": {
+      "id": "plc_00073",
+      "client_id": "client_0138",
+      "candidate_name": "Marie Shannon",
+      "role_title": "Support Lead",
+      "stage": "sourced",
+      "fee_amount": 2164.72,
+      "created_at": "2026-01-27T06:13:06Z",
+      "updated_at": "2026-01-27T06:13:06Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-01-27T06:13:06Z"
+  },
+  {
+    "source_id": "plc_00074",
+    "data": {
+      "id": "plc_00074",
+      "client_id": "client_0134",
+      "candidate_name": "Nikola Noether",
+      "role_title": "Financial Analyst",
+      "stage": "submitted",
+      "fee_amount": 6260.45,
+      "created_at": "2025-11-05T09:28:16Z",
+      "updated_at": "2025-11-05T09:28:16Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-11-05T09:28:16Z"
+  },
+  {
+    "source_id": "plc_00075",
+    "data": {
+      "id": "plc_00075",
+      "client_id": "client_0030",
+      "candidate_name": "Hedy Noether",
+      "role_title": "DevOps Engineer",
+      "stage": "placed",
+      "fee_amount": 7520.6,
+      "created_at": "2026-02-20T21:43:14Z",
+      "updated_at": "2026-02-20T21:43:14Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-20T21:43:14Z"
+  },
+  {
+    "source_id": "plc_00076",
+    "data": {
+      "id": "plc_00076",
+      "client_id": "client_0277",
+      "candidate_name": "Ursula Tesla",
+      "role_title": "Software Engineer",
+      "stage": "sourced",
+      "fee_amount": 6055.31,
+      "created_at": "2025-10-09T08:52:50Z",
+      "updated_at": "2025-10-09T08:52:50Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-10-09T08:52:50Z"
+  },
+  {
+    "source_id": "plc_00077",
+    "data": {
+      "id": "plc_00077",
+      "client_id": "client_0244",
+      "candidate_name": "Emmy Dirac",
+      "role_title": "Machinist",
+      "stage": "fell_through",
+      "fee_amount": 5664.19,
+      "created_at": "2025-11-19T09:13:11Z",
+      "updated_at": "2025-11-19T09:13:11Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-11-19T09:13:11Z"
+  },
+  {
+    "source_id": "plc_00078",
+    "data": {
+      "id": "plc_00078",
+      "client_id": "client_0264",
+      "candidate_name": "Zelda Wright",
+      "role_title": "Account Executive",
+      "stage": "offered",
+      "fee_amount": 2406.99,
+      "created_at": "2026-02-21T05:17:30Z",
+      "updated_at": "2026-02-21T05:17:30Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-21T05:17:30Z"
+  },
+  {
+    "source_id": "plc_00079",
+    "data": {
+      "id": "plc_00079",
+      "client_id": "client_0180",
+      "candidate_name": "Nikola Noether",
+      "role_title": "Software Engineer",
+      "stage": "fell_through",
+      "fee_amount": 9134.02,
+      "created_at": "2025-11-05T15:03:51Z",
+      "updated_at": "2025-11-05T15:03:51Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-11-05T15:03:51Z"
+  },
+  {
+    "source_id": "plc_00080",
+    "data": {
+      "id": "plc_00080",
+      "client_id": "client_0183",
+      "candidate_name": "Vera Turing",
+      "role_title": "Data Scientist",
+      "stage": "submitted",
+      "fee_amount": 10817.94,
+      "created_at": "2026-02-20T11:08:35Z",
+      "updated_at": "2026-02-20T11:08:35Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-20T11:08:35Z"
+  },
+  {
+    "source_id": "plc_00081",
+    "data": {
+      "id": "plc_00081",
+      "client_id": "client_0148",
+      "candidate_name": "Xavier Curie",
+      "role_title": "Account Executive",
+      "stage": "submitted",
+      "fee_amount": 7314.08,
+      "created_at": "2025-10-12T15:50:45Z",
+      "updated_at": "2025-10-12T15:50:45Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-10-12T15:50:45Z"
+  },
+  {
+    "source_id": "plc_00082",
+    "data": {
+      "id": "plc_00082",
+      "client_id": "client_0182",
+      "candidate_name": "Dorothy Babbage",
+      "role_title": "Machinist",
+      "stage": "sourced",
+      "fee_amount": 5189.25,
+      "created_at": "2026-03-07T12:30:20Z",
+      "updated_at": "2026-03-07T12:30:20Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-07T12:30:20Z"
+  },
+  {
+    "source_id": "plc_00083",
+    "data": {
+      "id": "plc_00083",
+      "client_id": "client_0056",
+      "candidate_name": "Tim Wright",
+      "role_title": "Electrician",
+      "stage": "interviewing",
+      "fee_amount": 8370.23,
+      "created_at": "2025-12-08T15:01:51Z",
+      "updated_at": "2025-12-08T15:01:51Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-12-08T15:01:51Z"
+  },
+  {
+    "source_id": "plc_00084",
+    "data": {
+      "id": "plc_00084",
+      "client_id": "client_0203",
+      "candidate_name": "Hedy Turing",
+      "role_title": "Machinist",
+      "stage": "placed",
+      "fee_amount": 9021.76,
+      "created_at": "2025-12-14T02:52:18Z",
+      "updated_at": "2025-12-14T02:52:18Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-12-14T02:52:18Z"
+  },
+  {
+    "source_id": "plc_00085",
+    "data": {
+      "id": "plc_00085",
+      "client_id": "client_0111",
+      "candidate_name": "Grace Young",
+      "role_title": "Solutions Architect",
+      "stage": "sourced",
+      "fee_amount": 5592.61,
+      "created_at": "2025-11-15T20:19:24Z",
+      "updated_at": "2025-11-15T20:19:24Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-11-15T20:19:24Z"
+  },
+  {
+    "source_id": "plc_00086",
+    "data": {
+      "id": "plc_00086",
+      "client_id": "client_0148",
+      "candidate_name": "Jean Wright",
+      "role_title": "Financial Analyst",
+      "stage": "interviewing",
+      "fee_amount": 7267.89,
+      "created_at": "2025-11-25T04:22:01Z",
+      "updated_at": "2025-11-25T04:22:01Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-11-25T04:22:01Z"
+  },
+  {
+    "source_id": "plc_00087",
+    "data": {
+      "id": "plc_00087",
+      "client_id": "client_0059",
+      "candidate_name": "Nikola Wright",
+      "role_title": "QA Analyst",
+      "stage": "sourced",
+      "fee_amount": 5129.79,
+      "created_at": "2026-01-30T18:05:57Z",
+      "updated_at": "2026-01-30T18:05:57Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-01-30T18:05:57Z"
+  },
+  {
+    "source_id": "plc_00088",
+    "data": {
+      "id": "plc_00088",
+      "client_id": "client_0167",
+      "candidate_name": "Marie Zuse",
+      "role_title": "Data Scientist",
+      "stage": "fell_through",
+      "fee_amount": 2475.83,
+      "created_at": "2025-11-23T16:07:22Z",
+      "updated_at": "2025-11-23T16:07:22Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-11-23T16:07:22Z"
+  },
+  {
+    "source_id": "plc_00089",
+    "data": {
+      "id": "plc_00089",
+      "client_id": "client_0150",
+      "candidate_name": "Peggy Shannon",
+      "role_title": "UX Designer",
+      "stage": "interviewing",
+      "fee_amount": 3208.92,
+      "created_at": "2026-01-20T17:13:46Z",
+      "updated_at": "2026-01-20T17:13:46Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-01-20T17:13:46Z"
+  },
+  {
+    "source_id": "plc_00090",
+    "data": {
+      "id": "plc_00090",
+      "client_id": "client_0076",
+      "candidate_name": "Isaac Einstein",
+      "role_title": "Line Cook",
+      "stage": "offered",
+      "fee_amount": 10572.37,
+      "created_at": "2025-11-01T10:39:00Z",
+      "updated_at": "2025-11-01T10:39:00Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-11-01T10:39:00Z"
+  },
+  {
+    "source_id": "plc_00091",
+    "data": {
+      "id": "plc_00091",
+      "client_id": "client_0028",
+      "candidate_name": "Vera Von Neumann",
+      "role_title": "Electrician",
+      "stage": "submitted",
+      "fee_amount": 11552.22,
+      "created_at": "2026-01-14T19:47:33Z",
+      "updated_at": "2026-01-14T19:47:33Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-01-14T19:47:33Z"
+  },
+  {
+    "source_id": "plc_00092",
+    "data": {
+      "id": "plc_00092",
+      "client_id": "client_0108",
+      "candidate_name": "Emmy Young",
+      "role_title": "Financial Analyst",
+      "stage": "submitted",
+      "fee_amount": 2512.18,
+      "created_at": "2025-11-23T18:12:56Z",
+      "updated_at": "2025-11-23T18:12:56Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-11-23T18:12:56Z"
+  },
+  {
+    "source_id": "plc_00093",
+    "data": {
+      "id": "plc_00093",
+      "client_id": "client_0189",
+      "candidate_name": "Grace Feynman",
+      "role_title": "DevOps Engineer",
+      "stage": "interviewing",
+      "fee_amount": 5431.98,
+      "created_at": "2025-12-31T07:21:24Z",
+      "updated_at": "2025-12-31T07:21:24Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-12-31T07:21:24Z"
+  },
+  {
+    "source_id": "plc_00094",
+    "data": {
+      "id": "plc_00094",
+      "client_id": "client_0107",
+      "candidate_name": "Hedy Wright",
+      "role_title": "Account Executive",
+      "stage": "submitted",
+      "fee_amount": 8826.79,
+      "created_at": "2026-01-12T16:45:20Z",
+      "updated_at": "2026-01-12T16:45:20Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-01-12T16:45:20Z"
+  },
+  {
+    "source_id": "plc_00095",
+    "data": {
+      "id": "plc_00095",
+      "client_id": "client_0080",
+      "candidate_name": "Hedy Zuse",
+      "role_title": "Financial Analyst",
+      "stage": "placed",
+      "fee_amount": 9502.69,
+      "created_at": "2026-02-28T23:27:59Z",
+      "updated_at": "2026-02-28T23:27:59Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-28T23:27:59Z"
+  },
+  {
+    "source_id": "plc_00096",
+    "data": {
+      "id": "plc_00096",
+      "client_id": "client_0025",
+      "candidate_name": "Hedy Feynman",
+      "role_title": "Support Lead",
+      "stage": "offered",
+      "fee_amount": 5757.18,
+      "created_at": "2026-02-15T04:25:16Z",
+      "updated_at": "2026-02-15T04:25:16Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-15T04:25:16Z"
+  },
+  {
+    "source_id": "plc_00097",
+    "data": {
+      "id": "plc_00097",
+      "client_id": "client_0184",
+      "candidate_name": "Sophie Zuse",
+      "role_title": "Electrician",
+      "stage": "interviewing",
+      "fee_amount": 3066.0,
+      "created_at": "2025-12-17T08:22:53Z",
+      "updated_at": "2025-12-17T08:22:53Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-12-17T08:22:53Z"
+  },
+  {
+    "source_id": "plc_00098",
+    "data": {
+      "id": "plc_00098",
+      "client_id": "client_0077",
+      "candidate_name": "Marie Einstein",
+      "role_title": "Warehouse Supervisor",
+      "stage": "sourced",
+      "fee_amount": 10418.91,
+      "created_at": "2025-12-18T00:37:14Z",
+      "updated_at": "2025-12-18T00:37:14Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-12-18T00:37:14Z"
+  },
+  {
+    "source_id": "plc_00099",
+    "data": {
+      "id": "plc_00099",
+      "client_id": "client_0199",
+      "candidate_name": "Jean Von Neumann",
+      "role_title": "Warehouse Supervisor",
+      "stage": "fell_through",
+      "fee_amount": 11665.73,
+      "created_at": "2026-02-09T18:43:03Z",
+      "updated_at": "2026-02-09T18:43:03Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-09T18:43:03Z"
+  },
+  {
+    "source_id": "plc_00100",
+    "data": {
+      "id": "plc_00100",
+      "client_id": "client_0251",
+      "candidate_name": "Nikola Hopper",
+      "role_title": "QA Analyst",
+      "stage": "interviewing",
+      "fee_amount": 8920.13,
+      "created_at": "2026-01-26T03:21:29Z",
+      "updated_at": "2026-01-26T03:21:29Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-01-26T03:21:29Z"
+  },
+  {
+    "source_id": "plc_00101",
+    "data": {
+      "id": "plc_00101",
+      "client_id": "client_0160",
+      "candidate_name": "Nikola Noether",
+      "role_title": "Registered Nurse",
+      "stage": "submitted",
+      "fee_amount": 10322.82,
+      "created_at": "2026-01-08T04:16:58Z",
+      "updated_at": "2026-01-08T04:16:58Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-01-08T04:16:58Z"
+  },
+  {
+    "source_id": "plc_00102",
+    "data": {
+      "id": "plc_00102",
+      "client_id": "client_0241",
+      "candidate_name": "Xavier Xu",
+      "role_title": "Machinist",
+      "stage": "submitted",
+      "fee_amount": 8748.21,
+      "created_at": "2025-11-07T23:00:58Z",
+      "updated_at": "2025-11-07T23:00:58Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-11-07T23:00:58Z"
+  },
+  {
+    "source_id": "plc_00103",
+    "data": {
+      "id": "plc_00103",
+      "client_id": "client_0287",
+      "candidate_name": "Hedy Von Neumann",
+      "role_title": "Machinist",
+      "stage": "submitted",
+      "fee_amount": 9261.81,
+      "created_at": "2026-03-19T09:43:49Z",
+      "updated_at": "2026-03-19T09:43:49Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-19T09:43:49Z"
+  },
+  {
+    "source_id": "plc_00104",
+    "data": {
+      "id": "plc_00104",
+      "client_id": "client_0085",
+      "candidate_name": "Marie Ramanujan",
+      "role_title": "Software Engineer",
+      "stage": "offered",
+      "fee_amount": 7708.9,
+      "created_at": "2025-10-14T10:27:50Z",
+      "updated_at": "2025-10-14T10:27:50Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-10-14T10:27:50Z"
+  },
+  {
+    "source_id": "plc_00105",
+    "data": {
+      "id": "plc_00105",
+      "client_id": "client_0210",
+      "candidate_name": "Zelda Lovelace",
+      "role_title": "Line Cook",
+      "stage": "interviewing",
+      "fee_amount": 9109.05,
+      "created_at": "2025-12-04T13:43:23Z",
+      "updated_at": "2025-12-04T13:43:23Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-12-04T13:43:23Z"
+  },
+  {
+    "source_id": "plc_00106",
+    "data": {
+      "id": "plc_00106",
+      "client_id": "client_0290",
+      "candidate_name": "Zelda Noether",
+      "role_title": "QA Analyst",
+      "stage": "offered",
+      "fee_amount": 6908.62,
+      "created_at": "2026-03-27T19:27:28Z",
+      "updated_at": "2026-03-27T19:27:28Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-27T19:27:28Z"
+  },
+  {
+    "source_id": "plc_00107",
+    "data": {
+      "id": "plc_00107",
+      "client_id": "client_0177",
+      "candidate_name": "Yvonne Babbage",
+      "role_title": "QA Analyst",
+      "stage": "fell_through",
+      "fee_amount": 7382.99,
+      "created_at": "2025-10-03T14:00:18Z",
+      "updated_at": "2025-10-03T14:00:18Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-10-03T14:00:18Z"
+  },
+  {
+    "source_id": "plc_00108",
+    "data": {
+      "id": "plc_00108",
+      "client_id": "client_0110",
+      "candidate_name": "Peggy Gauss",
+      "role_title": "Line Cook",
+      "stage": "submitted",
+      "fee_amount": 3735.47,
+      "created_at": "2025-12-07T22:34:56Z",
+      "updated_at": "2025-12-07T22:34:56Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-12-07T22:34:56Z"
+  },
+  {
+    "source_id": "plc_00109",
+    "data": {
+      "id": "plc_00109",
+      "client_id": "client_0035",
+      "candidate_name": "Katherine Von Neumann",
+      "role_title": "Software Engineer",
+      "stage": "placed",
+      "fee_amount": 10384.55,
+      "created_at": "2025-11-10T01:32:48Z",
+      "updated_at": "2025-11-10T01:32:48Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-11-10T01:32:48Z"
+  },
+  {
+    "source_id": "plc_00110",
+    "data": {
+      "id": "plc_00110",
+      "client_id": "client_0187",
+      "candidate_name": "Oliver Noether",
+      "role_title": "DevOps Engineer",
+      "stage": "placed",
+      "fee_amount": 9037.16,
+      "created_at": "2026-03-17T22:14:32Z",
+      "updated_at": "2026-03-17T22:14:32Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-17T22:14:32Z"
+  },
+  {
+    "source_id": "plc_00111",
+    "data": {
+      "id": "plc_00111",
+      "client_id": "client_0291",
+      "candidate_name": "Walter Tesla",
+      "role_title": "Software Engineer",
+      "stage": "interviewing",
+      "fee_amount": 9546.46,
+      "created_at": "2025-11-08T20:41:03Z",
+      "updated_at": "2025-11-08T20:41:03Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-11-08T20:41:03Z"
+  },
+  {
+    "source_id": "plc_00112",
+    "data": {
+      "id": "plc_00112",
+      "client_id": "client_0176",
+      "candidate_name": "Jean Young",
+      "role_title": "Registered Nurse",
+      "stage": "fell_through",
+      "fee_amount": 1575.51,
+      "created_at": "2025-12-08T09:18:28Z",
+      "updated_at": "2025-12-08T09:18:28Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-12-08T09:18:28Z"
+  },
+  {
+    "source_id": "plc_00113",
+    "data": {
+      "id": "plc_00113",
+      "client_id": "client_0231",
+      "candidate_name": "Zelda Zuse",
+      "role_title": "Registered Nurse",
+      "stage": "offered",
+      "fee_amount": 2274.0,
+      "created_at": "2026-03-01T08:53:13Z",
+      "updated_at": "2026-03-01T08:53:13Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-01T08:53:13Z"
+  },
+  {
+    "source_id": "plc_00114",
+    "data": {
+      "id": "plc_00114",
+      "client_id": "client_0171",
+      "candidate_name": "Sophie Shannon",
+      "role_title": "DevOps Engineer",
+      "stage": "fell_through",
+      "fee_amount": 7384.06,
+      "created_at": "2025-11-26T07:45:08Z",
+      "updated_at": "2025-11-26T07:45:08Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-11-26T07:45:08Z"
+  },
+  {
+    "source_id": "plc_00115",
+    "data": {
+      "id": "plc_00115",
+      "client_id": "client_0178",
+      "candidate_name": "Linus Feynman",
+      "role_title": "Financial Analyst",
+      "stage": "sourced",
+      "fee_amount": 4418.96,
+      "created_at": "2025-12-24T16:50:16Z",
+      "updated_at": "2025-12-24T16:50:16Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-12-24T16:50:16Z"
+  },
+  {
+    "source_id": "plc_00116",
+    "data": {
+      "id": "plc_00116",
+      "client_id": "client_0276",
+      "candidate_name": "Zelda Shannon",
+      "role_title": "Financial Analyst",
+      "stage": "interviewing",
+      "fee_amount": 7048.81,
+      "created_at": "2026-03-16T12:28:36Z",
+      "updated_at": "2026-03-16T12:28:36Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-16T12:28:36Z"
+  },
+  {
+    "source_id": "plc_00117",
+    "data": {
+      "id": "plc_00117",
+      "client_id": "client_0014",
+      "candidate_name": "Florence Babbage",
+      "role_title": "Electrician",
+      "stage": "placed",
+      "fee_amount": 1932.84,
+      "created_at": "2025-11-02T08:00:04Z",
+      "updated_at": "2025-11-02T08:00:04Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-11-02T08:00:04Z"
+  },
+  {
+    "source_id": "plc_00118",
+    "data": {
+      "id": "plc_00118",
+      "client_id": "client_0057",
+      "candidate_name": "Walter Wright",
+      "role_title": "UX Designer",
+      "stage": "submitted",
+      "fee_amount": 6630.97,
+      "created_at": "2025-12-02T13:45:46Z",
+      "updated_at": "2025-12-02T13:45:46Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-12-02T13:45:46Z"
+  },
+  {
+    "source_id": "plc_00119",
+    "data": {
+      "id": "plc_00119",
+      "client_id": "client_0113",
+      "candidate_name": "Oliver Gauss",
+      "role_title": "Financial Analyst",
+      "stage": "offered",
+      "fee_amount": 5196.82,
+      "created_at": "2025-11-23T04:58:12Z",
+      "updated_at": "2025-11-23T04:58:12Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-11-23T04:58:12Z"
+  },
+  {
+    "source_id": "plc_00120",
+    "data": {
+      "id": "plc_00120",
+      "client_id": "client_0267",
+      "candidate_name": "Hedy Gauss",
+      "role_title": "Warehouse Supervisor",
+      "stage": "placed",
+      "fee_amount": 5423.09,
+      "created_at": "2025-11-21T10:43:26Z",
+      "updated_at": "2025-11-21T10:43:26Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-11-21T10:43:26Z"
+  },
+  {
+    "source_id": "plc_00121",
+    "data": {
+      "id": "plc_00121",
+      "client_id": "client_0038",
+      "candidate_name": "Emmy Turing",
+      "role_title": "Financial Analyst",
+      "stage": "submitted",
+      "fee_amount": 8545.08,
+      "created_at": "2025-11-29T15:42:31Z",
+      "updated_at": "2025-11-29T15:42:31Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-11-29T15:42:31Z"
+  },
+  {
+    "source_id": "plc_00122",
+    "data": {
+      "id": "plc_00122",
+      "client_id": "client_0055",
+      "candidate_name": "Richard Babbage",
+      "role_title": "Solutions Architect",
+      "stage": "submitted",
+      "fee_amount": 3782.96,
+      "created_at": "2025-11-10T12:46:09Z",
+      "updated_at": "2025-11-10T12:46:09Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-11-10T12:46:09Z"
+  },
+  {
+    "source_id": "plc_00123",
+    "data": {
+      "id": "plc_00123",
+      "client_id": "client_0023",
+      "candidate_name": "Hedy Shannon",
+      "role_title": "UX Designer",
+      "stage": "offered",
+      "fee_amount": 10811.81,
+      "created_at": "2026-02-07T15:07:34Z",
+      "updated_at": "2026-02-07T15:07:34Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-07T15:07:34Z"
+  },
+  {
+    "source_id": "plc_00124",
+    "data": {
+      "id": "plc_00124",
+      "client_id": "client_0011",
+      "candidate_name": "Blaise Curie",
+      "role_title": "Electrician",
+      "stage": "offered",
+      "fee_amount": 11145.6,
+      "created_at": "2025-11-24T23:02:21Z",
+      "updated_at": "2025-11-24T23:02:21Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-11-24T23:02:21Z"
+  },
+  {
+    "source_id": "plc_00125",
+    "data": {
+      "id": "plc_00125",
+      "client_id": "client_0021",
+      "candidate_name": "Richard Von Neumann",
+      "role_title": "Software Engineer",
+      "stage": "submitted",
+      "fee_amount": 11918.01,
+      "created_at": "2026-01-10T04:20:46Z",
+      "updated_at": "2026-01-10T04:20:46Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-01-10T04:20:46Z"
+  },
+  {
+    "source_id": "plc_00126",
+    "data": {
+      "id": "plc_00126",
+      "client_id": "client_0173",
+      "candidate_name": "Dorothy Gauss",
+      "role_title": "Warehouse Supervisor",
+      "stage": "sourced",
+      "fee_amount": 1882.89,
+      "created_at": "2025-11-21T01:22:19Z",
+      "updated_at": "2025-11-21T01:22:19Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-11-21T01:22:19Z"
+  },
+  {
+    "source_id": "plc_00127",
+    "data": {
+      "id": "plc_00127",
+      "client_id": "client_0133",
+      "candidate_name": "Yvonne Einstein",
+      "role_title": "Product Manager",
+      "stage": "placed",
+      "fee_amount": 11390.55,
+      "created_at": "2025-11-27T17:45:43Z",
+      "updated_at": "2025-11-27T17:45:43Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-11-27T17:45:43Z"
+  },
+  {
+    "source_id": "plc_00128",
+    "data": {
+      "id": "plc_00128",
+      "client_id": "client_0088",
+      "candidate_name": "Jean Tesla",
+      "role_title": "Data Scientist",
+      "stage": "offered",
+      "fee_amount": 8804.22,
+      "created_at": "2026-02-07T22:39:03Z",
+      "updated_at": "2026-02-07T22:39:03Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-07T22:39:03Z"
+  },
+  {
+    "source_id": "plc_00129",
+    "data": {
+      "id": "plc_00129",
+      "client_id": "client_0205",
+      "candidate_name": "Charles Turing",
+      "role_title": "Machinist",
+      "stage": "interviewing",
+      "fee_amount": 8888.61,
+      "created_at": "2026-03-07T10:08:25Z",
+      "updated_at": "2026-03-07T10:08:25Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-07T10:08:25Z"
+  },
+  {
+    "source_id": "plc_00130",
+    "data": {
+      "id": "plc_00130",
+      "client_id": "client_0264",
+      "candidate_name": "Nikola Curie",
+      "role_title": "Machinist",
+      "stage": "fell_through",
+      "fee_amount": 8813.21,
+      "created_at": "2026-01-27T14:58:22Z",
+      "updated_at": "2026-01-27T14:58:22Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-01-27T14:58:22Z"
+  },
+  {
+    "source_id": "plc_00131",
+    "data": {
+      "id": "plc_00131",
+      "client_id": "client_0128",
+      "candidate_name": "Linus Dirac",
+      "role_title": "Electrician",
+      "stage": "interviewing",
+      "fee_amount": 9823.02,
+      "created_at": "2025-11-26T02:33:02Z",
+      "updated_at": "2025-11-26T02:33:02Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-11-26T02:33:02Z"
+  },
+  {
+    "source_id": "plc_00132",
+    "data": {
+      "id": "plc_00132",
+      "client_id": "client_0182",
+      "candidate_name": "Isaac Wright",
+      "role_title": "QA Analyst",
+      "stage": "submitted",
+      "fee_amount": 4716.16,
+      "created_at": "2025-11-26T09:32:06Z",
+      "updated_at": "2025-11-26T09:32:06Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-11-26T09:32:06Z"
+  },
+  {
+    "source_id": "plc_00133",
+    "data": {
+      "id": "plc_00133",
+      "client_id": "client_0186",
+      "candidate_name": "Zelda Zuse",
+      "role_title": "QA Analyst",
+      "stage": "fell_through",
+      "fee_amount": 1934.46,
+      "created_at": "2025-11-18T23:21:36Z",
+      "updated_at": "2025-11-18T23:21:36Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-11-18T23:21:36Z"
+  },
+  {
+    "source_id": "plc_00134",
+    "data": {
+      "id": "plc_00134",
+      "client_id": "client_0103",
+      "candidate_name": "Isaac Ramanujan",
+      "role_title": "Line Cook",
+      "stage": "interviewing",
+      "fee_amount": 11865.99,
+      "created_at": "2025-10-06T16:19:26Z",
+      "updated_at": "2025-10-06T16:19:26Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-10-06T16:19:26Z"
+  },
+  {
+    "source_id": "plc_00135",
+    "data": {
+      "id": "plc_00135",
+      "client_id": "client_0205",
+      "candidate_name": "Vera Curie",
+      "role_title": "QA Analyst",
+      "stage": "fell_through",
+      "fee_amount": 3899.69,
+      "created_at": "2026-01-15T02:21:22Z",
+      "updated_at": "2026-01-15T02:21:22Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-01-15T02:21:22Z"
+  },
+  {
+    "source_id": "plc_00136",
+    "data": {
+      "id": "plc_00136",
+      "client_id": "client_0030",
+      "candidate_name": "Vera Einstein",
+      "role_title": "Machinist",
+      "stage": "offered",
+      "fee_amount": 10994.58,
+      "created_at": "2025-12-25T23:53:54Z",
+      "updated_at": "2025-12-25T23:53:54Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-12-25T23:53:54Z"
+  },
+  {
+    "source_id": "plc_00137",
+    "data": {
+      "id": "plc_00137",
+      "client_id": "client_0068",
+      "candidate_name": "Zelda Von Neumann",
+      "role_title": "Software Engineer",
+      "stage": "fell_through",
+      "fee_amount": 2105.9,
+      "created_at": "2026-01-30T05:02:32Z",
+      "updated_at": "2026-01-30T05:02:32Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-01-30T05:02:32Z"
+  },
+  {
+    "source_id": "plc_00138",
+    "data": {
+      "id": "plc_00138",
+      "client_id": "client_0103",
+      "candidate_name": "Zelda Hopper",
+      "role_title": "UX Designer",
+      "stage": "offered",
+      "fee_amount": 11535.54,
+      "created_at": "2026-03-04T01:01:51Z",
+      "updated_at": "2026-03-04T01:01:51Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-04T01:01:51Z"
+  },
+  {
+    "source_id": "plc_00139",
+    "data": {
+      "id": "plc_00139",
+      "client_id": "client_0131",
+      "candidate_name": "Dorothy Ramanujan",
+      "role_title": "UX Designer",
+      "stage": "offered",
+      "fee_amount": 2467.08,
+      "created_at": "2025-11-02T11:49:33Z",
+      "updated_at": "2025-11-02T11:49:33Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-11-02T11:49:33Z"
+  },
+  {
+    "source_id": "plc_00140",
+    "data": {
+      "id": "plc_00140",
+      "client_id": "client_0091",
+      "candidate_name": "Xavier Feynman",
+      "role_title": "Financial Analyst",
+      "stage": "submitted",
+      "fee_amount": 6014.84,
+      "created_at": "2025-11-21T13:21:38Z",
+      "updated_at": "2025-11-21T13:21:38Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-11-21T13:21:38Z"
+  },
+  {
+    "source_id": "plc_00141",
+    "data": {
+      "id": "plc_00141",
+      "client_id": "client_0274",
+      "candidate_name": "Xavier Lovelace",
+      "role_title": "Product Manager",
+      "stage": "offered",
+      "fee_amount": 7583.99,
+      "created_at": "2026-03-01T03:59:21Z",
+      "updated_at": "2026-03-01T03:59:21Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-01T03:59:21Z"
+  },
+  {
+    "source_id": "plc_00142",
+    "data": {
+      "id": "plc_00142",
+      "client_id": "client_0189",
+      "candidate_name": "Ada Dirac",
+      "role_title": "Support Lead",
+      "stage": "fell_through",
+      "fee_amount": 5705.24,
+      "created_at": "2025-11-29T09:16:49Z",
+      "updated_at": "2025-11-29T09:16:49Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-11-29T09:16:49Z"
+  },
+  {
+    "source_id": "plc_00143",
+    "data": {
+      "id": "plc_00143",
+      "client_id": "client_0052",
+      "candidate_name": "Katherine Xu",
+      "role_title": "Electrician",
+      "stage": "fell_through",
+      "fee_amount": 9621.54,
+      "created_at": "2026-03-05T21:58:41Z",
+      "updated_at": "2026-03-05T21:58:41Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-05T21:58:41Z"
+  },
+  {
+    "source_id": "plc_00144",
+    "data": {
+      "id": "plc_00144",
+      "client_id": "client_0252",
+      "candidate_name": "Yvonne Babbage",
+      "role_title": "Warehouse Supervisor",
+      "stage": "submitted",
+      "fee_amount": 9375.32,
+      "created_at": "2025-12-07T09:16:07Z",
+      "updated_at": "2025-12-07T09:16:07Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-12-07T09:16:07Z"
+  },
+  {
+    "source_id": "plc_00145",
+    "data": {
+      "id": "plc_00145",
+      "client_id": "client_0229",
+      "candidate_name": "Walter Young",
+      "role_title": "Software Engineer",
+      "stage": "sourced",
+      "fee_amount": 7048.24,
+      "created_at": "2025-11-14T00:18:04Z",
+      "updated_at": "2025-11-14T00:18:04Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-11-14T00:18:04Z"
+  },
+  {
+    "source_id": "plc_00146",
+    "data": {
+      "id": "plc_00146",
+      "client_id": "client_0063",
+      "candidate_name": "Grace Turing",
+      "role_title": "Machinist",
+      "stage": "offered",
+      "fee_amount": 2450.56,
+      "created_at": "2026-03-18T00:03:11Z",
+      "updated_at": "2026-03-18T00:03:11Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-18T00:03:11Z"
+  },
+  {
+    "source_id": "plc_00147",
+    "data": {
+      "id": "plc_00147",
+      "client_id": "client_0040",
+      "candidate_name": "Walter Young",
+      "role_title": "Support Lead",
+      "stage": "sourced",
+      "fee_amount": 9491.13,
+      "created_at": "2026-01-13T14:16:37Z",
+      "updated_at": "2026-01-13T14:16:37Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-01-13T14:16:37Z"
+  },
+  {
+    "source_id": "plc_00148",
+    "data": {
+      "id": "plc_00148",
+      "client_id": "client_0100",
+      "candidate_name": "Walter Gauss",
+      "role_title": "Line Cook",
+      "stage": "offered",
+      "fee_amount": 11628.12,
+      "created_at": "2026-02-02T02:53:56Z",
+      "updated_at": "2026-02-02T02:53:56Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-02T02:53:56Z"
+  },
+  {
+    "source_id": "plc_00149",
+    "data": {
+      "id": "plc_00149",
+      "client_id": "client_0180",
+      "candidate_name": "Walter Feynman",
+      "role_title": "Warehouse Supervisor",
+      "stage": "interviewing",
+      "fee_amount": 4624.88,
+      "created_at": "2025-11-22T10:09:53Z",
+      "updated_at": "2025-11-22T10:09:53Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-11-22T10:09:53Z"
+  },
+  {
+    "source_id": "plc_00150",
+    "data": {
+      "id": "plc_00150",
+      "client_id": "client_0001",
+      "candidate_name": "Hedy Dirac",
+      "role_title": "Warehouse Supervisor",
+      "stage": "sourced",
+      "fee_amount": 10478.54,
+      "created_at": "2026-01-28T23:16:40Z",
+      "updated_at": "2026-01-28T23:16:40Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-01-28T23:16:40Z"
+  },
+  {
+    "source_id": "plc_00151",
+    "data": {
+      "id": "plc_00151",
+      "client_id": "client_0088",
+      "candidate_name": "Vera Hopper",
+      "role_title": "Electrician",
+      "stage": "submitted",
+      "fee_amount": 2070.92,
+      "created_at": "2026-02-14T01:11:00Z",
+      "updated_at": "2026-02-14T01:11:00Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-14T01:11:00Z"
+  },
+  {
+    "source_id": "plc_00152",
+    "data": {
+      "id": "plc_00152",
+      "client_id": "client_0292",
+      "candidate_name": "Oliver Curie",
+      "role_title": "Registered Nurse",
+      "stage": "placed",
+      "fee_amount": 9400.16,
+      "created_at": "2026-02-11T05:19:45Z",
+      "updated_at": "2026-02-11T05:19:45Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-11T05:19:45Z"
+  },
+  {
+    "source_id": "plc_00153",
+    "data": {
+      "id": "plc_00153",
+      "client_id": "client_0298",
+      "candidate_name": "Peggy Turing",
+      "role_title": "Financial Analyst",
+      "stage": "offered",
+      "fee_amount": 6553.64,
+      "created_at": "2026-03-23T02:18:13Z",
+      "updated_at": "2026-03-23T02:18:13Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-23T02:18:13Z"
+  },
+  {
+    "source_id": "plc_00154",
+    "data": {
+      "id": "plc_00154",
+      "client_id": "client_0067",
+      "candidate_name": "Sophie Wright",
+      "role_title": "Machinist",
+      "stage": "placed",
+      "fee_amount": 1675.45,
+      "created_at": "2025-12-21T09:11:38Z",
+      "updated_at": "2025-12-21T09:11:38Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-12-21T09:11:38Z"
+  },
+  {
+    "source_id": "plc_00155",
+    "data": {
+      "id": "plc_00155",
+      "client_id": "client_0226",
+      "candidate_name": "Oliver Tesla",
+      "role_title": "Support Lead",
+      "stage": "submitted",
+      "fee_amount": 7976.48,
+      "created_at": "2026-02-27T22:46:43Z",
+      "updated_at": "2026-02-27T22:46:43Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-27T22:46:43Z"
+  },
+  {
+    "source_id": "plc_00156",
+    "data": {
+      "id": "plc_00156",
+      "client_id": "client_0143",
+      "candidate_name": "Isaac Wright",
+      "role_title": "Line Cook",
+      "stage": "sourced",
+      "fee_amount": 2732.13,
+      "created_at": "2025-11-21T07:57:14Z",
+      "updated_at": "2025-11-21T07:57:14Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-11-21T07:57:14Z"
+  },
+  {
+    "source_id": "plc_00157",
+    "data": {
+      "id": "plc_00157",
+      "client_id": "client_0063",
+      "candidate_name": "Isaac Dirac",
+      "role_title": "DevOps Engineer",
+      "stage": "fell_through",
+      "fee_amount": 3684.03,
+      "created_at": "2026-01-19T22:14:33Z",
+      "updated_at": "2026-01-19T22:14:33Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-01-19T22:14:33Z"
+  },
+  {
+    "source_id": "plc_00158",
+    "data": {
+      "id": "plc_00158",
+      "client_id": "client_0228",
+      "candidate_name": "Jean Noether",
+      "role_title": "QA Analyst",
+      "stage": "submitted",
+      "fee_amount": 7530.86,
+      "created_at": "2025-10-14T20:15:35Z",
+      "updated_at": "2025-10-14T20:15:35Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-10-14T20:15:35Z"
+  },
+  {
+    "source_id": "plc_00159",
+    "data": {
+      "id": "plc_00159",
+      "client_id": "client_0059",
+      "candidate_name": "Grace Shannon",
+      "role_title": "QA Analyst",
+      "stage": "sourced",
+      "fee_amount": 4053.68,
+      "created_at": "2025-11-27T04:53:14Z",
+      "updated_at": "2025-11-27T04:53:14Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-11-27T04:53:14Z"
+  },
+  {
+    "source_id": "plc_00160",
+    "data": {
+      "id": "plc_00160",
+      "client_id": "client_0109",
+      "candidate_name": "Ada Young",
+      "role_title": "Financial Analyst",
+      "stage": "submitted",
+      "fee_amount": 8587.79,
+      "created_at": "2026-01-30T15:50:01Z",
+      "updated_at": "2026-01-30T15:50:01Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-01-30T15:50:01Z"
+  },
+  {
+    "source_id": "plc_00161",
+    "data": {
+      "id": "plc_00161",
+      "client_id": "client_0027",
+      "candidate_name": "Peggy Turing",
+      "role_title": "Solutions Architect",
+      "stage": "interviewing",
+      "fee_amount": 8296.11,
+      "created_at": "2025-11-23T05:31:16Z",
+      "updated_at": "2025-11-23T05:31:16Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-11-23T05:31:16Z"
+  },
+  {
+    "source_id": "plc_00162",
+    "data": {
+      "id": "plc_00162",
+      "client_id": "client_0215",
+      "candidate_name": "Jean Curie",
+      "role_title": "Financial Analyst",
+      "stage": "interviewing",
+      "fee_amount": 8728.41,
+      "created_at": "2025-11-05T06:58:51Z",
+      "updated_at": "2025-11-05T06:58:51Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-11-05T06:58:51Z"
+  },
+  {
+    "source_id": "plc_00163",
+    "data": {
+      "id": "plc_00163",
+      "client_id": "client_0154",
+      "candidate_name": "Dorothy Ramanujan",
+      "role_title": "Electrician",
+      "stage": "interviewing",
+      "fee_amount": 2057.91,
+      "created_at": "2025-11-09T00:36:17Z",
+      "updated_at": "2025-11-09T00:36:17Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-11-09T00:36:17Z"
+  },
+  {
+    "source_id": "plc_00164",
+    "data": {
+      "id": "plc_00164",
+      "client_id": "client_0001",
+      "candidate_name": "Marie Dirac",
+      "role_title": "UX Designer",
+      "stage": "submitted",
+      "fee_amount": 6053.34,
+      "created_at": "2026-03-13T21:10:58Z",
+      "updated_at": "2026-03-13T21:10:58Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-13T21:10:58Z"
+  },
+  {
+    "source_id": "plc_00165",
+    "data": {
+      "id": "plc_00165",
+      "client_id": "client_0128",
+      "candidate_name": "Nikola Dirac",
+      "role_title": "Product Manager",
+      "stage": "interviewing",
+      "fee_amount": 5058.79,
+      "created_at": "2026-03-21T12:57:53Z",
+      "updated_at": "2026-03-21T12:57:53Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-21T12:57:53Z"
+  },
+  {
+    "source_id": "plc_00166",
+    "data": {
+      "id": "plc_00166",
+      "client_id": "client_0278",
+      "candidate_name": "Dorothy Hopper",
+      "role_title": "Data Scientist",
+      "stage": "fell_through",
+      "fee_amount": 2782.92,
+      "created_at": "2025-12-27T23:09:12Z",
+      "updated_at": "2025-12-27T23:09:12Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-12-27T23:09:12Z"
+  },
+  {
+    "source_id": "plc_00167",
+    "data": {
+      "id": "plc_00167",
+      "client_id": "client_0129",
+      "candidate_name": "Tim Lovelace",
+      "role_title": "Solutions Architect",
+      "stage": "interviewing",
+      "fee_amount": 2779.08,
+      "created_at": "2026-03-25T07:50:17Z",
+      "updated_at": "2026-03-25T07:50:17Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-25T07:50:17Z"
+  },
+  {
+    "source_id": "plc_00168",
+    "data": {
+      "id": "plc_00168",
+      "client_id": "client_0037",
+      "candidate_name": "Hedy Zuse",
+      "role_title": "Solutions Architect",
+      "stage": "placed",
+      "fee_amount": 8419.14,
+      "created_at": "2026-02-11T11:12:32Z",
+      "updated_at": "2026-02-11T11:12:32Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-11T11:12:32Z"
+  },
+  {
+    "source_id": "plc_00169",
+    "data": {
+      "id": "plc_00169",
+      "client_id": "client_0270",
+      "candidate_name": "Zelda Dirac",
+      "role_title": "Software Engineer",
+      "stage": "submitted",
+      "fee_amount": 7868.88,
+      "created_at": "2025-10-11T01:30:36Z",
+      "updated_at": "2025-10-11T01:30:36Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-10-11T01:30:36Z"
+  },
+  {
+    "source_id": "plc_00170",
+    "data": {
+      "id": "plc_00170",
+      "client_id": "client_0155",
+      "candidate_name": "Isaac Lovelace",
+      "role_title": "Machinist",
+      "stage": "interviewing",
+      "fee_amount": 10401.02,
+      "created_at": "2026-01-11T06:06:52Z",
+      "updated_at": "2026-01-11T06:06:52Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-01-11T06:06:52Z"
+  },
+  {
+    "source_id": "plc_00171",
+    "data": {
+      "id": "plc_00171",
+      "client_id": "client_0100",
+      "candidate_name": "Oliver Pascal",
+      "role_title": "Registered Nurse",
+      "stage": "offered",
+      "fee_amount": 5481.69,
+      "created_at": "2026-02-16T09:42:46Z",
+      "updated_at": "2026-02-16T09:42:46Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-16T09:42:46Z"
+  },
+  {
+    "source_id": "plc_00172",
+    "data": {
+      "id": "plc_00172",
+      "client_id": "client_0273",
+      "candidate_name": "Emmy Curie",
+      "role_title": "Electrician",
+      "stage": "fell_through",
+      "fee_amount": 11686.58,
+      "created_at": "2025-10-14T07:13:00Z",
+      "updated_at": "2025-10-14T07:13:00Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-10-14T07:13:00Z"
+  },
+  {
+    "source_id": "plc_00173",
+    "data": {
+      "id": "plc_00173",
+      "client_id": "client_0170",
+      "candidate_name": "Xavier Wright",
+      "role_title": "Support Lead",
+      "stage": "interviewing",
+      "fee_amount": 7986.53,
+      "created_at": "2026-02-09T21:09:16Z",
+      "updated_at": "2026-02-09T21:09:16Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-09T21:09:16Z"
+  },
+  {
+    "source_id": "plc_00174",
+    "data": {
+      "id": "plc_00174",
+      "client_id": "client_0272",
+      "candidate_name": "Peggy Gauss",
+      "role_title": "Financial Analyst",
+      "stage": "interviewing",
+      "fee_amount": 2148.53,
+      "created_at": "2025-10-31T09:37:51Z",
+      "updated_at": "2025-10-31T09:37:51Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-10-31T09:37:51Z"
+  },
+  {
+    "source_id": "plc_00175",
+    "data": {
+      "id": "plc_00175",
+      "client_id": "client_0297",
+      "candidate_name": "Sophie Lovelace",
+      "role_title": "Warehouse Supervisor",
+      "stage": "interviewing",
+      "fee_amount": 10768.03,
+      "created_at": "2025-10-24T06:33:36Z",
+      "updated_at": "2025-10-24T06:33:36Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-10-24T06:33:36Z"
+  },
+  {
+    "source_id": "plc_00176",
+    "data": {
+      "id": "plc_00176",
+      "client_id": "client_0156",
+      "candidate_name": "Linus Xu",
+      "role_title": "UX Designer",
+      "stage": "placed",
+      "fee_amount": 5786.64,
+      "created_at": "2026-03-16T21:03:52Z",
+      "updated_at": "2026-03-16T21:03:52Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-16T21:03:52Z"
+  },
+  {
+    "source_id": "plc_00177",
+    "data": {
+      "id": "plc_00177",
+      "client_id": "client_0190",
+      "candidate_name": "Ursula Zuse",
+      "role_title": "Product Manager",
+      "stage": "interviewing",
+      "fee_amount": 8819.7,
+      "created_at": "2026-03-18T06:48:31Z",
+      "updated_at": "2026-03-18T06:48:31Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-18T06:48:31Z"
+  },
+  {
+    "source_id": "plc_00178",
+    "data": {
+      "id": "plc_00178",
+      "client_id": "client_0035",
+      "candidate_name": "Tim Shannon",
+      "role_title": "Electrician",
+      "stage": "offered",
+      "fee_amount": 8819.37,
+      "created_at": "2026-02-24T10:19:36Z",
+      "updated_at": "2026-02-24T10:19:36Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-24T10:19:36Z"
+  },
+  {
+    "source_id": "plc_00179",
+    "data": {
+      "id": "plc_00179",
+      "client_id": "client_0109",
+      "candidate_name": "Oliver Lovelace",
+      "role_title": "Software Engineer",
+      "stage": "interviewing",
+      "fee_amount": 4224.24,
+      "created_at": "2026-01-24T17:57:40Z",
+      "updated_at": "2026-01-24T17:57:40Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-01-24T17:57:40Z"
+  },
+  {
+    "source_id": "plc_00180",
+    "data": {
+      "id": "plc_00180",
+      "client_id": "client_0278",
+      "candidate_name": "Walter Ramanujan",
+      "role_title": "Product Manager",
+      "stage": "placed",
+      "fee_amount": 6671.31,
+      "created_at": "2025-12-06T21:55:50Z",
+      "updated_at": "2025-12-06T21:55:50Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-12-06T21:55:50Z"
+  },
+  {
+    "source_id": "plc_00181",
+    "data": {
+      "id": "plc_00181",
+      "client_id": "client_0099",
+      "candidate_name": "Marie Tesla",
+      "role_title": "Account Executive",
+      "stage": "fell_through",
+      "fee_amount": 4051.03,
+      "created_at": "2025-12-15T06:36:45Z",
+      "updated_at": "2025-12-15T06:36:45Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-12-15T06:36:45Z"
+  },
+  {
+    "source_id": "plc_00182",
+    "data": {
+      "id": "plc_00182",
+      "client_id": "client_0200",
+      "candidate_name": "Nikola Hopper",
+      "role_title": "Product Manager",
+      "stage": "submitted",
+      "fee_amount": 5814.91,
+      "created_at": "2026-03-23T08:26:09Z",
+      "updated_at": "2026-03-23T08:26:09Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-23T08:26:09Z"
+  },
+  {
+    "source_id": "plc_00183",
+    "data": {
+      "id": "plc_00183",
+      "client_id": "client_0215",
+      "candidate_name": "Ada Lovelace",
+      "role_title": "QA Analyst",
+      "stage": "sourced",
+      "fee_amount": 6965.16,
+      "created_at": "2026-01-03T11:43:43Z",
+      "updated_at": "2026-01-03T11:43:43Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-01-03T11:43:43Z"
+  },
+  {
+    "source_id": "plc_00184",
+    "data": {
+      "id": "plc_00184",
+      "client_id": "client_0176",
+      "candidate_name": "Marie Feynman",
+      "role_title": "Warehouse Supervisor",
+      "stage": "offered",
+      "fee_amount": 6240.14,
+      "created_at": "2026-03-07T07:59:51Z",
+      "updated_at": "2026-03-07T07:59:51Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-07T07:59:51Z"
+  },
+  {
+    "source_id": "plc_00185",
+    "data": {
+      "id": "plc_00185",
+      "client_id": "client_0049",
+      "candidate_name": "Yvonne Noether",
+      "role_title": "Warehouse Supervisor",
+      "stage": "fell_through",
+      "fee_amount": 3411.14,
+      "created_at": "2026-03-06T05:11:41Z",
+      "updated_at": "2026-03-06T05:11:41Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-06T05:11:41Z"
+  },
+  {
+    "source_id": "plc_00186",
+    "data": {
+      "id": "plc_00186",
+      "client_id": "client_0087",
+      "candidate_name": "Blaise Shannon",
+      "role_title": "Financial Analyst",
+      "stage": "placed",
+      "fee_amount": 3096.7,
+      "created_at": "2025-12-16T07:47:31Z",
+      "updated_at": "2025-12-16T07:47:31Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-12-16T07:47:31Z"
+  },
+  {
+    "source_id": "plc_00187",
+    "data": {
+      "id": "plc_00187",
+      "client_id": "client_0040",
+      "candidate_name": "Xavier Ramanujan",
+      "role_title": "DevOps Engineer",
+      "stage": "offered",
+      "fee_amount": 2390.91,
+      "created_at": "2026-02-09T14:45:26Z",
+      "updated_at": "2026-02-09T14:45:26Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-09T14:45:26Z"
+  },
+  {
+    "source_id": "plc_00188",
+    "data": {
+      "id": "plc_00188",
+      "client_id": "client_0007",
+      "candidate_name": "Peggy Dirac",
+      "role_title": "Electrician",
+      "stage": "submitted",
+      "fee_amount": 11776.93,
+      "created_at": "2026-02-05T20:53:34Z",
+      "updated_at": "2026-02-05T20:53:34Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-05T20:53:34Z"
+  },
+  {
+    "source_id": "plc_00189",
+    "data": {
+      "id": "plc_00189",
+      "client_id": "client_0053",
+      "candidate_name": "Dorothy Zuse",
+      "role_title": "Machinist",
+      "stage": "sourced",
+      "fee_amount": 8012.97,
+      "created_at": "2025-11-08T13:35:39Z",
+      "updated_at": "2025-11-08T13:35:39Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-11-08T13:35:39Z"
+  },
+  {
+    "source_id": "plc_00190",
+    "data": {
+      "id": "plc_00190",
+      "client_id": "client_0015",
+      "candidate_name": "Vera Turing",
+      "role_title": "Support Lead",
+      "stage": "offered",
+      "fee_amount": 11246.82,
+      "created_at": "2025-10-28T05:23:51Z",
+      "updated_at": "2025-10-28T05:23:51Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-10-28T05:23:51Z"
+  },
+  {
+    "source_id": "plc_00191",
+    "data": {
+      "id": "plc_00191",
+      "client_id": "client_0216",
+      "candidate_name": "Peggy Ramanujan",
+      "role_title": "Machinist",
+      "stage": "placed",
+      "fee_amount": 2869.45,
+      "created_at": "2026-01-08T12:27:33Z",
+      "updated_at": "2026-01-08T12:27:33Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-01-08T12:27:33Z"
+  },
+  {
+    "source_id": "plc_00192",
+    "data": {
+      "id": "plc_00192",
+      "client_id": "client_0048",
+      "candidate_name": "Katherine Ramanujan",
+      "role_title": "Warehouse Supervisor",
+      "stage": "submitted",
+      "fee_amount": 11197.05,
+      "created_at": "2026-03-15T09:05:16Z",
+      "updated_at": "2026-03-15T09:05:16Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-15T09:05:16Z"
+  },
+  {
+    "source_id": "plc_00193",
+    "data": {
+      "id": "plc_00193",
+      "client_id": "client_0054",
+      "candidate_name": "Marie Noether",
+      "role_title": "Account Executive",
+      "stage": "submitted",
+      "fee_amount": 2520.84,
+      "created_at": "2026-03-25T02:18:24Z",
+      "updated_at": "2026-03-25T02:18:24Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-25T02:18:24Z"
+  },
+  {
+    "source_id": "plc_00194",
+    "data": {
+      "id": "plc_00194",
+      "client_id": "client_0285",
+      "candidate_name": "Marie Zuse",
+      "role_title": "DevOps Engineer",
+      "stage": "submitted",
+      "fee_amount": 10252.52,
+      "created_at": "2026-03-29T22:08:40Z",
+      "updated_at": "2026-03-29T22:08:40Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-29T22:08:40Z"
+  },
+  {
+    "source_id": "plc_00195",
+    "data": {
+      "id": "plc_00195",
+      "client_id": "client_0057",
+      "candidate_name": "Richard Hopper",
+      "role_title": "Account Executive",
+      "stage": "offered",
+      "fee_amount": 4099.44,
+      "created_at": "2026-02-05T16:23:19Z",
+      "updated_at": "2026-02-05T16:23:19Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-05T16:23:19Z"
+  },
+  {
+    "source_id": "plc_00196",
+    "data": {
+      "id": "plc_00196",
+      "client_id": "client_0190",
+      "candidate_name": "Blaise Hopper",
+      "role_title": "Line Cook",
+      "stage": "offered",
+      "fee_amount": 5430.36,
+      "created_at": "2025-12-19T12:55:25Z",
+      "updated_at": "2025-12-19T12:55:25Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-12-19T12:55:25Z"
+  },
+  {
+    "source_id": "plc_00197",
+    "data": {
+      "id": "plc_00197",
+      "client_id": "client_0263",
+      "candidate_name": "Blaise Noether",
+      "role_title": "Software Engineer",
+      "stage": "interviewing",
+      "fee_amount": 5966.37,
+      "created_at": "2026-03-03T07:07:39Z",
+      "updated_at": "2026-03-03T07:07:39Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-03-03T07:07:39Z"
+  },
+  {
+    "source_id": "plc_00198",
+    "data": {
+      "id": "plc_00198",
+      "client_id": "client_0100",
+      "candidate_name": "Grace Dirac",
+      "role_title": "Machinist",
+      "stage": "offered",
+      "fee_amount": 4647.0,
+      "created_at": "2025-10-09T00:53:58Z",
+      "updated_at": "2025-10-09T00:53:58Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-10-09T00:53:58Z"
+  },
+  {
+    "source_id": "plc_00199",
+    "data": {
+      "id": "plc_00199",
+      "client_id": "client_0181",
+      "candidate_name": "Katherine Young",
+      "role_title": "Registered Nurse",
+      "stage": "fell_through",
+      "fee_amount": 7105.72,
+      "created_at": "2025-12-11T11:23:16Z",
+      "updated_at": "2025-12-11T11:23:16Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2025-12-11T11:23:16Z"
+  },
+  {
+    "source_id": "plc_00200",
+    "data": {
+      "id": "plc_00200",
+      "client_id": "client_0255",
+      "candidate_name": "Zelda Tesla",
+      "role_title": "Solutions Architect",
+      "stage": "sourced",
+      "fee_amount": 9143.49,
+      "created_at": "2026-02-20T17:08:17Z",
+      "updated_at": "2026-02-20T17:08:17Z",
+      "is_deleted": false
+    },
+    "is_deleted": false,
+    "updated_at": "2026-02-20T17:08:17Z"
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {"ts": 0, "method": "POST", "path": "/rest/candidates/cand_1/notes", "body": {"body": "hello"}, "idempotency_key": "key-1", "status": 201},
+  {"ts": 5, "method": "POST", "path": "/rest/candidates/cand_1/notes", "body": {"body": "hello"}, "idempotency_key": null, "status": 201},
+
+  {"ts": 10, "method": "POST", "path": "/rest/candidates/cand_2/notes", "body": {"body": "world"}, "idempotency_key": "key-2", "status": 201},
+  {"ts": 15, "method": "POST", "path": "/rest/candidates/cand_2/notes", "body": {"body": "world"}, "idempotency_key": "key-2", "status": 201}
+]

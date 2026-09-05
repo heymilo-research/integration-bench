@@ -1,0 +1,1817 @@
+[
+  {
+    "data": {
+      "created_ts": 1773473400,
+      "email": "nikola.tesla@hey.test",
+      "full_name": "Nikola Tesla",
+      "id": "cand_0001",
+      "is_deleted": false,
+      "phone": "+1-555-5051",
+      "stage": "hired",
+      "updated_ts": 1773473400
+    },
+    "is_deleted": false,
+    "source_id": "cand_0001",
+    "updated_at": 1773473400
+  },
+  {
+    "data": {
+      "created_ts": 1773473460,
+      "email": "yvonne.vonneumann@inbox.test",
+      "full_name": "Yvonne Von Neumann",
+      "id": "cand_0002",
+      "is_deleted": false,
+      "phone": "+1-555-7376",
+      "stage": "rejected",
+      "updated_ts": 1773473460
+    },
+    "is_deleted": false,
+    "source_id": "cand_0002",
+    "updated_at": 1773473460
+  },
+  {
+    "data": {
+      "created_ts": 1773473520,
+      "email": "dorothy.ramanujan@inbox.test",
+      "full_name": "Dorothy Ramanujan",
+      "id": "cand_0003",
+      "is_deleted": false,
+      "phone": "+1-555-6573",
+      "stage": "new",
+      "updated_ts": 1773473520
+    },
+    "is_deleted": false,
+    "source_id": "cand_0003",
+    "updated_at": 1773473520
+  },
+  {
+    "data": {
+      "created_ts": 1773473580,
+      "email": "katherine.dirac@example.test",
+      "full_name": "Katherine Dirac",
+      "id": "cand_0004",
+      "is_deleted": false,
+      "phone": "+1-555-7583",
+      "stage": "hired",
+      "updated_ts": 1773473580
+    },
+    "is_deleted": false,
+    "source_id": "cand_0004",
+    "updated_at": 1773473580
+  },
+  {
+    "data": {
+      "created_ts": 1773473640,
+      "email": "walter.xu@inbox.test",
+      "full_name": "Walter Xu",
+      "id": "cand_0005",
+      "is_deleted": false,
+      "phone": "+1-555-3972",
+      "stage": "new",
+      "updated_ts": 1773473640
+    },
+    "is_deleted": false,
+    "source_id": "cand_0005",
+    "updated_at": 1773473640
+  },
+  {
+    "data": {
+      "created_ts": 1773473700,
+      "email": "grace.shannon@inbox.test",
+      "full_name": "Grace Shannon",
+      "id": "cand_0006",
+      "is_deleted": false,
+      "phone": "+1-555-8275",
+      "stage": "submitted",
+      "updated_ts": 1773473700
+    },
+    "is_deleted": false,
+    "source_id": "cand_0006",
+    "updated_at": 1773473700
+  },
+  {
+    "data": {
+      "created_ts": 1773473760,
+      "email": "sophie.einstein@inbox.test",
+      "full_name": "Sophie Einstein",
+      "id": "cand_0007",
+      "is_deleted": false,
+      "phone": "+1-555-2279",
+      "stage": "submitted",
+      "updated_ts": 1773473760
+    },
+    "is_deleted": false,
+    "source_id": "cand_0007",
+    "updated_at": 1773473760
+  },
+  {
+    "data": {
+      "created_ts": 1773473820,
+      "email": "isaac.young@inbox.test",
+      "full_name": "Isaac Young",
+      "id": "cand_0008",
+      "is_deleted": false,
+      "phone": "+1-555-3255",
+      "stage": "hired",
+      "updated_ts": 1773473820
+    },
+    "is_deleted": false,
+    "source_id": "cand_0008",
+    "updated_at": 1773473820
+  },
+  {
+    "data": {
+      "created_ts": 1773473880,
+      "email": "hedy.pascal@hey.test",
+      "full_name": "Hedy Pascal",
+      "id": "cand_0009",
+      "is_deleted": false,
+      "phone": "+1-555-9769",
+      "stage": "submitted",
+      "updated_ts": 1773473880
+    },
+    "is_deleted": false,
+    "source_id": "cand_0009",
+    "updated_at": 1773473880
+  },
+  {
+    "data": {
+      "created_ts": 1773473940,
+      "email": "walter.ramanujan@inbox.test",
+      "full_name": "Walter Ramanujan",
+      "id": "cand_0010",
+      "is_deleted": false,
+      "phone": "+1-555-7741",
+      "stage": "submitted",
+      "updated_ts": 1773473940
+    },
+    "is_deleted": false,
+    "source_id": "cand_0010",
+    "updated_at": 1773473940
+  },
+  {
+    "data": {
+      "created_ts": 1773474000,
+      "email": "nikola.hopper@mail.test",
+      "full_name": "Nikola Hopper",
+      "id": "cand_0011",
+      "is_deleted": false,
+      "phone": "+1-555-4431",
+      "stage": "hired",
+      "updated_ts": 1773474000
+    },
+    "is_deleted": false,
+    "source_id": "cand_0011",
+    "updated_at": 1773474000
+  },
+  {
+    "data": {
+      "created_ts": 1773474060,
+      "email": "xavier.zuse@inbox.test",
+      "full_name": "Xavier Zuse",
+      "id": "cand_0012",
+      "is_deleted": false,
+      "phone": "+1-555-5661",
+      "stage": "offer",
+      "updated_ts": 1773474060
+    },
+    "is_deleted": false,
+    "source_id": "cand_0012",
+    "updated_at": 1773474060
+  },
+  {
+    "data": {
+      "created_ts": 1773474120,
+      "email": "emmy.tesla@inbox.test",
+      "full_name": "Emmy Tesla",
+      "id": "cand_0013",
+      "is_deleted": false,
+      "phone": "+1-555-7819",
+      "stage": "hired",
+      "updated_ts": 1773474120
+    },
+    "is_deleted": false,
+    "source_id": "cand_0013",
+    "updated_at": 1773474120
+  },
+  {
+    "data": {
+      "created_ts": 1773474180,
+      "email": "hedy.young@inbox.test",
+      "full_name": "Hedy Young",
+      "id": "cand_0014",
+      "is_deleted": false,
+      "phone": "+1-555-2344",
+      "stage": "offer",
+      "updated_ts": 1773474180
+    },
+    "is_deleted": false,
+    "source_id": "cand_0014",
+    "updated_at": 1773474180
+  },
+  {
+    "data": {
+      "created_ts": 1773474240,
+      "email": "emmy.pascal@inbox.test",
+      "full_name": "Emmy Pascal",
+      "id": "cand_0015",
+      "is_deleted": false,
+      "phone": "+1-555-1114",
+      "stage": "hired",
+      "updated_ts": 1773474240
+    },
+    "is_deleted": false,
+    "source_id": "cand_0015",
+    "updated_at": 1773474240
+  },
+  {
+    "data": {
+      "created_ts": 1773474300,
+      "email": "richard.zuse@example.test",
+      "full_name": "Richard Zuse",
+      "id": "cand_0016",
+      "is_deleted": false,
+      "phone": "+1-555-9364",
+      "stage": "rejected",
+      "updated_ts": 1773474300
+    },
+    "is_deleted": false,
+    "source_id": "cand_0016",
+    "updated_at": 1773474300
+  },
+  {
+    "data": {
+      "created_ts": 1773474360,
+      "email": "zelda.young@inbox.test",
+      "full_name": "Zelda Young",
+      "id": "cand_0017",
+      "is_deleted": true,
+      "phone": "+1-555-6993",
+      "stage": "hired",
+      "updated_ts": 1773482445
+    },
+    "is_deleted": true,
+    "source_id": "cand_0017",
+    "updated_at": 1773482445
+  },
+  {
+    "data": {
+      "created_ts": 1773474420,
+      "email": "dorothy.dirac@mail.test",
+      "full_name": "Dorothy Dirac",
+      "id": "cand_0018",
+      "is_deleted": false,
+      "phone": "+1-555-1391",
+      "stage": "offer",
+      "updated_ts": 1773474420
+    },
+    "is_deleted": false,
+    "source_id": "cand_0018",
+    "updated_at": 1773474420
+  },
+  {
+    "data": {
+      "created_ts": 1773474480,
+      "email": "ada.lovelace@example.test",
+      "full_name": "Ada Lovelace",
+      "id": "cand_0019",
+      "is_deleted": false,
+      "phone": "+1-555-2973",
+      "stage": "screening",
+      "updated_ts": 1773474480
+    },
+    "is_deleted": false,
+    "source_id": "cand_0019",
+    "updated_at": 1773474480
+  },
+  {
+    "data": {
+      "created_ts": 1773474540,
+      "email": "florence.zuse@example.test",
+      "full_name": "Florence Zuse",
+      "id": "cand_0020",
+      "is_deleted": false,
+      "phone": "+1-555-1728",
+      "stage": "screening",
+      "updated_ts": 1773474540
+    },
+    "is_deleted": false,
+    "source_id": "cand_0020",
+    "updated_at": 1773474540
+  },
+  {
+    "data": {
+      "created_ts": 1773474600,
+      "email": "emmy.tesla@inbox.test",
+      "full_name": "Emmy Tesla",
+      "id": "cand_0021",
+      "is_deleted": false,
+      "phone": "+1-555-3731",
+      "stage": "offer",
+      "updated_ts": 1773474600
+    },
+    "is_deleted": false,
+    "source_id": "cand_0021",
+    "updated_at": 1773474600
+  },
+  {
+    "data": {
+      "created_ts": 1773474660,
+      "email": "ursula.ramanujan@inbox.test",
+      "full_name": "Ursula Ramanujan",
+      "id": "cand_0022",
+      "is_deleted": false,
+      "phone": "+1-555-4783",
+      "stage": "hired",
+      "updated_ts": 1773474660
+    },
+    "is_deleted": false,
+    "source_id": "cand_0022",
+    "updated_at": 1773474660
+  },
+  {
+    "data": {
+      "created_ts": 1773474720,
+      "email": "hedy.hopper@mail.test",
+      "full_name": "Hedy Hopper",
+      "id": "cand_0023",
+      "is_deleted": false,
+      "phone": "+1-555-6294",
+      "stage": "screening",
+      "updated_ts": 1773474720
+    },
+    "is_deleted": false,
+    "source_id": "cand_0023",
+    "updated_at": 1773474720
+  },
+  {
+    "data": {
+      "created_ts": 1773474780,
+      "email": "ursula.zuse@hey.test",
+      "full_name": "Ursula Zuse",
+      "id": "cand_0024",
+      "is_deleted": false,
+      "phone": "+1-555-3550",
+      "stage": "rejected",
+      "updated_ts": 1773474780
+    },
+    "is_deleted": false,
+    "source_id": "cand_0024",
+    "updated_at": 1773474780
+  },
+  {
+    "data": {
+      "created_ts": 1773474840,
+      "email": "hedy.young@inbox.test",
+      "full_name": "Hedy Young",
+      "id": "cand_0025",
+      "is_deleted": false,
+      "phone": "+1-555-6407",
+      "stage": "rejected",
+      "updated_ts": 1773474840
+    },
+    "is_deleted": false,
+    "source_id": "cand_0025",
+    "updated_at": 1773474840
+  },
+  {
+    "data": {
+      "created_ts": 1773474900,
+      "email": "grace.curie@inbox.test",
+      "full_name": "Grace Curie",
+      "id": "cand_0026",
+      "is_deleted": false,
+      "phone": "+1-555-6324",
+      "stage": "new",
+      "updated_ts": 1773474900
+    },
+    "is_deleted": false,
+    "source_id": "cand_0026",
+    "updated_at": 1773474900
+  },
+  {
+    "data": {
+      "created_ts": 1773474960,
+      "email": "charles.hopper@inbox.test",
+      "full_name": "Charles Hopper",
+      "id": "cand_0027",
+      "is_deleted": false,
+      "phone": "+1-555-1833",
+      "stage": "submitted",
+      "updated_ts": 1773474960
+    },
+    "is_deleted": false,
+    "source_id": "cand_0027",
+    "updated_at": 1773474960
+  },
+  {
+    "data": {
+      "created_ts": 1773475020,
+      "email": "vera.feynman@inbox.test",
+      "full_name": "Vera Feynman",
+      "id": "cand_0028",
+      "is_deleted": false,
+      "phone": "+1-555-7524",
+      "stage": "screening",
+      "updated_ts": 1773475020
+    },
+    "is_deleted": false,
+    "source_id": "cand_0028",
+    "updated_at": 1773475020
+  },
+  {
+    "data": {
+      "created_ts": 1773475080,
+      "email": "florence.turing@hey.test",
+      "full_name": "Florence Turing",
+      "id": "cand_0029",
+      "is_deleted": false,
+      "phone": "+1-555-1202",
+      "stage": "offer",
+      "updated_ts": 1773475080
+    },
+    "is_deleted": false,
+    "source_id": "cand_0029",
+    "updated_at": 1773475080
+  },
+  {
+    "data": {
+      "created_ts": 1773475140,
+      "email": "jean.young@inbox.test",
+      "full_name": "Jean Young",
+      "id": "cand_0030",
+      "is_deleted": false,
+      "phone": "+1-555-8422",
+      "stage": "screening",
+      "updated_ts": 1773475140
+    },
+    "is_deleted": false,
+    "source_id": "cand_0030",
+    "updated_at": 1773475140
+  },
+  {
+    "data": {
+      "created_ts": 1773475200,
+      "email": "grace.gauss@inbox.test",
+      "full_name": "Grace Gauss",
+      "id": "cand_0031",
+      "is_deleted": false,
+      "phone": "+1-555-2826",
+      "stage": "hired",
+      "updated_ts": 1773475200
+    },
+    "is_deleted": false,
+    "source_id": "cand_0031",
+    "updated_at": 1773475200
+  },
+  {
+    "data": {
+      "created_ts": 1773475260,
+      "email": "charles.wright@inbox.test",
+      "full_name": "Charles Wright",
+      "id": "cand_0032",
+      "is_deleted": false,
+      "phone": "+1-555-5244",
+      "stage": "rejected",
+      "updated_ts": 1773475260
+    },
+    "is_deleted": false,
+    "source_id": "cand_0032",
+    "updated_at": 1773475260
+  },
+  {
+    "data": {
+      "created_ts": 1773475320,
+      "email": "oliver.shannon@inbox.test",
+      "full_name": "Oliver Shannon",
+      "id": "cand_0033",
+      "is_deleted": false,
+      "phone": "+1-555-3630",
+      "stage": "new",
+      "updated_ts": 1773475320
+    },
+    "is_deleted": false,
+    "source_id": "cand_0033",
+    "updated_at": 1773475320
+  },
+  {
+    "data": {
+      "created_ts": 1773475380,
+      "email": "yvonne.tesla@example.test",
+      "full_name": "Yvonne Tesla",
+      "id": "cand_0034",
+      "is_deleted": false,
+      "phone": "+1-555-1314",
+      "stage": "offer",
+      "updated_ts": 1773475380
+    },
+    "is_deleted": false,
+    "source_id": "cand_0034",
+    "updated_at": 1773475380
+  },
+  {
+    "data": {
+      "created_ts": 1773475440,
+      "email": "yvonne.feynman@example.test",
+      "full_name": "Yvonne Feynman",
+      "id": "cand_0035",
+      "is_deleted": false,
+      "phone": "+1-555-6391",
+      "stage": "hired",
+      "updated_ts": 1773475440
+    },
+    "is_deleted": false,
+    "source_id": "cand_0035",
+    "updated_at": 1773475440
+  },
+  {
+    "data": {
+      "created_ts": 1773475500,
+      "email": "florence.curie@inbox.test",
+      "full_name": "Florence Curie",
+      "id": "cand_0036",
+      "is_deleted": false,
+      "phone": "+1-555-6314",
+      "stage": "screening",
+      "updated_ts": 1773475500
+    },
+    "is_deleted": false,
+    "source_id": "cand_0036",
+    "updated_at": 1773475500
+  },
+  {
+    "data": {
+      "created_ts": 1773475560,
+      "email": "emmy.ramanujan@hey.test",
+      "full_name": "Emmy Ramanujan",
+      "id": "cand_0037",
+      "is_deleted": false,
+      "phone": "+1-555-3403",
+      "stage": "new",
+      "updated_ts": 1773475560
+    },
+    "is_deleted": false,
+    "source_id": "cand_0037",
+    "updated_at": 1773475560
+  },
+  {
+    "data": {
+      "created_ts": 1773475620,
+      "email": "linus.zuse@mail.test",
+      "full_name": "Linus Zuse",
+      "id": "cand_0038",
+      "is_deleted": false,
+      "phone": "+1-555-6457",
+      "stage": "submitted",
+      "updated_ts": 1773475620
+    },
+    "is_deleted": false,
+    "source_id": "cand_0038",
+    "updated_at": 1773475620
+  },
+  {
+    "data": {
+      "created_ts": 1773475680,
+      "email": "hedy.dirac@inbox.test",
+      "full_name": "Hedy Dirac",
+      "id": "cand_0039",
+      "is_deleted": false,
+      "phone": "+1-555-6135",
+      "stage": "offer",
+      "updated_ts": 1773475680
+    },
+    "is_deleted": false,
+    "source_id": "cand_0039",
+    "updated_at": 1773475680
+  },
+  {
+    "data": {
+      "created_ts": 1773475740,
+      "email": "linus.babbage@inbox.test",
+      "full_name": "Linus Babbage",
+      "id": "cand_0040",
+      "is_deleted": false,
+      "phone": "+1-555-1738",
+      "stage": "screening",
+      "updated_ts": 1773475740
+    },
+    "is_deleted": false,
+    "source_id": "cand_0040",
+    "updated_at": 1773475740
+  },
+  {
+    "data": {
+      "created_ts": 1773475800,
+      "email": "linus.shannon@hey.test",
+      "full_name": "Linus Shannon",
+      "id": "cand_0041",
+      "is_deleted": false,
+      "phone": "+1-555-3442",
+      "stage": "hired",
+      "updated_ts": 1773475800
+    },
+    "is_deleted": false,
+    "source_id": "cand_0041",
+    "updated_at": 1773475800
+  },
+  {
+    "data": {
+      "created_ts": 1773475860,
+      "email": "ada.dirac@example.test",
+      "full_name": "Ada Dirac",
+      "id": "cand_0042",
+      "is_deleted": false,
+      "phone": "+1-555-0142",
+      "stage": "offer",
+      "updated_ts": 1773482430
+    },
+    "is_deleted": false,
+    "source_id": "cand_0042",
+    "updated_at": 1773482430
+  },
+  {
+    "data": {
+      "created_ts": 1773475920,
+      "email": "florence.hopper@hey.test",
+      "full_name": "Florence Hopper",
+      "id": "cand_0043",
+      "is_deleted": false,
+      "phone": "+1-555-1431",
+      "stage": "new",
+      "updated_ts": 1773475920
+    },
+    "is_deleted": false,
+    "source_id": "cand_0043",
+    "updated_at": 1773475920
+  },
+  {
+    "data": {
+      "created_ts": 1773475980,
+      "email": "grace.turing@inbox.test",
+      "full_name": "Grace Turing",
+      "id": "cand_0044",
+      "is_deleted": false,
+      "phone": "+1-555-2003",
+      "stage": "screening",
+      "updated_ts": 1773475980
+    },
+    "is_deleted": false,
+    "source_id": "cand_0044",
+    "updated_at": 1773475980
+  },
+  {
+    "data": {
+      "created_ts": 1773476040,
+      "email": "richard.noether@inbox.test",
+      "full_name": "Richard Noether",
+      "id": "cand_0045",
+      "is_deleted": false,
+      "phone": "+1-555-5897",
+      "stage": "offer",
+      "updated_ts": 1773476040
+    },
+    "is_deleted": false,
+    "source_id": "cand_0045",
+    "updated_at": 1773476040
+  },
+  {
+    "data": {
+      "created_ts": 1773476100,
+      "email": "florence.dirac@example.test",
+      "full_name": "Florence Dirac",
+      "id": "cand_0046",
+      "is_deleted": false,
+      "phone": "+1-555-7616",
+      "stage": "screening",
+      "updated_ts": 1773476100
+    },
+    "is_deleted": false,
+    "source_id": "cand_0046",
+    "updated_at": 1773476100
+  },
+  {
+    "data": {
+      "created_ts": 1773476160,
+      "email": "dorothy.vonneumann@mail.test",
+      "full_name": "Dorothy Von Neumann",
+      "id": "cand_0047",
+      "is_deleted": false,
+      "phone": "+1-555-6804",
+      "stage": "rejected",
+      "updated_ts": 1773476160
+    },
+    "is_deleted": false,
+    "source_id": "cand_0047",
+    "updated_at": 1773476160
+  },
+  {
+    "data": {
+      "created_ts": 1773476220,
+      "email": "isaac.turing@mail.test",
+      "full_name": "Isaac Turing",
+      "id": "cand_0048",
+      "is_deleted": false,
+      "phone": "+1-555-9615",
+      "stage": "submitted",
+      "updated_ts": 1773476220
+    },
+    "is_deleted": false,
+    "source_id": "cand_0048",
+    "updated_at": 1773476220
+  },
+  {
+    "data": {
+      "created_ts": 1773476280,
+      "email": "tim.wright@hey.test",
+      "full_name": "Tim Wright",
+      "id": "cand_0049",
+      "is_deleted": false,
+      "phone": "+1-555-9028",
+      "stage": "rejected",
+      "updated_ts": 1773476280
+    },
+    "is_deleted": false,
+    "source_id": "cand_0049",
+    "updated_at": 1773476280
+  },
+  {
+    "data": {
+      "created_ts": 1773476340,
+      "email": "jean.einstein@inbox.test",
+      "full_name": "Jean Einstein",
+      "id": "cand_0050",
+      "is_deleted": false,
+      "phone": "+1-555-2991",
+      "stage": "offer",
+      "updated_ts": 1773476340
+    },
+    "is_deleted": false,
+    "source_id": "cand_0050",
+    "updated_at": 1773476340
+  },
+  {
+    "data": {
+      "created_ts": 1773476400,
+      "email": "hedy.noether@mail.test",
+      "full_name": "Hedy Noether",
+      "id": "cand_0051",
+      "is_deleted": false,
+      "phone": "+1-555-3717",
+      "stage": "rejected",
+      "updated_ts": 1773476400
+    },
+    "is_deleted": false,
+    "source_id": "cand_0051",
+    "updated_at": 1773476400
+  },
+  {
+    "data": {
+      "created_ts": 1773476460,
+      "email": "vera.gauss@inbox.test",
+      "full_name": "Vera Gauss",
+      "id": "cand_0052",
+      "is_deleted": false,
+      "phone": "+1-555-5809",
+      "stage": "screening",
+      "updated_ts": 1773476460
+    },
+    "is_deleted": false,
+    "source_id": "cand_0052",
+    "updated_at": 1773476460
+  },
+  {
+    "data": {
+      "created_ts": 1773476520,
+      "email": "dorothy.vonneumann@hey.test",
+      "full_name": "Dorothy Von Neumann",
+      "id": "cand_0053",
+      "is_deleted": false,
+      "phone": "+1-555-1489",
+      "stage": "screening",
+      "updated_ts": 1773476520
+    },
+    "is_deleted": false,
+    "source_id": "cand_0053",
+    "updated_at": 1773476520
+  },
+  {
+    "data": {
+      "created_ts": 1773476580,
+      "email": "peggy.lovelace@hey.test",
+      "full_name": "Peggy Lovelace",
+      "id": "cand_0054",
+      "is_deleted": false,
+      "phone": "+1-555-2545",
+      "stage": "rejected",
+      "updated_ts": 1773476580
+    },
+    "is_deleted": false,
+    "source_id": "cand_0054",
+    "updated_at": 1773476580
+  },
+  {
+    "data": {
+      "created_ts": 1773476640,
+      "email": "charles.dirac@hey.test",
+      "full_name": "Charles Dirac",
+      "id": "cand_0055",
+      "is_deleted": false,
+      "phone": "+1-555-6778",
+      "stage": "screening",
+      "updated_ts": 1773476640
+    },
+    "is_deleted": false,
+    "source_id": "cand_0055",
+    "updated_at": 1773476640
+  },
+  {
+    "data": {
+      "created_ts": 1773476700,
+      "email": "zelda.ramanujan@inbox.test",
+      "full_name": "Zelda Ramanujan",
+      "id": "cand_0056",
+      "is_deleted": false,
+      "phone": "+1-555-2243",
+      "stage": "screening",
+      "updated_ts": 1773476700
+    },
+    "is_deleted": false,
+    "source_id": "cand_0056",
+    "updated_at": 1773476700
+  },
+  {
+    "data": {
+      "created_ts": 1773476760,
+      "email": "walter.tesla@example.test",
+      "full_name": "Walter Tesla",
+      "id": "cand_0057",
+      "is_deleted": false,
+      "phone": "+1-555-2740",
+      "stage": "submitted",
+      "updated_ts": 1773476760
+    },
+    "is_deleted": false,
+    "source_id": "cand_0057",
+    "updated_at": 1773476760
+  },
+  {
+    "data": {
+      "created_ts": 1773476820,
+      "email": "nikola.turing@hey.test",
+      "full_name": "Nikola Turing",
+      "id": "cand_0058",
+      "is_deleted": false,
+      "phone": "+1-555-2237",
+      "stage": "screening",
+      "updated_ts": 1773476820
+    },
+    "is_deleted": false,
+    "source_id": "cand_0058",
+    "updated_at": 1773476820
+  },
+  {
+    "data": {
+      "created_ts": 1773476880,
+      "email": "linus.wright@mail.test",
+      "full_name": "Linus Wright",
+      "id": "cand_0059",
+      "is_deleted": false,
+      "phone": "+1-555-4684",
+      "stage": "new",
+      "updated_ts": 1773476880
+    },
+    "is_deleted": false,
+    "source_id": "cand_0059",
+    "updated_at": 1773476880
+  },
+  {
+    "data": {
+      "created_ts": 1773476940,
+      "email": "katherine.babbage@hey.test",
+      "full_name": "Katherine Babbage",
+      "id": "cand_0060",
+      "is_deleted": false,
+      "phone": "+1-555-2415",
+      "stage": "offer",
+      "updated_ts": 1773476940
+    },
+    "is_deleted": false,
+    "source_id": "cand_0060",
+    "updated_at": 1773476940
+  },
+  {
+    "data": {
+      "created_ts": 1773477000,
+      "email": "tim.gauss@hey.test",
+      "full_name": "Tim Gauss",
+      "id": "cand_0061",
+      "is_deleted": false,
+      "phone": "+1-555-8845",
+      "stage": "rejected",
+      "updated_ts": 1773477000
+    },
+    "is_deleted": false,
+    "source_id": "cand_0061",
+    "updated_at": 1773477000
+  },
+  {
+    "data": {
+      "created_ts": 1773477060,
+      "email": "oliver.hopper@example.test",
+      "full_name": "Oliver Hopper",
+      "id": "cand_0062",
+      "is_deleted": false,
+      "phone": "+1-555-1981",
+      "stage": "offer",
+      "updated_ts": 1773477060
+    },
+    "is_deleted": false,
+    "source_id": "cand_0062",
+    "updated_at": 1773477060
+  },
+  {
+    "data": {
+      "created_ts": 1773477120,
+      "email": "nikola.turing@inbox.test",
+      "full_name": "Nikola Turing",
+      "id": "cand_0063",
+      "is_deleted": false,
+      "phone": "+1-555-3984",
+      "stage": "hired",
+      "updated_ts": 1773477120
+    },
+    "is_deleted": false,
+    "source_id": "cand_0063",
+    "updated_at": 1773477120
+  },
+  {
+    "data": {
+      "created_ts": 1773477180,
+      "email": "grace.young@mail.test",
+      "full_name": "Grace Young",
+      "id": "cand_0064",
+      "is_deleted": false,
+      "phone": "+1-555-1898",
+      "stage": "screening",
+      "updated_ts": 1773477180
+    },
+    "is_deleted": false,
+    "source_id": "cand_0064",
+    "updated_at": 1773477180
+  },
+  {
+    "data": {
+      "created_ts": 1773477240,
+      "email": "oliver.lovelace@example.test",
+      "full_name": "Oliver Lovelace",
+      "id": "cand_0065",
+      "is_deleted": false,
+      "phone": "+1-555-6497",
+      "stage": "rejected",
+      "updated_ts": 1773477240
+    },
+    "is_deleted": false,
+    "source_id": "cand_0065",
+    "updated_at": 1773477240
+  },
+  {
+    "data": {
+      "created_ts": 1773477300,
+      "email": "isaac.einstein@example.test",
+      "full_name": "Isaac Einstein",
+      "id": "cand_0066",
+      "is_deleted": false,
+      "phone": "+1-555-1933",
+      "stage": "new",
+      "updated_ts": 1773477300
+    },
+    "is_deleted": false,
+    "source_id": "cand_0066",
+    "updated_at": 1773477300
+  },
+  {
+    "data": {
+      "created_ts": 1773477360,
+      "email": "tim.hopper@hey.test",
+      "full_name": "Tim Hopper",
+      "id": "cand_0067",
+      "is_deleted": false,
+      "phone": "+1-555-6564",
+      "stage": "screening",
+      "updated_ts": 1773477360
+    },
+    "is_deleted": false,
+    "source_id": "cand_0067",
+    "updated_at": 1773477360
+  },
+  {
+    "data": {
+      "created_ts": 1773477420,
+      "email": "hedy.noether@inbox.test",
+      "full_name": "Hedy Noether",
+      "id": "cand_0068",
+      "is_deleted": false,
+      "phone": "+1-555-3114",
+      "stage": "offer",
+      "updated_ts": 1773477420
+    },
+    "is_deleted": false,
+    "source_id": "cand_0068",
+    "updated_at": 1773477420
+  },
+  {
+    "data": {
+      "created_ts": 1773477480,
+      "email": "hedy.feynman@inbox.test",
+      "full_name": "Hedy Feynman",
+      "id": "cand_0069",
+      "is_deleted": false,
+      "phone": "+1-555-8241",
+      "stage": "submitted",
+      "updated_ts": 1773477480
+    },
+    "is_deleted": false,
+    "source_id": "cand_0069",
+    "updated_at": 1773477480
+  },
+  {
+    "data": {
+      "created_ts": 1773477540,
+      "email": "sophie.curie@hey.test",
+      "full_name": "Sophie Curie",
+      "id": "cand_0070",
+      "is_deleted": false,
+      "phone": "+1-555-4875",
+      "stage": "hired",
+      "updated_ts": 1773477540
+    },
+    "is_deleted": false,
+    "source_id": "cand_0070",
+    "updated_at": 1773477540
+  },
+  {
+    "data": {
+      "created_ts": 1773477600,
+      "email": "marie.xu@inbox.test",
+      "full_name": "Marie Xu",
+      "id": "cand_0071",
+      "is_deleted": false,
+      "phone": "+1-555-3635",
+      "stage": "hired",
+      "updated_ts": 1773477600
+    },
+    "is_deleted": false,
+    "source_id": "cand_0071",
+    "updated_at": 1773477600
+  },
+  {
+    "data": {
+      "created_ts": 1773477660,
+      "email": "isaac.ramanujan@hey.test",
+      "full_name": "Isaac Ramanujan",
+      "id": "cand_0072",
+      "is_deleted": false,
+      "phone": "+1-555-9508",
+      "stage": "submitted",
+      "updated_ts": 1773477660
+    },
+    "is_deleted": false,
+    "source_id": "cand_0072",
+    "updated_at": 1773477660
+  },
+  {
+    "data": {
+      "created_ts": 1773477720,
+      "email": "xavier.shannon@example.test",
+      "full_name": "Xavier Shannon",
+      "id": "cand_0073",
+      "is_deleted": false,
+      "phone": "+1-555-1690",
+      "stage": "submitted",
+      "updated_ts": 1773477720
+    },
+    "is_deleted": false,
+    "source_id": "cand_0073",
+    "updated_at": 1773477720
+  },
+  {
+    "data": {
+      "created_ts": 1773477780,
+      "email": "charles.babbage@hey.test",
+      "full_name": "Charles Babbage",
+      "id": "cand_0074",
+      "is_deleted": false,
+      "phone": "+1-555-5527",
+      "stage": "submitted",
+      "updated_ts": 1773477780
+    },
+    "is_deleted": false,
+    "source_id": "cand_0074",
+    "updated_at": 1773477780
+  },
+  {
+    "data": {
+      "created_ts": 1773477840,
+      "email": "vera.tesla@mail.test",
+      "full_name": "Vera Tesla",
+      "id": "cand_0075",
+      "is_deleted": false,
+      "phone": "+1-555-1818",
+      "stage": "offer",
+      "updated_ts": 1773477840
+    },
+    "is_deleted": false,
+    "source_id": "cand_0075",
+    "updated_at": 1773477840
+  },
+  {
+    "data": {
+      "created_ts": 1773477900,
+      "email": "emmy.shannon@example.test",
+      "full_name": "Emmy Shannon",
+      "id": "cand_0076",
+      "is_deleted": false,
+      "phone": "+1-555-3451",
+      "stage": "rejected",
+      "updated_ts": 1773477900
+    },
+    "is_deleted": false,
+    "source_id": "cand_0076",
+    "updated_at": 1773477900
+  },
+  {
+    "data": {
+      "created_ts": 1773477960,
+      "email": "vera.curie@hey.test",
+      "full_name": "Vera Curie",
+      "id": "cand_0077",
+      "is_deleted": false,
+      "phone": "+1-555-4835",
+      "stage": "offer",
+      "updated_ts": 1773477960
+    },
+    "is_deleted": false,
+    "source_id": "cand_0077",
+    "updated_at": 1773477960
+  },
+  {
+    "data": {
+      "created_ts": 1773478020,
+      "email": "nikola.gauss@example.test",
+      "full_name": "Nikola Gauss",
+      "id": "cand_0078",
+      "is_deleted": false,
+      "phone": "+1-555-9274",
+      "stage": "hired",
+      "updated_ts": 1773478020
+    },
+    "is_deleted": false,
+    "source_id": "cand_0078",
+    "updated_at": 1773478020
+  },
+  {
+    "data": {
+      "created_ts": 1773478080,
+      "email": "florence.wright@inbox.test",
+      "full_name": "Florence Wright",
+      "id": "cand_0079",
+      "is_deleted": false,
+      "phone": "+1-555-6361",
+      "stage": "screening",
+      "updated_ts": 1773478080
+    },
+    "is_deleted": false,
+    "source_id": "cand_0079",
+    "updated_at": 1773478080
+  },
+  {
+    "data": {
+      "created_ts": 1773478140,
+      "email": "isaac.wright@mail.test",
+      "full_name": "Isaac Wright",
+      "id": "cand_0080",
+      "is_deleted": false,
+      "phone": "+1-555-2935",
+      "stage": "hired",
+      "updated_ts": 1773478140
+    },
+    "is_deleted": false,
+    "source_id": "cand_0080",
+    "updated_at": 1773478140
+  },
+  {
+    "data": {
+      "created_ts": 1773478200,
+      "email": "tim.tesla@inbox.test",
+      "full_name": "Tim Tesla",
+      "id": "cand_0081",
+      "is_deleted": false,
+      "phone": "+1-555-7320",
+      "stage": "rejected",
+      "updated_ts": 1773478200
+    },
+    "is_deleted": false,
+    "source_id": "cand_0081",
+    "updated_at": 1773478200
+  },
+  {
+    "data": {
+      "created_ts": 1773478260,
+      "email": "dorothy.young@inbox.test",
+      "full_name": "Dorothy Young",
+      "id": "cand_0082",
+      "is_deleted": false,
+      "phone": "+1-555-1232",
+      "stage": "submitted",
+      "updated_ts": 1773478260
+    },
+    "is_deleted": false,
+    "source_id": "cand_0082",
+    "updated_at": 1773478260
+  },
+  {
+    "data": {
+      "created_ts": 1773478320,
+      "email": "richard.dirac@inbox.test",
+      "full_name": "Richard Dirac",
+      "id": "cand_0083",
+      "is_deleted": false,
+      "phone": "+1-555-6587",
+      "stage": "screening",
+      "updated_ts": 1773478320
+    },
+    "is_deleted": false,
+    "source_id": "cand_0083",
+    "updated_at": 1773478320
+  },
+  {
+    "data": {
+      "created_ts": 1773478380,
+      "email": "emmy.turing@inbox.test",
+      "full_name": "Emmy Turing",
+      "id": "cand_0084",
+      "is_deleted": false,
+      "phone": "+1-555-2333",
+      "stage": "screening",
+      "updated_ts": 1773478380
+    },
+    "is_deleted": false,
+    "source_id": "cand_0084",
+    "updated_at": 1773478380
+  },
+  {
+    "data": {
+      "created_ts": 1773478440,
+      "email": "nikola.gauss@example.test",
+      "full_name": "Nikola Gauss",
+      "id": "cand_0085",
+      "is_deleted": false,
+      "phone": "+1-555-2893",
+      "stage": "submitted",
+      "updated_ts": 1773478440
+    },
+    "is_deleted": false,
+    "source_id": "cand_0085",
+    "updated_at": 1773478440
+  },
+  {
+    "data": {
+      "created_ts": 1773478500,
+      "email": "vera.vonneumann@mail.test",
+      "full_name": "Vera Von Neumann",
+      "id": "cand_0086",
+      "is_deleted": false,
+      "phone": "+1-555-1409",
+      "stage": "new",
+      "updated_ts": 1773478500
+    },
+    "is_deleted": false,
+    "source_id": "cand_0086",
+    "updated_at": 1773478500
+  },
+  {
+    "data": {
+      "created_ts": 1773478560,
+      "email": "emmy.hopper@mail.test",
+      "full_name": "Emmy Hopper",
+      "id": "cand_0087",
+      "is_deleted": false,
+      "phone": "+1-555-1532",
+      "stage": "screening",
+      "updated_ts": 1773478560
+    },
+    "is_deleted": false,
+    "source_id": "cand_0087",
+    "updated_at": 1773478560
+  },
+  {
+    "data": {
+      "created_ts": 1773478620,
+      "email": "charles.turing@inbox.test",
+      "full_name": "Charles Turing",
+      "id": "cand_0088",
+      "is_deleted": false,
+      "phone": "+1-555-7534",
+      "stage": "offer",
+      "updated_ts": 1773478620
+    },
+    "is_deleted": false,
+    "source_id": "cand_0088",
+    "updated_at": 1773478620
+  },
+  {
+    "data": {
+      "created_ts": 1773478680,
+      "email": "florence.dirac@hey.test",
+      "full_name": "Florence Dirac",
+      "id": "cand_0089",
+      "is_deleted": false,
+      "phone": "+1-555-2293",
+      "stage": "rejected",
+      "updated_ts": 1773478680
+    },
+    "is_deleted": false,
+    "source_id": "cand_0089",
+    "updated_at": 1773478680
+  },
+  {
+    "data": {
+      "created_ts": 1773478740,
+      "email": "yvonne.babbage@hey.test",
+      "full_name": "Yvonne Babbage",
+      "id": "cand_0090",
+      "is_deleted": false,
+      "phone": "+1-555-3390",
+      "stage": "rejected",
+      "updated_ts": 1773478740
+    },
+    "is_deleted": false,
+    "source_id": "cand_0090",
+    "updated_at": 1773478740
+  },
+  {
+    "data": {
+      "created_ts": 1773478800,
+      "email": "yvonne.gauss@example.test",
+      "full_name": "Yvonne Gauss",
+      "id": "cand_0091",
+      "is_deleted": false,
+      "phone": "+1-555-4991",
+      "stage": "rejected",
+      "updated_ts": 1773478800
+    },
+    "is_deleted": false,
+    "source_id": "cand_0091",
+    "updated_at": 1773478800
+  },
+  {
+    "data": {
+      "created_ts": 1773478860,
+      "email": "dorothy.hopper@inbox.test",
+      "full_name": "Dorothy Hopper",
+      "id": "cand_0092",
+      "is_deleted": false,
+      "phone": "+1-555-7377",
+      "stage": "offer",
+      "updated_ts": 1773478860
+    },
+    "is_deleted": false,
+    "source_id": "cand_0092",
+    "updated_at": 1773478860
+  },
+  {
+    "data": {
+      "created_ts": 1773478920,
+      "email": "florence.young@mail.test",
+      "full_name": "Florence Young",
+      "id": "cand_0093",
+      "is_deleted": false,
+      "phone": "+1-555-6870",
+      "stage": "submitted",
+      "updated_ts": 1773478920
+    },
+    "is_deleted": false,
+    "source_id": "cand_0093",
+    "updated_at": 1773478920
+  },
+  {
+    "data": {
+      "created_ts": 1773478980,
+      "email": "zelda.zuse@hey.test",
+      "full_name": "Zelda Zuse",
+      "id": "cand_0094",
+      "is_deleted": false,
+      "phone": "+1-555-2971",
+      "stage": "offer",
+      "updated_ts": 1773478980
+    },
+    "is_deleted": false,
+    "source_id": "cand_0094",
+    "updated_at": 1773478980
+  },
+  {
+    "data": {
+      "created_ts": 1773479040,
+      "email": "walter.noether@example.test",
+      "full_name": "Walter Noether",
+      "id": "cand_0095",
+      "is_deleted": false,
+      "phone": "+1-555-6857",
+      "stage": "submitted",
+      "updated_ts": 1773479040
+    },
+    "is_deleted": false,
+    "source_id": "cand_0095",
+    "updated_at": 1773479040
+  },
+  {
+    "data": {
+      "created_ts": 1773479100,
+      "email": "grace.einstein@hey.test",
+      "full_name": "Grace Einstein",
+      "id": "cand_0096",
+      "is_deleted": false,
+      "phone": "+1-555-1070",
+      "stage": "submitted",
+      "updated_ts": 1773479100
+    },
+    "is_deleted": false,
+    "source_id": "cand_0096",
+    "updated_at": 1773479100
+  },
+  {
+    "data": {
+      "created_ts": 1773479160,
+      "email": "vera.vonneumann@inbox.test",
+      "full_name": "Vera Von Neumann",
+      "id": "cand_0097",
+      "is_deleted": false,
+      "phone": "+1-555-3868",
+      "stage": "new",
+      "updated_ts": 1773479160
+    },
+    "is_deleted": false,
+    "source_id": "cand_0097",
+    "updated_at": 1773479160
+  },
+  {
+    "data": {
+      "created_ts": 1773479220,
+      "email": "tim.hopper@hey.test",
+      "full_name": "Tim Hopper",
+      "id": "cand_0098",
+      "is_deleted": false,
+      "phone": "+1-555-8780",
+      "stage": "new",
+      "updated_ts": 1773479220
+    },
+    "is_deleted": false,
+    "source_id": "cand_0098",
+    "updated_at": 1773479220
+  },
+  {
+    "data": {
+      "created_ts": 1773479280,
+      "email": "katherine.ramanujan@example.test",
+      "full_name": "Katherine Ramanujan",
+      "id": "cand_0099",
+      "is_deleted": false,
+      "phone": "+1-555-9738",
+      "stage": "offer",
+      "updated_ts": 1773482500
+    },
+    "is_deleted": false,
+    "source_id": "cand_0099",
+    "updated_at": 1773482500
+  },
+  {
+    "data": {
+      "created_ts": 1773479340,
+      "email": "grace.hopper@inbox.test",
+      "full_name": "Grace Hopper",
+      "id": "cand_0100",
+      "is_deleted": false,
+      "phone": "+1-555-1096",
+      "stage": "hired",
+      "updated_ts": 1773479340
+    },
+    "is_deleted": false,
+    "source_id": "cand_0100",
+    "updated_at": 1773479340
+  },
+  {
+    "data": {
+      "created_ts": 1773479400,
+      "email": "xavier.feynman@inbox.test",
+      "full_name": "Xavier Feynman",
+      "id": "cand_0101",
+      "is_deleted": false,
+      "phone": "+1-555-9128",
+      "stage": "submitted",
+      "updated_ts": 1773479400
+    },
+    "is_deleted": false,
+    "source_id": "cand_0101",
+    "updated_at": 1773479400
+  },
+  {
+    "data": {
+      "created_ts": 1773479460,
+      "email": "blaise.young@mail.test",
+      "full_name": "Blaise Young",
+      "id": "cand_0102",
+      "is_deleted": false,
+      "phone": "+1-555-9055",
+      "stage": "new",
+      "updated_ts": 1773479460
+    },
+    "is_deleted": false,
+    "source_id": "cand_0102",
+    "updated_at": 1773479460
+  },
+  {
+    "data": {
+      "created_ts": 1773479520,
+      "email": "peggy.pascal@mail.test",
+      "full_name": "Peggy Pascal",
+      "id": "cand_0103",
+      "is_deleted": false,
+      "phone": "+1-555-4079",
+      "stage": "new",
+      "updated_ts": 1773479520
+    },
+    "is_deleted": false,
+    "source_id": "cand_0103",
+    "updated_at": 1773479520
+  },
+  {
+    "data": {
+      "created_ts": 1773479580,
+      "email": "ursula.feynman@mail.test",
+      "full_name": "Ursula Feynman",
+      "id": "cand_0104",
+      "is_deleted": false,
+      "phone": "+1-555-2724",
+      "stage": "screening",
+      "updated_ts": 1773479580
+    },
+    "is_deleted": false,
+    "source_id": "cand_0104",
+    "updated_at": 1773479580
+  },
+  {
+    "data": {
+      "created_ts": 1773479640,
+      "email": "florence.young@hey.test",
+      "full_name": "Florence Young",
+      "id": "cand_0105",
+      "is_deleted": false,
+      "phone": "+1-555-1266",
+      "stage": "offer",
+      "updated_ts": 1773479640
+    },
+    "is_deleted": false,
+    "source_id": "cand_0105",
+    "updated_at": 1773479640
+  },
+  {
+    "data": {
+      "created_ts": 1773479700,
+      "email": "sophie.ramanujan@inbox.test",
+      "full_name": "Sophie Ramanujan",
+      "id": "cand_0106",
+      "is_deleted": false,
+      "phone": "+1-555-6072",
+      "stage": "screening",
+      "updated_ts": 1773479700
+    },
+    "is_deleted": false,
+    "source_id": "cand_0106",
+    "updated_at": 1773479700
+  },
+  {
+    "data": {
+      "created_ts": 1773479760,
+      "email": "ursula.babbage@example.test",
+      "full_name": "Ursula Babbage",
+      "id": "cand_0107",
+      "is_deleted": false,
+      "phone": "+1-555-2041",
+      "stage": "hired",
+      "updated_ts": 1773479760
+    },
+    "is_deleted": false,
+    "source_id": "cand_0107",
+    "updated_at": 1773479760
+  },
+  {
+    "data": {
+      "created_ts": 1773479820,
+      "email": "blaise.xu@mail.test",
+      "full_name": "Blaise Xu",
+      "id": "cand_0108",
+      "is_deleted": false,
+      "phone": "+1-555-6856",
+      "stage": "rejected",
+      "updated_ts": 1773479820
+    },
+    "is_deleted": false,
+    "source_id": "cand_0108",
+    "updated_at": 1773479820
+  },
+  {
+    "data": {
+      "created_ts": 1773479880,
+      "email": "jean.young@hey.test",
+      "full_name": "Jean Young",
+      "id": "cand_0109",
+      "is_deleted": false,
+      "phone": "+1-555-4647",
+      "stage": "new",
+      "updated_ts": 1773479880
+    },
+    "is_deleted": false,
+    "source_id": "cand_0109",
+    "updated_at": 1773479880
+  },
+  {
+    "data": {
+      "created_ts": 1773479940,
+      "email": "marie.lovelace@hey.test",
+      "full_name": "Marie Lovelace",
+      "id": "cand_0110",
+      "is_deleted": false,
+      "phone": "+1-555-5320",
+      "stage": "screening",
+      "updated_ts": 1773479940
+    },
+    "is_deleted": false,
+    "source_id": "cand_0110",
+    "updated_at": 1773479940
+  },
+  {
+    "data": {
+      "created_ts": 1773480000,
+      "email": "sophie.wright@mail.test",
+      "full_name": "Sophie Wright",
+      "id": "cand_0111",
+      "is_deleted": false,
+      "phone": "+1-555-9530",
+      "stage": "offer",
+      "updated_ts": 1773480000
+    },
+    "is_deleted": false,
+    "source_id": "cand_0111",
+    "updated_at": 1773480000
+  },
+  {
+    "data": {
+      "created_ts": 1773480060,
+      "email": "sophie.tesla@example.test",
+      "full_name": "Sophie Tesla",
+      "id": "cand_0112",
+      "is_deleted": false,
+      "phone": "+1-555-6688",
+      "stage": "offer",
+      "updated_ts": 1773480060
+    },
+    "is_deleted": false,
+    "source_id": "cand_0112",
+    "updated_at": 1773480060
+  },
+  {
+    "data": {
+      "created_ts": 1773480120,
+      "email": "ursula.einstein@hey.test",
+      "full_name": "Ursula Einstein",
+      "id": "cand_0113",
+      "is_deleted": false,
+      "phone": "+1-555-1341",
+      "stage": "screening",
+      "updated_ts": 1773480120
+    },
+    "is_deleted": false,
+    "source_id": "cand_0113",
+    "updated_at": 1773480120
+  },
+  {
+    "data": {
+      "created_ts": 1773480180,
+      "email": "sophie.vonneumann@mail.test",
+      "full_name": "Sophie Von Neumann",
+      "id": "cand_0114",
+      "is_deleted": false,
+      "phone": "+1-555-2720",
+      "stage": "screening",
+      "updated_ts": 1773480180
+    },
+    "is_deleted": false,
+    "source_id": "cand_0114",
+    "updated_at": 1773480180
+  },
+  {
+    "data": {
+      "created_ts": 1773480240,
+      "email": "walter.zuse@hey.test",
+      "full_name": "Walter Zuse",
+      "id": "cand_0115",
+      "is_deleted": false,
+      "phone": "+1-555-4003",
+      "stage": "rejected",
+      "updated_ts": 1773480240
+    },
+    "is_deleted": false,
+    "source_id": "cand_0115",
+    "updated_at": 1773480240
+  },
+  {
+    "data": {
+      "created_ts": 1773480300,
+      "email": "yvonne.curie@hey.test",
+      "full_name": "Yvonne Curie",
+      "id": "cand_0116",
+      "is_deleted": false,
+      "phone": "+1-555-2263",
+      "stage": "submitted",
+      "updated_ts": 1773480300
+    },
+    "is_deleted": false,
+    "source_id": "cand_0116",
+    "updated_at": 1773480300
+  },
+  {
+    "data": {
+      "created_ts": 1773480360,
+      "email": "grace.young@inbox.test",
+      "full_name": "Grace Young",
+      "id": "cand_0117",
+      "is_deleted": false,
+      "phone": "+1-555-7504",
+      "stage": "rejected",
+      "updated_ts": 1773480360
+    },
+    "is_deleted": false,
+    "source_id": "cand_0117",
+    "updated_at": 1773480360
+  },
+  {
+    "data": {
+      "created_ts": 1773480420,
+      "email": "dorothy.lovelace@mail.test",
+      "full_name": "Dorothy Lovelace",
+      "id": "cand_0118",
+      "is_deleted": false,
+      "phone": "+1-555-2764",
+      "stage": "screening",
+      "updated_ts": 1773480420
+    },
+    "is_deleted": false,
+    "source_id": "cand_0118",
+    "updated_at": 1773480420
+  },
+  {
+    "data": {
+      "created_ts": 1773480480,
+      "email": "blaise.gauss@mail.test",
+      "full_name": "Blaise Gauss",
+      "id": "cand_0119",
+      "is_deleted": false,
+      "phone": "+1-555-6162",
+      "stage": "submitted",
+      "updated_ts": 1773480480
+    },
+    "is_deleted": false,
+    "source_id": "cand_0119",
+    "updated_at": 1773480480
+  },
+  {
+    "data": {
+      "created_ts": 1773480540,
+      "email": "richard.zuse@inbox.test",
+      "full_name": "Richard Zuse",
+      "id": "cand_0120",
+      "is_deleted": false,
+      "phone": "+1-555-1341",
+      "stage": "submitted",
+      "updated_ts": 1773480540
+    },
+    "is_deleted": false,
+    "source_id": "cand_0120",
+    "updated_at": 1773480540
+  },
+  {
+    "data": {
+      "created_ts": 1773482460,
+      "email": "dana.reeve@example.test",
+      "full_name": "Dana Reeve",
+      "id": "cand_0900",
+      "is_deleted": false,
+      "phone": "+1-555-0000",
+      "stage": "new",
+      "updated_ts": 1773482460
+    },
+    "is_deleted": false,
+    "source_id": "cand_0900",
+    "updated_at": 1773482460
+  }
+]

@@ -1,0 +1,105 @@
+id: task-0016
+title: 'HireWire: stage-change writeback (idempotency + 422) plus a seconds-watermark
+  incremental poll'
+category: build
+vendor: hirewire
+surfaces:
+- writeback
+- polling
+tier: 2
+primary_mechanic: chained_write_partial_failure_idempotency
+track: python
+timeout_minutes: 60
+doc_profile: stale
+scenarios:
+- writeback_events
+- idempotent_retries
+- poll_incremental
+entry:
+  command:
+  - python
+  - -m
+  - hirewire_connector
+outputs:
+  files:
+  - output/writeback_result.json
+  - output/candidates.json
+vendors:
+  hirewire:
+    data_port: 8000
+    log_path: /var/log/vendor
+    checkpoint_env: CHECKPOINT
+    credentials:
+      HW_API_KEY: hw-test-api-key
+    entities:
+      candidate:
+        id_prefix: cand
+        plural: candidates
+    vendor:
+      base_path: /v1
+    pagination:
+      style: offset
+      offset_param: page
+    writeback:
+      idempotency:
+        header: Idempotency-Key
+        window_s: 3600
+      read_after_write_lag_s: 20
+contract:
+  schema_version: 1
+  version: 1.0.0
+  visibility: public
+  lifecycle: authored
+  vendor_roles:
+    hirewire:
+      vendor_id: hirewire
+      checkpoint: 0
+      required_credentials:
+      - HW_API_KEY
+      api_url_env: HIREWIRE_BASE_URL
+      docs_url_env: HIREWIRE_DOCS_URL
+  runtime:
+    profile: deterministic-v1
+    checkpoint: 0
+    limits:
+      wall_seconds: 3600
+      cpus: 2
+      memory: 2GiB
+      disk: 2GiB
+    network:
+      vendor_roles:
+      - hirewire
+      model_provider_egress: mode-dependent-allowlist
+    vendor_roles:
+      hirewire:
+        environment: {}
+  participant:
+    workspace_allowlist:
+    - PROBLEM.md
+    - repo/**
+    - materials/**
+    - inputs/**
+    entry_command:
+    - python
+    - -m
+    - hirewire_connector
+    outputs:
+    - output/writeback_result.json
+    - output/candidates.json
+    persistent_state:
+    - repo/output/**
+    runtime_environment:
+      INPUT_FILE: /app/input/pending_events.json
+    persistent_mounts: []
+  verifier:
+    entry_command:
+    - python
+    - -m
+    - bench.verifier
+    - --task
+    - .
+    trusted_inputs:
+    - task.yaml
+    - verifier/fixtures/**
+    - verifier/scenarios/**
+    - vendor-logs/**

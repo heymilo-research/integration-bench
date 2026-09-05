@@ -1,0 +1,14 @@
+{
+  "items": [
+    {"client_ref": "batch-0001", "fname": "Nora", "lname": "Calder", "email": "nora.calder@example.test", "phone": "+1-555-0101"},
+    {"client_ref": "batch-0002", "lname": "Ibarra"},
+    {"client_ref": "batch-0003", "fname": "Priya", "lname": "Nandy", "cand_status": "bogus_status"},
+    {"client_ref": "batch-0004", "fname": "Grace", "lname": "Okafor", "email": "grace.okafor@example.test"},
+    {"client_ref": "batch-0005", "fname": "Marcus", "lname": "Webb", "phone": "+1-555-0105"},
+    {"client_ref": "batch-0006", "fname": "Elin", "lname": "Sorensen"},
+    {"client_ref": "batch-0007", "fname": "Devon", "lname": "Achebe", "email": "devon.achebe@example.test"},
+    {"client_ref": "batch-0008", "fname": "Yara"},
+    {"client_ref": "batch-0009", "fname": "Tomasz", "lname": "Wrenn"},
+    {"client_ref": "batch-0010", "fname": "Sable", "lname": "Quintana", "email": "sable.quintana@example.test"}
+  ]
+}

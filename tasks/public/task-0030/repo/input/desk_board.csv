@@ -1,0 +1,134 @@
+board_ref,placemint_ref,candidate_name,client_id,role_title,desk_owner,opened_on
+MB-0001,49,Blaise Zuse,client_0143,Data Scientist,p.nandy,2025-11-04
+MB-0002,95008,Florence Noether,client_0001,Customer Success Manager,m.holroyd,2026-01-27
+MB-0003,plc_00100,Nikola Hopper,client_0251,QA Analyst,p.nandy,2025-11-04
+MB-0004,plc_00035,Tim Ramanujan,client_0063,Line Cook,s.okafor,2026-01-27
+MB-0005,plc_00037,Walter Feynman,client_0050,Line Cook,s.okafor,2025-11-04
+MB-0006,76,Ursula Tesla,client_0277,Software Engineer,t.bergstrom,2026-01-09
+MB-0007,10,Richard Hopper,client_0049,Financial Analyst,p.nandy,2025-11-04
+MB-0008,108,Peggy Gauss,client_0110,Line Cook,s.okafor,2026-01-09
+MB-0009,51,Yvonne Lovelace,client_0129,Data Scientist,m.holroyd,2025-12-12
+MB-0010,plc_00053,Florence Lovelace,client_0223,Electrician,s.okafor,2025-11-04
+MB-0011,plc_00456,Ivo Ferreira,client_0057,Financial Analyst,s.okafor,2026-02-16
+MB-0012,101,Nikola Noether,client_0160,Registered Nurse,s.okafor,2025-11-04
+MB-0013,plc_00075,Hedy Noether,client_0030,DevOps Engineer,r.whitfield,2026-01-09
+MB-0014,2,Dorothy Dirac,client_0057,Account Executive,s.okafor,2026-01-09
+MB-0015,59,Isaac Ramanujan,client_0076,Electrician,s.okafor,2026-02-16
+MB-0016,plc_00081,Xavier Curie,client_0148,Account Executive,r.whitfield,2026-01-27
+MB-0017,plc_00084,Hedy Turing,client_0203,Machinist,m.holroyd,2025-11-04
+MB-0018,plc_00117,Florence Babbage,client_0014,Electrician,p.nandy,2026-01-09
+MB-0019,plc_00110,Oliver Noether,client_0187,DevOps Engineer,t.bergstrom,2026-01-27
+MB-0020,41,Rania Okonkwo,client_0232,QA Analyst,j.almeida,2026-03-03
+MB-0021,111,Walter Tesla,client_0291,Software Engineer,m.holroyd,2026-03-03
+MB-0022,plc_00104,Marie Ramanujan,client_0085,Software Engineer,t.bergstrom,2026-03-03
+MB-0023,435,Lucia Lindqvist,client_0001,Support Lead,s.okafor,2026-03-03
+MB-0024,109,Katherine Von Neumann,client_0035,Software Engineer,j.almeida,2026-03-03
+MB-0025,80,Casper Baptiste,client_0183,Software Engineer,s.okafor,2025-11-04
+MB-0026,421,Rafael Vasquez,client_0113,Software Engineer,r.whitfield,2025-11-04
+MB-0027,8,Ada Gauss,client_0127,Electrician,s.okafor,2026-01-27
+MB-0028,79,Nikola Noether,client_0180,Software Engineer,p.nandy,2026-01-27
+MB-0029,plc_00098,Marie Einstein,client_0077,Warehouse Supervisor,m.holroyd,2026-01-09
+MB-0030,plc_00028,Sophie Noether,client_0006,Registered Nurse,r.whitfield,2026-02-16
+MB-0031,52,Ivo Vasquez,client_0040,Registered Nurse,t.bergstrom,2025-11-04
+MB-0032,103,Hedy Von Neumann,client_0287,Machinist,m.holroyd,2026-01-27
+MB-0033,plc_00050,Tobias Ferreira,client_0008,Warehouse Supervisor,p.nandy,2026-01-09
+MB-0034,74,Nikola Noether,client_0134,Financial Analyst,m.holroyd,2026-03-03
+MB-0035,116,Zelda Shannon,client_0276,Financial Analyst,m.holroyd,2025-11-04
+MB-0036,93,Grace Feynman,client_0189,DevOps Engineer,j.almeida,2026-02-16
+MB-0037,36,Peggy Xu,client_0272,UX Designer,s.okafor,2026-01-09
+MB-0038,plc_00096,Hedy Feynman,client_0025,Support Lead,m.holroyd,2026-01-27
+MB-0039,plc_00069,Lucia Ferreira,client_0186,Software Engineer,t.bergstrom,2026-03-03
+MB-0040,plc_00026,Casper Vasquez,client_0274,Financial Analyst,m.holroyd,2025-12-12
+MB-0041,plc_00007,Xavier Lovelace,client_0125,Software Engineer,j.almeida,2025-12-12
+MB-0042,120,Hedy Gauss,client_0267,Warehouse Supervisor,m.holroyd,2025-12-12
+MB-0043,plc_00039,Linus Noether,client_0097,Data Scientist,t.bergstrom,2026-02-16
+MB-0044,32,Sophie Shannon,client_0031,Account Executive,j.almeida,2025-11-04
+MB-0045,plc_95004,Jean Hopper,client_0001,Recruiter,j.almeida,2025-12-12
+MB-0046,plc_00088,Delia Vasquez,client_0167,Account Executive,p.nandy,2026-03-03
+MB-0047,102,Xavier Xu,client_0241,Machinist,t.bergstrom,2025-11-04
+MB-0048,plc_00117,Florence Babbage,client_0014,Electrician,p.nandy,2026-03-03
+MB-0049,34,Linus Gauss,client_0235,Product Manager,s.okafor,2026-01-09
+MB-0050,11,Jean Gauss,client_0091,UX Designer,p.nandy,2025-11-04
+MB-0051,407,Rafael Renner,client_0199,Support Lead,r.whitfield,2026-01-09
+MB-0052,21,Isaac Babbage,client_0253,Data Scientist,m.holroyd,2025-11-04
+MB-0053,plc_00092,Emmy Young,client_0108,Financial Analyst,j.almeida,2026-01-27
+MB-0054,plc_00033,Zelda Von Neumann,client_0198,QA Analyst,p.nandy,2026-01-09
+MB-0055,plc_00061,Rania Nakamura,client_0085,Software Engineer,r.whitfield,2026-01-27
+MB-0056,plc_95005,Grace Young,client_0001,Operations Lead,j.almeida,2025-11-04
+MB-0057,38,Blaise Wright,client_0122,Electrician,j.almeida,2026-01-27
+MB-0058,86,Noor Nakamura,client_0148,Account Executive,r.whitfield,2025-11-04
+MB-0059,plc_00094,Hedy Wright,client_0107,Account Executive,s.okafor,2025-11-04
+MB-0060,plc_00087,Nikola Wright,client_0059,QA Analyst,t.bergstrom,2025-12-12
+MB-0061,plc_00018,Otto Halvorsen,client_0248,Software Engineer,t.bergstrom,2026-01-27
+MB-0062,plc_00006,Delia Vasquez,client_0110,Account Executive,r.whitfield,2025-12-12
+MB-0063,plc_00072,Bram Okonkwo,client_0259,Account Executive,p.nandy,2025-11-04
+MB-0064,113,Zelda Zuse,client_0231,Registered Nurse,t.bergstrom,2025-12-12
+MB-0065,plc_00037,Walter Feynman,client_0050,Line Cook,j.almeida,2026-03-03
+MB-0066,5,Ada Gauss,client_0065,DevOps Engineer,m.holroyd,2026-01-09
+MB-0067,plc_00095,Delia Nakamura,client_0080,Support Lead,r.whitfield,2026-02-16
+MB-0068,95001,Florence Zuse,client_0001,Data Analyst,r.whitfield,2026-01-27
+MB-0069,plc_00003,Marie Young,client_0208,DevOps Engineer,j.almeida,2026-01-27
+MB-0070,59,Isaac Ramanujan,client_0076,Electrician,j.almeida,2025-12-12
+MB-0071,plc_00082,Emeka Baptiste,client_0182,QA Analyst,p.nandy,2025-11-04
+MB-0072,plc_00062,Richard Curie,client_0042,Product Manager,m.holroyd,2026-02-16
+MB-0073,67,Saskia Okonkwo,client_0074,Software Engineer,r.whitfield,2026-03-03
+MB-0074,plc_00016,Charles Ramanujan,client_0155,DevOps Engineer,s.okafor,2026-02-16
+MB-0075,plc_00400,Emeka Okonkwo,client_0097,Machinist,r.whitfield,2026-03-03
+MB-0076,32,Sophie Shannon,client_0031,Account Executive,j.almeida,2026-01-27
+MB-0077,73,Marie Shannon,client_0138,Support Lead,m.holroyd,2025-12-12
+MB-0078,plc_00060,Ines Marchetti,client_0261,QA Analyst,r.whitfield,2026-01-27
+MB-0079,73,Marie Shannon,client_0138,Support Lead,j.almeida,2025-12-12
+MB-0080,17,Xavier Ramanujan,client_0041,DevOps Engineer,t.bergstrom,2026-02-16
+MB-0081,89,Peggy Shannon,client_0150,UX Designer,t.bergstrom,2025-12-12
+MB-0082,plc_00087,Nikola Wright,client_0059,QA Analyst,r.whitfield,2025-12-12
+MB-0083,plc_95006,Casper Lindqvist,client_0001,Registered Nurse,j.almeida,2025-11-04
+MB-0084,44,Casper Renner,client_0268,Registered Nurse,m.holroyd,2026-01-27
+MB-0085,plc_00085,Grace Young,client_0111,Solutions Architect,s.okafor,2026-03-03
+MB-0086,plc_95002,Otto Baptiste,client_0001,Electrician,p.nandy,2026-03-03
+MB-0087,plc_00025,Oliver Shannon,client_0066,Product Manager,p.nandy,2025-11-04
+MB-0088,plc_00013,Xavier Babbage,client_0093,Data Scientist,r.whitfield,2026-03-03
+MB-0089,plc_00027,Katherine Curie,client_0268,Solutions Architect,p.nandy,2026-03-03
+MB-0090,76,Ursula Tesla,client_0277,Software Engineer,p.nandy,2026-01-09
+MB-0091,47,Rania Lindqvist,client_0010,Machinist,s.okafor,2026-01-27
+MB-0092,463,Noor Nakamura,client_0148,Account Executive,r.whitfield,2025-12-12
+MB-0093,plc_90001,Rafael Okonkwo,client_0001,Support Lead,r.whitfield,2026-02-16
+MB-0094,45,Peggy Einstein,client_0284,Line Cook,r.whitfield,2026-01-27
+MB-0095,24,Walter Pascal,client_0141,Financial Analyst,r.whitfield,2026-03-03
+MB-0096,55,Oliver Lovelace,client_0102,Solutions Architect,j.almeida,2025-11-04
+MB-0097,plc_00077,Emmy Dirac,client_0244,Machinist,m.holroyd,2025-11-04
+MB-0098,plc_00094,Hedy Wright,client_0107,Account Executive,r.whitfield,2026-01-27
+MB-0099,20,Nikola Von Neumann,client_0189,Line Cook,p.nandy,2025-11-04
+MB-0100,29,Hedy Babbage,client_0195,Financial Analyst,t.bergstrom,2026-03-03
+MB-0101,46,Blaise Xu,client_0228,Software Engineer,p.nandy,2026-03-03
+MB-0102,90,Isaac Einstein,client_0076,Line Cook,m.holroyd,2026-02-16
+MB-0103,plc_00096,Hedy Feynman,client_0025,Support Lead,j.almeida,2026-01-09
+MB-0104,plc_00001,Katherine Curie,client_0009,QA Analyst,p.nandy,2026-01-09
+MB-0105,102,Xavier Xu,client_0241,Machinist,s.okafor,2025-12-12
+MB-0106,112,Jean Young,client_0176,Registered Nurse,r.whitfield,2026-02-16
+MB-0107,95003,Emeka Ferreira,client_0001,Registered Nurse,s.okafor,2026-03-03
+MB-0108,31,Florence Tesla,client_0197,Account Executive,r.whitfield,2025-12-12
+MB-0109,plc_95007,Oliver Pascal,client_0001,Financial Analyst,p.nandy,2026-03-03
+MB-0110,plc_00014,Florence Babbage,client_0004,Account Executive,s.okafor,2025-12-12
+MB-0111,plc_00040,Oliver Xu,client_0290,Registered Nurse,t.bergstrom,2026-01-27
+MB-0112,15,Lucia Renner,client_0233,Data Scientist,s.okafor,2025-12-12
+MB-0113,plc_00442,Rania Vasquez,client_0150,Registered Nurse,p.nandy,2025-12-12
+MB-0114,plc_00065,Otto Halvorsen,client_0142,Support Lead,m.holroyd,2026-01-09
+MB-0115,29,Hedy Babbage,client_0195,Financial Analyst,t.bergstrom,2025-11-04
+MB-0116,plc_00078,Mira Vasquez,client_0264,Data Scientist,m.holroyd,2026-02-16
+MB-0117,plc_00056,Otto Nakamura,client_0137,Warehouse Supervisor,s.okafor,2025-12-12
+MB-0118,9,Blaise Tesla,client_0159,QA Analyst,j.almeida,2026-01-09
+MB-0119,plc_95100,Walter Shannon,client_0002,Warehouse Supervisor,p.nandy,2026-02-16
+MB-0120,449,Delia Okonkwo,client_0272,Account Executive,s.okafor,2026-03-03
+MB-0121,42,Katherine Dirac,client_0056,Warehouse Supervisor,r.whitfield,2026-01-27
+MB-0122,plc_00058,Peggy Pascal,client_0081,Line Cook,j.almeida,2026-01-09
+MB-0123,plc_00119,Saskia Halvorsen,client_0113,Support Lead,s.okafor,2025-11-04
+MB-0124,114,Tobias Okonkwo,client_0171,Support Lead,m.holroyd,2026-03-03
+MB-0125,plc_00428,Bram Baptiste,client_0025,Software Engineer,r.whitfield,2026-01-27
+MB-0126,20,Nikola Von Neumann,client_0189,Line Cook,p.nandy,2026-02-16
+MB-0127,plc_00106,Casper Halvorsen,client_0290,Software Engineer,t.bergstrom,2026-01-27
+MB-0128,63,Ada Hopper,client_0123,Software Engineer,m.holroyd,2025-11-04
+MB-0129,plc_00414,Mira Vasquez,client_0028,Account Executive,s.okafor,2026-01-27
+MB-0130,plc_00019,Rafael Halvorsen,client_0213,QA Analyst,j.almeida,2026-03-03
+MB-0131,plc_00098,Marie Einstein,client_0077,Warehouse Supervisor,p.nandy,2025-12-12
+MB-0132,68,Nikola Gauss,client_0048,Warehouse Supervisor,p.nandy,2026-01-27
+MB-0133,plc_00027,Katherine Curie,client_0268,Solutions Architect,t.bergstrom,2026-01-09

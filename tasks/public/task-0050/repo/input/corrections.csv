@@ -1,0 +1,65 @@
+correction_ref,placement_id,role_title,approver,fee_amount,reason
+C-0001,plc_00245,"Manager, Product","Okafor, Jibola",6244.86,"Discount agreed under the master agreement,
+applied to this placement only."
+C-0002,plc_00035,Payroll Operations Specialist,J Okafor,5061.54,Level adjusted after the probation review.
+C-0003,plc_00104,"Director, Operations","Rahman, Fahmida",4901.72,"Credit note issued, so the fee drops by 1,100."
+C-0004,plc_00028,Regional Account Director,S Beauchamp,2999.73,Salary band corrected after the offer letter.
+C-0005,plc_00170,"Architect, Solutions","Renata Alvarez
+(Revenue Ops, approved 16 Apr)",12019.26,"Discount of 2,250 applied under the master agreement."
+C-0006,plc_00094,"Recruiter, Technical","Rahman, Fahmida",5966.99,"Client agreed 12,500 on the revised schedule, invoice 8841 reissued."
+C-0007,plc_00058,"Analyst, Financial","Jibola Okafor
+(Revenue Ops, approved 15 Apr)",12941.83,"Discount of 2,250 applied under the master agreement. [see 007]"
+C-0008,plc_00024,"Executive, Account","Alvarez, Renata",11450.39,"Credit note issued, so the fee drops by 1,100."
+C-0009,plc_00021,Clinical Nurse Manager,M Lindqvist,9758.83,Placement re-graded following the audit.
+C-0010,plc_00008,"Electrician, Industrial","Maja Lindqvist
+(Finance Controller, approved 15 Apr)",5432.01,"Band moved from L4 to L5, so the rate card changes."
+C-0011,plc_00095,"Electrician, Industrial","Jibola Okafor
+(Revenue Ops, approved 15 Apr)",10620.09,"Discount of 2,250 applied under the master agreement. [see 003]"
+C-0012,plc_00153,Warehouse Team Lead,J Okafor,5117.74,Duplicate commission removed from the schedule.
+C-0013,plc_00238,"Director, Operations","Rahman, Fahmida",7813.42,"Credit note issued, so the fee drops by 1,100."
+C-0014,plc_00032,"Director, Operations","Maja Lindqvist
+(Finance Controller, approved 15 Apr)",12162.39,"Band moved from L4 to L5, so the rate card changes. [see 002]"
+C-0015,plc_00080,"Cook, Line","Beauchamp, Sylvie",7275.75,"Partner takes half the commission,
+leaving the figure below with us."
+C-0016,plc_00175,"Officer, Compliance","Sylvie Beauchamp
+(Finance Controller, approved 16 Apr)",12484.65,"Band moved from L4 to L5, so the rate card changes. [see 010]"
+C-0017,plc_00240,"Partner, Delivery","Rahman, Fahmida",11779.92,"Partner takes half the commission,
+leaving the figure below with us."
+C-0018,plc_00137,"Coordinator, Field","Rahman, Fahmida",7023.34,"Discount of 2,250 applied under the master agreement."
+C-0019,plc_00124,Payroll Operations Specialist,S Beauchamp,8673.34,Discount applied under the master agreement.
+C-0020,plc_00078,"Engineer, Staff","Fahmida Rahman
+(Revenue Ops, approved 14 Apr)",11852.61,"Band moved from L4 to L5, so the rate card changes. [see 007]"
+C-0021,plc_00145,"Officer, Compliance","Renata Alvarez
+(Revenue Ops, approved 16 Apr)",12891.85,"Discount of 2,250 applied under the master agreement. [see 019]"
+C-0022,plc_00801,Contract Machinist,F Rahman,5687.02,Placement re-graded following the audit.
+C-0023,plc_00215,Contract Machinist,R Alvarez,6517.05,Discount applied under the master agreement.
+C-0024,plc_00033,"Architect, Solutions","Lindqvist, Maja",2257.24,"Extension signed on new terms,
+repriced at the current band."
+C-0025,plc_00152,"Lead, Support","Alvarez, Renata",2563.39,"Rate corrected to 8,300, the offer letter had the old band."
+C-0026,plc_00279,"Counsel, Legal","Fahmida Rahman
+(Revenue Ops, approved 14 Apr)",12896.90,"Discount of 2,250 applied under the master agreement."
+C-0027,plc_00247,"Analyst, QA","Beauchamp, Sylvie",4344.80,"Client disputed 4,000 of the fee, settled at the lower figure."
+C-0028,plc_00119,"Administrator, Systems","Jibola Okafor
+(Revenue Ops, approved 15 Apr)",5033.23,"Discount of 2,250 applied under the master agreement. [see 015]"
+C-0029,plc_00157,Payroll Operations Specialist,F Rahman,10109.68,Level adjusted after the probation review.
+C-0030,plc_00091,"Officer, Compliance","Alvarez, Renata",3135.05,"Discount of 2,250 applied under the master agreement."
+C-0031,plc_00184,"Supervisor, Warehouse","Rahman, Fahmida",2465.46,"Fee re-cut to 9,750 after the audit, approved on the call."
+C-0032,plc_00239,"Electrician, Industrial","Okafor, Jibola",9332.51,"Discount agreed under the master agreement,
+applied to this placement only."
+C-0033,plc_00092,"Coordinator, Field","Alvarez, Renata",10892.30,"Audit finding 12, closed:
+the original fee double-counted the retainer."
+C-0034,plc_00090,"Engineer, Staff","Rahman, Fahmida",3630.37,"Rate corrected to 8,300, the offer letter had the old band."
+C-0035,plc_00297,"Electrician, Industrial","Sylvie Beauchamp
+(Finance Controller, approved 16 Apr)",10624.26,"Band moved from L4 to L5, so the rate card changes. [see 004]"
+C-0036,plc_00281,"Specialist, Benefits","Rahman, Fahmida",9616.96,"Discount agreed under the master agreement,
+applied to this placement only."
+C-0037,plc_00237,"Recruiter, Technical","Jibola Okafor
+(Revenue Ops, approved 15 Apr)",1906.11,"Band moved from L4 to L5, so the rate card changes. [see 001]"
+C-0038,plc_09090,Site Reliability Engineer,F Rahman,3199.90,Discount applied under the master agreement.
+C-0039,plc_00299,Contract Machinist,R Alvarez,9911.26,Level adjusted after the probation review.
+C-0040,plc_00065,"Director, Operations","Jibola Okafor
+(Revenue Ops, approved 15 Apr)",10438.71,"Band moved from L4 to L5, so the rate card changes."
+C-0041,plc_00212,"Executive, Account","Sylvie Beauchamp
+(Finance Controller, approved 16 Apr)",9416.72,"Band moved from L4 to L5, so the rate card changes. [see 002]"
+C-0042,plc_00273,"Officer, Compliance","Lindqvist, Maja",11166.20,"Salary band corrected to L5,
+so the commission moves with it."

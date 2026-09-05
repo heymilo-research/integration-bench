@@ -1,0 +1,9 @@
+invoice_ref,period,fee_pct,status,issued_at
+INV-2604-01,2026-Q1,17.5,issued,2026-04-02
+INV-2604-02,2026-Q1,20.0,issued,2026-04-02
+INV-2604-03,2026-Q1,15.0,issued,2026-04-02
+INV-2604-04,2026-Q1,18.0,issued,2026-04-02
+INV-2604-05,2026-Q1,22.5,issued,2026-04-02
+INV-2604-08,2026-Q1,21.0,draft,
+INV-2604-09,2026-Q1,14.0,draft,
+INV-2604-10,2026-Q1,25.0,void,

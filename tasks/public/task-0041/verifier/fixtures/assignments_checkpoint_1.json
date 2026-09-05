@@ -1,0 +1,2256 @@
+[
+  {
+    "data": {
+      "crt_ms": 1704672060000,
+      "employee_id": "emp_0090",
+      "id": "asg_0001",
+      "mod_ms": 1704672060000,
+      "pay_rate": 3352,
+      "role": "HRIS Administrator",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0001",
+    "updated_at": 1704672060000
+  },
+  {
+    "data": {
+      "crt_ms": 1704672120000,
+      "employee_id": "emp_0052",
+      "id": "asg_0002",
+      "mod_ms": 1704672120000,
+      "pay_rate": 4281,
+      "role": "Compliance Officer",
+      "status": "ended"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0002",
+    "updated_at": 1704672120000
+  },
+  {
+    "data": {
+      "crt_ms": 1704672180000,
+      "employee_id": "emp_0120",
+      "id": "asg_0003",
+      "mod_ms": 1704672180000,
+      "pay_rate": 5363,
+      "role": "Payroll Specialist",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0003",
+    "updated_at": 1704672180000
+  },
+  {
+    "data": {
+      "crt_ms": 1704672240000,
+      "employee_id": "emp_0113",
+      "id": "asg_0004",
+      "mod_ms": 1704672240000,
+      "pay_rate": 2845,
+      "role": "Payroll Analyst",
+      "status": "ended"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0004",
+    "updated_at": 1704672240000
+  },
+  {
+    "data": {
+      "crt_ms": 1704672300000,
+      "employee_id": "emp_0115",
+      "id": "asg_0005",
+      "mod_ms": 1704672300000,
+      "pay_rate": 3296,
+      "role": "Benefits Coordinator",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0005",
+    "updated_at": 1704672300000
+  },
+  {
+    "data": {
+      "crt_ms": 1704672360000,
+      "employee_id": "emp_0074",
+      "id": "asg_0006",
+      "mod_ms": 1704672360000,
+      "pay_rate": 5818,
+      "role": "Compensation Analyst",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0006",
+    "updated_at": 1704672360000
+  },
+  {
+    "data": {
+      "crt_ms": 1704672420000,
+      "employee_id": "emp_0032",
+      "id": "asg_0007",
+      "mod_ms": 1704672420000,
+      "pay_rate": 4377,
+      "role": "Benefits Coordinator",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0007",
+    "updated_at": 1704672420000
+  },
+  {
+    "data": {
+      "crt_ms": 1704672480000,
+      "employee_id": "emp_0014",
+      "id": "asg_0008",
+      "mod_ms": 1704672480000,
+      "pay_rate": 3989,
+      "role": "Compliance Officer",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0008",
+    "updated_at": 1704672480000
+  },
+  {
+    "data": {
+      "crt_ms": 1704672540000,
+      "employee_id": "emp_0043",
+      "id": "asg_0009",
+      "mod_ms": 1704672540000,
+      "pay_rate": 6147,
+      "role": "Compliance Officer",
+      "status": "ended"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0009",
+    "updated_at": 1704672540000
+  },
+  {
+    "data": {
+      "crt_ms": 1704672600000,
+      "employee_id": "emp_0026",
+      "id": "asg_0010",
+      "mod_ms": 1704672075000,
+      "pay_rate": 3950,
+      "role": "Payroll Specialist",
+      "status": "ended"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0010",
+    "updated_at": 1704672075000
+  },
+  {
+    "data": {
+      "crt_ms": 1704672660000,
+      "employee_id": "emp_0111",
+      "id": "asg_0011",
+      "mod_ms": 1704672660000,
+      "pay_rate": 2805,
+      "role": "Payroll Specialist",
+      "status": "ended"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0011",
+    "updated_at": 1704672660000
+  },
+  {
+    "data": {
+      "crt_ms": 1704672720000,
+      "employee_id": "emp_0002",
+      "id": "asg_0012",
+      "mod_ms": 1704672720000,
+      "pay_rate": 4253,
+      "role": "Compliance Officer",
+      "status": "ended"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0012",
+    "updated_at": 1704672720000
+  },
+  {
+    "data": {
+      "crt_ms": 1704672780000,
+      "employee_id": "emp_0061",
+      "id": "asg_0013",
+      "mod_ms": 1704672780000,
+      "pay_rate": 2530,
+      "role": "Compensation Analyst",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0013",
+    "updated_at": 1704672780000
+  },
+  {
+    "data": {
+      "crt_ms": 1704672840000,
+      "employee_id": "emp_0042",
+      "id": "asg_0014",
+      "mod_ms": 1704672840000,
+      "pay_rate": 5798,
+      "role": "Payroll Specialist",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0014",
+    "updated_at": 1704672840000
+  },
+  {
+    "data": {
+      "crt_ms": 1704672900000,
+      "employee_id": "emp_0007",
+      "id": "asg_0015",
+      "mod_ms": 1704672900000,
+      "pay_rate": 3891,
+      "role": "Compliance Officer",
+      "status": "active"
+    },
+    "is_deleted": true,
+    "source_id": "asg_0015",
+    "updated_at": 1704672900000
+  },
+  {
+    "data": {
+      "crt_ms": 1704672960000,
+      "employee_id": "emp_0074",
+      "id": "asg_0016",
+      "mod_ms": 1704672960000,
+      "pay_rate": 4394,
+      "role": "Compensation Analyst",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0016",
+    "updated_at": 1704672960000
+  },
+  {
+    "data": {
+      "crt_ms": 1704673020000,
+      "employee_id": "emp_0041",
+      "id": "asg_0017",
+      "mod_ms": 1704673020000,
+      "pay_rate": 2940,
+      "role": "Recruiting Coordinator",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0017",
+    "updated_at": 1704673020000
+  },
+  {
+    "data": {
+      "crt_ms": 1704673080000,
+      "employee_id": "emp_0087",
+      "id": "asg_0018",
+      "mod_ms": 1704673080000,
+      "pay_rate": 5189,
+      "role": "Compliance Officer",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0018",
+    "updated_at": 1704673080000
+  },
+  {
+    "data": {
+      "crt_ms": 1704673140000,
+      "employee_id": "emp_0094",
+      "id": "asg_0019",
+      "mod_ms": 1704673140000,
+      "pay_rate": 3613,
+      "role": "Compliance Officer",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0019",
+    "updated_at": 1704673140000
+  },
+  {
+    "data": {
+      "crt_ms": 1704673200000,
+      "employee_id": "emp_0017",
+      "id": "asg_0020",
+      "mod_ms": 1704673200000,
+      "pay_rate": 5433,
+      "role": "Payroll Specialist",
+      "status": "ended"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0020",
+    "updated_at": 1704673200000
+  },
+  {
+    "data": {
+      "crt_ms": 1704673260000,
+      "employee_id": "emp_0052",
+      "id": "asg_0021",
+      "mod_ms": 1704673260000,
+      "pay_rate": 5242,
+      "role": "Benefits Coordinator",
+      "status": "ended"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0021",
+    "updated_at": 1704673260000
+  },
+  {
+    "data": {
+      "crt_ms": 1704673320000,
+      "employee_id": "emp_0097",
+      "id": "asg_0022",
+      "mod_ms": 1704673320000,
+      "pay_rate": 3333,
+      "role": "HR Generalist",
+      "status": "ended"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0022",
+    "updated_at": 1704673320000
+  },
+  {
+    "data": {
+      "crt_ms": 1704673380000,
+      "employee_id": "emp_0119",
+      "id": "asg_0023",
+      "mod_ms": 1704673380000,
+      "pay_rate": 3731,
+      "role": "Compensation Analyst",
+      "status": "ended"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0023",
+    "updated_at": 1704673380000
+  },
+  {
+    "data": {
+      "crt_ms": 1704673440000,
+      "employee_id": "emp_0047",
+      "id": "asg_0024",
+      "mod_ms": 1704673440000,
+      "pay_rate": 2791,
+      "role": "Payroll Analyst",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0024",
+    "updated_at": 1704673440000
+  },
+  {
+    "data": {
+      "crt_ms": 1704673500000,
+      "employee_id": "emp_0081",
+      "id": "asg_0025",
+      "mod_ms": 1704673500000,
+      "pay_rate": 5095,
+      "role": "HRIS Administrator",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0025",
+    "updated_at": 1704673500000
+  },
+  {
+    "data": {
+      "crt_ms": 1704673560000,
+      "employee_id": "emp_0109",
+      "id": "asg_0026",
+      "mod_ms": 1704673560000,
+      "pay_rate": 2743,
+      "role": "Recruiting Coordinator",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0026",
+    "updated_at": 1704673560000
+  },
+  {
+    "data": {
+      "crt_ms": 1704673620000,
+      "employee_id": "emp_0099",
+      "id": "asg_0027",
+      "mod_ms": 1704673620000,
+      "pay_rate": 6040,
+      "role": "Payroll Analyst",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0027",
+    "updated_at": 1704673620000
+  },
+  {
+    "data": {
+      "crt_ms": 1704673680000,
+      "employee_id": "emp_0112",
+      "id": "asg_0028",
+      "mod_ms": 1704673680000,
+      "pay_rate": 6486,
+      "role": "HR Generalist",
+      "status": "ended"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0028",
+    "updated_at": 1704673680000
+  },
+  {
+    "data": {
+      "crt_ms": 1704673740000,
+      "employee_id": "emp_0072",
+      "id": "asg_0029",
+      "mod_ms": 1704673740000,
+      "pay_rate": 2720,
+      "role": "Recruiting Coordinator",
+      "status": "ended"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0029",
+    "updated_at": 1704673740000
+  },
+  {
+    "data": {
+      "crt_ms": 1704673800000,
+      "employee_id": "emp_0059",
+      "id": "asg_0030",
+      "mod_ms": 1704673800000,
+      "pay_rate": 4622,
+      "role": "Payroll Analyst",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0030",
+    "updated_at": 1704673800000
+  },
+  {
+    "data": {
+      "crt_ms": 1704673860000,
+      "employee_id": "emp_0098",
+      "id": "asg_0031",
+      "mod_ms": 1704673860000,
+      "pay_rate": 3757,
+      "role": "Payroll Analyst",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0031",
+    "updated_at": 1704673860000
+  },
+  {
+    "data": {
+      "crt_ms": 1704673920000,
+      "employee_id": "emp_0033",
+      "id": "asg_0032",
+      "mod_ms": 1704673920000,
+      "pay_rate": 6081,
+      "role": "Payroll Specialist",
+      "status": "ended"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0032",
+    "updated_at": 1704673920000
+  },
+  {
+    "data": {
+      "crt_ms": 1704673980000,
+      "employee_id": "emp_0116",
+      "id": "asg_0033",
+      "mod_ms": 1704673980000,
+      "pay_rate": 5701,
+      "role": "HRIS Administrator",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0033",
+    "updated_at": 1704673980000
+  },
+  {
+    "data": {
+      "crt_ms": 1704674040000,
+      "employee_id": "emp_0075",
+      "id": "asg_0034",
+      "mod_ms": 1704674040000,
+      "pay_rate": 3620,
+      "role": "Recruiting Coordinator",
+      "status": "ended"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0034",
+    "updated_at": 1704674040000
+  },
+  {
+    "data": {
+      "crt_ms": 1704674100000,
+      "employee_id": "emp_0118",
+      "id": "asg_0035",
+      "mod_ms": 1704674100000,
+      "pay_rate": 4739,
+      "role": "Recruiting Coordinator",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0035",
+    "updated_at": 1704674100000
+  },
+  {
+    "data": {
+      "crt_ms": 1704674160000,
+      "employee_id": "emp_0075",
+      "id": "asg_0036",
+      "mod_ms": 1704674160000,
+      "pay_rate": 3522,
+      "role": "Payroll Specialist",
+      "status": "ended"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0036",
+    "updated_at": 1704674160000
+  },
+  {
+    "data": {
+      "crt_ms": 1704674220000,
+      "employee_id": "emp_0071",
+      "id": "asg_0037",
+      "mod_ms": 1704674220000,
+      "pay_rate": 2088,
+      "role": "HRIS Administrator",
+      "status": "ended"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0037",
+    "updated_at": 1704674220000
+  },
+  {
+    "data": {
+      "crt_ms": 1704674280000,
+      "employee_id": "emp_0075",
+      "id": "asg_0038",
+      "mod_ms": 1704674280000,
+      "pay_rate": 3317,
+      "role": "Payroll Specialist",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0038",
+    "updated_at": 1704674280000
+  },
+  {
+    "data": {
+      "crt_ms": 1704674340000,
+      "employee_id": "emp_0102",
+      "id": "asg_0039",
+      "mod_ms": 1704674340000,
+      "pay_rate": 3011,
+      "role": "Payroll Analyst",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0039",
+    "updated_at": 1704674340000
+  },
+  {
+    "data": {
+      "crt_ms": 1704674400000,
+      "employee_id": "emp_0074",
+      "id": "asg_0040",
+      "mod_ms": 1704674400000,
+      "pay_rate": 4746,
+      "role": "Payroll Specialist",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0040",
+    "updated_at": 1704674400000
+  },
+  {
+    "data": {
+      "crt_ms": 1704674460000,
+      "employee_id": "emp_0024",
+      "id": "asg_0041",
+      "mod_ms": 1704674460000,
+      "pay_rate": 3674,
+      "role": "Compensation Analyst",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0041",
+    "updated_at": 1704674460000
+  },
+  {
+    "data": {
+      "crt_ms": 1704674520000,
+      "employee_id": "emp_0095",
+      "id": "asg_0042",
+      "mod_ms": 1704674520000,
+      "pay_rate": 5008,
+      "role": "Benefits Coordinator",
+      "status": "ended"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0042",
+    "updated_at": 1704674520000
+  },
+  {
+    "data": {
+      "crt_ms": 1704674580000,
+      "employee_id": "emp_0107",
+      "id": "asg_0043",
+      "mod_ms": 1704674580000,
+      "pay_rate": 2074,
+      "role": "Payroll Specialist",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0043",
+    "updated_at": 1704674580000
+  },
+  {
+    "data": {
+      "crt_ms": 1704674640000,
+      "employee_id": "emp_0091",
+      "id": "asg_0044",
+      "mod_ms": 1704674640000,
+      "pay_rate": 5867,
+      "role": "Payroll Analyst",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0044",
+    "updated_at": 1704674640000
+  },
+  {
+    "data": {
+      "crt_ms": 1704674700000,
+      "employee_id": "emp_0091",
+      "id": "asg_0045",
+      "mod_ms": 1704674700000,
+      "pay_rate": 6295,
+      "role": "HRIS Administrator",
+      "status": "ended"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0045",
+    "updated_at": 1704674700000
+  },
+  {
+    "data": {
+      "crt_ms": 1704674760000,
+      "employee_id": "emp_0001",
+      "id": "asg_0046",
+      "mod_ms": 1704674760000,
+      "pay_rate": 3785,
+      "role": "Payroll Analyst",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0046",
+    "updated_at": 1704674760000
+  },
+  {
+    "data": {
+      "crt_ms": 1704674820000,
+      "employee_id": "emp_0044",
+      "id": "asg_0047",
+      "mod_ms": 1704674820000,
+      "pay_rate": 2563,
+      "role": "Compensation Analyst",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0047",
+    "updated_at": 1704674820000
+  },
+  {
+    "data": {
+      "crt_ms": 1704674880000,
+      "employee_id": "emp_0079",
+      "id": "asg_0048",
+      "mod_ms": 1704674880000,
+      "pay_rate": 1961,
+      "role": "HR Generalist",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0048",
+    "updated_at": 1704674880000
+  },
+  {
+    "data": {
+      "crt_ms": 1704674940000,
+      "employee_id": "emp_0027",
+      "id": "asg_0049",
+      "mod_ms": 1704674940000,
+      "pay_rate": 3843,
+      "role": "Payroll Specialist",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0049",
+    "updated_at": 1704674940000
+  },
+  {
+    "data": {
+      "crt_ms": 1704675000000,
+      "employee_id": "emp_0054",
+      "id": "asg_0050",
+      "mod_ms": 1704675000000,
+      "pay_rate": 2927,
+      "role": "Benefits Coordinator",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0050",
+    "updated_at": 1704675000000
+  },
+  {
+    "data": {
+      "crt_ms": 1704675060000,
+      "employee_id": "emp_0112",
+      "id": "asg_0051",
+      "mod_ms": 1704675060000,
+      "pay_rate": 5586,
+      "role": "Compensation Analyst",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0051",
+    "updated_at": 1704675060000
+  },
+  {
+    "data": {
+      "crt_ms": 1704675120000,
+      "employee_id": "emp_0108",
+      "id": "asg_0052",
+      "mod_ms": 1704675120000,
+      "pay_rate": 1937,
+      "role": "HRIS Administrator",
+      "status": "ended"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0052",
+    "updated_at": 1704675120000
+  },
+  {
+    "data": {
+      "crt_ms": 1704675180000,
+      "employee_id": "emp_0020",
+      "id": "asg_0053",
+      "mod_ms": 1704675180000,
+      "pay_rate": 5071,
+      "role": "Benefits Coordinator",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0053",
+    "updated_at": 1704675180000
+  },
+  {
+    "data": {
+      "crt_ms": 1704675240000,
+      "employee_id": "emp_0046",
+      "id": "asg_0054",
+      "mod_ms": 1704675240000,
+      "pay_rate": 4161,
+      "role": "HRIS Administrator",
+      "status": "ended"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0054",
+    "updated_at": 1704675240000
+  },
+  {
+    "data": {
+      "crt_ms": 1704675300000,
+      "employee_id": "emp_0117",
+      "id": "asg_0055",
+      "mod_ms": 1704675300000,
+      "pay_rate": 2683,
+      "role": "HR Generalist",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0055",
+    "updated_at": 1704675300000
+  },
+  {
+    "data": {
+      "crt_ms": 1704675360000,
+      "employee_id": "emp_0030",
+      "id": "asg_0056",
+      "mod_ms": 1704675360000,
+      "pay_rate": 3646,
+      "role": "HRIS Administrator",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0056",
+    "updated_at": 1704675360000
+  },
+  {
+    "data": {
+      "crt_ms": 1704675420000,
+      "employee_id": "emp_0078",
+      "id": "asg_0057",
+      "mod_ms": 1704675420000,
+      "pay_rate": 5299,
+      "role": "Payroll Specialist",
+      "status": "ended"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0057",
+    "updated_at": 1704675420000
+  },
+  {
+    "data": {
+      "crt_ms": 1704675480000,
+      "employee_id": "emp_0034",
+      "id": "asg_0058",
+      "mod_ms": 1704675480000,
+      "pay_rate": 2636,
+      "role": "HR Generalist",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0058",
+    "updated_at": 1704675480000
+  },
+  {
+    "data": {
+      "crt_ms": 1704675540000,
+      "employee_id": "emp_0065",
+      "id": "asg_0059",
+      "mod_ms": 1704675540000,
+      "pay_rate": 3463,
+      "role": "Recruiting Coordinator",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0059",
+    "updated_at": 1704675540000
+  },
+  {
+    "data": {
+      "crt_ms": 1704675600000,
+      "employee_id": "emp_0059",
+      "id": "asg_0060",
+      "mod_ms": 1704675600000,
+      "pay_rate": 2383,
+      "role": "Benefits Coordinator",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0060",
+    "updated_at": 1704675600000
+  },
+  {
+    "data": {
+      "crt_ms": 1704675660000,
+      "employee_id": "emp_0094",
+      "id": "asg_0061",
+      "mod_ms": 1704675660000,
+      "pay_rate": 5122,
+      "role": "HRIS Administrator",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0061",
+    "updated_at": 1704675660000
+  },
+  {
+    "data": {
+      "crt_ms": 1704675720000,
+      "employee_id": "emp_0101",
+      "id": "asg_0062",
+      "mod_ms": 1704675720000,
+      "pay_rate": 3788,
+      "role": "Payroll Specialist",
+      "status": "ended"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0062",
+    "updated_at": 1704675720000
+  },
+  {
+    "data": {
+      "crt_ms": 1704675780000,
+      "employee_id": "emp_0092",
+      "id": "asg_0063",
+      "mod_ms": 1704675780000,
+      "pay_rate": 5558,
+      "role": "Payroll Specialist",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0063",
+    "updated_at": 1704675780000
+  },
+  {
+    "data": {
+      "crt_ms": 1704675840000,
+      "employee_id": "emp_0002",
+      "id": "asg_0064",
+      "mod_ms": 1704675840000,
+      "pay_rate": 6340,
+      "role": "Compliance Officer",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0064",
+    "updated_at": 1704675840000
+  },
+  {
+    "data": {
+      "crt_ms": 1704675900000,
+      "employee_id": "emp_0038",
+      "id": "asg_0065",
+      "mod_ms": 1704675900000,
+      "pay_rate": 3928,
+      "role": "Benefits Coordinator",
+      "status": "ended"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0065",
+    "updated_at": 1704675900000
+  },
+  {
+    "data": {
+      "crt_ms": 1704675960000,
+      "employee_id": "emp_0065",
+      "id": "asg_0066",
+      "mod_ms": 1704675960000,
+      "pay_rate": 2883,
+      "role": "Payroll Specialist",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0066",
+    "updated_at": 1704675960000
+  },
+  {
+    "data": {
+      "crt_ms": 1704676020000,
+      "employee_id": "emp_0108",
+      "id": "asg_0067",
+      "mod_ms": 1704676020000,
+      "pay_rate": 2359,
+      "role": "Recruiting Coordinator",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0067",
+    "updated_at": 1704676020000
+  },
+  {
+    "data": {
+      "crt_ms": 1704676080000,
+      "employee_id": "emp_0010",
+      "id": "asg_0068",
+      "mod_ms": 1704676080000,
+      "pay_rate": 3357,
+      "role": "Recruiting Coordinator",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0068",
+    "updated_at": 1704676080000
+  },
+  {
+    "data": {
+      "crt_ms": 1704676140000,
+      "employee_id": "emp_0067",
+      "id": "asg_0069",
+      "mod_ms": 1704676140000,
+      "pay_rate": 4293,
+      "role": "HRIS Administrator",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0069",
+    "updated_at": 1704676140000
+  },
+  {
+    "data": {
+      "crt_ms": 1704676200000,
+      "employee_id": "emp_0098",
+      "id": "asg_0070",
+      "mod_ms": 1704676200000,
+      "pay_rate": 4573,
+      "role": "Compensation Analyst",
+      "status": "ended"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0070",
+    "updated_at": 1704676200000
+  },
+  {
+    "data": {
+      "crt_ms": 1704676260000,
+      "employee_id": "emp_0079",
+      "id": "asg_0071",
+      "mod_ms": 1704676260000,
+      "pay_rate": 4610,
+      "role": "Payroll Specialist",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0071",
+    "updated_at": 1704676260000
+  },
+  {
+    "data": {
+      "crt_ms": 1704676320000,
+      "employee_id": "emp_0038",
+      "id": "asg_0072",
+      "mod_ms": 1704676320000,
+      "pay_rate": 3473,
+      "role": "Recruiting Coordinator",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0072",
+    "updated_at": 1704676320000
+  },
+  {
+    "data": {
+      "crt_ms": 1704676380000,
+      "employee_id": "emp_0026",
+      "id": "asg_0073",
+      "mod_ms": 1704676380000,
+      "pay_rate": 4629,
+      "role": "Compliance Officer",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0073",
+    "updated_at": 1704676380000
+  },
+  {
+    "data": {
+      "crt_ms": 1704676440000,
+      "employee_id": "emp_0046",
+      "id": "asg_0074",
+      "mod_ms": 1704676440000,
+      "pay_rate": 2292,
+      "role": "HR Generalist",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0074",
+    "updated_at": 1704676440000
+  },
+  {
+    "data": {
+      "crt_ms": 1704676500000,
+      "employee_id": "emp_0025",
+      "id": "asg_0075",
+      "mod_ms": 1704676500000,
+      "pay_rate": 6277,
+      "role": "Recruiting Coordinator",
+      "status": "ended"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0075",
+    "updated_at": 1704676500000
+  },
+  {
+    "data": {
+      "crt_ms": 1704676560000,
+      "employee_id": "emp_0117",
+      "id": "asg_0076",
+      "mod_ms": 1704676560000,
+      "pay_rate": 5342,
+      "role": "Payroll Specialist",
+      "status": "ended"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0076",
+    "updated_at": 1704676560000
+  },
+  {
+    "data": {
+      "crt_ms": 1704676620000,
+      "employee_id": "emp_0092",
+      "id": "asg_0077",
+      "mod_ms": 1704676620000,
+      "pay_rate": 4155,
+      "role": "HR Generalist",
+      "status": "ended"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0077",
+    "updated_at": 1704676620000
+  },
+  {
+    "data": {
+      "crt_ms": 1704676680000,
+      "employee_id": "emp_0094",
+      "id": "asg_0078",
+      "mod_ms": 1704676680000,
+      "pay_rate": 2117,
+      "role": "Compliance Officer",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0078",
+    "updated_at": 1704676680000
+  },
+  {
+    "data": {
+      "crt_ms": 1704676740000,
+      "employee_id": "emp_0048",
+      "id": "asg_0079",
+      "mod_ms": 1704676740000,
+      "pay_rate": 5790,
+      "role": "Compensation Analyst",
+      "status": "ended"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0079",
+    "updated_at": 1704676740000
+  },
+  {
+    "data": {
+      "crt_ms": 1704676800000,
+      "employee_id": "emp_0032",
+      "id": "asg_0080",
+      "mod_ms": 1704676800000,
+      "pay_rate": 4152,
+      "role": "HR Generalist",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0080",
+    "updated_at": 1704676800000
+  },
+  {
+    "data": {
+      "crt_ms": 1704676860000,
+      "employee_id": "emp_0101",
+      "id": "asg_0081",
+      "mod_ms": 1704676860000,
+      "pay_rate": 6387,
+      "role": "Benefits Coordinator",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0081",
+    "updated_at": 1704676860000
+  },
+  {
+    "data": {
+      "crt_ms": 1704676920000,
+      "employee_id": "emp_0021",
+      "id": "asg_0082",
+      "mod_ms": 1704676920000,
+      "pay_rate": 4944,
+      "role": "Compliance Officer",
+      "status": "ended"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0082",
+    "updated_at": 1704676920000
+  },
+  {
+    "data": {
+      "crt_ms": 1704676980000,
+      "employee_id": "emp_0052",
+      "id": "asg_0083",
+      "mod_ms": 1704676980000,
+      "pay_rate": 4063,
+      "role": "Payroll Analyst",
+      "status": "ended"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0083",
+    "updated_at": 1704676980000
+  },
+  {
+    "data": {
+      "crt_ms": 1704677040000,
+      "employee_id": "emp_0077",
+      "id": "asg_0084",
+      "mod_ms": 1704677040000,
+      "pay_rate": 3494,
+      "role": "Recruiting Coordinator",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0084",
+    "updated_at": 1704677040000
+  },
+  {
+    "data": {
+      "crt_ms": 1704677100000,
+      "employee_id": "emp_0076",
+      "id": "asg_0085",
+      "mod_ms": 1704677100000,
+      "pay_rate": 3958,
+      "role": "Compensation Analyst",
+      "status": "ended"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0085",
+    "updated_at": 1704677100000
+  },
+  {
+    "data": {
+      "crt_ms": 1704677160000,
+      "employee_id": "emp_0049",
+      "id": "asg_0086",
+      "mod_ms": 1704677160000,
+      "pay_rate": 3469,
+      "role": "Recruiting Coordinator",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0086",
+    "updated_at": 1704677160000
+  },
+  {
+    "data": {
+      "crt_ms": 1704677220000,
+      "employee_id": "emp_0020",
+      "id": "asg_0087",
+      "mod_ms": 1704677220000,
+      "pay_rate": 5855,
+      "role": "HR Generalist",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0087",
+    "updated_at": 1704677220000
+  },
+  {
+    "data": {
+      "crt_ms": 1704677280000,
+      "employee_id": "emp_0014",
+      "id": "asg_0088",
+      "mod_ms": 1704677280000,
+      "pay_rate": 4639,
+      "role": "Compensation Analyst",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0088",
+    "updated_at": 1704677280000
+  },
+  {
+    "data": {
+      "crt_ms": 1704677340000,
+      "employee_id": "emp_0060",
+      "id": "asg_0089",
+      "mod_ms": 1704677340000,
+      "pay_rate": 3838,
+      "role": "Recruiting Coordinator",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0089",
+    "updated_at": 1704677340000
+  },
+  {
+    "data": {
+      "crt_ms": 1704677400000,
+      "employee_id": "emp_0059",
+      "id": "asg_0090",
+      "mod_ms": 1704677400000,
+      "pay_rate": 2601,
+      "role": "Payroll Specialist",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0090",
+    "updated_at": 1704677400000
+  },
+  {
+    "data": {
+      "crt_ms": 1704677460000,
+      "employee_id": "emp_0003",
+      "id": "asg_0091",
+      "mod_ms": 1704677460000,
+      "pay_rate": 2100,
+      "role": "Payroll Specialist",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0091",
+    "updated_at": 1704677460000
+  },
+  {
+    "data": {
+      "crt_ms": 1704677520000,
+      "employee_id": "emp_0014",
+      "id": "asg_0092",
+      "mod_ms": 1704677520000,
+      "pay_rate": 2083,
+      "role": "Payroll Specialist",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0092",
+    "updated_at": 1704677520000
+  },
+  {
+    "data": {
+      "crt_ms": 1704677580000,
+      "employee_id": "emp_0041",
+      "id": "asg_0093",
+      "mod_ms": 1704677580000,
+      "pay_rate": 1822,
+      "role": "Payroll Analyst",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0093",
+    "updated_at": 1704677580000
+  },
+  {
+    "data": {
+      "crt_ms": 1704677640000,
+      "employee_id": "emp_0062",
+      "id": "asg_0094",
+      "mod_ms": 1704677640000,
+      "pay_rate": 2596,
+      "role": "HR Generalist",
+      "status": "ended"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0094",
+    "updated_at": 1704677640000
+  },
+  {
+    "data": {
+      "crt_ms": 1704677700000,
+      "employee_id": "emp_0082",
+      "id": "asg_0095",
+      "mod_ms": 1704677700000,
+      "pay_rate": 4941,
+      "role": "Compensation Analyst",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0095",
+    "updated_at": 1704677700000
+  },
+  {
+    "data": {
+      "crt_ms": 1704677760000,
+      "employee_id": "emp_0066",
+      "id": "asg_0096",
+      "mod_ms": 1704677760000,
+      "pay_rate": 4358,
+      "role": "Compliance Officer",
+      "status": "ended"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0096",
+    "updated_at": 1704677760000
+  },
+  {
+    "data": {
+      "crt_ms": 1704677820000,
+      "employee_id": "emp_0038",
+      "id": "asg_0097",
+      "mod_ms": 1704677820000,
+      "pay_rate": 3348,
+      "role": "Compliance Officer",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0097",
+    "updated_at": 1704677820000
+  },
+  {
+    "data": {
+      "crt_ms": 1704677880000,
+      "employee_id": "emp_0025",
+      "id": "asg_0098",
+      "mod_ms": 1704677880000,
+      "pay_rate": 2445,
+      "role": "Compliance Officer",
+      "status": "ended"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0098",
+    "updated_at": 1704677880000
+  },
+  {
+    "data": {
+      "crt_ms": 1704677940000,
+      "employee_id": "emp_0014",
+      "id": "asg_0099",
+      "mod_ms": 1704677940000,
+      "pay_rate": 2152,
+      "role": "HR Generalist",
+      "status": "ended"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0099",
+    "updated_at": 1704677940000
+  },
+  {
+    "data": {
+      "crt_ms": 1704678000000,
+      "employee_id": "emp_0012",
+      "id": "asg_0100",
+      "mod_ms": 1704678000000,
+      "pay_rate": 5962,
+      "role": "Payroll Specialist",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0100",
+    "updated_at": 1704678000000
+  },
+  {
+    "data": {
+      "crt_ms": 1704678060000,
+      "employee_id": "emp_0120",
+      "id": "asg_0101",
+      "mod_ms": 1704678060000,
+      "pay_rate": 3721,
+      "role": "Recruiting Coordinator",
+      "status": "ended"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0101",
+    "updated_at": 1704678060000
+  },
+  {
+    "data": {
+      "crt_ms": 1704678120000,
+      "employee_id": "emp_0095",
+      "id": "asg_0102",
+      "mod_ms": 1704678120000,
+      "pay_rate": 3779,
+      "role": "Compliance Officer",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0102",
+    "updated_at": 1704678120000
+  },
+  {
+    "data": {
+      "crt_ms": 1704678180000,
+      "employee_id": "emp_0032",
+      "id": "asg_0103",
+      "mod_ms": 1704678180000,
+      "pay_rate": 6042,
+      "role": "Recruiting Coordinator",
+      "status": "ended"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0103",
+    "updated_at": 1704678180000
+  },
+  {
+    "data": {
+      "crt_ms": 1704678240000,
+      "employee_id": "emp_0080",
+      "id": "asg_0104",
+      "mod_ms": 1704678240000,
+      "pay_rate": 3011,
+      "role": "Payroll Analyst",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0104",
+    "updated_at": 1704678240000
+  },
+  {
+    "data": {
+      "crt_ms": 1704678300000,
+      "employee_id": "emp_0007",
+      "id": "asg_0105",
+      "mod_ms": 1704678300000,
+      "pay_rate": 3341,
+      "role": "Benefits Coordinator",
+      "status": "ended"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0105",
+    "updated_at": 1704678300000
+  },
+  {
+    "data": {
+      "crt_ms": 1704678360000,
+      "employee_id": "emp_0102",
+      "id": "asg_0106",
+      "mod_ms": 1704678360000,
+      "pay_rate": 2916,
+      "role": "Payroll Specialist",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0106",
+    "updated_at": 1704678360000
+  },
+  {
+    "data": {
+      "crt_ms": 1704678420000,
+      "employee_id": "emp_0025",
+      "id": "asg_0107",
+      "mod_ms": 1704678420000,
+      "pay_rate": 3949,
+      "role": "HRIS Administrator",
+      "status": "ended"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0107",
+    "updated_at": 1704678420000
+  },
+  {
+    "data": {
+      "crt_ms": 1704678480000,
+      "employee_id": "emp_0028",
+      "id": "asg_0108",
+      "mod_ms": 1704678480000,
+      "pay_rate": 2842,
+      "role": "HRIS Administrator",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0108",
+    "updated_at": 1704678480000
+  },
+  {
+    "data": {
+      "crt_ms": 1704678540000,
+      "employee_id": "emp_0098",
+      "id": "asg_0109",
+      "mod_ms": 1704678540000,
+      "pay_rate": 3975,
+      "role": "Compensation Analyst",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0109",
+    "updated_at": 1704678540000
+  },
+  {
+    "data": {
+      "crt_ms": 1704678600000,
+      "employee_id": "emp_0044",
+      "id": "asg_0110",
+      "mod_ms": 1704678600000,
+      "pay_rate": 2470,
+      "role": "Payroll Analyst",
+      "status": "ended"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0110",
+    "updated_at": 1704678600000
+  },
+  {
+    "data": {
+      "crt_ms": 1704678660000,
+      "employee_id": "emp_0056",
+      "id": "asg_0111",
+      "mod_ms": 1704678660000,
+      "pay_rate": 3411,
+      "role": "Recruiting Coordinator",
+      "status": "ended"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0111",
+    "updated_at": 1704678660000
+  },
+  {
+    "data": {
+      "crt_ms": 1704678720000,
+      "employee_id": "emp_0065",
+      "id": "asg_0112",
+      "mod_ms": 1704678720000,
+      "pay_rate": 2894,
+      "role": "HR Generalist",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0112",
+    "updated_at": 1704678720000
+  },
+  {
+    "data": {
+      "crt_ms": 1704678780000,
+      "employee_id": "emp_0085",
+      "id": "asg_0113",
+      "mod_ms": 1704678780000,
+      "pay_rate": 2390,
+      "role": "Compliance Officer",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0113",
+    "updated_at": 1704678780000
+  },
+  {
+    "data": {
+      "crt_ms": 1704678840000,
+      "employee_id": "emp_0112",
+      "id": "asg_0114",
+      "mod_ms": 1704678840000,
+      "pay_rate": 3045,
+      "role": "Compliance Officer",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0114",
+    "updated_at": 1704678840000
+  },
+  {
+    "data": {
+      "crt_ms": 1704678900000,
+      "employee_id": "emp_0097",
+      "id": "asg_0115",
+      "mod_ms": 1704678900000,
+      "pay_rate": 3852,
+      "role": "Benefits Coordinator",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0115",
+    "updated_at": 1704678900000
+  },
+  {
+    "data": {
+      "crt_ms": 1704678960000,
+      "employee_id": "emp_0051",
+      "id": "asg_0116",
+      "mod_ms": 1704678960000,
+      "pay_rate": 5960,
+      "role": "Benefits Coordinator",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0116",
+    "updated_at": 1704678960000
+  },
+  {
+    "data": {
+      "crt_ms": 1704679020000,
+      "employee_id": "emp_0024",
+      "id": "asg_0117",
+      "mod_ms": 1704679020000,
+      "pay_rate": 4797,
+      "role": "Payroll Specialist",
+      "status": "ended"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0117",
+    "updated_at": 1704679020000
+  },
+  {
+    "data": {
+      "crt_ms": 1704679080000,
+      "employee_id": "emp_0102",
+      "id": "asg_0118",
+      "mod_ms": 1704679080000,
+      "pay_rate": 2339,
+      "role": "Payroll Specialist",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0118",
+    "updated_at": 1704679080000
+  },
+  {
+    "data": {
+      "crt_ms": 1704679140000,
+      "employee_id": "emp_0113",
+      "id": "asg_0119",
+      "mod_ms": 1704679140000,
+      "pay_rate": 1967,
+      "role": "Payroll Analyst",
+      "status": "ended"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0119",
+    "updated_at": 1704679140000
+  },
+  {
+    "data": {
+      "crt_ms": 1704679200000,
+      "employee_id": "emp_0114",
+      "id": "asg_0120",
+      "mod_ms": 1704679200000,
+      "pay_rate": 3840,
+      "role": "Recruiting Coordinator",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0120",
+    "updated_at": 1704679200000
+  },
+  {
+    "data": {
+      "crt_ms": 1704679260000,
+      "employee_id": "emp_0119",
+      "id": "asg_0121",
+      "mod_ms": 1704679260000,
+      "pay_rate": 2876,
+      "role": "Payroll Analyst",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0121",
+    "updated_at": 1704679260000
+  },
+  {
+    "data": {
+      "crt_ms": 1704679320000,
+      "employee_id": "emp_0017",
+      "id": "asg_0122",
+      "mod_ms": 1704679320000,
+      "pay_rate": 2879,
+      "role": "Recruiting Coordinator",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0122",
+    "updated_at": 1704679320000
+  },
+  {
+    "data": {
+      "crt_ms": 1704679380000,
+      "employee_id": "emp_0025",
+      "id": "asg_0123",
+      "mod_ms": 1704679380000,
+      "pay_rate": 1887,
+      "role": "HR Generalist",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0123",
+    "updated_at": 1704679380000
+  },
+  {
+    "data": {
+      "crt_ms": 1704679440000,
+      "employee_id": "emp_0099",
+      "id": "asg_0124",
+      "mod_ms": 1704679440000,
+      "pay_rate": 5662,
+      "role": "Recruiting Coordinator",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0124",
+    "updated_at": 1704679440000
+  },
+  {
+    "data": {
+      "crt_ms": 1704679500000,
+      "employee_id": "emp_0021",
+      "id": "asg_0125",
+      "mod_ms": 1704679500000,
+      "pay_rate": 3085,
+      "role": "HRIS Administrator",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0125",
+    "updated_at": 1704679500000
+  },
+  {
+    "data": {
+      "crt_ms": 1704679560000,
+      "employee_id": "emp_0057",
+      "id": "asg_0126",
+      "mod_ms": 1704679560000,
+      "pay_rate": 5783,
+      "role": "Payroll Specialist",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0126",
+    "updated_at": 1704679560000
+  },
+  {
+    "data": {
+      "crt_ms": 1704679620000,
+      "employee_id": "emp_0024",
+      "id": "asg_0127",
+      "mod_ms": 1704679620000,
+      "pay_rate": 6179,
+      "role": "Payroll Specialist",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0127",
+    "updated_at": 1704679620000
+  },
+  {
+    "data": {
+      "crt_ms": 1704679680000,
+      "employee_id": "emp_0029",
+      "id": "asg_0128",
+      "mod_ms": 1704679680000,
+      "pay_rate": 5215,
+      "role": "Benefits Coordinator",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0128",
+    "updated_at": 1704679680000
+  },
+  {
+    "data": {
+      "crt_ms": 1704679740000,
+      "employee_id": "emp_0008",
+      "id": "asg_0129",
+      "mod_ms": 1704679740000,
+      "pay_rate": 5304,
+      "role": "Compensation Analyst",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0129",
+    "updated_at": 1704679740000
+  },
+  {
+    "data": {
+      "crt_ms": 1704679800000,
+      "employee_id": "emp_0011",
+      "id": "asg_0130",
+      "mod_ms": 1704679800000,
+      "pay_rate": 4450,
+      "role": "Recruiting Coordinator",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0130",
+    "updated_at": 1704679800000
+  },
+  {
+    "data": {
+      "crt_ms": 1704679860000,
+      "employee_id": "emp_0065",
+      "id": "asg_0131",
+      "mod_ms": 1704679860000,
+      "pay_rate": 2145,
+      "role": "HR Generalist",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0131",
+    "updated_at": 1704679860000
+  },
+  {
+    "data": {
+      "crt_ms": 1704679920000,
+      "employee_id": "emp_0025",
+      "id": "asg_0132",
+      "mod_ms": 1704679920000,
+      "pay_rate": 3297,
+      "role": "Compensation Analyst",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0132",
+    "updated_at": 1704679920000
+  },
+  {
+    "data": {
+      "crt_ms": 1704679980000,
+      "employee_id": "emp_0030",
+      "id": "asg_0133",
+      "mod_ms": 1704679980000,
+      "pay_rate": 3309,
+      "role": "Benefits Coordinator",
+      "status": "ended"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0133",
+    "updated_at": 1704679980000
+  },
+  {
+    "data": {
+      "crt_ms": 1704680040000,
+      "employee_id": "emp_0082",
+      "id": "asg_0134",
+      "mod_ms": 1704680040000,
+      "pay_rate": 1812,
+      "role": "Recruiting Coordinator",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0134",
+    "updated_at": 1704680040000
+  },
+  {
+    "data": {
+      "crt_ms": 1704680100000,
+      "employee_id": "emp_0079",
+      "id": "asg_0135",
+      "mod_ms": 1704680100000,
+      "pay_rate": 3733,
+      "role": "Benefits Coordinator",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0135",
+    "updated_at": 1704680100000
+  },
+  {
+    "data": {
+      "crt_ms": 1704680160000,
+      "employee_id": "emp_0111",
+      "id": "asg_0136",
+      "mod_ms": 1704680160000,
+      "pay_rate": 6291,
+      "role": "Compliance Officer",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0136",
+    "updated_at": 1704680160000
+  },
+  {
+    "data": {
+      "crt_ms": 1704680220000,
+      "employee_id": "emp_0108",
+      "id": "asg_0137",
+      "mod_ms": 1704680220000,
+      "pay_rate": 5274,
+      "role": "Recruiting Coordinator",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0137",
+    "updated_at": 1704680220000
+  },
+  {
+    "data": {
+      "crt_ms": 1704680280000,
+      "employee_id": "emp_0068",
+      "id": "asg_0138",
+      "mod_ms": 1704680280000,
+      "pay_rate": 6030,
+      "role": "Payroll Specialist",
+      "status": "ended"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0138",
+    "updated_at": 1704680280000
+  },
+  {
+    "data": {
+      "crt_ms": 1704680340000,
+      "employee_id": "emp_0007",
+      "id": "asg_0139",
+      "mod_ms": 1704680340000,
+      "pay_rate": 2917,
+      "role": "HRIS Administrator",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0139",
+    "updated_at": 1704680340000
+  },
+  {
+    "data": {
+      "crt_ms": 1704680400000,
+      "employee_id": "emp_0062",
+      "id": "asg_0140",
+      "mod_ms": 1704680400000,
+      "pay_rate": 4362,
+      "role": "Compensation Analyst",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0140",
+    "updated_at": 1704680400000
+  },
+  {
+    "data": {
+      "crt_ms": 1704680460000,
+      "employee_id": "emp_0090",
+      "id": "asg_0141",
+      "mod_ms": 1704680460000,
+      "pay_rate": 5039,
+      "role": "Recruiting Coordinator",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0141",
+    "updated_at": 1704680460000
+  },
+  {
+    "data": {
+      "crt_ms": 1704680520000,
+      "employee_id": "emp_0012",
+      "id": "asg_0142",
+      "mod_ms": 1704680520000,
+      "pay_rate": 4012,
+      "role": "Recruiting Coordinator",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0142",
+    "updated_at": 1704680520000
+  },
+  {
+    "data": {
+      "crt_ms": 1704680580000,
+      "employee_id": "emp_0069",
+      "id": "asg_0143",
+      "mod_ms": 1704680580000,
+      "pay_rate": 3903,
+      "role": "Compensation Analyst",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0143",
+    "updated_at": 1704680580000
+  },
+  {
+    "data": {
+      "crt_ms": 1704680640000,
+      "employee_id": "emp_0096",
+      "id": "asg_0144",
+      "mod_ms": 1704680640000,
+      "pay_rate": 3573,
+      "role": "Recruiting Coordinator",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0144",
+    "updated_at": 1704680640000
+  },
+  {
+    "data": {
+      "crt_ms": 1704680700000,
+      "employee_id": "emp_0078",
+      "id": "asg_0145",
+      "mod_ms": 1704680700000,
+      "pay_rate": 2222,
+      "role": "Payroll Analyst",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0145",
+    "updated_at": 1704680700000
+  },
+  {
+    "data": {
+      "crt_ms": 1704680760000,
+      "employee_id": "emp_0073",
+      "id": "asg_0146",
+      "mod_ms": 1704680760000,
+      "pay_rate": 4288,
+      "role": "Benefits Coordinator",
+      "status": "ended"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0146",
+    "updated_at": 1704680760000
+  },
+  {
+    "data": {
+      "crt_ms": 1704680820000,
+      "employee_id": "emp_0084",
+      "id": "asg_0147",
+      "mod_ms": 1704680820000,
+      "pay_rate": 5128,
+      "role": "HR Generalist",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0147",
+    "updated_at": 1704680820000
+  },
+  {
+    "data": {
+      "crt_ms": 1704680880000,
+      "employee_id": "emp_0047",
+      "id": "asg_0148",
+      "mod_ms": 1704680880000,
+      "pay_rate": 4768,
+      "role": "Compliance Officer",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0148",
+    "updated_at": 1704680880000
+  },
+  {
+    "data": {
+      "crt_ms": 1704680940000,
+      "employee_id": "emp_0073",
+      "id": "asg_0149",
+      "mod_ms": 1704680940000,
+      "pay_rate": 2713,
+      "role": "HR Generalist",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0149",
+    "updated_at": 1704680940000
+  },
+  {
+    "data": {
+      "crt_ms": 1704681000000,
+      "employee_id": "emp_0013",
+      "id": "asg_0150",
+      "mod_ms": 1704681000000,
+      "pay_rate": 6147,
+      "role": "Compliance Officer",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0150",
+    "updated_at": 1704681000000
+  },
+  {
+    "data": {
+      "crt_ms": 1704681060000,
+      "employee_id": "emp_0026",
+      "id": "asg_0151",
+      "mod_ms": 1704681060000,
+      "pay_rate": 2012,
+      "role": "HRIS Administrator",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0151",
+    "updated_at": 1704681060000
+  },
+  {
+    "data": {
+      "crt_ms": 1704681120000,
+      "employee_id": "emp_0071",
+      "id": "asg_0152",
+      "mod_ms": 1704681120000,
+      "pay_rate": 4366,
+      "role": "Benefits Coordinator",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0152",
+    "updated_at": 1704681120000
+  },
+  {
+    "data": {
+      "crt_ms": 1704681180000,
+      "employee_id": "emp_0017",
+      "id": "asg_0153",
+      "mod_ms": 1704681180000,
+      "pay_rate": 5468,
+      "role": "Recruiting Coordinator",
+      "status": "ended"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0153",
+    "updated_at": 1704681180000
+  },
+  {
+    "data": {
+      "crt_ms": 1704681240000,
+      "employee_id": "emp_0025",
+      "id": "asg_0154",
+      "mod_ms": 1704681240000,
+      "pay_rate": 2839,
+      "role": "Benefits Coordinator",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0154",
+    "updated_at": 1704681240000
+  },
+  {
+    "data": {
+      "crt_ms": 1704681300000,
+      "employee_id": "emp_0081",
+      "id": "asg_0155",
+      "mod_ms": 1704681300000,
+      "pay_rate": 5170,
+      "role": "Payroll Analyst",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0155",
+    "updated_at": 1704681300000
+  },
+  {
+    "data": {
+      "crt_ms": 1704681360000,
+      "employee_id": "emp_0062",
+      "id": "asg_0156",
+      "mod_ms": 1704681360000,
+      "pay_rate": 2892,
+      "role": "Payroll Analyst",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0156",
+    "updated_at": 1704681360000
+  },
+  {
+    "data": {
+      "crt_ms": 1704681420000,
+      "employee_id": "emp_0017",
+      "id": "asg_0157",
+      "mod_ms": 1704681420000,
+      "pay_rate": 1968,
+      "role": "HRIS Administrator",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0157",
+    "updated_at": 1704681420000
+  },
+  {
+    "data": {
+      "crt_ms": 1704681480000,
+      "employee_id": "emp_0045",
+      "id": "asg_0158",
+      "mod_ms": 1704681480000,
+      "pay_rate": 4706,
+      "role": "Payroll Specialist",
+      "status": "ended"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0158",
+    "updated_at": 1704681480000
+  },
+  {
+    "data": {
+      "crt_ms": 1704681540000,
+      "employee_id": "emp_0027",
+      "id": "asg_0159",
+      "mod_ms": 1704681540000,
+      "pay_rate": 5565,
+      "role": "Compensation Analyst",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0159",
+    "updated_at": 1704681540000
+  },
+  {
+    "data": {
+      "crt_ms": 1704681600000,
+      "employee_id": "emp_0046",
+      "id": "asg_0160",
+      "mod_ms": 1704681600000,
+      "pay_rate": 4971,
+      "role": "Benefits Coordinator",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0160",
+    "updated_at": 1704681600000
+  },
+  {
+    "data": {
+      "crt_ms": 1704672060000,
+      "employee_id": "emp_0020",
+      "id": "asg_0900",
+      "mod_ms": 1704672060000,
+      "pay_rate": 4200,
+      "role": "Payroll Analyst",
+      "status": "active"
+    },
+    "is_deleted": false,
+    "source_id": "asg_0900",
+    "updated_at": 1704672060000
+  }
+]

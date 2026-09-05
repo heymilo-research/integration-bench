@@ -1,0 +1,128 @@
+id: task-0027
+title: 'Interviewly: fix a webhook connector whose dedupe strategy quietly breaks
+  event ordering'
+category: fix
+vendor: interviewly
+surfaces:
+- webhooks
+tier: 3
+track: python
+timeout_minutes: 60
+doc_profile: 'true'
+primary_mechanic: booby_trapped_starter
+scenarios:
+- webhook_freshness_fix
+- replay_and_ooo_composition
+entry:
+  command:
+  - python
+  - -m
+  - interviewly_relay
+outputs:
+  files:
+  - output/interviews.json
+  - output/panelists.json
+  - output/feedback.json
+  - output/event_journal.json
+vendors:
+  interviewly:
+    data_port: 8000
+    log_path: /var/log/vendor
+    checkpoint_env: CHECKPOINT
+    credentials:
+      IV_CLIENT_ID: iv-test-client-id
+      IV_CLIENT_SECRET: iv-test-client-secret
+      IV_WEBHOOK_SECRET: iv-test-webhook-secret
+    auth:
+      token_endpoint: /oauth/token
+      token_ttl: 3600
+    entities:
+      interview:
+        id_prefix: itv
+        plural: interviews
+      panelist:
+        id_prefix: pnl
+        plural: panelists
+      feedback:
+        id_prefix: fbk
+        plural: feedback
+    vendor:
+      base_path: /v1
+    pagination:
+      style: offset
+      offset_param: offset
+      limit_param: limit
+    webhooks:
+      enabled: true
+      signing:
+        algorithm: hmac-sha256
+        signature_header: X-IV-Signature
+        timestamp_header: X-IV-Timestamp
+        secret_env: IV_WEBHOOK_SECRET
+        max_skew_s: 60
+contract:
+  schema_version: 1
+  version: 1.0.0
+  visibility: public
+  lifecycle: authored
+  vendor_roles:
+    interviewly:
+      vendor_id: interviewly
+      checkpoint: 0
+      required_credentials:
+      - IV_CLIENT_ID
+      - IV_CLIENT_SECRET
+      - IV_WEBHOOK_SECRET
+      api_url_env: INTERVIEWLY_BASE_URL
+      docs_url_env: INTERVIEWLY_DOCS_URL
+  runtime:
+    profile: deterministic-v1
+    checkpoint: 0
+    limits:
+      wall_seconds: 3600
+      cpus: 2
+      memory: 2GiB
+      disk: 2GiB
+    network:
+      vendor_roles:
+      - interviewly
+      model_provider_egress: mode-dependent-allowlist
+    vendor_roles:
+      interviewly:
+        environment:
+          VENDOR_SEED: '3000'
+          WEBHOOK_TARGET: http://connector:4000/webhooks/interviewly
+          TAMPER_INJECT: '0'
+          FAULT_OOO_BURST: '0'
+          FAULT_REPLAY_STORM: '0'
+  participant:
+    workspace_allowlist:
+    - PROBLEM.md
+    - repo/**
+    - materials/**
+    - inputs/**
+    entry_command:
+    - python
+    - -m
+    - interviewly_relay
+    outputs:
+    - output/interviews.json
+    - output/panelists.json
+    - output/feedback.json
+    - output/event_journal.json
+    persistent_state:
+    - repo/output/**
+    runtime_environment: {}
+    persistent_mounts: []
+  verifier:
+    entry_command:
+    - python
+    - -m
+    - bench.verifier
+    - --task
+    - .
+    trusted_inputs:
+    - task.yaml
+    - verifier/fixtures/**
+    - verifier/scenarios/**
+    - vendor-logs/**

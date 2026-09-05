@@ -1,0 +1,7 @@
+{
+  "ack_token": "3d885688e97148bcbee7a76f40d5df716792c343a1a75cea058541ebd6d7c2d4",
+  "event_id": "evt_00001",
+  "note": "captured live against talentloop:local; secret is a fixtures-only test value, not the sandbox secret used by any task's compose file",
+  "recipe": "hex(hmac_sha256(secret, event_id + '.' + X-TL-Timestamp))",
+  "timestamp": "1785532920"
+}

@@ -1,0 +1,108 @@
+id: task-0002
+title: 'TalentForge legal hold: every custodian on the roster, and every page of every
+  custodian''s notes'
+category: build
+vendor: talentforge
+surfaces:
+- polling
+tier: 2
+primary_mechanic: subresource_completeness_sweep
+track: python
+timeout_minutes: 60
+doc_profile: stale
+scenarios:
+- legal_hold_backfill
+- legal_hold_resweep
+l3_scenarios: []
+entry:
+  command:
+  - python
+  - -m
+  - talentforge_legal_hold
+outputs:
+  files:
+  - output/legal_hold_export.json
+vendors:
+  talentforge:
+    data_port: 8000
+    log_path: /var/log/vendor
+    checkpoint_env: CHECKPOINT
+    credentials:
+      TF_CLIENT_ID: tf-test-client-id
+      TF_CLIENT_SECRET: tf-test-client-secret
+    auth:
+      token_endpoint: /oauth/token
+      token_ttl: 600
+    vendor:
+      base_path: /rest
+    pagination:
+      style: cursor
+      cursor_param: cursor
+      incremental_params:
+      - modified_since
+    entities:
+      candidate:
+        id_prefix: cand
+        plural: candidates
+status: authored
+contract:
+  schema_version: 1
+  version: 1.0.0
+  visibility: public
+  lifecycle: authored
+  vendor_roles:
+    talentforge:
+      vendor_id: talentforge
+      checkpoint: 0
+      required_credentials:
+      - TF_CLIENT_ID
+      - TF_CLIENT_SECRET
+      api_url_env: TALENTFORGE_BASE_URL
+      docs_url_env: TALENTFORGE_DOCS_URL
+  runtime:
+    profile: deterministic-v1
+    checkpoint: 0
+    limits:
+      wall_seconds: 3600
+      cpus: 2
+      memory: 2GiB
+      disk: 2GiB
+    network:
+      vendor_roles:
+      - talentforge
+      model_provider_egress: mode-dependent-allowlist
+    vendor_roles:
+      talentforge:
+        environment:
+          TF_NOTES_PAGE_SIZE: '2'
+          TF_CANDIDATE_LIST_VIEW: summary
+          TF_RATE_LIMIT_GET: '90'
+  participant:
+    workspace_allowlist:
+    - PROBLEM.md
+    - repo/**
+    - materials/**
+    - inputs/**
+    entry_command:
+    - python
+    - -m
+    - talentforge_legal_hold
+    outputs:
+    - output/legal_hold_export.json
+    persistent_state:
+    - repo/output/**
+    runtime_environment:
+      ROSTER_PATH: /app/input/legal_hold_roster.csv
+    persistent_mounts: []
+  verifier:
+    entry_command:
+    - python
+    - -m
+    - bench.verifier
+    - --task
+    - .
+    trusted_inputs:
+    - task.yaml
+    - verifier/fixtures/**
+    - verifier/scenarios/**
+    - vendor-logs/**

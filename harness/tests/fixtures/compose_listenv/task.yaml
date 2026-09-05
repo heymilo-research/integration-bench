@@ -1,0 +1,5 @@
+vendors:
+  vendor:
+    credentials:
+      SV_CLIENT_ID: list-client-id
+      SV_CLIENT_SECRET: list-client-secret

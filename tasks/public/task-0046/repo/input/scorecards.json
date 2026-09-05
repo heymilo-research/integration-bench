@@ -1,0 +1,185 @@
+{
+  "documents": [
+    {
+      "author": "priya.raman@tl.test",
+      "candidate_id": "cand_0012",
+      "content_b64": "JVBERi0xLjUKU0MtMDAwMSA6OiBPbnNpdGUgcGFuZWwgZGVicmllZiA6OiByZW5kZXJpbmc9djIKU+rKzreMja0iM8V/+WPWisq7poSIrrXbCl/xtn050aNT6srOt4yNrSIzxX/5Y9aKyrumhIiutdsKX/G2fTnRo1Pqys63jI2tIjPFf/lj1orKu6aEiK612wpf8bZ9OdGjU+rKzreMja0iM8V/+WPWisq7poSIrrXbCl/xtn050aNT6srOt4yNrSIzxX/5Y9aKyrumhIiutdsKX/G2fTnRo1Pqys63jI2tIjPFf/lj1orKu6aEiK612wpf8bZ9OdGj",
+      "content_type": "application/pdf",
+      "doc_ref": "SC-0001",
+      "filename": "sc-0001-scorecard.pdf",
+      "sha256": "40748e8306eac350f3e9f9f7a30f862911f929b0df9de754eb81b5ed36e31a14",
+      "summary": "Onsite panel debrief"
+    },
+    {
+      "author": "dev.oyelaran@tl.test",
+      "candidate_id": "cand_0029",
+      "content_b64": "JVBERi0xLjUKU0MtMDAwMiA6OiBTeXN0ZW1zIGRlc2lnbiBsb29wLCByb3VuZCB0d28gOjogcmVuZGVyaW5nPXYyCv4Nzxf3UENkOuUVLGgrzDsMQ7VzN1ZvvizgdrdaVsgO/g3PF/dQQ2Q65RUsaCvMOwxDtXM3Vm++LOB2t1pWyA7+Dc8X91BDZDrlFSxoK8w7DEO1czdWb74s4Ha3WlbIDv4Nzxf3UENkOuUVLGgrzDsMQ7VzN1ZvvizgdrdaVsgO/g3PF/dQQ2Q65RUsaCvMOwxDtXM3Vm++LOB2t1pWyA7+Dc8X91BDZDrlFSxoK8w7DEO1czdWb74s4Ha3WlbIDg==",
+      "content_type": "application/pdf",
+      "doc_ref": "SC-0002",
+      "filename": "sc-0002-scorecard.pdf",
+      "sha256": "93477df0f8dd9ba3345dd590fd819d0aa4540a3bc42a30d1c4ffc0ab019ad6e5",
+      "summary": "Systems design loop, round two"
+    },
+    {
+      "author": "priya.raman@tl.test",
+      "candidate_id": "cand_0044",
+      "content_b64": "U0MtMDAwMyA6OiBSZWNydWl0ZXIgc2NyZWVuIHRyYW5zY3JpcHQgOjogcmVuZGVyaW5nPXYyCl7SZ9bGXoFVertPC+1C+KfBnC1t9o3PVyGhCo5VmD6UXtJn1sZegVV6u08L7UL4p8GcLW32jc9XIaEKjlWYPpRe0mfWxl6BVXq7TwvtQvinwZwtbfaNz1choQqOVZg+lF7SZ9bGXoFVertPC+1C+KfBnC1t9o3PVyGhCo5VmD6UXtJn1sZegVV6u08L7UL4p8GcLW32jc9XIaEKjlWYPpRe0mfWxl6BVXq7TwvtQvinwZwtbfaNz1choQqOVZg+lA==",
+      "content_type": "text/plain",
+      "doc_ref": "SC-0003",
+      "filename": "sc-0003-scorecard.txt",
+      "sha256": "24dbaca666d5390e2424ede71eed0bea4e9b01855946660a1e35f2b919c73021",
+      "summary": "Recruiter screen transcript"
+    },
+    {
+      "author": "marta.kowal@tl.test",
+      "candidate_id": "cand_0058",
+      "content_b64": "JVBERi0xLjUKU0MtMDAwNCA6OiBUYWtlLWhvbWUgcmV2aWV3IDo6IHJlbmRlcmluZz12Mgo0yTZA0Kcqc3yXpI5K454pm93mjaiDFhs/fbldnqt9CTTJNkDQpypzfJekjkrjnimb3eaNqIMWGz99uV2eq30JNMk2QNCnKnN8l6SOSuOeKZvd5o2ogxYbP325XZ6rfQk0yTZA0Kcqc3yXpI5K454pm93mjaiDFhs/fbldnqt9CTTJNkDQpypzfJekjkrjnimb3eaNqIMWGz99uV2eq30JNMk2QNCnKnN8l6SOSuOeKZvd5o2ogxYbP325XZ6rfQk=",
+      "content_type": "application/pdf",
+      "doc_ref": "SC-0004",
+      "filename": "sc-0004-scorecard.pdf",
+      "sha256": "00325e35cbd669d0c7b2f8f3f439df514915a816498d7687884ee7fd8250f4e4",
+      "summary": "Take-home review"
+    },
+    {
+      "author": "dev.oyelaran@tl.test",
+      "candidate_id": "cand_0071",
+      "content_b64": "JVBERi0xLjUKU0MtMDAwNSA6OiBIaXJpbmcgbWFuYWdlciBjb252ZXJzYXRpb24gOjogcmVuZGVyaW5nPXYyCpLXtWOlePoRuvJmtIetpstmD4cXCygaT3X92p845InLkte1Y6V4+hG68ma0h62my2YPhxcLKBpPdf3anzjkicuS17VjpXj6EbryZrSHrabLZg+HFwsoGk91/dqfOOSJy5LXtWOlePoRuvJmtIetpstmD4cXCygaT3X92p845InLkte1Y6V4+hG68ma0h62my2YPhxcLKBpPdf3anzjkicuS17VjpXj6EbryZrSHrabLZg+HFwsoGk91/dqfOOSJyw==",
+      "content_type": "application/pdf",
+      "doc_ref": "SC-0005",
+      "filename": "sc-0005-scorecard.pdf",
+      "sha256": "162b4bcd104989e0f9a0da3d126a373f2d2a1d51cee2b3cd3f9f025249d2669f",
+      "summary": "Hiring manager conversation"
+    },
+    {
+      "author": "marta.kowal@tl.test",
+      "candidate_id": "cand_0089",
+      "content_b64": "iVBORw0KGgpTQy0wMDA2IDo6IFdoaXRlYm9hcmQgcGhvdG8sIGFyY2hpdGVjdHVyZSByb3VuZCA6OiByZW5kZXJpbmc9djIKfRn4YFdaky8gONdKskK4MpCiYiAbyHyQUuH0Q5uy5LF9GfhgV1qTLyA410qyQrgykKJiIBvIfJBS4fRDm7LksX0Z+GBXWpMvIDjXSrJCuDKQomIgG8h8kFLh9EObsuSxfRn4YFdaky8gONdKskK4MpCiYiAbyHyQUuH0Q5uy5LF9GfhgV1qTLyA410qyQrgykKJiIBvIfJBS4fRDm7LksX0Z+GBXWpMvIDjXSrJCuDKQomIgG8h8kFLh9EObsuSx",
+      "content_type": "image/png",
+      "doc_ref": "SC-0006",
+      "filename": "sc-0006-scorecard.png",
+      "sha256": "7ceed65305f45b4cf104ef1a3a84bda22754c6dd922c0cf9054709de15058fa0",
+      "summary": "Whiteboard photo, architecture round"
+    },
+    {
+      "author": "priya.raman@tl.test",
+      "candidate_id": "cand_0104",
+      "content_b64": "JVBERi0xLjUKU0MtMDAwNyA6OiBSZWZlcmVuY2UgY2FsbCBzdW1tYXJ5IDo6IHJlbmRlcmluZz12Mgp7atZLMNM0BwRfI5mI3f509EInsW5bddjVcNb/UG9v4Xtq1ksw0zQHBF8jmYjd/nT0Qiexblt12NVw1v9Qb2/he2rWSzDTNAcEXyOZiN3+dPRCJ7FuW3XY1XDW/1Bvb+F7atZLMNM0BwRfI5mI3f509EInsW5bddjVcNb/UG9v4Xtq1ksw0zQHBF8jmYjd/nT0Qiexblt12NVw1v9Qb2/he2rWSzDTNAcEXyOZiN3+dPRCJ7FuW3XY1XDW/1Bvb+E=",
+      "content_type": "application/pdf",
+      "doc_ref": "SC-0007",
+      "filename": "sc-0007-scorecard.pdf",
+      "sha256": "9fb7e0ee09e7b8dc9e3afd97f53a263b3ea47484632fdc594497444ce54a1973",
+      "summary": "Reference call summary"
+    },
+    {
+      "author": "sam.oduya@tl.test",
+      "candidate_id": "cand_0126",
+      "content_b64": "0M8R4KGxGuFTQy0wMDA4IDo6IExlZ2FjeSBzY29yZWNhcmQsIHByZS1taWdyYXRpb24gdGVtcGxhdGUgOjogcmVuZGVyaW5nPXYyCtzkEEVGSBh4V04/2tuQIVtoE5v+rZIbCVOzzCN2+MW43OQQRUZIGHhXTj/a25AhW2gTm/6tkhsJU7PMI3b4xbjc5BBFRkgYeFdOP9rbkCFbaBOb/q2SGwlTs8wjdvjFuNzkEEVGSBh4V04/2tuQIVtoE5v+rZIbCVOzzCN2+MW43OQQRUZIGHhXTj/a25AhW2gTm/6tkhsJU7PMI3b4xbjc5BBFRkgYeFdOP9rbkCFbaBOb/q2SGwlTs8wjdvjFuA==",
+      "content_type": "application/msword",
+      "doc_ref": "SC-0008",
+      "filename": "sc-0008-scorecard.doc",
+      "sha256": "24f947838839c297c1701103d929ce6dab01527d46a2236cc919395941fbd9eb",
+      "summary": "Legacy scorecard, pre-migration template"
+    },
+    {
+      "author": "marta.kowal@tl.test",
+      "candidate_id": "cand_0153",
+      "content_b64": "JVBERi0xLjUKU0MtMDAwOSA6OiBQYWlyaW5nIHNlc3Npb24gbm90ZXMgOjogcmVuZGVyaW5nPXYyCh+zIesJ1pZc7AD9OUqpXoLwYmsHFeraUHu3xxQZQ070H7Mh6wnWllzsAP05SqlegvBiawcV6tpQe7fHFBlDTvQfsyHrCdaWXOwA/TlKqV6C8GJrBxXq2lB7t8cUGUNO9B+zIesJ1pZc7AD9OUqpXoLwYmsHFeraUHu3xxQZQ070H7Mh6wnWllzsAP05SqlegvBiawcV6tpQe7fHFBlDTvQfsyHrCdaWXOwA/TlKqV6C8GJrBxXq2lB7t8cUGUNO9A==",
+      "content_type": "application/pdf",
+      "doc_ref": "SC-0009",
+      "filename": "sc-0009-scorecard.pdf",
+      "sha256": "c27dc8a0b981e65b38da66f4af019809638e6b4fc2d20c81df1f8e8159b19d5e",
+      "summary": "Pairing session notes"
+    },
+    {
+      "author": "sam.oduya@tl.test",
+      "candidate_id": "cand_0188",
+      "content_b64": "U0MtMDAxMCA6OiBWYWx1ZXMgaW50ZXJ2aWV3IHdyaXRldXAgOjogcmVuZGVyaW5nPXYyCuNLrm6ZXHFEcPSn+KyPx9Ku5Vd/pEJ/NSX9p1ELpVZ/40uubplccURw9Kf4rI/H0q7lV3+kQn81Jf2nUQulVn/jS65umVxxRHD0p/isj8fSruVXf6RCfzUl/adRC6VWf+NLrm6ZXHFEcPSn+KyPx9Ku5Vd/pEJ/NSX9p1ELpVZ/40uubplccURw9Kf4rI/H0q7lV3+kQn81Jf2nUQulVn/jS65umVxxRHD0p/isj8fSruVXf6RCfzUl/adRC6VWfw==",
+      "content_type": "text/plain",
+      "doc_ref": "SC-0010",
+      "filename": "sc-0010-scorecard.txt",
+      "sha256": "bae5b15cfcf2f7155c4c126886b6f6fd984ad28d95c3800bfac911b38708f363",
+      "summary": "Values interview writeup"
+    },
+    {
+      "author": "priya.raman@tl.test",
+      "candidate_id": "cand_0212",
+      "content_b64": "JVBERi0xLjUKU0MtMDAxMSA6OiBGaW5hbCBsb29wIGNvbnNvbGlkYXRlZCBmZWVkYmFjayA6OiByZW5kZXJpbmc9djIKJXkiYXzUe7IGit/LM1MQoikFPDtkAqJ5pvsE0zuofw4leSJhfNR7sgaK38szUxCiKQU8O2QConmm+wTTO6h/DiV5ImF81HuyBorfyzNTEKIpBTw7ZAKieab7BNM7qH8OJXkiYXzUe7IGit/LM1MQoikFPDtkAqJ5pvsE0zuofw4leSJhfNR7sgaK38szUxCiKQU8O2QConmm+wTTO6h/DiV5ImF81HuyBorfyzNTEKIpBTw7ZAKieab7BNM7qH8O",
+      "content_type": "application/pdf",
+      "doc_ref": "SC-0011",
+      "filename": "sc-0011-scorecard.pdf",
+      "sha256": "f816077a98f98f5e6454bfb8dd670808c4c8514923ecedb837ed57e47e3b2c40",
+      "summary": "Final loop consolidated feedback"
+    },
+    {
+      "author": "dev.oyelaran@tl.test",
+      "candidate_id": "cand_0247",
+      "content_b64": "JVBERi0xLjUKU0MtMDAxMiA6OiBUZWNobmljYWwgZGVlcCBkaXZlIDo6IHJlbmRlcmluZz12MgpI6BVp5WVUrpQClaYd+Yx4cMo8vpNYukRzXJ0LWznXpEjoFWnlZVSulAKVph35jHhwyjy+k1i6RHNcnQtbOdekSOgVaeVlVK6UApWmHfmMeHDKPL6TWLpEc1ydC1s516RI6BVp5WVUrpQClaYd+Yx4cMo8vpNYukRzXJ0LWznXpEjoFWnlZVSulAKVph35jHhwyjy+k1i6RHNcnQtbOdekSOgVaeVlVK6UApWmHfmMeHDKPL6TWLpEc1ydC1s516Q=",
+      "content_type": "application/pdf",
+      "doc_ref": "SC-0012",
+      "filename": "sc-0012-scorecard.pdf",
+      "sha256": "8a65ca0731114c4ad346e7f4e8ca645b5cf3c5dd237a4a6cab0bf9796b34d48f",
+      "summary": "Technical deep dive"
+    },
+    {
+      "author": "sam.oduya@tl.test",
+      "candidate_id": "cand_0012",
+      "content_b64": "JVBERi0xLjUKU0MtMDAxMyA6OiBGb2xsb3ctdXAgY2FsbCBhZnRlciBvZmZlciBkaXNjdXNzaW9uIDo6IHJlbmRlcmluZz12MgpylV/Dcu1dCMqcHfG++4ivgFrG7K6WpEGodldWYE5cSHKVX8Ny7V0Iypwd8b77iK+AWsbsrpakQah2V1ZgTlxIcpVfw3LtXQjKnB3xvvuIr4BaxuyulqRBqHZXVmBOXEhylV/Dcu1dCMqcHfG++4ivgFrG7K6WpEGodldWYE5cSHKVX8Ny7V0Iypwd8b77iK+AWsbsrpakQah2V1ZgTlxIcpVfw3LtXQjKnB3xvvuIr4BaxuyulqRBqHZXVmBOXEg=",
+      "content_type": "application/pdf",
+      "doc_ref": "SC-0013",
+      "filename": "sc-0013-scorecard.pdf",
+      "sha256": "79d54013d7e2c0e522f11e30739b834f74861de579f1c66605a4dce886e106c1",
+      "summary": "Follow-up call after offer discussion"
+    },
+    {
+      "author": "marta.kowal@tl.test",
+      "candidate_id": "cand_0066",
+      "content_b64": "JVBERi0xLjUKU0MtMDAxNCA6OiBTY3JlZW4gZGVicmllZiA6OiByZW5kZXJpbmc9djIK7FyEWiplJwWNGzPmPDTyepKA7AGWAN1BVWrpyhqv8bXsXIRaKmUnBY0bM+Y8NPJ6koDsAZYA3UFVaunKGq/xtexchFoqZScFjRsz5jw08nqSgOwBlgDdQVVq6coar/G17FyEWiplJwWNGzPmPDTyepKA7AGWAN1BVWrpyhqv8bXsXIRaKmUnBY0bM+Y8NPJ6koDsAZYA3UFVaunKGq/xtexchFoqZScFjRsz5jw08nqSgOwBlgDdQVVq6coar/G1",
+      "content_type": "application/pdf",
+      "doc_ref": "SC-0014",
+      "filename": "sc-0014-scorecard.pdf",
+      "sha256": "ee7f9e1bbbfcccb1be5646d77426cc05e6f9015a5dd0208cd86120af5a2fa9f7",
+      "summary": "Screen debrief"
+    },
+    {
+      "author": "priya.raman@tl.test",
+      "candidate_id": "cand_0177",
+      "content_b64": "U0MtMDAxNSA6OiBTb3VyY2luZyBvdXRyZWFjaCBsb2cgOjogcmVuZGVyaW5nPXYyCmLo8WKRtos+cU8uoGTIl0VKoMf693b1xa6xr/Mf0Xi0YujxYpG2iz5xTy6gZMiXRUqgx/r3dvXFrrGv8x/ReLRi6PFikbaLPnFPLqBkyJdFSqDH+vd29cWusa/zH9F4tGLo8WKRtos+cU8uoGTIl0VKoMf693b1xa6xr/Mf0Xi0YujxYpG2iz5xTy6gZMiXRUqgx/r3dvXFrrGv8x/ReLRi6PFikbaLPnFPLqBkyJdFSqDH+vd29cWusa/zH9F4tA==",
+      "content_type": "text/plain",
+      "doc_ref": "SC-0015",
+      "filename": "sc-0015-scorecard.txt",
+      "sha256": "c6094b645e3f12b0b5a4f50e08a5f26ba6725e7375d57e8f8c858f153036766b",
+      "summary": "Sourcing outreach log"
+    },
+    {
+      "author": "sam.oduya@tl.test",
+      "candidate_id": "cand_0298",
+      "content_b64": "JVBERi0xLjUKU0MtMDAxNiA6OiBQYW5lbCBzY29yZWNhcmQsIHByb2R1Y3Qgcm91bmQgOjogcmVuZGVyaW5nPXYyCrvrWziew/gtSrOxcp5fUqsegh0huCGC88YRvwGfGkFnu+tbOJ7D+C1Ks7Fynl9Sqx6CHSG4IYLzxhG/AZ8aQWe761s4nsP4LUqzsXKeX1KrHoIdIbghgvPGEb8BnxpBZ7vrWziew/gtSrOxcp5fUqsegh0huCGC88YRvwGfGkFnu+tbOJ7D+C1Ks7Fynl9Sqx6CHSG4IYLzxhG/AZ8aQWe761s4nsP4LUqzsXKeX1KrHoIdIbghgvPGEb8BnxpBZw==",
+      "content_type": "application/pdf",
+      "doc_ref": "SC-0016",
+      "filename": "sc-0016-scorecard.pdf",
+      "sha256": "c7145f77a2a89c3c608a7a8ffe0d3ce22f5bc428600a5c5b6ec4c69d764a8fb1",
+      "summary": "Panel scorecard, product round"
+    },
+    {
+      "author": "dev.oyelaran@tl.test",
+      "candidate_id": "cand_0451",
+      "content_b64": "JVBERi0xLjUKU0MtMDAxNyA6OiBBZ2VuY3ktc3VibWl0dGVkIHNjb3JlY2FyZCA6OiByZW5kZXJpbmc9djIK+705ksirEuSXvGTcfDT6g32zrbKGvKogoz2F0MBCBQz7vTmSyKsS5Je8ZNx8NPqDfbOtsoa8qiCjPYXQwEIFDPu9OZLIqxLkl7xk3Hw0+oN9s62yhryqIKM9hdDAQgUM+705ksirEuSXvGTcfDT6g32zrbKGvKogoz2F0MBCBQz7vTmSyKsS5Je8ZNx8NPqDfbOtsoa8qiCjPYXQwEIFDPu9OZLIqxLkl7xk3Hw0+oN9s62yhryqIKM9hdDAQgUM",
+      "content_type": "application/pdf",
+      "doc_ref": "SC-0017",
+      "filename": "sc-0017-scorecard.pdf",
+      "sha256": "9293e9198f6215840828a9ddea218442e0603f3c7a052c3b8d552314f1291491",
+      "summary": "Agency-submitted scorecard"
+    },
+    {
+      "author": "marta.kowal@tl.test",
+      "candidate_id": "cand_0620",
+      "content_b64": "U0MtMDAxOCA6OiBJbnRlcnZpZXcgbm90ZXMsIGV4dGVybmFsIHJlZmVycmFsIDo6IHJlbmRlcmluZz12MgpHPRPzlfN9dL4S/yJ49JfVUfe8XUn6yHf6gB5sOmW8YUc9E/OV8310vhL/Inj0l9VR97xdSfrId/qAHmw6ZbxhRz0T85XzfXS+Ev8iePSX1VH3vF1J+sh3+oAebDplvGFHPRPzlfN9dL4S/yJ49JfVUfe8XUn6yHf6gB5sOmW8YUc9E/OV8310vhL/Inj0l9VR97xdSfrId/qAHmw6ZbxhRz0T85XzfXS+Ev8iePSX1VH3vF1J+sh3+oAebDplvGE=",
+      "content_type": "text/plain",
+      "doc_ref": "SC-0018",
+      "filename": "sc-0018-scorecard.txt",
+      "sha256": "08aceab07bfe042064e295feb4a109c5fb57056adc5ba413a6f1fec02e53de36",
+      "summary": "Interview notes, external referral"
+    }
+  ],
+  "exported_at": "2026-08-02T04:15:00Z"
+}

@@ -1,0 +1,1946 @@
+{
+  "_note": "Weekly account snapshot taken by the Meridian account sync.",
+  "account_count": 277,
+  "accounts": [
+    {
+      "client_id": "client_0001",
+      "industry": "retail",
+      "is_deleted": false,
+      "name": "Ashgrove Talent Partners",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0002",
+      "industry": "education",
+      "is_deleted": false,
+      "name": "Bluepeak Talent Alliance",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0003",
+      "industry": "technology",
+      "is_deleted": false,
+      "name": "Summit Staffing Group",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0004",
+      "industry": "retail",
+      "is_deleted": false,
+      "name": "Harborline Talent Alliance",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0005",
+      "industry": "hospitality",
+      "is_deleted": false,
+      "name": "Amberdale Talent Partners",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0006",
+      "industry": "logistics",
+      "is_deleted": false,
+      "name": "Silverline Recruiting Co",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0007",
+      "industry": "technology",
+      "is_deleted": false,
+      "name": "Vantage Resourcing Ltd",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0008",
+      "industry": "retail",
+      "is_deleted": false,
+      "name": "Beacon Talent Alliance",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0010",
+      "industry": "healthcare",
+      "is_deleted": true,
+      "name": "Beacon Staffing Group",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0011",
+      "industry": "technology",
+      "is_deleted": false,
+      "name": "Harborline Workforce Solutions",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0012",
+      "industry": "manufacturing",
+      "is_deleted": false,
+      "name": "Harborline Workforce Solutions",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0013",
+      "industry": "technology",
+      "is_deleted": false,
+      "name": "Silverline Staffing Group",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0014",
+      "industry": "retail",
+      "is_deleted": false,
+      "name": "Bluepeak Resourcing Ltd",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0015",
+      "industry": "education",
+      "is_deleted": false,
+      "name": "Vantage Recruiting Co",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0016",
+      "industry": "finance",
+      "is_deleted": false,
+      "name": "Vantage Staffing Group",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0017",
+      "industry": "technology",
+      "is_deleted": false,
+      "name": "Anchor Recruiting Co",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0018",
+      "industry": "hospitality",
+      "is_deleted": false,
+      "name": "Beacon Talent Alliance",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0019",
+      "industry": "retail",
+      "is_deleted": false,
+      "name": "Halden Talent Partners",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0021",
+      "industry": "education",
+      "is_deleted": false,
+      "name": "Vantage Recruiting Co",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0022",
+      "industry": "hospitality",
+      "is_deleted": false,
+      "name": "Harborline Recruiting Co",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0023",
+      "industry": "manufacturing",
+      "is_deleted": false,
+      "name": "Halden Staffing Group",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0024",
+      "industry": "hospitality",
+      "is_deleted": false,
+      "name": "Beacon Placement Partners",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0025",
+      "industry": "logistics",
+      "is_deleted": false,
+      "name": "Harborline Recruiting Co",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0026",
+      "industry": "technology",
+      "is_deleted": false,
+      "name": "Beacon Human Capital",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0027",
+      "industry": "technology",
+      "is_deleted": false,
+      "name": "Fieldstone Talent Alliance",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0028",
+      "industry": "technology",
+      "is_deleted": false,
+      "name": "Silverline Recruiting Co",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0029",
+      "industry": "finance",
+      "is_deleted": false,
+      "name": "Cobalt Human Capital",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0030",
+      "industry": "finance",
+      "is_deleted": false,
+      "name": "Redwood Workforce Solutions",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0031",
+      "industry": "logistics",
+      "is_deleted": false,
+      "name": "Ironwood Human Capital",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0032",
+      "industry": "hospitality",
+      "is_deleted": false,
+      "name": "Amberdale Recruiting Co",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0033",
+      "industry": "finance",
+      "is_deleted": false,
+      "name": "Cobalt Recruiting Co",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0034",
+      "industry": "technology",
+      "is_deleted": false,
+      "name": "Cobalt Workforce Solutions",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0035",
+      "industry": "retail",
+      "is_deleted": false,
+      "name": "Northgate Placement Partners",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0036",
+      "industry": "education",
+      "is_deleted": false,
+      "name": "Amberdale Human Capital",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0037",
+      "industry": "manufacturing",
+      "is_deleted": false,
+      "name": "Pennine Resourcing Ltd",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0038",
+      "industry": "healthcare",
+      "is_deleted": false,
+      "name": "Westmere Talent Partners",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0039",
+      "industry": "logistics",
+      "is_deleted": false,
+      "name": "Lakeside Resourcing Ltd",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0040",
+      "industry": "hospitality",
+      "is_deleted": false,
+      "name": "Vantage Recruiting Co",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0041",
+      "industry": "finance",
+      "is_deleted": false,
+      "name": "Silverline Staffing Group",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0042",
+      "industry": "retail",
+      "is_deleted": false,
+      "name": "Meridian Workforce Solutions",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0043",
+      "industry": "technology",
+      "is_deleted": false,
+      "name": "Anchor Human Capital",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0044",
+      "industry": "hospitality",
+      "is_deleted": false,
+      "name": "Amberdale Resourcing Ltd",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0045",
+      "industry": "healthcare",
+      "is_deleted": false,
+      "name": "Silverline Resourcing Ltd",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0046",
+      "industry": "retail",
+      "is_deleted": false,
+      "name": "Cobalt Resourcing Ltd",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0047",
+      "industry": "hospitality",
+      "is_deleted": false,
+      "name": "Silverline Workforce Solutions",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0048",
+      "industry": "technology",
+      "is_deleted": false,
+      "name": "Ironwood Workforce Solutions",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0049",
+      "industry": "logistics",
+      "is_deleted": false,
+      "name": "Northgate Talent Partners",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0051",
+      "industry": "hospitality",
+      "is_deleted": false,
+      "name": "Amberdale Placement Partners",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0055",
+      "industry": "retail",
+      "is_deleted": false,
+      "name": "Harborline Staffing Group",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0056",
+      "industry": "manufacturing",
+      "is_deleted": false,
+      "name": "Fieldstone Talent Alliance",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0058",
+      "industry": "healthcare",
+      "is_deleted": false,
+      "name": "Cobalt Talent Partners",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0059",
+      "industry": "education",
+      "is_deleted": false,
+      "name": "Brackley Resourcing Ltd",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0060",
+      "industry": "healthcare",
+      "is_deleted": false,
+      "name": "Summit Staffing Group",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0061",
+      "industry": "healthcare",
+      "is_deleted": false,
+      "name": "Meridian Recruiting Co",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0062",
+      "industry": "logistics",
+      "is_deleted": false,
+      "name": "Harborline Talent Partners",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0063",
+      "industry": "retail",
+      "is_deleted": false,
+      "name": "Kestrel Workforce Solutions",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0064",
+      "industry": "finance",
+      "is_deleted": false,
+      "name": "Kestrel Human Capital",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0065",
+      "industry": "retail",
+      "is_deleted": false,
+      "name": "Crestwood Resourcing Ltd",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0066",
+      "industry": "technology",
+      "is_deleted": false,
+      "name": "Cobalt Human Capital",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0067",
+      "industry": "healthcare",
+      "is_deleted": false,
+      "name": "Crestwood Talent Partners",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0068",
+      "industry": "retail",
+      "is_deleted": false,
+      "name": "Bluepeak Workforce Solutions",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0069",
+      "industry": "retail",
+      "is_deleted": false,
+      "name": "Meridian Recruiting Co",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0070",
+      "industry": "retail",
+      "is_deleted": false,
+      "name": "Lakeside Resourcing Ltd",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0071",
+      "industry": "logistics",
+      "is_deleted": false,
+      "name": "Cobalt Workforce Solutions",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0072",
+      "industry": "technology",
+      "is_deleted": false,
+      "name": "Northgate Staffing Group",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0073",
+      "industry": "hospitality",
+      "is_deleted": false,
+      "name": "Ironwood Human Capital",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0074",
+      "industry": "retail",
+      "is_deleted": false,
+      "name": "Northgate Recruiting Co",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0075",
+      "industry": "hospitality",
+      "is_deleted": false,
+      "name": "Anchor Staffing Group",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0077",
+      "industry": "logistics",
+      "is_deleted": false,
+      "name": "Northgate Placement Partners",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0078",
+      "industry": "finance",
+      "is_deleted": false,
+      "name": "Northgate Recruiting Co",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0079",
+      "industry": "hospitality",
+      "is_deleted": false,
+      "name": "Fieldstone Talent Alliance",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0080",
+      "industry": "retail",
+      "is_deleted": false,
+      "name": "Halden Talent Partners",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0081",
+      "industry": "retail",
+      "is_deleted": false,
+      "name": "Summit Placement Partners",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0082",
+      "industry": "technology",
+      "is_deleted": false,
+      "name": "Northgate Resourcing Ltd",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0083",
+      "industry": "hospitality",
+      "is_deleted": false,
+      "name": "Cobalt Human Capital",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0084",
+      "industry": "healthcare",
+      "is_deleted": false,
+      "name": "Cobalt Talent Alliance",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0085",
+      "industry": "hospitality",
+      "is_deleted": false,
+      "name": "Beacon Talent Partners",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0086",
+      "industry": "logistics",
+      "is_deleted": false,
+      "name": "Crestwood Staffing Group",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0087",
+      "industry": "education",
+      "is_deleted": false,
+      "name": "Pennine Staffing Group",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0089",
+      "industry": "education",
+      "is_deleted": false,
+      "name": "Silverline Human Capital",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0090",
+      "industry": "logistics",
+      "is_deleted": false,
+      "name": "Harborline Placement Partners",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0091",
+      "industry": "retail",
+      "is_deleted": false,
+      "name": "Summit Human Capital",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0092",
+      "industry": "retail",
+      "is_deleted": false,
+      "name": "Bluepeak Talent Alliance",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0093",
+      "industry": "manufacturing",
+      "is_deleted": false,
+      "name": "Brackley Human Capital",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0094",
+      "industry": "healthcare",
+      "is_deleted": false,
+      "name": "Vantage Workforce Solutions",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0095",
+      "industry": "logistics",
+      "is_deleted": false,
+      "name": "Northgate Recruiting Co",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0096",
+      "industry": "retail",
+      "is_deleted": false,
+      "name": "Meridian Human Capital",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0097",
+      "industry": "finance",
+      "is_deleted": false,
+      "name": "Vantage Human Capital",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0098",
+      "industry": "retail",
+      "is_deleted": false,
+      "name": "Anchor Workforce Solutions",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0099",
+      "industry": "technology",
+      "is_deleted": false,
+      "name": "Northgate Staffing Group",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0100",
+      "industry": "retail",
+      "is_deleted": false,
+      "name": "Halden Workforce Solutions",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0101",
+      "industry": "healthcare",
+      "is_deleted": false,
+      "name": "Redwood Staffing Group",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0102",
+      "industry": "finance",
+      "is_deleted": false,
+      "name": "Ashgrove Resourcing Ltd",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0103",
+      "industry": "technology",
+      "is_deleted": false,
+      "name": "Calder Human Capital",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0104",
+      "industry": "logistics",
+      "is_deleted": false,
+      "name": "Silverline Resourcing Ltd",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0105",
+      "industry": "education",
+      "is_deleted": false,
+      "name": "Silverline Resourcing Ltd",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0106",
+      "industry": "technology",
+      "is_deleted": false,
+      "name": "Fieldstone Workforce Solutions",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0107",
+      "industry": "technology",
+      "is_deleted": false,
+      "name": "Fieldstone Talent Partners",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0108",
+      "industry": "finance",
+      "is_deleted": false,
+      "name": "Thornbury Human Capital",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0109",
+      "industry": "hospitality",
+      "is_deleted": false,
+      "name": "Fieldstone Resourcing Ltd",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0110",
+      "industry": "hospitality",
+      "is_deleted": false,
+      "name": "Meridian Human Capital",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0112",
+      "industry": "manufacturing",
+      "is_deleted": false,
+      "name": "Meridian Placement Partners",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0113",
+      "industry": "logistics",
+      "is_deleted": false,
+      "name": "Redwood Resourcing Ltd",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0114",
+      "industry": "logistics",
+      "is_deleted": false,
+      "name": "Amberdale Placement Partners",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0115",
+      "industry": "finance",
+      "is_deleted": false,
+      "name": "Crestwood Recruiting Co",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0116",
+      "industry": "education",
+      "is_deleted": false,
+      "name": "Marlowe Workforce Solutions",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0117",
+      "industry": "logistics",
+      "is_deleted": false,
+      "name": "Fieldstone Human Capital",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0118",
+      "industry": "education",
+      "is_deleted": false,
+      "name": "Amberdale Recruiting Co",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0119",
+      "industry": "healthcare",
+      "is_deleted": false,
+      "name": "Harborline Recruiting Co",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0120",
+      "industry": "retail",
+      "is_deleted": false,
+      "name": "Silverline Placement Partners",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0121",
+      "industry": "hospitality",
+      "is_deleted": false,
+      "name": "Vantage Resourcing Ltd",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0122",
+      "industry": "manufacturing",
+      "is_deleted": false,
+      "name": "Anchor Human Capital",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0123",
+      "industry": "education",
+      "is_deleted": false,
+      "name": "Crestwood Human Capital",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0124",
+      "industry": "healthcare",
+      "is_deleted": false,
+      "name": "Bluepeak Human Capital",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0125",
+      "industry": "finance",
+      "is_deleted": false,
+      "name": "Crestwood Human Capital",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0126",
+      "industry": "finance",
+      "is_deleted": false,
+      "name": "Bluepeak Talent Alliance",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0127",
+      "industry": "healthcare",
+      "is_deleted": false,
+      "name": "Amberdale Placement Partners",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0128",
+      "industry": "technology",
+      "is_deleted": false,
+      "name": "Lakeside Resourcing Ltd",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0129",
+      "industry": "logistics",
+      "is_deleted": false,
+      "name": "Amberdale Talent Partners",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0130",
+      "industry": "hospitality",
+      "is_deleted": false,
+      "name": "Bluepeak Talent Partners",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0131",
+      "industry": "technology",
+      "is_deleted": false,
+      "name": "Amberdale Staffing Group",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0132",
+      "industry": "logistics",
+      "is_deleted": false,
+      "name": "Anchor Placement Partners",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0134",
+      "industry": "finance",
+      "is_deleted": false,
+      "name": "Amberdale Resourcing Ltd",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0135",
+      "industry": "logistics",
+      "is_deleted": false,
+      "name": "Meridian Recruiting Co",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0136",
+      "industry": "logistics",
+      "is_deleted": false,
+      "name": "Anchor Staffing Group",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0137",
+      "industry": "technology",
+      "is_deleted": false,
+      "name": "Meridian Placement Partners",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0139",
+      "industry": "manufacturing",
+      "is_deleted": false,
+      "name": "Redwood Staffing Group",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0140",
+      "industry": "logistics",
+      "is_deleted": false,
+      "name": "Ashgrove Workforce Solutions",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0141",
+      "industry": "healthcare",
+      "is_deleted": false,
+      "name": "Vantage Recruiting Co",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0142",
+      "industry": "finance",
+      "is_deleted": false,
+      "name": "Northgate Placement Partners",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0143",
+      "industry": "manufacturing",
+      "is_deleted": false,
+      "name": "Bluepeak Workforce Solutions",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0144",
+      "industry": "healthcare",
+      "is_deleted": false,
+      "name": "Bluepeak Staffing Group",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0145",
+      "industry": "technology",
+      "is_deleted": false,
+      "name": "Northgate Workforce Solutions",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0146",
+      "industry": "healthcare",
+      "is_deleted": false,
+      "name": "Lakeside Workforce Solutions",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0147",
+      "industry": "technology",
+      "is_deleted": false,
+      "name": "Cobalt Talent Partners",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0148",
+      "industry": "finance",
+      "is_deleted": false,
+      "name": "Anchor Human Capital",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0149",
+      "industry": "education",
+      "is_deleted": false,
+      "name": "Westmere Workforce Solutions",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0150",
+      "industry": "healthcare",
+      "is_deleted": false,
+      "name": "Bluepeak Resourcing Ltd",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0151",
+      "industry": "hospitality",
+      "is_deleted": false,
+      "name": "Vantage Talent Alliance",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0153",
+      "industry": "hospitality",
+      "is_deleted": false,
+      "name": "Beacon Placement Partners",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0154",
+      "industry": "logistics",
+      "is_deleted": false,
+      "name": "Bluepeak Workforce Solutions",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0155",
+      "industry": "logistics",
+      "is_deleted": false,
+      "name": "Crestwood Human Capital",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0156",
+      "industry": "technology",
+      "is_deleted": false,
+      "name": "Lakeside Placement Partners",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0157",
+      "industry": "hospitality",
+      "is_deleted": false,
+      "name": "Meridian Resourcing Ltd",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0158",
+      "industry": "education",
+      "is_deleted": false,
+      "name": "Fieldstone Recruiting Co",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0159",
+      "industry": "technology",
+      "is_deleted": false,
+      "name": "Bluepeak Workforce Solutions",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0160",
+      "industry": "education",
+      "is_deleted": false,
+      "name": "Vantage Placement Partners",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0161",
+      "industry": "finance",
+      "is_deleted": false,
+      "name": "Meridian Talent Partners",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0162",
+      "industry": "logistics",
+      "is_deleted": false,
+      "name": "Harborline Talent Alliance",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0163",
+      "industry": "healthcare",
+      "is_deleted": false,
+      "name": "Harborline Talent Partners",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0164",
+      "industry": "healthcare",
+      "is_deleted": false,
+      "name": "Northgate Recruiting Co",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0165",
+      "industry": "technology",
+      "is_deleted": false,
+      "name": "Lakeside Talent Alliance",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0166",
+      "industry": "healthcare",
+      "is_deleted": false,
+      "name": "Cobalt Workforce Solutions",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0168",
+      "industry": "education",
+      "is_deleted": false,
+      "name": "Vantage Human Capital",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0169",
+      "industry": "healthcare",
+      "is_deleted": false,
+      "name": "Silverline Resourcing Ltd",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0170",
+      "industry": "hospitality",
+      "is_deleted": false,
+      "name": "Cobalt Talent Alliance",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0171",
+      "industry": "manufacturing",
+      "is_deleted": false,
+      "name": "Meridian Staffing Group",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0172",
+      "industry": "healthcare",
+      "is_deleted": false,
+      "name": "Fieldstone Talent Partners",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0173",
+      "industry": "technology",
+      "is_deleted": false,
+      "name": "Summit Recruiting Co",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0174",
+      "industry": "healthcare",
+      "is_deleted": false,
+      "name": "Ironwood Talent Alliance",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0175",
+      "industry": "hospitality",
+      "is_deleted": false,
+      "name": "Northgate Recruiting Co",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0176",
+      "industry": "retail",
+      "is_deleted": false,
+      "name": "Beacon Talent Partners",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0177",
+      "industry": "technology",
+      "is_deleted": false,
+      "name": "Bluepeak Talent Partners",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0178",
+      "industry": "finance",
+      "is_deleted": false,
+      "name": "Cobalt Talent Alliance",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0179",
+      "industry": "education",
+      "is_deleted": false,
+      "name": "Ironwood Talent Partners",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0181",
+      "industry": "logistics",
+      "is_deleted": false,
+      "name": "Calder Staffing Group",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0182",
+      "industry": "manufacturing",
+      "is_deleted": false,
+      "name": "Meridian Placement Partners",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0185",
+      "industry": "retail",
+      "is_deleted": false,
+      "name": "Redwood Placement Partners",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0186",
+      "industry": "retail",
+      "is_deleted": false,
+      "name": "Northgate Talent Alliance",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0187",
+      "industry": "education",
+      "is_deleted": false,
+      "name": "Beacon Staffing Group",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0188",
+      "industry": "hospitality",
+      "is_deleted": false,
+      "name": "Summit Talent Partners",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0189",
+      "industry": "finance",
+      "is_deleted": false,
+      "name": "Harborline Talent Alliance",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0190",
+      "industry": "healthcare",
+      "is_deleted": false,
+      "name": "Silverline Recruiting Co",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0191",
+      "industry": "retail",
+      "is_deleted": false,
+      "name": "Redwood Talent Partners",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0192",
+      "industry": "manufacturing",
+      "is_deleted": false,
+      "name": "Brackley Staffing Group",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0193",
+      "industry": "finance",
+      "is_deleted": false,
+      "name": "Meridian Placement Partners",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0194",
+      "industry": "healthcare",
+      "is_deleted": false,
+      "name": "Vantage Talent Alliance",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0195",
+      "industry": "education",
+      "is_deleted": false,
+      "name": "Fieldstone Placement Partners",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0196",
+      "industry": "logistics",
+      "is_deleted": false,
+      "name": "Harborline Recruiting Co",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0197",
+      "industry": "hospitality",
+      "is_deleted": false,
+      "name": "Northgate Resourcing Ltd",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0198",
+      "industry": "finance",
+      "is_deleted": false,
+      "name": "Anchor Talent Partners",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0199",
+      "industry": "finance",
+      "is_deleted": false,
+      "name": "Amberdale Workforce Solutions",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0201",
+      "industry": "logistics",
+      "is_deleted": false,
+      "name": "Vantage Talent Partners",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0202",
+      "industry": "manufacturing",
+      "is_deleted": false,
+      "name": "Northgate Resourcing Ltd",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0204",
+      "industry": "hospitality",
+      "is_deleted": false,
+      "name": "Beacon Talent Partners",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0205",
+      "industry": "technology",
+      "is_deleted": false,
+      "name": "Anchor Recruiting Co",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0206",
+      "industry": "logistics",
+      "is_deleted": false,
+      "name": "Harborline Staffing Group",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0207",
+      "industry": "healthcare",
+      "is_deleted": false,
+      "name": "Harborline Talent Alliance",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0209",
+      "industry": "logistics",
+      "is_deleted": false,
+      "name": "Harborline Staffing Group",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0210",
+      "industry": "manufacturing",
+      "is_deleted": false,
+      "name": "Meridian Recruiting Co",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0211",
+      "industry": "technology",
+      "is_deleted": false,
+      "name": "Fieldstone Talent Alliance",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0212",
+      "industry": "education",
+      "is_deleted": false,
+      "name": "Anchor Placement Partners",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0213",
+      "industry": "logistics",
+      "is_deleted": false,
+      "name": "Anchor Resourcing Ltd",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0215",
+      "industry": "technology",
+      "is_deleted": false,
+      "name": "Silverline Staffing Group",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0216",
+      "industry": "education",
+      "is_deleted": false,
+      "name": "Amberdale Staffing Group",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0217",
+      "industry": "logistics",
+      "is_deleted": false,
+      "name": "Beacon Talent Alliance",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0218",
+      "industry": "logistics",
+      "is_deleted": false,
+      "name": "Amberdale Talent Partners",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0219",
+      "industry": "healthcare",
+      "is_deleted": false,
+      "name": "Northgate Staffing Group",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0220",
+      "industry": "logistics",
+      "is_deleted": false,
+      "name": "Ironwood Staffing Group",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0221",
+      "industry": "manufacturing",
+      "is_deleted": false,
+      "name": "Summit Human Capital",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0222",
+      "industry": "finance",
+      "is_deleted": false,
+      "name": "Bluepeak Workforce Solutions",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0223",
+      "industry": "technology",
+      "is_deleted": false,
+      "name": "Meridian Staffing Group",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0224",
+      "industry": "hospitality",
+      "is_deleted": false,
+      "name": "Beacon Talent Alliance",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0225",
+      "industry": "manufacturing",
+      "is_deleted": false,
+      "name": "Fieldstone Talent Partners",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0226",
+      "industry": "finance",
+      "is_deleted": false,
+      "name": "Kestrel Resourcing Ltd",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0227",
+      "industry": "healthcare",
+      "is_deleted": false,
+      "name": "Northgate Workforce Solutions",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0228",
+      "industry": "finance",
+      "is_deleted": false,
+      "name": "Anchor Placement Partners",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0229",
+      "industry": "education",
+      "is_deleted": false,
+      "name": "Calder Human Capital",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0230",
+      "industry": "hospitality",
+      "is_deleted": false,
+      "name": "Northgate Talent Partners",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0231",
+      "industry": "technology",
+      "is_deleted": false,
+      "name": "Ironwood Staffing Group",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0233",
+      "industry": "technology",
+      "is_deleted": false,
+      "name": "Crestwood Placement Partners",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0234",
+      "industry": "hospitality",
+      "is_deleted": false,
+      "name": "Lakeside Staffing Group",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0235",
+      "industry": "education",
+      "is_deleted": false,
+      "name": "Northgate Talent Partners",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0236",
+      "industry": "retail",
+      "is_deleted": false,
+      "name": "Vantage Recruiting Co",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0237",
+      "industry": "finance",
+      "is_deleted": false,
+      "name": "Vantage Staffing Group",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0238",
+      "industry": "retail",
+      "is_deleted": false,
+      "name": "Meridian Talent Partners",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0239",
+      "industry": "hospitality",
+      "is_deleted": false,
+      "name": "Amberdale Resourcing Ltd",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0240",
+      "industry": "education",
+      "is_deleted": false,
+      "name": "Crestwood Resourcing Ltd",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0241",
+      "industry": "retail",
+      "is_deleted": false,
+      "name": "Cobalt Talent Alliance",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0242",
+      "industry": "retail",
+      "is_deleted": false,
+      "name": "Vantage Talent Partners",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0243",
+      "industry": "education",
+      "is_deleted": false,
+      "name": "Amberdale Recruiting Co",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0244",
+      "industry": "hospitality",
+      "is_deleted": false,
+      "name": "Silverline Placement Partners",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0245",
+      "industry": "manufacturing",
+      "is_deleted": false,
+      "name": "Anchor Talent Partners",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0246",
+      "industry": "retail",
+      "is_deleted": false,
+      "name": "Vantage Placement Partners",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0247",
+      "industry": "technology",
+      "is_deleted": false,
+      "name": "Cobalt Talent Partners",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0248",
+      "industry": "education",
+      "is_deleted": false,
+      "name": "Meridian Talent Alliance",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0249",
+      "industry": "hospitality",
+      "is_deleted": false,
+      "name": "Bluepeak Talent Partners",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0250",
+      "industry": "hospitality",
+      "is_deleted": false,
+      "name": "Fieldstone Placement Partners",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0251",
+      "industry": "hospitality",
+      "is_deleted": false,
+      "name": "Meridian Human Capital",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0252",
+      "industry": "logistics",
+      "is_deleted": false,
+      "name": "Northgate Workforce Solutions",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0253",
+      "industry": "healthcare",
+      "is_deleted": false,
+      "name": "Summit Talent Partners",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0254",
+      "industry": "hospitality",
+      "is_deleted": false,
+      "name": "Crestwood Talent Alliance",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0255",
+      "industry": "healthcare",
+      "is_deleted": false,
+      "name": "Kestrel Workforce Solutions",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0256",
+      "industry": "logistics",
+      "is_deleted": false,
+      "name": "Amberdale Workforce Solutions",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0257",
+      "industry": "manufacturing",
+      "is_deleted": false,
+      "name": "Redwood Recruiting Co",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0258",
+      "industry": "technology",
+      "is_deleted": false,
+      "name": "Lakeside Recruiting Co",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0259",
+      "industry": "education",
+      "is_deleted": false,
+      "name": "Harborline Recruiting Co",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0260",
+      "industry": "healthcare",
+      "is_deleted": false,
+      "name": "Redwood Recruiting Co",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0261",
+      "industry": "logistics",
+      "is_deleted": false,
+      "name": "Northgate Human Capital",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0262",
+      "industry": "finance",
+      "is_deleted": false,
+      "name": "Meridian Workforce Solutions",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0263",
+      "industry": "manufacturing",
+      "is_deleted": false,
+      "name": "Cobalt Staffing Group",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0264",
+      "industry": "logistics",
+      "is_deleted": false,
+      "name": "Summit Staffing Group",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0265",
+      "industry": "finance",
+      "is_deleted": false,
+      "name": "Anchor Workforce Solutions",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0266",
+      "industry": "education",
+      "is_deleted": false,
+      "name": "Crestwood Workforce Solutions",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0268",
+      "industry": "healthcare",
+      "is_deleted": false,
+      "name": "Vantage Human Capital",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0269",
+      "industry": "education",
+      "is_deleted": false,
+      "name": "Fieldstone Talent Alliance",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0270",
+      "industry": "technology",
+      "is_deleted": false,
+      "name": "Lakeside Staffing Group",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0271",
+      "industry": "logistics",
+      "is_deleted": false,
+      "name": "Ironwood Staffing Group",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0272",
+      "industry": "technology",
+      "is_deleted": false,
+      "name": "Amberdale Placement Partners",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0273",
+      "industry": "manufacturing",
+      "is_deleted": false,
+      "name": "Lakeside Workforce Solutions",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0274",
+      "industry": "healthcare",
+      "is_deleted": false,
+      "name": "Westmere Resourcing Ltd",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0275",
+      "industry": "healthcare",
+      "is_deleted": false,
+      "name": "Vantage Talent Partners",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0276",
+      "industry": "healthcare",
+      "is_deleted": false,
+      "name": "Beacon Talent Alliance",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0277",
+      "industry": "retail",
+      "is_deleted": false,
+      "name": "Ashgrove Human Capital",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0278",
+      "industry": "manufacturing",
+      "is_deleted": false,
+      "name": "Bluepeak Resourcing Ltd",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0279",
+      "industry": "technology",
+      "is_deleted": false,
+      "name": "Silverline Workforce Solutions",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0280",
+      "industry": "manufacturing",
+      "is_deleted": false,
+      "name": "Silverline Human Capital",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0281",
+      "industry": "healthcare",
+      "is_deleted": false,
+      "name": "Harborline Talent Alliance",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0282",
+      "industry": "retail",
+      "is_deleted": false,
+      "name": "Summit Workforce Solutions",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0283",
+      "industry": "hospitality",
+      "is_deleted": false,
+      "name": "Amberdale Resourcing Ltd",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0284",
+      "industry": "finance",
+      "is_deleted": false,
+      "name": "Bluepeak Human Capital",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0285",
+      "industry": "education",
+      "is_deleted": false,
+      "name": "Northgate Resourcing Ltd",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0286",
+      "industry": "technology",
+      "is_deleted": false,
+      "name": "Lakeside Resourcing Ltd",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0287",
+      "industry": "finance",
+      "is_deleted": false,
+      "name": "Halden Talent Partners",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0288",
+      "industry": "hospitality",
+      "is_deleted": false,
+      "name": "Amberdale Talent Alliance",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0289",
+      "industry": "retail",
+      "is_deleted": false,
+      "name": "Harborline Resourcing Ltd",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0290",
+      "industry": "healthcare",
+      "is_deleted": false,
+      "name": "Fieldstone Placement Partners",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0291",
+      "industry": "logistics",
+      "is_deleted": false,
+      "name": "Ironwood Talent Alliance",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0292",
+      "industry": "manufacturing",
+      "is_deleted": false,
+      "name": "Beacon Recruiting Co",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0293",
+      "industry": "education",
+      "is_deleted": false,
+      "name": "Northgate Recruiting Co",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0295",
+      "industry": "finance",
+      "is_deleted": false,
+      "name": "Meridian Human Capital",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0296",
+      "industry": "healthcare",
+      "is_deleted": false,
+      "name": "Anchor Staffing Group",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0297",
+      "industry": "retail",
+      "is_deleted": false,
+      "name": "Northgate Recruiting Co",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0298",
+      "industry": "logistics",
+      "is_deleted": false,
+      "name": "Redwood Talent Partners",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_0299",
+      "industry": "education",
+      "is_deleted": false,
+      "name": "Bluepeak Staffing Group",
+      "status": "active"
+    },
+    {
+      "client_id": "client_0300",
+      "industry": "healthcare",
+      "is_deleted": false,
+      "name": "Crestwood Workforce Solutions",
+      "status": "inactive"
+    },
+    {
+      "client_id": "client_9001",
+      "industry": "manufacturing",
+      "is_deleted": false,
+      "name": "Meridian Staffing Group",
+      "status": "active"
+    }
+  ],
+  "taken_at": "2026-03-16T06:00:00Z"
+}

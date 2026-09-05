@@ -1,0 +1,3126 @@
+{
+  "source": "Ledgerfield Analytics skills extract",
+  "tenant": "Brightwater Search",
+  "captured_on": "2026-04-27",
+  "chunk_size": 6,
+  "vocabulary": {
+    "tag_0001": "golang",
+    "tag_0002": "python",
+    "tag_0003": "rust",
+    "tag_0004": "react",
+    "tag_0005": "kubernetes",
+    "tag_0006": "terraform",
+    "tag_0007": "figma",
+    "tag_0008": "sql",
+    "tag_0009": "spark",
+    "tag_0010": "pytorch",
+    "tag_0011": "swift",
+    "tag_0012": "kotlin",
+    "tag_0013": "graphql",
+    "tag_0014": "aws",
+    "tag_0015": "gcp",
+    "tag_0016": "azure",
+    "tag_0017": "remote",
+    "tag_0018": "onsite",
+    "tag_0019": "senior",
+    "tag_0020": "staff",
+    "tag_0021": "contract",
+    "tag_0022": "referral",
+    "tag_0023": "passive",
+    "tag_0024": "diversity",
+    "tag_0025": "cleared",
+    "tag_0026": "relocation",
+    "tag_0027": "startup",
+    "tag_0028": "enterprise",
+    "tag_0029": "fintech",
+    "tag_0030": "healthtech"
+  },
+  "records": [
+    {
+      "sw_id": "prf_0001",
+      "surname": "Ramanujan",
+      "tags": [
+        "tag_0006",
+        "tag_0011",
+        "tag_0012",
+        "tag_0025"
+      ],
+      "tags_total": 4,
+      "tags_truncated": false,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0002",
+      "surname": "Shannon",
+      "tags": [
+        "tag_0014",
+        "tag_0015",
+        "tag_0016",
+        "tag_0019",
+        "tag_0021",
+        "tag_0023"
+      ],
+      "tags_total": 7,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0003",
+      "surname": "Xu",
+      "tags": [
+        "tag_0001",
+        "tag_0018",
+        "tag_0027"
+      ],
+      "tags_total": 3,
+      "tags_truncated": false,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0004",
+      "surname": "Wright",
+      "tags": [
+        "tag_0006",
+        "tag_0009",
+        "tag_0010",
+        "tag_0011",
+        "tag_0012",
+        "tag_0014"
+      ],
+      "tags_total": 11,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0005",
+      "surname": "Hopper",
+      "tags": [
+        "tag_0004",
+        "tag_0010",
+        "tag_0012",
+        "tag_0015",
+        "tag_0026",
+        "tag_0027"
+      ],
+      "tags_total": 7,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0006",
+      "surname": "Tesla",
+      "tags": [
+        "tag_0001",
+        "tag_0007",
+        "tag_0008",
+        "tag_0009",
+        "tag_0014",
+        "tag_0019"
+      ],
+      "tags_total": 11,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0007",
+      "surname": "Dirac",
+      "tags": [
+        "tag_0002",
+        "tag_0005",
+        "tag_0006",
+        "tag_0009",
+        "tag_0012",
+        "tag_0014"
+      ],
+      "tags_total": 15,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0008",
+      "surname": "Hopper",
+      "tags": [
+        "tag_0001",
+        "tag_0003",
+        "tag_0006",
+        "tag_0008",
+        "tag_0010",
+        "tag_0011"
+      ],
+      "tags_total": 14,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0009",
+      "surname": "Tesla",
+      "tags": [
+        "tag_0001",
+        "tag_0003",
+        "tag_0012",
+        "tag_0021",
+        "tag_0024",
+        "tag_0025"
+      ],
+      "tags_total": 7,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0010",
+      "surname": "Gauss",
+      "tags": [
+        "tag_0010",
+        "tag_0020",
+        "tag_0024",
+        "tag_0027",
+        "tag_0029"
+      ],
+      "tags_total": 5,
+      "tags_truncated": false,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0011",
+      "surname": "Babbage",
+      "tags": [
+        "tag_0008",
+        "tag_0010",
+        "tag_0014",
+        "tag_0027",
+        "tag_0028"
+      ],
+      "tags_total": 5,
+      "tags_truncated": false,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0012",
+      "surname": "Shannon",
+      "tags": [
+        "tag_0009",
+        "tag_0018"
+      ],
+      "tags_total": 2,
+      "tags_truncated": false,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0013",
+      "surname": "Xu",
+      "tags": [
+        "tag_0016",
+        "tag_0025"
+      ],
+      "tags_total": 2,
+      "tags_truncated": false,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0014",
+      "surname": "Tesla",
+      "tags": [
+        "tag_0001",
+        "tag_0005",
+        "tag_0020"
+      ],
+      "tags_total": 3,
+      "tags_truncated": false,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0015",
+      "surname": "Turing",
+      "tags": [
+        "tag_0001",
+        "tag_0006",
+        "tag_0008",
+        "tag_0011",
+        "tag_0013",
+        "tag_0015"
+      ],
+      "tags_total": 12,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0016",
+      "surname": "Tesla",
+      "tags": [
+        "tag_0001",
+        "tag_0004",
+        "tag_0009",
+        "tag_0010",
+        "tag_0012",
+        "tag_0015"
+      ],
+      "tags_total": 12,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0017",
+      "surname": "Lovelace",
+      "tags": [
+        "tag_0003",
+        "tag_0007",
+        "tag_0009",
+        "tag_0010",
+        "tag_0012",
+        "tag_0014"
+      ],
+      "tags_total": 12,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0018",
+      "surname": "Von Neumann",
+      "tags": [
+        "tag_0005",
+        "tag_0007",
+        "tag_0015",
+        "tag_0018",
+        "tag_0019",
+        "tag_0026"
+      ],
+      "tags_total": 7,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0019",
+      "surname": "Dirac",
+      "tags": [
+        "tag_0002",
+        "tag_0004",
+        "tag_0007",
+        "tag_0009",
+        "tag_0010",
+        "tag_0012"
+      ],
+      "tags_total": 13,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0020",
+      "surname": "Dirac",
+      "tags": [
+        "tag_0011",
+        "tag_0022"
+      ],
+      "tags_total": 2,
+      "tags_truncated": false,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0021",
+      "surname": "Gauss",
+      "tags": [
+        "tag_0001",
+        "tag_0003",
+        "tag_0009",
+        "tag_0011",
+        "tag_0016",
+        "tag_0023"
+      ],
+      "tags_total": 11,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0022",
+      "surname": "Shannon",
+      "tags": [
+        "tag_0002",
+        "tag_0006",
+        "tag_0021",
+        "tag_0023",
+        "tag_0025",
+        "tag_0026"
+      ],
+      "tags_total": 8,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0023",
+      "surname": "Feynman",
+      "tags": [
+        "tag_0001",
+        "tag_0002",
+        "tag_0003",
+        "tag_0005",
+        "tag_0010",
+        "tag_0014"
+      ],
+      "tags_total": 15,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0024",
+      "surname": "Wright",
+      "tags": [
+        "tag_0002",
+        "tag_0008",
+        "tag_0011",
+        "tag_0015",
+        "tag_0016",
+        "tag_0019"
+      ],
+      "tags_total": 12,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0025",
+      "surname": "Zuse",
+      "tags": [
+        "tag_0001",
+        "tag_0002",
+        "tag_0004",
+        "tag_0005",
+        "tag_0007",
+        "tag_0008"
+      ],
+      "tags_total": 11,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0026",
+      "surname": "Dirac",
+      "tags": [
+        "tag_0002",
+        "tag_0010",
+        "tag_0013",
+        "tag_0018",
+        "tag_0021",
+        "tag_0029"
+      ],
+      "tags_total": 7,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0027",
+      "surname": "Tesla",
+      "tags": [
+        "tag_0003",
+        "tag_0021",
+        "tag_0028",
+        "tag_0029"
+      ],
+      "tags_total": 4,
+      "tags_truncated": false,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0028",
+      "surname": "Wright",
+      "tags": [
+        "tag_0003",
+        "tag_0004",
+        "tag_0007",
+        "tag_0008",
+        "tag_0015",
+        "tag_0025"
+      ],
+      "tags_total": 10,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0029",
+      "surname": "Von Neumann",
+      "tags": [
+        "tag_0002",
+        "tag_0008",
+        "tag_0013",
+        "tag_0023",
+        "tag_0028",
+        "tag_0030"
+      ],
+      "tags_total": 7,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0030",
+      "surname": "Pascal",
+      "tags": [
+        "tag_0001",
+        "tag_0002",
+        "tag_0004",
+        "tag_0009",
+        "tag_0010",
+        "tag_0011"
+      ],
+      "tags_total": 14,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0031",
+      "surname": "Pascal",
+      "tags": [
+        "tag_0007",
+        "tag_0009",
+        "tag_0019",
+        "tag_0024",
+        "tag_0030"
+      ],
+      "tags_total": 5,
+      "tags_truncated": false,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0032",
+      "surname": "Ramanujan",
+      "tags": [
+        "tag_0001",
+        "tag_0007",
+        "tag_0008",
+        "tag_0009",
+        "tag_0010",
+        "tag_0011"
+      ],
+      "tags_total": 11,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0033",
+      "surname": "Zuse",
+      "tags": [
+        "tag_0007",
+        "tag_0020"
+      ],
+      "tags_total": 2,
+      "tags_truncated": false,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0034",
+      "surname": "Babbage",
+      "tags": [
+        "tag_0006",
+        "tag_0012",
+        "tag_0025"
+      ],
+      "tags_total": 3,
+      "tags_truncated": false,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0035",
+      "surname": "Gauss",
+      "tags": [
+        "tag_0001",
+        "tag_0002",
+        "tag_0005",
+        "tag_0008",
+        "tag_0009",
+        "tag_0010"
+      ],
+      "tags_total": 13,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0036",
+      "surname": "Pascal",
+      "tags": [
+        "tag_0003",
+        "tag_0004",
+        "tag_0006",
+        "tag_0008",
+        "tag_0010",
+        "tag_0011"
+      ],
+      "tags_total": 15,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0037",
+      "surname": "Hopper",
+      "tags": [
+        "tag_0003",
+        "tag_0005",
+        "tag_0006",
+        "tag_0009",
+        "tag_0014",
+        "tag_0015"
+      ],
+      "tags_total": 13,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0038",
+      "surname": "Tesla",
+      "tags": [
+        "tag_0020",
+        "tag_0023",
+        "tag_0024"
+      ],
+      "tags_total": 3,
+      "tags_truncated": false,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0039",
+      "surname": "Feynman",
+      "tags": [
+        "tag_0005",
+        "tag_0010",
+        "tag_0014",
+        "tag_0015",
+        "tag_0021",
+        "tag_0022"
+      ],
+      "tags_total": 6,
+      "tags_truncated": false,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0040",
+      "surname": "Wright",
+      "tags": [
+        "tag_0004",
+        "tag_0008",
+        "tag_0014",
+        "tag_0017",
+        "tag_0018",
+        "tag_0019"
+      ],
+      "tags_total": 9,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0041",
+      "surname": "Young",
+      "tags": [
+        "tag_0001",
+        "tag_0002",
+        "tag_0008",
+        "tag_0014",
+        "tag_0017",
+        "tag_0018"
+      ],
+      "tags_total": 10,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0042",
+      "surname": "Tesla",
+      "tags": [
+        "tag_0005",
+        "tag_0009",
+        "tag_0017",
+        "tag_0029"
+      ],
+      "tags_total": 4,
+      "tags_truncated": false,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0043",
+      "surname": "Pascal",
+      "tags": [
+        "tag_0007",
+        "tag_0010",
+        "tag_0011",
+        "tag_0016",
+        "tag_0021",
+        "tag_0023"
+      ],
+      "tags_total": 11,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0044",
+      "surname": "Turing",
+      "tags": [
+        "tag_0003",
+        "tag_0020"
+      ],
+      "tags_total": 2,
+      "tags_truncated": false,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0045",
+      "surname": "Pascal",
+      "tags": [
+        "tag_0001",
+        "tag_0004",
+        "tag_0005",
+        "tag_0007",
+        "tag_0010",
+        "tag_0011"
+      ],
+      "tags_total": 9,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0046",
+      "surname": "Ramanujan",
+      "tags": [
+        "tag_0001",
+        "tag_0002",
+        "tag_0006",
+        "tag_0008",
+        "tag_0017",
+        "tag_0019"
+      ],
+      "tags_total": 14,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0047",
+      "surname": "Turing",
+      "tags": [
+        "tag_0004",
+        "tag_0007",
+        "tag_0008",
+        "tag_0017",
+        "tag_0020",
+        "tag_0028"
+      ],
+      "tags_total": 7,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0048",
+      "surname": "Curie",
+      "tags": [
+        "tag_0003",
+        "tag_0008",
+        "tag_0014",
+        "tag_0018",
+        "tag_0020",
+        "tag_0021"
+      ],
+      "tags_total": 11,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0049",
+      "surname": "Gauss",
+      "tags": [
+        "tag_0003",
+        "tag_0004",
+        "tag_0007",
+        "tag_0019",
+        "tag_0021"
+      ],
+      "tags_total": 5,
+      "tags_truncated": false,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0050",
+      "surname": "Ramanujan",
+      "tags": [
+        "tag_0003",
+        "tag_0006",
+        "tag_0010",
+        "tag_0012",
+        "tag_0021",
+        "tag_0022"
+      ],
+      "tags_total": 8,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0051",
+      "surname": "Shannon",
+      "tags": [
+        "tag_0003",
+        "tag_0004",
+        "tag_0007",
+        "tag_0008",
+        "tag_0011",
+        "tag_0012"
+      ],
+      "tags_total": 15,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0052",
+      "surname": "Curie",
+      "tags": [
+        "tag_0004",
+        "tag_0007",
+        "tag_0010",
+        "tag_0013",
+        "tag_0015",
+        "tag_0016"
+      ],
+      "tags_total": 9,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0053",
+      "surname": "Hopper",
+      "tags": [
+        "tag_0002",
+        "tag_0005",
+        "tag_0006",
+        "tag_0009",
+        "tag_0010",
+        "tag_0012"
+      ],
+      "tags_total": 14,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0054",
+      "surname": "Pascal",
+      "tags": [
+        "tag_0004",
+        "tag_0018",
+        "tag_0023",
+        "tag_0024"
+      ],
+      "tags_total": 4,
+      "tags_truncated": false,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0055",
+      "surname": "Babbage",
+      "tags": [
+        "tag_0025",
+        "tag_0029"
+      ],
+      "tags_total": 2,
+      "tags_truncated": false,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0056",
+      "surname": "Young",
+      "tags": [
+        "tag_0003",
+        "tag_0005",
+        "tag_0010",
+        "tag_0013",
+        "tag_0015",
+        "tag_0019"
+      ],
+      "tags_total": 10,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0057",
+      "surname": "Tesla",
+      "tags": [
+        "tag_0006",
+        "tag_0007",
+        "tag_0008",
+        "tag_0010",
+        "tag_0012",
+        "tag_0013"
+      ],
+      "tags_total": 11,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0058",
+      "surname": "Noether",
+      "tags": [
+        "tag_0001",
+        "tag_0002",
+        "tag_0018",
+        "tag_0021",
+        "tag_0028",
+        "tag_0029"
+      ],
+      "tags_total": 6,
+      "tags_truncated": false,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0059",
+      "surname": "Xu",
+      "tags": [
+        "tag_0003",
+        "tag_0004",
+        "tag_0006",
+        "tag_0008",
+        "tag_0010",
+        "tag_0012"
+      ],
+      "tags_total": 13,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0060",
+      "surname": "Dirac",
+      "tags": [
+        "tag_0001",
+        "tag_0002",
+        "tag_0004",
+        "tag_0005",
+        "tag_0011",
+        "tag_0017"
+      ],
+      "tags_total": 12,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0061",
+      "surname": "Noether",
+      "tags": [
+        "tag_0001",
+        "tag_0008",
+        "tag_0010",
+        "tag_0016",
+        "tag_0028",
+        "tag_0029"
+      ],
+      "tags_total": 6,
+      "tags_truncated": false,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0062",
+      "surname": "Hopper",
+      "tags": [
+        "tag_0003",
+        "tag_0005",
+        "tag_0022",
+        "tag_0027"
+      ],
+      "tags_total": 4,
+      "tags_truncated": false,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0063",
+      "surname": "Dirac",
+      "tags": [
+        "tag_0001",
+        "tag_0002",
+        "tag_0004",
+        "tag_0005",
+        "tag_0014",
+        "tag_0015"
+      ],
+      "tags_total": 12,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0064",
+      "surname": "Dirac",
+      "tags": [
+        "tag_0022",
+        "tag_0027"
+      ],
+      "tags_total": 2,
+      "tags_truncated": false,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0065",
+      "surname": "Wright",
+      "tags": [
+        "tag_0002",
+        "tag_0003",
+        "tag_0007",
+        "tag_0009",
+        "tag_0021",
+        "tag_0023"
+      ],
+      "tags_total": 6,
+      "tags_truncated": false,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0066",
+      "surname": "Noether",
+      "tags": [
+        "tag_0002",
+        "tag_0006",
+        "tag_0012",
+        "tag_0015",
+        "tag_0017",
+        "tag_0020"
+      ],
+      "tags_total": 9,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0067",
+      "surname": "Pascal",
+      "tags": [
+        "tag_0005",
+        "tag_0008",
+        "tag_0012",
+        "tag_0017",
+        "tag_0021",
+        "tag_0026"
+      ],
+      "tags_total": 7,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0068",
+      "surname": "Zuse",
+      "tags": [
+        "tag_0002",
+        "tag_0007",
+        "tag_0009",
+        "tag_0016",
+        "tag_0028"
+      ],
+      "tags_total": 5,
+      "tags_truncated": false,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0069",
+      "surname": "Ramanujan",
+      "tags": [
+        "tag_0016",
+        "tag_0020"
+      ],
+      "tags_total": 2,
+      "tags_truncated": false,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0070",
+      "surname": "Lovelace",
+      "tags": [
+        "tag_0002",
+        "tag_0009",
+        "tag_0014",
+        "tag_0015",
+        "tag_0021",
+        "tag_0026"
+      ],
+      "tags_total": 8,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0071",
+      "surname": "Xu",
+      "tags": [
+        "tag_0003",
+        "tag_0011",
+        "tag_0016",
+        "tag_0017",
+        "tag_0018",
+        "tag_0019"
+      ],
+      "tags_total": 12,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0072",
+      "surname": "Lovelace",
+      "tags": [
+        "tag_0002",
+        "tag_0003",
+        "tag_0005",
+        "tag_0010",
+        "tag_0014",
+        "tag_0019"
+      ],
+      "tags_total": 10,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0073",
+      "surname": "Dirac",
+      "tags": [
+        "tag_0001",
+        "tag_0002",
+        "tag_0005",
+        "tag_0006",
+        "tag_0010",
+        "tag_0011"
+      ],
+      "tags_total": 10,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0074",
+      "surname": "Feynman",
+      "tags": [
+        "tag_0002",
+        "tag_0005",
+        "tag_0006",
+        "tag_0009",
+        "tag_0018",
+        "tag_0019"
+      ],
+      "tags_total": 12,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0075",
+      "surname": "Babbage",
+      "tags": [
+        "tag_0002",
+        "tag_0008",
+        "tag_0009",
+        "tag_0010",
+        "tag_0023",
+        "tag_0027"
+      ],
+      "tags_total": 6,
+      "tags_truncated": false,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0076",
+      "surname": "Ramanujan",
+      "tags": [
+        "tag_0002",
+        "tag_0004",
+        "tag_0007",
+        "tag_0008",
+        "tag_0013",
+        "tag_0019"
+      ],
+      "tags_total": 9,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0077",
+      "surname": "Curie",
+      "tags": [
+        "tag_0006",
+        "tag_0013",
+        "tag_0019",
+        "tag_0020",
+        "tag_0023",
+        "tag_0025"
+      ],
+      "tags_total": 6,
+      "tags_truncated": false,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0078",
+      "surname": "Xu",
+      "tags": [
+        "tag_0006",
+        "tag_0010",
+        "tag_0014",
+        "tag_0018",
+        "tag_0019",
+        "tag_0021"
+      ],
+      "tags_total": 8,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0079",
+      "surname": "Einstein",
+      "tags": [
+        "tag_0013",
+        "tag_0016"
+      ],
+      "tags_total": 2,
+      "tags_truncated": false,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0080",
+      "surname": "Ramanujan",
+      "tags": [
+        "tag_0001",
+        "tag_0003",
+        "tag_0008",
+        "tag_0022",
+        "tag_0028"
+      ],
+      "tags_total": 5,
+      "tags_truncated": false,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0081",
+      "surname": "Pascal",
+      "tags": [
+        "tag_0012",
+        "tag_0013",
+        "tag_0017",
+        "tag_0020",
+        "tag_0022",
+        "tag_0027"
+      ],
+      "tags_total": 6,
+      "tags_truncated": false,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0082",
+      "surname": "Lovelace",
+      "tags": [
+        "tag_0005",
+        "tag_0007",
+        "tag_0010",
+        "tag_0011",
+        "tag_0012",
+        "tag_0013"
+      ],
+      "tags_total": 12,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0083",
+      "surname": "Curie",
+      "tags": [
+        "tag_0004",
+        "tag_0005",
+        "tag_0007",
+        "tag_0010",
+        "tag_0014",
+        "tag_0017"
+      ],
+      "tags_total": 10,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0084",
+      "surname": "Einstein",
+      "tags": [
+        "tag_0001",
+        "tag_0003",
+        "tag_0008",
+        "tag_0009",
+        "tag_0016",
+        "tag_0020"
+      ],
+      "tags_total": 10,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0085",
+      "surname": "Feynman",
+      "tags": [
+        "tag_0001",
+        "tag_0004",
+        "tag_0006",
+        "tag_0008",
+        "tag_0009",
+        "tag_0014"
+      ],
+      "tags_total": 13,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0086",
+      "surname": "Hopper",
+      "tags": [
+        "tag_0001",
+        "tag_0005",
+        "tag_0006",
+        "tag_0017",
+        "tag_0018",
+        "tag_0019"
+      ],
+      "tags_total": 9,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0087",
+      "surname": "Tesla",
+      "tags": [
+        "tag_0001",
+        "tag_0012",
+        "tag_0014",
+        "tag_0024",
+        "tag_0027"
+      ],
+      "tags_total": 5,
+      "tags_truncated": false,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0088",
+      "surname": "Shannon",
+      "tags": [
+        "tag_0004",
+        "tag_0012",
+        "tag_0014"
+      ],
+      "tags_total": 3,
+      "tags_truncated": false,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0089",
+      "surname": "Babbage",
+      "tags": [
+        "tag_0002",
+        "tag_0003",
+        "tag_0004",
+        "tag_0005",
+        "tag_0015",
+        "tag_0017"
+      ],
+      "tags_total": 13,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0090",
+      "surname": "Young",
+      "tags": [
+        "tag_0002",
+        "tag_0003",
+        "tag_0007",
+        "tag_0010",
+        "tag_0012",
+        "tag_0013"
+      ],
+      "tags_total": 14,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0091",
+      "surname": "Wright",
+      "tags": [
+        "tag_0009",
+        "tag_0010",
+        "tag_0013",
+        "tag_0019",
+        "tag_0023"
+      ],
+      "tags_total": 5,
+      "tags_truncated": false,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0092",
+      "surname": "Dirac",
+      "tags": [
+        "tag_0002",
+        "tag_0008",
+        "tag_0009",
+        "tag_0010",
+        "tag_0014",
+        "tag_0015"
+      ],
+      "tags_total": 12,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0093",
+      "surname": "Curie",
+      "tags": [
+        "tag_0002",
+        "tag_0005",
+        "tag_0007",
+        "tag_0009",
+        "tag_0010",
+        "tag_0011"
+      ],
+      "tags_total": 12,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0094",
+      "surname": "Hopper",
+      "tags": [
+        "tag_0004",
+        "tag_0005",
+        "tag_0008",
+        "tag_0010"
+      ],
+      "tags_total": 4,
+      "tags_truncated": false,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0095",
+      "surname": "Zuse",
+      "tags": [
+        "tag_0002",
+        "tag_0003",
+        "tag_0006",
+        "tag_0008",
+        "tag_0010",
+        "tag_0012"
+      ],
+      "tags_total": 11,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0096",
+      "surname": "Einstein",
+      "tags": [
+        "tag_0003",
+        "tag_0004",
+        "tag_0006",
+        "tag_0009",
+        "tag_0011",
+        "tag_0012"
+      ],
+      "tags_total": 13,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0097",
+      "surname": "Babbage",
+      "tags": [
+        "tag_0004",
+        "tag_0009",
+        "tag_0012",
+        "tag_0014",
+        "tag_0017",
+        "tag_0018"
+      ],
+      "tags_total": 6,
+      "tags_truncated": false,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0098",
+      "surname": "Curie",
+      "tags": [
+        "tag_0018",
+        "tag_0019",
+        "tag_0027"
+      ],
+      "tags_total": 3,
+      "tags_truncated": false,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0099",
+      "surname": "Young",
+      "tags": [
+        "tag_0002",
+        "tag_0004",
+        "tag_0005",
+        "tag_0006",
+        "tag_0008",
+        "tag_0011"
+      ],
+      "tags_total": 14,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0100",
+      "surname": "Einstein",
+      "tags": [
+        "tag_0012",
+        "tag_0014",
+        "tag_0021",
+        "tag_0022",
+        "tag_0025"
+      ],
+      "tags_total": 5,
+      "tags_truncated": false,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0101",
+      "surname": "Shannon",
+      "tags": [
+        "tag_0003",
+        "tag_0005",
+        "tag_0006",
+        "tag_0007",
+        "tag_0008",
+        "tag_0014"
+      ],
+      "tags_total": 11,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0102",
+      "surname": "Dirac",
+      "tags": [
+        "tag_0008",
+        "tag_0012",
+        "tag_0016",
+        "tag_0021",
+        "tag_0026"
+      ],
+      "tags_total": 5,
+      "tags_truncated": false,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0103",
+      "surname": "Shannon",
+      "tags": [
+        "tag_0001",
+        "tag_0005",
+        "tag_0006",
+        "tag_0007",
+        "tag_0010",
+        "tag_0011"
+      ],
+      "tags_total": 12,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0104",
+      "surname": "Shannon",
+      "tags": [
+        "tag_0014",
+        "tag_0025",
+        "tag_0029"
+      ],
+      "tags_total": 3,
+      "tags_truncated": false,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0105",
+      "surname": "Noether",
+      "tags": [
+        "tag_0002",
+        "tag_0004",
+        "tag_0005",
+        "tag_0012",
+        "tag_0017",
+        "tag_0019"
+      ],
+      "tags_total": 11,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0106",
+      "surname": "Lovelace",
+      "tags": [
+        "tag_0010",
+        "tag_0014",
+        "tag_0018",
+        "tag_0019",
+        "tag_0023"
+      ],
+      "tags_total": 5,
+      "tags_truncated": false,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0107",
+      "surname": "Xu",
+      "tags": [
+        "tag_0011",
+        "tag_0012",
+        "tag_0018",
+        "tag_0021",
+        "tag_0022",
+        "tag_0028"
+      ],
+      "tags_total": 7,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0108",
+      "surname": "Young",
+      "tags": [
+        "tag_0004",
+        "tag_0007",
+        "tag_0010",
+        "tag_0012",
+        "tag_0019",
+        "tag_0021"
+      ],
+      "tags_total": 11,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0109",
+      "surname": "Von Neumann",
+      "tags": [
+        "tag_0001",
+        "tag_0004",
+        "tag_0005",
+        "tag_0006",
+        "tag_0007",
+        "tag_0014"
+      ],
+      "tags_total": 13,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0110",
+      "surname": "Zuse",
+      "tags": [
+        "tag_0001",
+        "tag_0003",
+        "tag_0004",
+        "tag_0005",
+        "tag_0006",
+        "tag_0008"
+      ],
+      "tags_total": 14,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0111",
+      "surname": "Pascal",
+      "tags": [
+        "tag_0004",
+        "tag_0008",
+        "tag_0010",
+        "tag_0011",
+        "tag_0012",
+        "tag_0013"
+      ],
+      "tags_total": 11,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0112",
+      "surname": "Lovelace",
+      "tags": [
+        "tag_0016",
+        "tag_0024"
+      ],
+      "tags_total": 2,
+      "tags_truncated": false,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0113",
+      "surname": "Feynman",
+      "tags": [
+        "tag_0018",
+        "tag_0028"
+      ],
+      "tags_total": 2,
+      "tags_truncated": false,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0114",
+      "surname": "Lovelace",
+      "tags": [
+        "tag_0002",
+        "tag_0004",
+        "tag_0005",
+        "tag_0008",
+        "tag_0009",
+        "tag_0011"
+      ],
+      "tags_total": 15,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0115",
+      "surname": "Noether",
+      "tags": [
+        "tag_0001",
+        "tag_0012",
+        "tag_0014",
+        "tag_0020",
+        "tag_0024",
+        "tag_0030"
+      ],
+      "tags_total": 6,
+      "tags_truncated": false,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0116",
+      "surname": "Lovelace",
+      "tags": [
+        "tag_0004",
+        "tag_0015",
+        "tag_0021"
+      ],
+      "tags_total": 3,
+      "tags_truncated": false,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0117",
+      "surname": "Einstein",
+      "tags": [
+        "tag_0004",
+        "tag_0005",
+        "tag_0011",
+        "tag_0013",
+        "tag_0014",
+        "tag_0015"
+      ],
+      "tags_total": 12,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0118",
+      "surname": "Gauss",
+      "tags": [
+        "tag_0004",
+        "tag_0005",
+        "tag_0017",
+        "tag_0028",
+        "tag_0030"
+      ],
+      "tags_total": 5,
+      "tags_truncated": false,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0119",
+      "surname": "Ramanujan",
+      "tags": [
+        "tag_0003",
+        "tag_0008",
+        "tag_0011",
+        "tag_0013",
+        "tag_0014",
+        "tag_0015"
+      ],
+      "tags_total": 13,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0120",
+      "surname": "Hopper",
+      "tags": [
+        "tag_0001",
+        "tag_0006",
+        "tag_0011",
+        "tag_0015",
+        "tag_0016",
+        "tag_0021"
+      ],
+      "tags_total": 8,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0900",
+      "surname": "Reeve",
+      "tags": [
+        "tag_0002",
+        "tag_0003",
+        "tag_0005",
+        "tag_0006",
+        "tag_0012",
+        "tag_0013"
+      ],
+      "tags_total": 15,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0901",
+      "surname": "Diallo",
+      "tags": [
+        "tag_0012",
+        "tag_0025",
+        "tag_0026",
+        "tag_0027"
+      ],
+      "tags_total": 4,
+      "tags_truncated": false,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0902",
+      "surname": "Sato",
+      "tags": [
+        "tag_0002",
+        "tag_0005",
+        "tag_0010",
+        "tag_0015",
+        "tag_0016",
+        "tag_0017"
+      ],
+      "tags_total": 11,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0903",
+      "surname": "Yildiz",
+      "tags": [
+        "tag_0002",
+        "tag_0007",
+        "tag_0008",
+        "tag_0011",
+        "tag_0013",
+        "tag_0014"
+      ],
+      "tags_total": 9,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0904",
+      "surname": "Nair",
+      "tags": [
+        "tag_0002",
+        "tag_0004",
+        "tag_0006",
+        "tag_0007",
+        "tag_0013",
+        "tag_0016"
+      ],
+      "tags_total": 13,
+      "tags_truncated": true,
+      "continues": false
+    },
+    {
+      "sw_id": "prf_0007",
+      "surname": "Dirac",
+      "tags": [
+        "tag_0029",
+        "tag_0030",
+        "tag_0003"
+      ],
+      "tags_total": 15,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0101",
+      "surname": "Shannon",
+      "tags": [
+        "tag_0015",
+        "tag_0020",
+        "tag_0025",
+        "tag_0026",
+        "tag_0030"
+      ],
+      "tags_total": 11,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0043",
+      "surname": "Pascal",
+      "tags": [
+        "tag_0025",
+        "tag_0026",
+        "tag_0027",
+        "tag_0028",
+        "tag_0020"
+      ],
+      "tags_total": 11,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0037",
+      "surname": "Hopper",
+      "tags": [
+        "tag_0025"
+      ],
+      "tags_total": 13,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0092",
+      "surname": "Dirac",
+      "tags": [
+        "tag_0016",
+        "tag_0019",
+        "tag_0021",
+        "tag_0024",
+        "tag_0029",
+        "tag_0030"
+      ],
+      "tags_total": 12,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0902",
+      "surname": "Sato",
+      "tags": [
+        "tag_0020",
+        "tag_0023",
+        "tag_0024",
+        "tag_0026",
+        "tag_0027"
+      ],
+      "tags_total": 11,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0008",
+      "surname": "Hopper",
+      "tags": [
+        "tag_0030",
+        "tag_0007"
+      ],
+      "tags_total": 14,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0099",
+      "surname": "Young",
+      "tags": [
+        "tag_0015",
+        "tag_0017",
+        "tag_0019",
+        "tag_0020",
+        "tag_0023",
+        "tag_0024"
+      ],
+      "tags_total": 14,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0018",
+      "surname": "Von Neumann",
+      "tags": [
+        "tag_0009"
+      ],
+      "tags_total": 7,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0029",
+      "surname": "Von Neumann",
+      "tags": [
+        "tag_0022"
+      ],
+      "tags_total": 7,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0090",
+      "surname": "Young",
+      "tags": [
+        "tag_0015",
+        "tag_0016",
+        "tag_0017",
+        "tag_0018",
+        "tag_0020",
+        "tag_0023"
+      ],
+      "tags_total": 14,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0070",
+      "surname": "Lovelace",
+      "tags": [
+        "tag_0028",
+        "tag_0030"
+      ],
+      "tags_total": 8,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0071",
+      "surname": "Xu",
+      "tags": [
+        "tag_0021",
+        "tag_0022",
+        "tag_0023",
+        "tag_0024",
+        "tag_0029",
+        "tag_0030"
+      ],
+      "tags_total": 12,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0035",
+      "surname": "Gauss",
+      "tags": [
+        "tag_0013",
+        "tag_0014",
+        "tag_0017",
+        "tag_0026",
+        "tag_0027",
+        "tag_0029"
+      ],
+      "tags_total": 13,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0037",
+      "surname": "Hopper",
+      "tags": [
+        "tag_0017",
+        "tag_0018",
+        "tag_0022",
+        "tag_0027",
+        "tag_0029",
+        "tag_0030"
+      ],
+      "tags_total": 13,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0111",
+      "surname": "Pascal",
+      "tags": [
+        "tag_0014",
+        "tag_0020",
+        "tag_0021",
+        "tag_0025",
+        "tag_0026"
+      ],
+      "tags_total": 11,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0023",
+      "surname": "Feynman",
+      "tags": [
+        "tag_0026",
+        "tag_0027",
+        "tag_0029"
+      ],
+      "tags_total": 15,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0040",
+      "surname": "Wright",
+      "tags": [
+        "tag_0023",
+        "tag_0030",
+        "tag_0016"
+      ],
+      "tags_total": 9,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0107",
+      "surname": "Xu",
+      "tags": [
+        "tag_0029"
+      ],
+      "tags_total": 7,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0019",
+      "surname": "Dirac",
+      "tags": [
+        "tag_0018",
+        "tag_0019",
+        "tag_0021",
+        "tag_0023",
+        "tag_0024",
+        "tag_0025"
+      ],
+      "tags_total": 13,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0073",
+      "surname": "Dirac",
+      "tags": [
+        "tag_0017",
+        "tag_0021",
+        "tag_0022",
+        "tag_0025"
+      ],
+      "tags_total": 10,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0114",
+      "surname": "Lovelace",
+      "tags": [
+        "tag_0014",
+        "tag_0015",
+        "tag_0016",
+        "tag_0019",
+        "tag_0020",
+        "tag_0021"
+      ],
+      "tags_total": 15,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0074",
+      "surname": "Feynman",
+      "tags": [
+        "tag_0020",
+        "tag_0022",
+        "tag_0023",
+        "tag_0025",
+        "tag_0029",
+        "tag_0030"
+      ],
+      "tags_total": 12,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0030",
+      "surname": "Pascal",
+      "tags": [
+        "tag_0030",
+        "tag_0014"
+      ],
+      "tags_total": 14,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0024",
+      "surname": "Wright",
+      "tags": [
+        "tag_0022",
+        "tag_0025",
+        "tag_0026",
+        "tag_0027",
+        "tag_0028",
+        "tag_0029"
+      ],
+      "tags_total": 12,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0002",
+      "surname": "Shannon",
+      "tags": [
+        "tag_0006"
+      ],
+      "tags_total": 7,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0078",
+      "surname": "Xu",
+      "tags": [
+        "tag_0022",
+        "tag_0029"
+      ],
+      "tags_total": 8,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0015",
+      "surname": "Turing",
+      "tags": [
+        "tag_0016",
+        "tag_0018",
+        "tag_0021",
+        "tag_0028",
+        "tag_0030",
+        "tag_0010"
+      ],
+      "tags_total": 12,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0046",
+      "surname": "Ramanujan",
+      "tags": [
+        "tag_0027",
+        "tag_0012"
+      ],
+      "tags_total": 14,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0067",
+      "surname": "Pascal",
+      "tags": [
+        "tag_0023"
+      ],
+      "tags_total": 7,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0026",
+      "surname": "Dirac",
+      "tags": [
+        "tag_0030"
+      ],
+      "tags_total": 7,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0085",
+      "surname": "Feynman",
+      "tags": [
+        "tag_0016",
+        "tag_0017",
+        "tag_0018",
+        "tag_0021",
+        "tag_0025",
+        "tag_0028"
+      ],
+      "tags_total": 13,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0053",
+      "surname": "Hopper",
+      "tags": [
+        "tag_0027",
+        "tag_0019"
+      ],
+      "tags_total": 14,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0095",
+      "surname": "Zuse",
+      "tags": [
+        "tag_0013",
+        "tag_0018",
+        "tag_0023",
+        "tag_0026",
+        "tag_0027"
+      ],
+      "tags_total": 11,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0007",
+      "surname": "Dirac",
+      "tags": [
+        "tag_0015",
+        "tag_0016",
+        "tag_0021",
+        "tag_0023",
+        "tag_0024",
+        "tag_0027"
+      ],
+      "tags_total": 15,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0083",
+      "surname": "Curie",
+      "tags": [
+        "tag_0023",
+        "tag_0024",
+        "tag_0026",
+        "tag_0028"
+      ],
+      "tags_total": 10,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0105",
+      "surname": "Noether",
+      "tags": [
+        "tag_0021",
+        "tag_0023",
+        "tag_0025",
+        "tag_0027",
+        "tag_0028"
+      ],
+      "tags_total": 11,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0046",
+      "surname": "Ramanujan",
+      "tags": [
+        "tag_0021",
+        "tag_0022",
+        "tag_0023",
+        "tag_0024",
+        "tag_0025",
+        "tag_0026"
+      ],
+      "tags_total": 14,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0057",
+      "surname": "Tesla",
+      "tags": [
+        "tag_0014",
+        "tag_0015",
+        "tag_0025",
+        "tag_0028",
+        "tag_0029"
+      ],
+      "tags_total": 11,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0030",
+      "surname": "Pascal",
+      "tags": [
+        "tag_0013",
+        "tag_0019",
+        "tag_0020",
+        "tag_0023",
+        "tag_0028",
+        "tag_0029"
+      ],
+      "tags_total": 14,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0022",
+      "surname": "Shannon",
+      "tags": [
+        "tag_0028",
+        "tag_0029"
+      ],
+      "tags_total": 8,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0059",
+      "surname": "Xu",
+      "tags": [
+        "tag_0030"
+      ],
+      "tags_total": 13,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0063",
+      "surname": "Dirac",
+      "tags": [
+        "tag_0018",
+        "tag_0027",
+        "tag_0028",
+        "tag_0029",
+        "tag_0030",
+        "tag_0026"
+      ],
+      "tags_total": 12,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0053",
+      "surname": "Hopper",
+      "tags": [
+        "tag_0013",
+        "tag_0014",
+        "tag_0015",
+        "tag_0017",
+        "tag_0020",
+        "tag_0024"
+      ],
+      "tags_total": 14,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0090",
+      "surname": "Young",
+      "tags": [
+        "tag_0024",
+        "tag_0025"
+      ],
+      "tags_total": 14,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0036",
+      "surname": "Pascal",
+      "tags": [
+        "tag_0013",
+        "tag_0017",
+        "tag_0019",
+        "tag_0020",
+        "tag_0021",
+        "tag_0025"
+      ],
+      "tags_total": 15,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0903",
+      "surname": "Yildiz",
+      "tags": [
+        "tag_0016",
+        "tag_0021",
+        "tag_0026"
+      ],
+      "tags_total": 9,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0099",
+      "surname": "Young",
+      "tags": [
+        "tag_0027",
+        "tag_0028"
+      ],
+      "tags_total": 14,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0021",
+      "surname": "Gauss",
+      "tags": [
+        "tag_0024",
+        "tag_0026",
+        "tag_0028",
+        "tag_0029",
+        "tag_0015"
+      ],
+      "tags_total": 11,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0005",
+      "surname": "Hopper",
+      "tags": [
+        "tag_0001"
+      ],
+      "tags_total": 7,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0048",
+      "surname": "Curie",
+      "tags": [
+        "tag_0025",
+        "tag_0026",
+        "tag_0027",
+        "tag_0029",
+        "tag_0024"
+      ],
+      "tags_total": 11,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0017",
+      "surname": "Lovelace",
+      "tags": [
+        "tag_0015",
+        "tag_0019",
+        "tag_0021",
+        "tag_0026",
+        "tag_0028",
+        "tag_0030"
+      ],
+      "tags_total": 12,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0051",
+      "surname": "Shannon",
+      "tags": [
+        "tag_0029",
+        "tag_0030",
+        "tag_0028"
+      ],
+      "tags_total": 15,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0085",
+      "surname": "Feynman",
+      "tags": [
+        "tag_0029"
+      ],
+      "tags_total": 13,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0109",
+      "surname": "Von Neumann",
+      "tags": [
+        "tag_0029"
+      ],
+      "tags_total": 13,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0119",
+      "surname": "Ramanujan",
+      "tags": [
+        "tag_0016",
+        "tag_0018",
+        "tag_0021",
+        "tag_0022",
+        "tag_0026",
+        "tag_0027"
+      ],
+      "tags_total": 13,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0060",
+      "surname": "Dirac",
+      "tags": [
+        "tag_0020",
+        "tag_0022",
+        "tag_0025",
+        "tag_0027",
+        "tag_0028",
+        "tag_0029"
+      ],
+      "tags_total": 12,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0036",
+      "surname": "Pascal",
+      "tags": [
+        "tag_0027",
+        "tag_0030",
+        "tag_0018"
+      ],
+      "tags_total": 15,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0096",
+      "surname": "Einstein",
+      "tags": [
+        "tag_0030"
+      ],
+      "tags_total": 13,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0041",
+      "surname": "Young",
+      "tags": [
+        "tag_0021",
+        "tag_0022",
+        "tag_0030",
+        "tag_0029"
+      ],
+      "tags_total": 10,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0006",
+      "surname": "Tesla",
+      "tags": [
+        "tag_0021",
+        "tag_0022",
+        "tag_0023",
+        "tag_0026",
+        "tag_0002"
+      ],
+      "tags_total": 11,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0086",
+      "surname": "Hopper",
+      "tags": [
+        "tag_0020",
+        "tag_0021",
+        "tag_0027"
+      ],
+      "tags_total": 9,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0117",
+      "surname": "Einstein",
+      "tags": [
+        "tag_0016",
+        "tag_0026",
+        "tag_0027",
+        "tag_0028",
+        "tag_0029",
+        "tag_0030"
+      ],
+      "tags_total": 12,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0025",
+      "surname": "Zuse",
+      "tags": [
+        "tag_0011",
+        "tag_0015",
+        "tag_0019",
+        "tag_0023",
+        "tag_0025"
+      ],
+      "tags_total": 11,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0084",
+      "surname": "Einstein",
+      "tags": [
+        "tag_0021",
+        "tag_0023",
+        "tag_0027",
+        "tag_0028"
+      ],
+      "tags_total": 10,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0045",
+      "surname": "Pascal",
+      "tags": [
+        "tag_0015",
+        "tag_0017",
+        "tag_0025"
+      ],
+      "tags_total": 9,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0004",
+      "surname": "Wright",
+      "tags": [
+        "tag_0017",
+        "tag_0018",
+        "tag_0022",
+        "tag_0030",
+        "tag_0004"
+      ],
+      "tags_total": 11,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0119",
+      "surname": "Ramanujan",
+      "tags": [
+        "tag_0030"
+      ],
+      "tags_total": 13,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0035",
+      "surname": "Gauss",
+      "tags": [
+        "tag_0021"
+      ],
+      "tags_total": 13,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0089",
+      "surname": "Babbage",
+      "tags": [
+        "tag_0020",
+        "tag_0021",
+        "tag_0022",
+        "tag_0024",
+        "tag_0025",
+        "tag_0026"
+      ],
+      "tags_total": 13,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0016",
+      "surname": "Tesla",
+      "tags": [
+        "tag_0021",
+        "tag_0022",
+        "tag_0026",
+        "tag_0027",
+        "tag_0028",
+        "tag_0005"
+      ],
+      "tags_total": 12,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0089",
+      "surname": "Babbage",
+      "tags": [
+        "tag_0029"
+      ],
+      "tags_total": 13,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0009",
+      "surname": "Tesla",
+      "tags": [
+        "tag_0008"
+      ],
+      "tags_total": 7,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0019",
+      "surname": "Dirac",
+      "tags": [
+        "tag_0011"
+      ],
+      "tags_total": 13,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0082",
+      "surname": "Lovelace",
+      "tags": [
+        "tag_0015",
+        "tag_0018",
+        "tag_0019",
+        "tag_0023",
+        "tag_0024",
+        "tag_0030"
+      ],
+      "tags_total": 12,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0052",
+      "surname": "Curie",
+      "tags": [
+        "tag_0017",
+        "tag_0021",
+        "tag_0028"
+      ],
+      "tags_total": 9,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0008",
+      "surname": "Hopper",
+      "tags": [
+        "tag_0014",
+        "tag_0016",
+        "tag_0020",
+        "tag_0021",
+        "tag_0023",
+        "tag_0026"
+      ],
+      "tags_total": 14,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0076",
+      "surname": "Ramanujan",
+      "tags": [
+        "tag_0020",
+        "tag_0026",
+        "tag_0030"
+      ],
+      "tags_total": 9,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0900",
+      "surname": "Reeve",
+      "tags": [
+        "tag_0024",
+        "tag_0029",
+        "tag_0030"
+      ],
+      "tags_total": 15,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0023",
+      "surname": "Feynman",
+      "tags": [
+        "tag_0015",
+        "tag_0017",
+        "tag_0020",
+        "tag_0022",
+        "tag_0024",
+        "tag_0025"
+      ],
+      "tags_total": 15,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0110",
+      "surname": "Zuse",
+      "tags": [
+        "tag_0025",
+        "tag_0027"
+      ],
+      "tags_total": 14,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0114",
+      "surname": "Lovelace",
+      "tags": [
+        "tag_0025",
+        "tag_0026",
+        "tag_0029"
+      ],
+      "tags_total": 15,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0110",
+      "surname": "Zuse",
+      "tags": [
+        "tag_0009",
+        "tag_0018",
+        "tag_0019",
+        "tag_0020",
+        "tag_0023",
+        "tag_0024"
+      ],
+      "tags_total": 14,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0050",
+      "surname": "Ramanujan",
+      "tags": [
+        "tag_0024",
+        "tag_0027"
+      ],
+      "tags_total": 8,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0032",
+      "surname": "Ramanujan",
+      "tags": [
+        "tag_0021",
+        "tag_0023",
+        "tag_0024",
+        "tag_0027",
+        "tag_0017"
+      ],
+      "tags_total": 11,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0093",
+      "surname": "Curie",
+      "tags": [
+        "tag_0016",
+        "tag_0020",
+        "tag_0023",
+        "tag_0025",
+        "tag_0027",
+        "tag_0030"
+      ],
+      "tags_total": 12,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0904",
+      "surname": "Nair",
+      "tags": [
+        "tag_0019",
+        "tag_0020",
+        "tag_0021",
+        "tag_0022",
+        "tag_0023",
+        "tag_0025"
+      ],
+      "tags_total": 13,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0028",
+      "surname": "Wright",
+      "tags": [
+        "tag_0027",
+        "tag_0029",
+        "tag_0030",
+        "tag_0013"
+      ],
+      "tags_total": 10,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0059",
+      "surname": "Xu",
+      "tags": [
+        "tag_0017",
+        "tag_0020",
+        "tag_0021",
+        "tag_0024",
+        "tag_0028",
+        "tag_0029"
+      ],
+      "tags_total": 13,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0051",
+      "surname": "Shannon",
+      "tags": [
+        "tag_0013",
+        "tag_0014",
+        "tag_0017",
+        "tag_0020",
+        "tag_0021",
+        "tag_0025"
+      ],
+      "tags_total": 15,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0066",
+      "surname": "Noether",
+      "tags": [
+        "tag_0022",
+        "tag_0026",
+        "tag_0028"
+      ],
+      "tags_total": 9,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0108",
+      "surname": "Young",
+      "tags": [
+        "tag_0024",
+        "tag_0027",
+        "tag_0028",
+        "tag_0029",
+        "tag_0030"
+      ],
+      "tags_total": 11,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0904",
+      "surname": "Nair",
+      "tags": [
+        "tag_0026"
+      ],
+      "tags_total": 13,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0047",
+      "surname": "Turing",
+      "tags": [
+        "tag_0027"
+      ],
+      "tags_total": 7,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0109",
+      "surname": "Von Neumann",
+      "tags": [
+        "tag_0016",
+        "tag_0017",
+        "tag_0019",
+        "tag_0021",
+        "tag_0022",
+        "tag_0027"
+      ],
+      "tags_total": 13,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0120",
+      "surname": "Hopper",
+      "tags": [
+        "tag_0022",
+        "tag_0025"
+      ],
+      "tags_total": 8,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0096",
+      "surname": "Einstein",
+      "tags": [
+        "tag_0017",
+        "tag_0020",
+        "tag_0023",
+        "tag_0025",
+        "tag_0026",
+        "tag_0027"
+      ],
+      "tags_total": 13,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0056",
+      "surname": "Young",
+      "tags": [
+        "tag_0022",
+        "tag_0025",
+        "tag_0027",
+        "tag_0029"
+      ],
+      "tags_total": 10,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0103",
+      "surname": "Shannon",
+      "tags": [
+        "tag_0015",
+        "tag_0016",
+        "tag_0021",
+        "tag_0026",
+        "tag_0029",
+        "tag_0030"
+      ],
+      "tags_total": 12,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0072",
+      "surname": "Lovelace",
+      "tags": [
+        "tag_0023",
+        "tag_0025",
+        "tag_0026",
+        "tag_0027"
+      ],
+      "tags_total": 10,
+      "tags_truncated": true,
+      "continues": true
+    },
+    {
+      "sw_id": "prf_0900",
+      "surname": "Reeve",
+      "tags": [
+        "tag_0015",
+        "tag_0016",
+        "tag_0017",
+        "tag_0019",
+        "tag_0022",
+        "tag_0023"
+      ],
+      "tags_total": 15,
+      "tags_truncated": true,
+      "continues": true
+    }
+  ]
+}

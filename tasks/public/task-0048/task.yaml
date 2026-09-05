@@ -1,0 +1,100 @@
+id: task-0048
+title: Migrate the Brackett closure archive onto Paygrade's tombstone feed
+category: migrate
+vendor: paygrade
+surfaces:
+- polling
+- writeback
+tier: 3
+primary_mechanic: tombstone_semantics_migration
+track: python
+timeout_minutes: 60
+doc_profile: sparse
+scenarios:
+- task_0048
+l3_scenarios: []
+entry:
+  command:
+  - python
+  - -m
+  - pg_closure_migrate
+outputs:
+  files:
+  - output/result.json
+  - output/import_report.csv
+  - output/writeback_log.json
+vendors:
+  paygrade:
+    data_port: 8000
+    log_path: /var/log/vendor
+    checkpoint_env: CHECKPOINT
+    credentials:
+      PG_APP_TOKEN: paygrade-test-key
+    vendor:
+      base_path: /api/rpc
+    entities:
+      employee:
+        plural: employees
+      assignment:
+        plural: assignments
+      payrun:
+        plural: payruns
+status: authored
+contract:
+  schema_version: 1
+  version: 1.0.0
+  visibility: public
+  lifecycle: authored
+  vendor_roles:
+    paygrade:
+      vendor_id: paygrade
+      checkpoint: 50
+      required_credentials:
+      - PG_APP_TOKEN
+      api_url_env: PAYGRADE_BASE_URL
+      docs_url_env: PAYGRADE_DOCS_URL
+  runtime:
+    profile: deterministic-v1
+    checkpoint: 50
+    limits:
+      wall_seconds: 3600
+      cpus: 2
+      memory: 2GiB
+      disk: 2GiB
+    network:
+      vendor_roles:
+      - paygrade
+      model_provider_egress: mode-dependent-allowlist
+    vendor_roles:
+      paygrade:
+        environment: {}
+  participant:
+    workspace_allowlist:
+    - PROBLEM.md
+    - repo/**
+    - materials/**
+    - inputs/**
+    entry_command:
+    - python
+    - -m
+    - pg_closure_migrate
+    outputs:
+    - output/result.json
+    - output/import_report.csv
+    - output/writeback_log.json
+    persistent_state:
+    - repo/output/**
+    runtime_environment: {}
+    persistent_mounts: []
+  verifier:
+    entry_command:
+    - python
+    - -m
+    - bench.verifier
+    - --task
+    - .
+    trusted_inputs:
+    - task.yaml
+    - verifier/fixtures/**
+    - verifier/scenarios/**
+    - vendor-logs/**

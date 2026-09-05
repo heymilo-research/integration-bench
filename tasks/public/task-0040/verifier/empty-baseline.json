@@ -1,0 +1,259 @@
+{
+  "schema": 2,
+  "n_total": 20,
+  "floor_fraction": 0.1,
+  "gold_fraction": 1.0,
+  "probes": {
+    "empty": 0.1,
+    "stub": 0.05
+  },
+  "checks": {
+    "l1": [
+      "push_exit_ok",
+      "202_treated_as_provisional_not_committed",
+      "committed_on_confirming_event",
+      "confirmation_event_id_recorded",
+      "writeback_row_fields_exact::resched-1",
+      "writeback_row_fields_exact::resched-2",
+      "first_push_exit_ok",
+      "first_push_committed",
+      "second_push_exit_ok",
+      "still_committed_after_retry",
+      "confirmation_event_id_stable_across_retry",
+      "both_pushes_reached_vendor",
+      "retry_reused_same_idempotency_key"
+    ],
+    "hard": [
+      "no_credentials_in_query_string",
+      "no_secrets_echoed_to_vendor",
+      "no_credentials_in_query_string",
+      "no_secrets_echoed_to_vendor"
+    ],
+    "l3": [],
+    "soft": [
+      "reauth_per_request:/oauth/token",
+      "reauth_per_request:/oauth/token",
+      "idempotent_write_retries"
+    ]
+  },
+  "generated": "bench validate --write-baseline 2026-08-14",
+  "checks_v2": [
+    {
+      "bucket": "l1",
+      "name": "push_exit_ok",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "202_treated_as_provisional_not_committed",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": true
+    },
+    {
+      "bucket": "l1",
+      "name": "committed_on_confirming_event",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": true
+    },
+    {
+      "bucket": "l1",
+      "name": "confirmation_event_id_recorded",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 1,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "writeback_row_fields_exact::resched-1",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 1,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "writeback_row_fields_exact::resched-2",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 1,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "first_push_exit_ok",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "first_push_committed",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 1,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "second_push_exit_ok",
+      "gold": true,
+      "empty": false,
+      "stub": true,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "still_committed_after_retry",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": true
+    },
+    {
+      "bucket": "l1",
+      "name": "confirmation_event_id_stable_across_retry",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 1,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "both_pushes_reached_vendor",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 1,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "retry_reused_same_idempotency_key",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": true
+    },
+    {
+      "bucket": "hard",
+      "name": "no_credentials_in_query_string",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    },
+    {
+      "bucket": "hard",
+      "name": "no_secrets_echoed_to_vendor",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    },
+    {
+      "bucket": "hard",
+      "name": "no_credentials_in_query_string",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    },
+    {
+      "bucket": "hard",
+      "name": "no_secrets_echoed_to_vendor",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    },
+    {
+      "bucket": "soft",
+      "name": "reauth_per_request:/oauth/token",
+      "gold": true,
+      "empty": true,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "soft",
+      "name": "reauth_per_request:/oauth/token",
+      "gold": true,
+      "empty": true,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "soft",
+      "name": "idempotent_write_retries",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": 0,
+      "mandatory": false
+    }
+  ],
+  "completion": {
+    "mode": "authored_mandatory_checks",
+    "required_checks": [
+      "202_treated_as_provisional_not_committed",
+      "committed_on_confirming_event",
+      "still_committed_after_retry",
+      "retry_reused_same_idempotency_key"
+    ]
+  },
+  "scoring": {
+    "version": "task-score-v4-mandatory-gated",
+    "empty_raw": -5,
+    "empty_task_score": 0.0,
+    "stub_raw": -4,
+    "stub_task_score": 0.0,
+    "floor_task_score": 0.0
+  }
+}

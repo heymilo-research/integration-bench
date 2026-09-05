@@ -1,0 +1,110 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://heymilo.ai/schemas/verdict.v1.json",
+  "title": "Integration-Bench Verdict (v1)",
+  "description": "Canonical shape of the JSON emitted by bench.verdict.Verdict.to_dict() (docs/SPEC.md §5, §6). ADDITIVE-ONLY RULE: within major schema_version 1, the only permitted changes are additive ones (new optional properties, new optional keys inside existing objects). Any change that removes a required property, renames one, narrows a type, or otherwise breaks a v1 reader MUST bump schema_version to 2 and ship a verdict.v2.json. Because additive-only holds, this schema deliberately does NOT set additionalProperties:false at the top level or on nested objects: a v1 reader must tolerate keys it does not recognize.",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "task",
+    "run_id",
+    "resolved",
+    "l1",
+    "l2",
+    "l3",
+    "error"
+  ],
+  "properties": {
+    "schema_version": {
+      "description": "Major version of this verdict contract. Constant 1 for everything described by this file. Consumers should read this first and branch on it before interpreting any other field.",
+      "const": 1
+    },
+    "task": {
+      "description": "Task identifier this verdict was produced for (e.g. 'task-0001').",
+      "type": "string"
+    },
+    "run_id": {
+      "description": "Opaque per-run identifier. Excluded from structural equality by the flake gate (conduct-rules.md gate 3).",
+      "type": "string"
+    },
+    "resolved": {
+      "description": "True iff error is null AND all L1 checks ok AND all L2 hard checks ok AND all L3 checks ok (L3 is vacuously ok when empty).",
+      "type": "boolean"
+    },
+    "l1": {
+      "description": "Level-1 (functional correctness) checks.",
+      "type": "array",
+      "items": { "$ref": "#/$defs/check" }
+    },
+    "l2": {
+      "description": "Level-2 checks, split into hard gates and soft (scored) checks.",
+      "type": "object",
+      "required": ["hard", "soft"],
+      "properties": {
+        "hard": {
+          "description": "Hard L2 gates. Any failure forces resolved=false.",
+          "type": "array",
+          "items": { "$ref": "#/$defs/check" }
+        },
+        "soft": {
+          "description": "Soft L2 checks. Do not affect resolved; contribute to a 0..1 score. 'results' is an additive per-check detail array beyond the minimal {violations, checks, score} contract.",
+          "type": "object",
+          "required": ["violations", "checks", "score", "results"],
+          "properties": {
+            "violations": {
+              "description": "Number of soft checks that failed (ok == false).",
+              "type": "integer",
+              "minimum": 0
+            },
+            "checks": {
+              "description": "Total number of soft checks recorded.",
+              "type": "integer",
+              "minimum": 0
+            },
+            "score": {
+              "description": "1 - violations/checks; 1.0 when there are no soft checks.",
+              "type": "number",
+              "minimum": 0,
+              "maximum": 1
+            },
+            "results": {
+              "description": "Per-check detail for every soft check.",
+              "type": "array",
+              "items": { "$ref": "#/$defs/check" }
+            }
+          }
+        }
+      }
+    },
+    "l3": {
+      "description": "Level-3 (resilience / behavioral) checks. Empty array is vacuously ok.",
+      "type": "array",
+      "items": { "$ref": "#/$defs/check" }
+    },
+    "error": {
+      "description": "Null on a normally-produced verdict; a human-readable string when the run failed to produce checks (e.g. patch did not apply). A non-null error forces resolved=false.",
+      "type": ["string", "null"]
+    }
+  },
+  "$defs": {
+    "check": {
+      "description": "A single named check result.",
+      "type": "object",
+      "required": ["name", "ok", "detail"],
+      "properties": {
+        "name": {
+          "description": "Stable check identifier.",
+          "type": "string"
+        },
+        "ok": {
+          "description": "Whether the check passed.",
+          "type": "boolean"
+        },
+        "detail": {
+          "description": "Optional human-readable explanation; empty string when there is nothing to say.",
+          "type": "string"
+        }
+      }
+    }
+  }
+}

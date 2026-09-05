@@ -1,0 +1,107 @@
+id: task-0019
+title: Rebuild the Vettly change feed for the vaultd cutover
+category: migrate
+vendor: vettly
+surfaces:
+- polling
+tier: 2
+primary_mechanic: token_layer_rewrite_zero_downtime
+track: python
+timeout_minutes: 60
+doc_profile: stale
+scenarios:
+- vaultd_cutover_change_feed
+l3_scenarios: []
+entry:
+  command:
+  - python
+  - -m
+  - vaultd_cutover
+outputs:
+  files:
+  - output/result.json
+  - output/import_report.csv
+vendors:
+  vettly:
+    data_port: 8000
+    log_path: /var/log/vendor
+    checkpoint_env: CHECKPOINT
+    credentials:
+      VT_CLIENT_ID: vettly-test-client_id
+      VT_CLIENT_SECRET: vettly-test-client_secret
+    auth:
+      token_endpoint: /oauth/token
+    vendor:
+      base_path: /v1
+    pagination:
+      style: cursor
+      cursor_param: cursor
+      incremental_params:
+      - modified_since
+    entities:
+      subject:
+        plural: subjects
+      check:
+        plural: checks
+      report:
+        plural: reports
+status: authored
+contract:
+  schema_version: 1
+  version: 1.0.0
+  visibility: public
+  lifecycle: authored
+  vendor_roles:
+    vettly:
+      vendor_id: vettly
+      checkpoint: 60
+      required_credentials:
+      - VT_CLIENT_ID
+      - VT_CLIENT_SECRET
+      api_url_env: VETTLY_BASE_URL
+      docs_url_env: VETTLY_DOCS_URL
+  runtime:
+    profile: deterministic-v1
+    checkpoint: 60
+    limits:
+      wall_seconds: 3600
+      cpus: 2
+      memory: 2GiB
+      disk: 2GiB
+    network:
+      vendor_roles:
+      - vettly
+      model_provider_egress: mode-dependent-allowlist
+    vendor_roles:
+      vettly:
+        environment: {}
+  participant:
+    workspace_allowlist:
+    - PROBLEM.md
+    - repo/**
+    - materials/**
+    - inputs/**
+    entry_command:
+    - python
+    - -m
+    - vaultd_cutover
+    outputs:
+    - output/result.json
+    - output/import_report.csv
+    persistent_state:
+    - repo/output/**
+    runtime_environment:
+      INPUT_DIR: /app/input
+    persistent_mounts: []
+  verifier:
+    entry_command:
+    - python
+    - -m
+    - bench.verifier
+    - --task
+    - .
+    trusted_inputs:
+    - task.yaml
+    - verifier/fixtures/**
+    - verifier/scenarios/**
+    - vendor-logs/**

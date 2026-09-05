@@ -1,0 +1,108 @@
+id: task-0050
+title: Repair the Placemint fee-corrections connector's export reader
+category: fix
+vendor: placemint
+surfaces:
+- writeback
+tier: 2
+primary_mechanic: quoted_delimiter_csv_corruption
+track: python
+timeout_minutes: 60
+doc_profile: 'true'
+scenarios:
+- quoted_field_fee_corrections
+l3_scenarios: []
+entry:
+  command:
+  - python
+  - -m
+  - placemint_fee_corrections
+  - apply-corrections
+outputs:
+  files:
+  - output/correction_log.json
+vendors:
+  placemint:
+    data_port: 8000
+    log_path: /var/log/vendor
+    checkpoint_env: CHECKPOINT
+    credentials:
+      PM_CLIENT_ID: placemint-test-client_id
+      PM_CLIENT_SECRET: placemint-test-client_secret
+    auth:
+      token_endpoint: /oauth/token
+      token_ttl: 60
+    vendor:
+      base_path: /api
+    pagination:
+      style: offset
+      offset_param: offset
+      limit_param: limit
+      total_in_response: true
+    writeback:
+      idempotency:
+        header: Idempotency-Key
+        window_s: 3600
+      read_after_write_lag_s: 0
+    entities: {}
+status: authored
+contract:
+  schema_version: 1
+  version: 1.0.0
+  visibility: public
+  lifecycle: authored
+  vendor_roles:
+    placemint:
+      vendor_id: placemint
+      checkpoint: 0
+      required_credentials:
+      - PM_CLIENT_ID
+      - PM_CLIENT_SECRET
+      api_url_env: PLACEMINT_BASE_URL
+      docs_url_env: PLACEMINT_DOCS_URL
+  runtime:
+    profile: deterministic-v1
+    checkpoint: 0
+    limits:
+      wall_seconds: 3600
+      cpus: 2
+      memory: 2GiB
+      disk: 2GiB
+    network:
+      vendor_roles:
+      - placemint
+      model_provider_egress: mode-dependent-allowlist
+    vendor_roles:
+      placemint:
+        environment:
+          DATASET_SIZE: '300'
+  participant:
+    workspace_allowlist:
+    - PROBLEM.md
+    - repo/**
+    - materials/**
+    - inputs/**
+    entry_command:
+    - python
+    - -m
+    - placemint_fee_corrections
+    - apply-corrections
+    outputs:
+    - output/correction_log.json
+    persistent_state:
+    - repo/output/**
+    runtime_environment:
+      CORRECTIONS_FILE: /app/input/corrections.csv
+    persistent_mounts: []
+  verifier:
+    entry_command:
+    - python
+    - -m
+    - bench.verifier
+    - --task
+    - .
+    trusted_inputs:
+    - task.yaml
+    - verifier/fixtures/**
+    - verifier/scenarios/**
+    - vendor-logs/**

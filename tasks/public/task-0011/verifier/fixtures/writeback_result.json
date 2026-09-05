@@ -1,0 +1,66 @@
+{
+  "events": [
+    {
+      "client_ref": "wb-001-note",
+      "kind": "note",
+      "ok": true,
+      "record": {
+        "author": "sync-bot@tf.test",
+        "body": "Reference check completed; strong fit for backend roles.",
+        "candidate_id": "cand_0010",
+        "created_at": "2026-03-14T10:00:00Z",
+        "id": "note_90001",
+        "is_deleted": false,
+        "modified_at": "2026-03-14T10:00:00Z",
+        "source_id": "note_90001"
+      }
+    },
+    {
+      "client_ref": "wb-002-stage",
+      "kind": "candidate_update",
+      "ok": true,
+      "record": {
+        "created_at": 1769999115000,
+        "email": "florence.gauss@mail.test",
+        "family_name": "Gauss",
+        "given_name": "Florence",
+        "id": "cand_0020",
+        "is_deleted": false,
+        "modified_at": 1773482400000,
+        "phone": "+1-555-1796",
+        "pipeline_status": "placed",
+        "source_id": "cand_0020"
+      }
+    },
+    {
+      "client_ref": "wb-003-create",
+      "kind": "candidate_create",
+      "ok": true,
+      "record": {
+        "created_at": 1773482400000,
+        "email": "priya.shah@example.test",
+        "family_name": "Shah",
+        "given_name": "Priya",
+        "id": "cand_90001",
+        "is_deleted": false,
+        "modified_at": 1773482400000,
+        "phone": "",
+        "pipeline_status": "new",
+        "source_id": "cand_90001"
+      }
+    },
+    {
+      "client_ref": "wb-004-bad-note",
+      "error": {
+        "field_errors": {
+          "body": [
+            "is required"
+          ]
+        },
+        "status": 422
+      },
+      "kind": "note",
+      "ok": false
+    }
+  ]
+}

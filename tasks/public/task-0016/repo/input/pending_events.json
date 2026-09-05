@@ -1,0 +1,23 @@
+{
+  "events": [
+    {
+      "client_ref": "evt-1",
+      "candidate_id": "cand_0001",
+      "stage": "offer",
+      "event_type": "stage_changed",
+      "note": "advanced to offer"
+    },
+    {
+      "client_ref": "evt-2",
+      "candidate_id": "cand_0007",
+      "stage": "hired",
+      "event_type": "stage_changed",
+      "note": "advanced to hired"
+    },
+    {
+      "client_ref": "evt-3",
+      "candidate_id": "cand_0013",
+      "note": "malformed: no event_type"
+    }
+  ]
+}

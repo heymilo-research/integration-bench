@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://integration-bench.dev/contracts/images/v1.schema.json",
+  "title": "Integration-Bench image lock v1",
+  "type": "object",
+  "required": ["schema_version", "generated_at", "promotion_status", "vendors"],
+  "properties": {
+    "schema_version": {"const": 1},
+    "generated_at": {"type": "string", "format": "date-time"},
+    "promotion_status": {"enum": ["development", "complete"]},
+    "vendors": {
+      "type": "object",
+      "minProperties": 1,
+      "additionalProperties": {
+        "type": "object",
+        "required": ["local_tag", "registry_ref", "digest", "platform", "source_revision", "source_hash", "built_at", "contract_version", "docs_hash", "sbom", "signature"],
+        "properties": {
+          "local_tag": {"type": "string"},
+          "registry_ref": {"type": ["string", "null"]},
+          "digest": {"type": ["string", "null"], "pattern": "^sha256:[0-9a-f]{64}$"},
+          "platform": {"type": "string"},
+          "source_revision": {"type": "string"},
+          "source_hash": {"type": "string", "pattern": "^sha256:[0-9a-f]{64}$"},
+          "built_at": {"type": ["string", "null"], "format": "date-time"},
+          "contract_version": {"type": "string"},
+          "docs_hash": {"type": "string", "pattern": "^sha256:[0-9a-f]{64}$"},
+          "sbom": {"type": ["string", "null"]},
+          "signature": {"type": ["string", "null"]}
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}

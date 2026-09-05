@@ -1,0 +1,110 @@
+id: task-0034
+title: Weekly crew top-up is putting people on the gate twice
+category: harden
+vendor: crewcall
+surfaces:
+- polling
+- writeback
+tier: 3
+primary_mechanic: drift_5xx_dup_writeback_compose
+track: python
+timeout_minutes: 60
+doc_profile: 'true'
+scenarios:
+- topup_signup_safety_under_page_faults
+l3_scenarios: []
+entry:
+  command:
+  - python
+  - -m
+  - ironvale_topup
+outputs:
+  files:
+  - output/placement_report.csv
+  - output/topup_summary.json
+vendors:
+  crewcall:
+    data_port: 8000
+    log_path: /var/log/vendor
+    checkpoint_env: CHECKPOINT
+    credentials:
+      CC_API_KEY: crewcall-test-key
+    vendor:
+      base_path: /v1
+    entities:
+      worker:
+        plural: workers
+      gig:
+        plural: gigs
+      assignment:
+        plural: assignments
+    pagination:
+      style: offset
+      offset_param: offset
+      limit_param: limit
+      total_in_response: false
+    writeback:
+      endpoints:
+      - method: POST
+        path: /v1/workers
+        entity: worker
+status: authored
+contract:
+  schema_version: 1
+  version: 1.0.0
+  visibility: public
+  lifecycle: authored
+  vendor_roles:
+    crewcall:
+      vendor_id: crewcall
+      checkpoint: 88
+      required_credentials:
+      - CC_API_KEY
+      api_url_env: CREWCALL_BASE_URL
+      docs_url_env: CREWCALL_DOCS_URL
+  runtime:
+    profile: deterministic-v1
+    checkpoint: 88
+    limits:
+      wall_seconds: 3600
+      cpus: 2
+      memory: 2GiB
+      disk: 2GiB
+    network:
+      vendor_roles:
+      - crewcall
+      model_provider_egress: mode-dependent-allowlist
+    vendor_roles:
+      crewcall:
+        environment:
+          FAULT_5XX_ON_PAGE: '2:3'
+  participant:
+    workspace_allowlist:
+    - PROBLEM.md
+    - repo/**
+    - materials/**
+    - inputs/**
+    entry_command:
+    - python
+    - -m
+    - ironvale_topup
+    outputs:
+    - output/placement_report.csv
+    - output/topup_summary.json
+    persistent_state:
+    - repo/output/**
+    runtime_environment:
+      INPUT_FILE: /app/input/placements.csv
+    persistent_mounts: []
+  verifier:
+    entry_command:
+    - python
+    - -m
+    - bench.verifier
+    - --task
+    - .
+    trusted_inputs:
+    - task.yaml
+    - verifier/fixtures/**
+    - verifier/scenarios/**
+    - vendor-logs/**

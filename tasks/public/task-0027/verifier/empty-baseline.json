@@ -1,0 +1,301 @@
+{
+  "schema": 2,
+  "n_total": 24,
+  "floor_fraction": 0.2916666666666667,
+  "gold_fraction": 1.0,
+  "probes": {
+    "empty": 0.2916666666666667,
+    "stub": 0.0
+  },
+  "checks": {
+    "l1": [
+      "baseline_stream_landed",
+      "row_reflects_newest_event::itv_0110",
+      "journal_single_apply::itv_0110",
+      "row_reflects_newest_event::itv_0160",
+      "journal_single_apply::itv_0160",
+      "row_reflects_newest_event::itv_0210",
+      "journal_single_apply::itv_0210",
+      "row_reflects_newest_event::fbk_0060",
+      "journal_single_apply::fbk_0060",
+      "store_rows_exact_after_ooo_run",
+      "composed_stream_landed",
+      "journal_no_duplicate_apply::evt_00001",
+      "journal_no_duplicate_apply::evt_00002",
+      "journal_no_duplicate_apply::evt_00003",
+      "journal_no_duplicate_apply::evt_00004",
+      "journal_no_duplicate_apply::evt_00005",
+      "row_reflects_newest_event::itv_0250",
+      "journal_single_apply::itv_0250",
+      "store_rows_exact_under_burst"
+    ],
+    "hard": [
+      "no_credentials_in_query_string",
+      "no_secrets_echoed_to_vendor",
+      "webhook_bad_signature_rejected",
+      "webhook_stale_timestamp_rejected"
+    ],
+    "l3": [],
+    "soft": [
+      "reauth_per_request:/oauth/token"
+    ]
+  },
+  "generated": "bench validate --write-baseline 2026-08-14",
+  "checks_v2": [
+    {
+      "bucket": "l1",
+      "name": "baseline_stream_landed",
+      "gold": true,
+      "empty": true,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "row_reflects_newest_event::itv_0110",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 1,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "journal_single_apply::itv_0110",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "row_reflects_newest_event::itv_0160",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 1,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "journal_single_apply::itv_0160",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "row_reflects_newest_event::itv_0210",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 1,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "journal_single_apply::itv_0210",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "row_reflects_newest_event::fbk_0060",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 1,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "journal_single_apply::fbk_0060",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "store_rows_exact_after_ooo_run",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": true
+    },
+    {
+      "bucket": "l1",
+      "name": "composed_stream_landed",
+      "gold": true,
+      "empty": true,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "journal_no_duplicate_apply::evt_00001",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "journal_no_duplicate_apply::evt_00002",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "journal_no_duplicate_apply::evt_00003",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "journal_no_duplicate_apply::evt_00004",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "journal_no_duplicate_apply::evt_00005",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "row_reflects_newest_event::itv_0250",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 1,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "journal_single_apply::itv_0250",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": false
+    },
+    {
+      "bucket": "l1",
+      "name": "store_rows_exact_under_burst",
+      "gold": true,
+      "empty": false,
+      "stub": false,
+      "pass_value": 2,
+      "fail_value": 0,
+      "mandatory": true
+    },
+    {
+      "bucket": "hard",
+      "name": "no_credentials_in_query_string",
+      "gold": true,
+      "empty": true,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    },
+    {
+      "bucket": "hard",
+      "name": "no_secrets_echoed_to_vendor",
+      "gold": true,
+      "empty": true,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    },
+    {
+      "bucket": "hard",
+      "name": "webhook_bad_signature_rejected",
+      "gold": true,
+      "empty": true,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    },
+    {
+      "bucket": "hard",
+      "name": "webhook_stale_timestamp_rejected",
+      "gold": true,
+      "empty": true,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": -1,
+      "mandatory": false
+    },
+    {
+      "bucket": "soft",
+      "name": "reauth_per_request:/oauth/token",
+      "gold": true,
+      "empty": true,
+      "stub": false,
+      "pass_value": 0,
+      "fail_value": 0,
+      "mandatory": false
+    }
+  ],
+  "completion": {
+    "mode": "authored_mandatory_checks",
+    "required_checks": [
+      "store_rows_exact_after_ooo_run",
+      "store_rows_exact_under_burst"
+    ]
+  },
+  "scoring": {
+    "version": "task-score-v4-mandatory-gated",
+    "empty_raw": 0,
+    "empty_task_score": 0.0,
+    "stub_raw": -6,
+    "stub_task_score": 0.0,
+    "floor_task_score": 0.0
+  }
+}

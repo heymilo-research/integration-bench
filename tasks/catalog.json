@@ -1,0 +1,660 @@
+{
+  "schema_version": 1,
+  "task_count": 50,
+  "tasks": [
+    {
+      "accepted_evidence_revision": "36667268db04158c5467f179796ff6f69b1480726650d2113b5dc2a83a0fd5dc",
+      "category": "build",
+      "id": "task-0001",
+      "lifecycle": "authored",
+      "task_revision": "9c3eeb5f933c961a5e89cf7b023b42fd0e5d17e46086ca080f30c0126e6d105f",
+      "validation": "schema-valid",
+      "vendors": [
+        "staffline"
+      ],
+      "version": "1.0.0",
+      "visibility": "public"
+    },
+    {
+      "accepted_evidence_revision": "d4c6879fc3a1aebe80828b0fbaad0239984af0471db8aca42db967a3fb451716",
+      "category": "build",
+      "id": "task-0002",
+      "lifecycle": "authored",
+      "task_revision": "2d1ff20f0fbf8cf510e78536f6f66e3901d37eeee252a474dad829fb94254325",
+      "validation": "schema-valid",
+      "vendors": [
+        "talentforge"
+      ],
+      "version": "1.0.0",
+      "visibility": "public"
+    },
+    {
+      "accepted_evidence_revision": "8548a9db01923fba7e0f73b570eb42636c84b052013747ff06f6dcba0b2fecc3",
+      "category": "build",
+      "id": "task-0003",
+      "lifecycle": "authored",
+      "task_revision": "5c25245a70dc912bb6ef56dc1e0464d2dfd5e467c2c9ec44aec5f22dc2b239c8",
+      "validation": "schema-valid",
+      "vendors": [
+        "placemint"
+      ],
+      "version": "1.0.0",
+      "visibility": "public"
+    },
+    {
+      "accepted_evidence_revision": "989b80515df891f8b352c4bdea173356e4f9b1628ae7e7353ccdfc17f57f85d7",
+      "category": "build",
+      "id": "task-0004",
+      "lifecycle": "authored",
+      "task_revision": "7119597508261df9f512366a328f7bc0908e24cea6400888cb549a2de31edf47",
+      "validation": "schema-valid",
+      "vendors": [
+        "placemint",
+        "staffline"
+      ],
+      "version": "1.0.0",
+      "visibility": "public"
+    },
+    {
+      "accepted_evidence_revision": "95255f376b43807e5f2376a473caf54394edeb48da3f3157e4bf66b3dbcc2e08",
+      "category": "build",
+      "id": "task-0005",
+      "lifecycle": "authored",
+      "task_revision": "d5781397ee68e656e8fd51cb7d360327f6ef2a9fcb5a0603ebee2a87981d547d",
+      "validation": "schema-valid",
+      "vendors": [
+        "talentforge"
+      ],
+      "version": "1.0.0",
+      "visibility": "public"
+    },
+    {
+      "accepted_evidence_revision": "5fbd2de7662bf65ab2a714b1a37f7a66c767aba06f6e32e008bd061584443fa4",
+      "category": "harden",
+      "id": "task-0006",
+      "lifecycle": "authored",
+      "task_revision": "115599f3e03e26bf200b990d91c30bf010a6b3619fa631dea7335fb39e18e5d0",
+      "validation": "schema-valid",
+      "vendors": [
+        "rosterly"
+      ],
+      "version": "1.0.0",
+      "visibility": "public"
+    },
+    {
+      "accepted_evidence_revision": "e085130640bb0196c48bfae04632de089546bfa7571b9244f32a601337e97d94",
+      "category": "build",
+      "id": "task-0007",
+      "lifecycle": "authored",
+      "task_revision": "37a804c13b678c5974a7e295a2f204384c62196d148b9bfde1583fe7ab4e7063",
+      "validation": "schema-valid",
+      "vendors": [
+        "vettly"
+      ],
+      "version": "1.0.0",
+      "visibility": "public"
+    },
+    {
+      "accepted_evidence_revision": "c42e8806099f8af6aab600d7e8f8684938974ed16dfd29433554768c915365b6",
+      "category": "build",
+      "id": "task-0008",
+      "lifecycle": "authored",
+      "task_revision": "23ee8ceb01a6e8be46a214bfcc05f1d48ca0871b90d13fcd3b8732a3463f2109",
+      "validation": "schema-valid",
+      "vendors": [
+        "staffline"
+      ],
+      "version": "1.0.0",
+      "visibility": "public"
+    },
+    {
+      "accepted_evidence_revision": "ac3eaf3a945ac164aadc1dd02cae8cc405664add71d96be20d3095ebd1a7180b",
+      "category": "migrate",
+      "id": "task-0009",
+      "lifecycle": "authored",
+      "task_revision": "41833979ed5d314e365605dd909fc1ceca8edb822e520499bf0d6a100a0a06b3",
+      "validation": "schema-valid",
+      "vendors": [
+        "bullpen"
+      ],
+      "version": "1.0.0",
+      "visibility": "public"
+    },
+    {
+      "accepted_evidence_revision": "24632ec6517740aad82d1cc59bba6e6554703f2325872aa9fa8b1e7b0834489b",
+      "category": "build",
+      "id": "task-0010",
+      "lifecycle": "authored",
+      "task_revision": "1ca41809a60d97e821f833d36b601a17462705c362277896e8e49c136409742f",
+      "validation": "schema-valid",
+      "vendors": [
+        "globalhire"
+      ],
+      "version": "1.0.0",
+      "visibility": "public"
+    },
+    {
+      "accepted_evidence_revision": "e7f5050fc4acb505ee91550196b7025fca603145468a0d8d6a816c56ed3c105e",
+      "category": "build",
+      "id": "task-0011",
+      "lifecycle": "authored",
+      "task_revision": "35c597191b749ee2ccd9ea9795ac985c4aeb187255568f1f9f0591066936e24c",
+      "validation": "schema-valid",
+      "vendors": [
+        "onboardly",
+        "talentforge"
+      ],
+      "version": "1.0.0",
+      "visibility": "public"
+    },
+    {
+      "accepted_evidence_revision": "c5c4818f9f3ebe49ff50fe1a0c1dbc791f8b6e2325559493ac36849ab0892a79",
+      "category": "harden",
+      "id": "task-0012",
+      "lifecycle": "authored",
+      "task_revision": "bd2f796c869a728addbe8c2f6d2ed43038c01e804da3852877140e5b0a420312",
+      "validation": "schema-valid",
+      "vendors": [
+        "talentloop"
+      ],
+      "version": "1.0.0",
+      "visibility": "public"
+    },
+    {
+      "accepted_evidence_revision": "a42ad64f19afb662be3ea81a8b5f61f85f3e301fa8602187f2a63087361d38fc",
+      "category": "harden",
+      "id": "task-0013",
+      "lifecycle": "authored",
+      "task_revision": "62bb633979d1d996404020124076c8d224a98fda7fbb416661eb89d8954e92fa",
+      "validation": "schema-valid",
+      "vendors": [
+        "recruitos"
+      ],
+      "version": "1.0.0",
+      "visibility": "public"
+    },
+    {
+      "accepted_evidence_revision": "3418d50ba162bbb061b58d47300b92408ca85b573aac2407b93e975cd82de926",
+      "category": "build",
+      "id": "task-0014",
+      "lifecycle": "authored",
+      "task_revision": "be309c407d369457516badb4d3275e4156f289185284cd5e0a776a6d683a9c0e",
+      "validation": "schema-valid",
+      "vendors": [
+        "hirewire"
+      ],
+      "version": "1.0.0",
+      "visibility": "public"
+    },
+    {
+      "accepted_evidence_revision": "3064db4931fba9516a263db12db825053b215a97ef3a058464fdced6ff80b7b8",
+      "category": "build",
+      "id": "task-0015",
+      "lifecycle": "authored",
+      "task_revision": "094145a465081eaac7e4dc4ddabefc15189a1f40c54564256b568d427bbd1d0a",
+      "validation": "schema-valid",
+      "vendors": [
+        "staffline"
+      ],
+      "version": "1.0.0",
+      "visibility": "public"
+    },
+    {
+      "accepted_evidence_revision": "581a5c1098b042956ef2c43170cd64ff9f64be3f534279a66062b13d8bf00c19",
+      "category": "build",
+      "id": "task-0016",
+      "lifecycle": "authored",
+      "task_revision": "c00ce693fb6bcfe37c8c7aaaa48b5fde64ed047a8d7d6062419049e22427f631",
+      "validation": "schema-valid",
+      "vendors": [
+        "hirewire"
+      ],
+      "version": "1.0.0",
+      "visibility": "public"
+    },
+    {
+      "accepted_evidence_revision": "21e9c86de3832a3095f8531f9a08a89ddc715dfb24b89cdd427652b78d5bb324",
+      "category": "migrate",
+      "id": "task-0017",
+      "lifecycle": "authored",
+      "task_revision": "fb01b27a6f0878063e03883acb904b6e82c4e332669d8a04649786fe8b3a936b",
+      "validation": "schema-valid",
+      "vendors": [
+        "talentforge"
+      ],
+      "version": "1.0.0",
+      "visibility": "public"
+    },
+    {
+      "accepted_evidence_revision": "edf3e5299e9445261acad219ebea0fdb302005c4ad1ed2a402eff8df4b77ecf6",
+      "category": "migrate",
+      "id": "task-0018",
+      "lifecycle": "authored",
+      "task_revision": "ce53de1a4fb571e085df620022302a90e8f4d7ed83f92f24fff76d769ca27241",
+      "validation": "schema-valid",
+      "vendors": [
+        "recruitos"
+      ],
+      "version": "1.0.0",
+      "visibility": "public"
+    },
+    {
+      "accepted_evidence_revision": "32739fed53a33ea82d0c4f57a3c316bd0625cfff3270e6341299e36a965db0ad",
+      "category": "migrate",
+      "id": "task-0019",
+      "lifecycle": "authored",
+      "task_revision": "b29c798bdee82eae7042c5e313f57ff0512b18d1069ee1e9e95d60fa83053549",
+      "validation": "schema-valid",
+      "vendors": [
+        "vettly"
+      ],
+      "version": "1.0.0",
+      "visibility": "public"
+    },
+    {
+      "accepted_evidence_revision": "4ce45d3ac654b8b8621bf2b4b3a791a34943116e3b7cc834fef5612cb48251b2",
+      "category": "build",
+      "id": "task-0020",
+      "lifecycle": "authored",
+      "task_revision": "c9f205b74ec722dc153f8fb55e79867007bee8d808f3bdfca896855c16047670",
+      "validation": "schema-valid",
+      "vendors": [
+        "globalhire"
+      ],
+      "version": "1.0.0",
+      "visibility": "public"
+    },
+    {
+      "accepted_evidence_revision": "56198c5200f08aaea5dc3cbe1a2b187cf0d1138ac0c8ea29612d09bfb8035254",
+      "category": "build",
+      "id": "task-0021",
+      "lifecycle": "authored",
+      "task_revision": "07c2d70453ba28d13d25b3ff4daa9ae56709df730829e1f46a1edca9112ebbe6",
+      "validation": "schema-valid",
+      "vendors": [
+        "globalhire"
+      ],
+      "version": "1.0.0",
+      "visibility": "public"
+    },
+    {
+      "accepted_evidence_revision": "9e2e55650e93d8de673e00f3000ca9f5ee298b2176e4d7542a890fd19b3d801a",
+      "category": "harden",
+      "id": "task-0022",
+      "lifecycle": "authored",
+      "task_revision": "793f6ff037c788f3e6c606f19cf6b7ca0a0fc23186176eb2418e3908ac9f5fd1",
+      "validation": "schema-valid",
+      "vendors": [
+        "globalhire"
+      ],
+      "version": "1.0.0",
+      "visibility": "public"
+    },
+    {
+      "accepted_evidence_revision": "bacc793950255850f9e72dbc5c847751b7b35013f18f6d567f989459ced7b0db",
+      "category": "fix",
+      "id": "task-0023",
+      "lifecycle": "authored",
+      "task_revision": "c375983f78627491f0d88e519652e82f1b414aba4fdd235484d8a9394fb3dff3",
+      "validation": "schema-valid",
+      "vendors": [
+        "talentloop"
+      ],
+      "version": "1.0.0",
+      "visibility": "public"
+    },
+    {
+      "accepted_evidence_revision": "cac4c134199a21dadc686d80d5c03b4322c115543c683fb4f9efa532ef3a60c2",
+      "category": "build",
+      "id": "task-0024",
+      "lifecycle": "authored",
+      "task_revision": "a463999cbc32143d60e3d6c1934180df1fe268ac1adc04737455af86b71163d8",
+      "validation": "schema-valid",
+      "vendors": [
+        "talentloop"
+      ],
+      "version": "1.0.0",
+      "visibility": "public"
+    },
+    {
+      "accepted_evidence_revision": "da695f8432cde99facdc3180c575c91c2c80bb9b5e0d67c1c274bf74927dca69",
+      "category": "fix",
+      "id": "task-0025",
+      "lifecycle": "authored",
+      "task_revision": "62d0c4844741e7e8d236127d3aa47223ca1017686efed8338405d14da7228d79",
+      "validation": "schema-valid",
+      "vendors": [
+        "crewcall"
+      ],
+      "version": "1.0.0",
+      "visibility": "public"
+    },
+    {
+      "accepted_evidence_revision": "bd00a4057e4ecc685ac34adce3f5682a7221ebe53e30d6ec47a9f0a8e76ec1a2",
+      "category": "build",
+      "id": "task-0026",
+      "lifecycle": "authored",
+      "task_revision": "2b3587fb22bf9602f2b3995b97782cbd39ccb747ca52ce6480a2e6a4f2259a32",
+      "validation": "schema-valid",
+      "vendors": [
+        "placemint"
+      ],
+      "version": "1.0.0",
+      "visibility": "public"
+    },
+    {
+      "accepted_evidence_revision": "91752326687c1c5e0a2ab294d073afd15bef08b7c91ee3bd4c60f4d4f3c25458",
+      "category": "fix",
+      "id": "task-0027",
+      "lifecycle": "authored",
+      "task_revision": "23612fd5a381fc2007f70368891ee525488125548b343199b93dbcd6dbdfd763",
+      "validation": "schema-valid",
+      "vendors": [
+        "interviewly"
+      ],
+      "version": "1.0.0",
+      "visibility": "public"
+    },
+    {
+      "accepted_evidence_revision": "9bec44748cac18fa7d4c1ecfde0b856e10708b320ebcd25ee0c2ec9205e55d2a",
+      "category": "harden",
+      "id": "task-0028",
+      "lifecycle": "authored",
+      "task_revision": "a84080a094c07806d055b5ce62d1413dab30a6e8da7c7e842b8f6ebcbf8dfdcb",
+      "validation": "schema-valid",
+      "vendors": [
+        "crewcall"
+      ],
+      "version": "1.0.0",
+      "visibility": "public"
+    },
+    {
+      "accepted_evidence_revision": "18d97f9ee47412490fa0907b71f971e2ec97631acc42342f1de760065153c534",
+      "category": "build",
+      "id": "task-0029",
+      "lifecycle": "authored",
+      "task_revision": "687d4eaadeb08a92bb4f0f8b2432a2eba1597c6782f136f1e1818a81329c9207",
+      "validation": "schema-valid",
+      "vendors": [
+        "crewcall"
+      ],
+      "version": "1.0.0",
+      "visibility": "public"
+    },
+    {
+      "accepted_evidence_revision": "1806ed123b18282df078541951467fb532941e5ab30220411b63d5d7d0ce92be",
+      "category": "build",
+      "id": "task-0030",
+      "lifecycle": "authored",
+      "task_revision": "b9cf8ef5def41445673999f38408112fcd7b8c1a1be03ea2f362a19823460761",
+      "validation": "schema-valid",
+      "vendors": [
+        "placemint"
+      ],
+      "version": "1.0.0",
+      "visibility": "public"
+    },
+    {
+      "accepted_evidence_revision": "f96a0037670c044b1f9c397b91d2cdb1312686de1c6f3dc042b16e6d3836d4c8",
+      "category": "build",
+      "id": "task-0031",
+      "lifecycle": "authored",
+      "task_revision": "323ecab68b94f238214d58580525f76dd57ab328ffb2c5ed2b701c8cbe60ad0b",
+      "validation": "schema-valid",
+      "vendors": [
+        "crewcall"
+      ],
+      "version": "1.0.0",
+      "visibility": "public"
+    },
+    {
+      "accepted_evidence_revision": "6c166bf0f09c78510542deac02d1cf322342aa75880a13f7c28926e110e2fe5b",
+      "category": "build",
+      "id": "task-0032",
+      "lifecycle": "authored",
+      "task_revision": "0a2475711e7f5ae58b1e4250a9a3250b19e8e754e70b29cbfe783fb382064ec2",
+      "validation": "schema-valid",
+      "vendors": [
+        "sourcewell"
+      ],
+      "version": "1.0.0",
+      "visibility": "public"
+    },
+    {
+      "accepted_evidence_revision": "7b1afeecdb6b967678443dd348ed8720fc6a88390bb72efed2a2e86ba1b0672e",
+      "category": "build",
+      "id": "task-0033",
+      "lifecycle": "authored",
+      "task_revision": "e39cff5aa00adda6dcf567a767d7c598ddb343249e05cf8ef841f25042f82ef5",
+      "validation": "schema-valid",
+      "vendors": [
+        "placemint",
+        "recruitos"
+      ],
+      "version": "1.0.0",
+      "visibility": "public"
+    },
+    {
+      "accepted_evidence_revision": "c008d855ca9bfa2ee2d8344358b62a772baf6f4a98e1d0f5ae3237db817fce57",
+      "category": "harden",
+      "id": "task-0034",
+      "lifecycle": "authored",
+      "task_revision": "6691629138b7e1fd5fc1f8b981dcf7f1213de0480fc6411df8f66cc86aa29deb",
+      "validation": "schema-valid",
+      "vendors": [
+        "crewcall"
+      ],
+      "version": "1.0.0",
+      "visibility": "public"
+    },
+    {
+      "accepted_evidence_revision": "662802bc89b9d8e1e86146ab45f8a0c3d9ab8dafa1c06bf95904b5ba43f70802",
+      "category": "build",
+      "id": "task-0035",
+      "lifecycle": "authored",
+      "task_revision": "5d587d847190a36f8b4febce0605fdbc82b5938a54323aa883e43ca437434fcd",
+      "validation": "schema-valid",
+      "vendors": [
+        "vettly"
+      ],
+      "version": "1.0.0",
+      "visibility": "public"
+    },
+    {
+      "accepted_evidence_revision": "743078d7d0f196f91ee7c83351a5eed0c7e8d2ed199a49015a747c6e50c4841e",
+      "category": "harden",
+      "id": "task-0036",
+      "lifecycle": "authored",
+      "task_revision": "e90f2f17352e684bad07a91e476fdfbe2ba1c284b6caaf622db6a0ceb20150fa",
+      "validation": "schema-valid",
+      "vendors": [
+        "placemint"
+      ],
+      "version": "1.0.0",
+      "visibility": "public"
+    },
+    {
+      "accepted_evidence_revision": "958a3b7c5f250ea882c14a8beb8d3b73aa41e10a25b2b99aea9a6a9910b5647e",
+      "category": "fix",
+      "id": "task-0037",
+      "lifecycle": "authored",
+      "task_revision": "7411d1e92d129bf2c13012ce179755d39497eceaff8e669cd7cfa0f8d18ffb45",
+      "validation": "schema-valid",
+      "vendors": [
+        "placemint"
+      ],
+      "version": "1.0.0",
+      "visibility": "public"
+    },
+    {
+      "accepted_evidence_revision": "22183a738db57ff76fd6052815b09f5052d16eb3155e931fc62ec7101ed977d7",
+      "category": "build",
+      "id": "task-0038",
+      "lifecycle": "authored",
+      "task_revision": "2670d2b3dbcb15344bbbf248f77d6cf4780bf462e562f051465deed50373321a",
+      "validation": "schema-valid",
+      "vendors": [
+        "talentloop"
+      ],
+      "version": "1.0.0",
+      "visibility": "public"
+    },
+    {
+      "accepted_evidence_revision": "677883f13fdbbcccd93eba525af729870c9ede8045d0e917c30c600a346d8e09",
+      "category": "build",
+      "id": "task-0039",
+      "lifecycle": "authored",
+      "task_revision": "ce2d75dce5ea320a886ee75873ffc92921f07fcb58d06e8c22429b3b7ca332ee",
+      "validation": "schema-valid",
+      "vendors": [
+        "rosterly"
+      ],
+      "version": "1.0.0",
+      "visibility": "public"
+    },
+    {
+      "accepted_evidence_revision": "fc9f2889fe86783f118fe99aa9e0998c8ff5d8974fe6217433a655cfa41ae25e",
+      "category": "build",
+      "id": "task-0040",
+      "lifecycle": "authored",
+      "task_revision": "2a57fcbeafc664417f3c5dcca803ce1813d3c5f05ed18d6e289893f290af4878",
+      "validation": "schema-valid",
+      "vendors": [
+        "interviewly"
+      ],
+      "version": "1.0.0",
+      "visibility": "public"
+    },
+    {
+      "accepted_evidence_revision": "901d263e6d628a8ff8d5d78a725e6265526a89f4ca698cfc7d795f3215f1fc48",
+      "category": "build",
+      "id": "task-0041",
+      "lifecycle": "authored",
+      "task_revision": "91218a0dc56bfdc1f78ab9f9d05272f3caa90feacedff9f890924860d37f5090",
+      "validation": "schema-valid",
+      "vendors": [
+        "paygrade"
+      ],
+      "version": "1.0.0",
+      "visibility": "public"
+    },
+    {
+      "accepted_evidence_revision": "937611da9dc412b4bdc72afd7d2821800111f04c3b02b1b8fa6bdad635ab4c7c",
+      "category": "migrate",
+      "id": "task-0042",
+      "lifecycle": "authored",
+      "task_revision": "85d5b69ef0c57880d3fcea65f12ff7f2c31e66674135ab71b0df9ea1f2927751",
+      "validation": "schema-valid",
+      "vendors": [
+        "rosterly"
+      ],
+      "version": "1.0.0",
+      "visibility": "public"
+    },
+    {
+      "accepted_evidence_revision": "b24bb833b54181f9cd7be2f58fbd2a3509e5a1aef5ba2e2ebf59e5e7ae8e8df6",
+      "category": "fix",
+      "id": "task-0043",
+      "lifecycle": "authored",
+      "task_revision": "24e2bd4c38b657d14e447f943904604ae3e5c9e63baf35c6428543ceea18f6e1",
+      "validation": "schema-valid",
+      "vendors": [
+        "rosterly"
+      ],
+      "version": "1.0.0",
+      "visibility": "public"
+    },
+    {
+      "accepted_evidence_revision": "e680608d379ffa3d4d9536a5a925c15b6c9ad6cfcf59b830e55c680e843a4641",
+      "category": "fix",
+      "id": "task-0044",
+      "lifecycle": "authored",
+      "task_revision": "c877e38070ad78832b15c2daaea317270a0379b8a5ef3109b20a2fdac84b15cb",
+      "validation": "schema-valid",
+      "vendors": [
+        "crewcall"
+      ],
+      "version": "1.0.0",
+      "visibility": "public"
+    },
+    {
+      "accepted_evidence_revision": "75b52bdcdf7284e1be6e78f15fcc3bc804cda9423f794dbb30104b856c2d657e",
+      "category": "migrate",
+      "id": "task-0045",
+      "lifecycle": "authored",
+      "task_revision": "6f69ac0e73b1821dcca6ca731deb5e1b3dd128bd86af3715688089a15a09d03b",
+      "validation": "schema-valid",
+      "vendors": [
+        "bullpen",
+        "staffline"
+      ],
+      "version": "1.0.0",
+      "visibility": "public"
+    },
+    {
+      "accepted_evidence_revision": "5a510242dd566519b6d63650540b5f7b84aad162ac33fc45c215b345cd8437da",
+      "category": "build",
+      "id": "task-0046",
+      "lifecycle": "authored",
+      "task_revision": "24de04638f2f1d57a0c31ac9a51b6b8165802e6f2f2766914c2ada09803de83f",
+      "validation": "schema-valid",
+      "vendors": [
+        "talentloop"
+      ],
+      "version": "1.0.0",
+      "visibility": "public"
+    },
+    {
+      "accepted_evidence_revision": "a447ad20dbd077d5c54e70615605514b952abf78e0fdeb30d27d9460fc1543b2",
+      "category": "harden",
+      "id": "task-0047",
+      "lifecycle": "authored",
+      "task_revision": "44a87d26688aa745c385b39ea76bae64aa556067e5d36630f66eb0f08de46587",
+      "validation": "schema-valid",
+      "vendors": [
+        "globalhire"
+      ],
+      "version": "1.0.0",
+      "visibility": "public"
+    },
+    {
+      "accepted_evidence_revision": "5d2da5f5e180480354f7b5c3a90afb6cf37b284d882b47eaa3c816922ae88a66",
+      "category": "migrate",
+      "id": "task-0048",
+      "lifecycle": "authored",
+      "task_revision": "207dc94fbb30ea671ebcb9ab54c62752bbfd1dc64b7d6f94f21f48c47d1eeb64",
+      "validation": "schema-valid",
+      "vendors": [
+        "paygrade"
+      ],
+      "version": "1.0.0",
+      "visibility": "public"
+    },
+    {
+      "accepted_evidence_revision": "43962e909a774a5949ba20b7dedd51fee7f0cc1359dc502fe9467b391195f554",
+      "category": "build+harden",
+      "id": "task-0049",
+      "lifecycle": "authored",
+      "task_revision": "95f2bdf855fd92f15de4310e2ae0a0d2bb5152a893b211e678bb2459a6c99943",
+      "validation": "schema-valid",
+      "vendors": [
+        "placemint"
+      ],
+      "version": "1.0.0",
+      "visibility": "public"
+    },
+    {
+      "accepted_evidence_revision": "765f1a42ab444300f0cccc3f480daffc86245bd0d6343f64b876296408520dcc",
+      "category": "fix",
+      "id": "task-0050",
+      "lifecycle": "authored",
+      "task_revision": "836ccb37892ca89c0171601b6ce115edae1810b951e7ffe8f4d171b2163cd3a2",
+      "validation": "schema-valid",
+      "vendors": [
+        "placemint"
+      ],
+      "version": "1.0.0",
+      "visibility": "public"
+    }
+  ]
+}

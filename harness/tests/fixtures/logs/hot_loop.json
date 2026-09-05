@@ -1,0 +1,9 @@
+[
+  {"ts": 0, "method": "GET", "path": "/rest/candidates", "query": {}, "status": 401},
+  {"ts": 1, "method": "GET", "path": "/rest/candidates", "query": {}, "status": 401},
+  {"ts": 2, "method": "GET", "path": "/rest/candidates", "query": {}, "status": 401},
+  {"ts": 3, "method": "GET", "path": "/rest/candidates", "query": {}, "status": 401},
+
+  {"ts": 10, "method": "GET", "path": "/rest/jobs", "query": {}, "status": 401},
+  {"ts": 11, "method": "GET", "path": "/rest/jobs", "query": {}, "status": 401}
+]

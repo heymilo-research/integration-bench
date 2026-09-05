@@ -1,0 +1,137 @@
+[
+  {
+    "candidate_id": "cand_0014",
+    "application_id": "app_0164",
+    "target_stage": "offered",
+    "note_text": "Superseded by Placemint placement plc_00047: stage now offered (was rejected).",
+    "ok": true,
+    "note_id": "note_0081",
+    "err": null
+  },
+  {
+    "candidate_id": "cand_0027",
+    "application_id": "app_0051",
+    "target_stage": "sourced",
+    "note_text": "Superseded by Placemint placement plc_00363: stage now sourced (was hired).",
+    "ok": true,
+    "note_id": "note_0081",
+    "err": null
+  },
+  {
+    "candidate_id": "cand_0043",
+    "application_id": "app_0110",
+    "target_stage": "offered",
+    "note_text": "Superseded by Placemint placement plc_00383: stage now offered (was rejected).",
+    "ok": true,
+    "note_id": "note_0081",
+    "err": null
+  },
+  {
+    "candidate_id": "cand_0060",
+    "application_id": "app_0092",
+    "target_stage": "submitted",
+    "note_text": "Superseded by Placemint placement plc_00211: stage now submitted (was interview).",
+    "ok": true,
+    "note_id": "note_0081",
+    "err": null
+  },
+  {
+    "candidate_id": "cand_0064",
+    "application_id": "app_0027",
+    "target_stage": "placed",
+    "note_text": "Superseded by Placemint placement plc_00002: stage now placed (was offer).",
+    "ok": true,
+    "note_id": "note_0081",
+    "err": null
+  },
+  {
+    "candidate_id": "cand_0072",
+    "application_id": "app_0066",
+    "target_stage": "placed",
+    "note_text": "Superseded by Placemint placement plc_00049: stage now placed (was hired).",
+    "ok": true,
+    "note_id": "note_0081",
+    "err": null
+  },
+  {
+    "candidate_id": "cand_0091",
+    "application_id": "app_0125",
+    "target_stage": "fell_through",
+    "note_text": "Superseded by Placemint placement plc_00199: stage now fell_through (was offer).",
+    "ok": true,
+    "note_id": "note_0081",
+    "err": null
+  },
+  {
+    "candidate_id": "cand_0092",
+    "application_id": "app_0172",
+    "target_stage": "offered",
+    "note_text": "Superseded by Placemint placement plc_00138: stage now offered (was offer).",
+    "ok": true,
+    "note_id": "note_0081",
+    "err": null
+  },
+  {
+    "candidate_id": "cand_0106",
+    "application_id": "app_0015",
+    "target_stage": "placed",
+    "note_text": "Superseded by Placemint placement plc_00152: stage now placed (was offer).",
+    "ok": true,
+    "note_id": "note_0081",
+    "err": null
+  },
+  {
+    "candidate_id": "cand_0120",
+    "application_id": "app_0128",
+    "target_stage": "sourced",
+    "note_text": "Superseded by Placemint placement plc_00087: stage now sourced (was applied).",
+    "ok": true,
+    "note_id": "note_0081",
+    "err": null
+  },
+  {
+    "candidate_id": "cand_0121",
+    "application_id": "app_0153",
+    "target_stage": "sourced",
+    "note_text": "Superseded by Placemint placement plc_00289: stage now sourced (was rejected).",
+    "ok": true,
+    "note_id": "note_0081",
+    "err": null
+  },
+  {
+    "candidate_id": "cand_0125",
+    "application_id": "app_0024",
+    "target_stage": "interviewing",
+    "note_text": "Superseded by Placemint placement plc_00097: stage now interviewing (was offer).",
+    "ok": true,
+    "note_id": "note_0081",
+    "err": null
+  },
+  {
+    "candidate_id": "cand_0129",
+    "application_id": "app_0093",
+    "target_stage": "interviewing",
+    "note_text": "Superseded by Placemint placement plc_00165: stage now interviewing (was applied).",
+    "ok": true,
+    "note_id": "note_0081",
+    "err": null
+  },
+  {
+    "candidate_id": "cand_0132",
+    "application_id": "app_0142",
+    "target_stage": "placed",
+    "note_text": "Superseded by Placemint placement plc_00109: stage now placed (was applied).",
+    "ok": true,
+    "note_id": "note_0081",
+    "err": null
+  },
+  {
+    "candidate_id": "cand_0145",
+    "application_id": "app_0159",
+    "target_stage": "placed",
+    "note_text": "Superseded by Placemint placement plc_00191: stage now placed (was rejected).",
+    "ok": true,
+    "note_id": "note_0081",
+    "err": null
+  }
+]

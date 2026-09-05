@@ -1,0 +1,111 @@
+id: task-0042
+title: Move the Nordhavn rota mirror onto instant storage
+category: migrate
+vendor: rosterly
+surfaces:
+- polling
+tier: 2
+primary_mechanic: tz_storage_normalization_audit
+track: python
+timeout_minutes: 60
+doc_profile: 'true'
+scenarios:
+- mirror_utc_storage_port
+l3_scenarios: []
+entry:
+  command:
+  - python
+  - -m
+  - nordhavn_mirror_port
+outputs:
+  files:
+  - output/result.json
+  - output/import_report.csv
+vendors:
+  rosterly:
+    data_port: 8000
+    log_path: /var/log/vendor
+    checkpoint_env: CHECKPOINT
+    credentials:
+      RY_CLIENT_ID: rosterly-test-client_id
+      RY_CLIENT_SECRET: rosterly-test-client_secret
+    auth:
+      token_endpoint: /oauth/token
+      token_ttl: 3600
+    vendor:
+      base_path: /api
+    entities:
+      worker:
+        plural: workers
+      shift:
+        plural: shifts
+      interview:
+        plural: interviews
+      note:
+        plural: notes
+    pagination:
+      style: offset
+      offset_param: offset
+      limit_param: limit
+      total_in_response: true
+status: authored
+contract:
+  schema_version: 1
+  version: 1.0.0
+  visibility: public
+  lifecycle: authored
+  vendor_roles:
+    rosterly:
+      vendor_id: rosterly
+      checkpoint: 55
+      required_credentials:
+      - RY_CLIENT_ID
+      - RY_CLIENT_SECRET
+      api_url_env: ROSTERLY_BASE_URL
+      docs_url_env: ROSTERLY_DOCS_URL
+  runtime:
+    profile: deterministic-v1
+    checkpoint: 55
+    limits:
+      wall_seconds: 3600
+      cpus: 2
+      memory: 2GiB
+      disk: 2GiB
+    network:
+      vendor_roles:
+      - rosterly
+      model_provider_egress: mode-dependent-allowlist
+    vendor_roles:
+      rosterly:
+        environment: {}
+  participant:
+    workspace_allowlist:
+    - PROBLEM.md
+    - repo/**
+    - materials/**
+    - inputs/**
+    entry_command:
+    - python
+    - -m
+    - nordhavn_mirror_port
+    outputs:
+    - output/result.json
+    - output/import_report.csv
+    persistent_state:
+    - repo/output/**
+    runtime_environment:
+      CREW_ROSTER_FILE: /app/input/crew_roster.csv
+      MIRROR_INVENTORY_FILE: /app/input/mirror_inventory.csv
+    persistent_mounts: []
+  verifier:
+    entry_command:
+    - python
+    - -m
+    - bench.verifier
+    - --task
+    - .
+    trusted_inputs:
+    - task.yaml
+    - verifier/fixtures/**
+    - verifier/scenarios/**
+    - vendor-logs/**

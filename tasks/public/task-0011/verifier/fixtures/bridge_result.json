@@ -1,0 +1,23 @@
+{
+  "provisioned": [
+    {
+      "candidate_id": "cand_0099",
+      "packet": {
+        "candidate_id": "cand_0099",
+        "created_at": "2023-02-01T00:00:00Z",
+        "id": "pkt_90001",
+        "is_deleted": false,
+        "status": "draft",
+        "template_id": "tpl_0001",
+        "updated_at": "2023-02-01T00:00:00Z",
+        "version": 1
+      }
+    }
+  ],
+  "skipped": [
+    {
+      "candidate_id": "cand_0042",
+      "reason": "not_placed"
+    }
+  ]
+}

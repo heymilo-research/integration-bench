@@ -1,0 +1,14 @@
+[project]
+name = "hirewire-connector"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0"]
+
+[project.scripts]
+hirewire-connector = "hirewire_connector.cli:_entrypoint"
+
+[tool.setuptools.packages.find]
+where = ["src"]

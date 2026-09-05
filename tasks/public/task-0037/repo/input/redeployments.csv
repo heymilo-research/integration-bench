@@ -1,0 +1,135 @@
+movement_ref,from_placement_id,from_status,to_placement_id,to_status,to_fee_amount,moved_at,reason
+RD-2026-0001,plc_00025,client_review,plc_00018,fell_through,5764.65,2026-03-30T11:42:00Z,Candidate asked for a shorter commute and the client agreed to release them.
+RD-2026-0002,plc_00301,sourced,plc_00268,placed,9262.89,2026-03-30T08:15:00Z,Cover ended when the permanent hire started; candidate moved on.
+RD-2026-0003,plc_00276,fell_through,plc_97000,sourced,9520.99,2026-03-30T08:15:00Z,Candidate completed the project early and was moved to the follow-on.
+RD-2026-0004,plc_00284,placed,plc_00085,fell_through,9106.61,2026-03-30T08:15:00Z,Site closure at short notice - candidate redeployed to the northern depot.
+RD-2026-0005,plc_00017,redeployed,plc_00153,placed,4306.79,2026-03-30T11:42:00Z,Client merged the two desks; candidate reassigned to the surviving one.
+RD-2026-0006,plc_97001,interviewing,plc_00234,sourced,9597.10,2026-03-31T07:55:00Z,Client ended the assignment early; candidate moved to the Harborline account.
+RD-2026-0007,plc_00114,interviewing,plc_00330,submitted,5666.22,2026-03-30T08:15:00Z,Client reduced headcount by two; candidate redeployed the same week.
+RD-2026-0008,plc_00186,fell_through,plc_00236,offered,7281.48,2026-03-31T16:31:00Z,Client merged the two desks; candidate reassigned to the surviving one.
+RD-2026-0009,plc_97002,interviewing,plc_00147,fell_through,6196.28,2026-03-31T10:20:00Z,Assignment ended at the client's request with no fault on either side.
+RD-2026-0010,plc_00116,fell_through,plc_97003,placed,10689.19,2026-03-30T14:07:00Z,Client reduced headcount by two; candidate redeployed the same week.
+RD-2026-0011,plc_97004,sourced,plc_00102,fell_through,7819.92,2026-03-31T10:20:00Z,Candidate asked for a shorter commute and the client agreed to release them.
+RD-2026-0012,plc_00348,fell_through,plc_00145,offer_out,9661.90,2026-03-31T07:55:00Z,Client merged the two desks; candidate reassigned to the surviving one.
+RD-2026-0013,plc_00203,on_hold,plc_00031,placed,5729.38,2026-03-31T16:31:00Z,Client ended the assignment early; candidate moved to the Harborline account.
+RD-2026-0014,plc_00210,interviewing,plc_00078,offer_out,2682.84,2026-03-30T14:07:00Z,Client merged the two desks; candidate reassigned to the surviving one.
+RD-2026-0015,plc_00220,interviewing,plc_00182,on_assignment,6477.31,2026-03-30T11:42:00Z,Client ended the assignment early; candidate moved to the Harborline account.
+RD-2026-0016,plc_00133,placed,plc_00273,fell_through,5084.16,2026-03-31T10:20:00Z,Site closure at short notice - candidate redeployed to the northern depot.
+RD-2026-0017,plc_00128,fell_through,plc_00189,on_assignment,4519.78,2026-03-31T07:55:00Z,Candidate asked for a shorter commute and the client agreed to release them.
+RD-2026-0018,plc_00214,offered,plc_00090,stood_down,10212.10,2026-03-31T16:31:00Z,Client reduced headcount by two; candidate redeployed the same week.
+RD-2026-0019,plc_00285,sourced,plc_00333,placed,4558.34,2026-03-30T08:15:00Z,Candidate requested a transfer after the site reorganisation.
+RD-2026-0020,plc_00207,interviewing,plc_00233,interviewing,7645.33,2026-03-30T08:15:00Z,Site closure at short notice - candidate redeployed to the northern depot.
+RD-2026-0021,plc_00151,sourced,plc_00087,fell_through,3327.82,2026-03-31T16:31:00Z,Candidate completed the project early and was moved to the follow-on.
+RD-2026-0022,plc_00310,submitted,plc_00213,offered,7001.59,2026-03-31T10:20:00Z,Client ended the assignment early; candidate moved to the Harborline account.
+RD-2026-0023,plc_00040,interviewing,plc_00115,offered,2753.56,2026-03-31T07:55:00Z,Client ended the assignment early; candidate moved to the Harborline account.
+RD-2026-0024,plc_00092,fell_through,plc_00209,sourced,8792.85,2026-03-31T07:55:00Z,Cover ended when the permanent hire started; candidate moved on.
+RD-2026-0025,plc_00318,fell_through,plc_00043,offered,9025.87,2026-03-31T16:31:00Z,Site closure at short notice - candidate redeployed to the northern depot.
+RD-2026-0026,plc_00010,placed,plc_97005,submitted,7825.74,2026-03-30T08:15:00Z,Shift pattern changed and no longer worked; candidate moved to days.
+RD-2026-0027,plc_00055,fell_through,plc_00024,client_review,4845.73,2026-03-30T08:15:00Z,Candidate completed the project early and was moved to the follow-on.
+RD-2026-0028,plc_00347,placed,plc_97006,placed,10049.81,2026-03-30T14:07:00Z,Assignment ended at the client's request with no fault on either side.
+RD-2026-0029,plc_00091,shortlisted,plc_00206,fell_through,7032.18,2026-03-30T14:07:00Z,Candidate asked for a shorter commute and the client agreed to release them.
+RD-2026-0030,plc_00185,sourced,plc_00178,sourced,3074.42,2026-03-31T07:55:00Z,Assignment ended at the client's request with no fault on either side.
+RD-2026-0031,plc_00255,fell_through,plc_00341,on_assignment,7677.00,2026-03-30T11:42:00Z,Candidate asked for a shorter commute and the client agreed to release them.
+RD-2026-0032,plc_00183,interviewing,plc_97007,interviewing,9511.17,2026-03-31T10:20:00Z,Cover ended when the permanent hire started; candidate moved on.
+RD-2026-0033,plc_00195,interviewing,plc_00096,fell_through,8010.83,2026-03-31T16:31:00Z,Client reduced headcount by two; candidate redeployed the same week.
+RD-2026-0034,plc_00260,redeployed,plc_00016,fell_through,9789.06,2026-03-31T10:20:00Z,Site closure at short notice - candidate redeployed to the northern depot.
+RD-2026-0035,plc_00003,offered,plc_00011,placed,4629.80,2026-03-31T10:20:00Z,Candidate asked for a shorter commute and the client agreed to release them.
+RD-2026-0036,plc_00181,submitted,plc_00163,fell_through,4728.56,2026-03-31T10:20:00Z,Skills better matched to the new requisition; both clients signed off.
+RD-2026-0037,plc_00222,submitted,plc_00302,fell_through,8502.50,2026-03-31T10:20:00Z,Skills better matched to the new requisition; both clients signed off.
+RD-2026-0038,plc_00321,sourced,plc_00061,placed,6437.71,2026-03-31T07:55:00Z,Cover ended when the permanent hire started; candidate moved on.
+RD-2026-0039,plc_00074,shortlisted,plc_00338,fell_through,5929.98,2026-03-31T10:20:00Z,Skills better matched to the new requisition; both clients signed off.
+RD-2026-0040,plc_00253,interviewing,plc_00093,placed,6648.25,2026-03-31T10:20:00Z,Candidate completed the project early and was moved to the follow-on.
+RD-2026-0041,plc_00075,submitted,plc_00340,interviewing,4983.39,2026-03-30T08:15:00Z,Skills better matched to the new requisition; both clients signed off.
+RD-2026-0042,plc_00217,sourced,plc_00123,offer_out,10580.83,2026-03-31T16:31:00Z,Cover ended when the permanent hire started; candidate moved on.
+RD-2026-0043,plc_00229,sourced,plc_00108,interviewing,4926.50,2026-03-30T11:42:00Z,Assignment ended at the client's request with no fault on either side.
+RD-2026-0044,plc_00240,fell_through,plc_00308,fell_through,9497.75,2026-03-30T14:07:00Z,Client reduced headcount by two; candidate redeployed the same week.
+RD-2026-0045,plc_00226,fell_through,plc_00086,on_hold,3506.31,2026-03-30T08:15:00Z,Candidate asked for a shorter commute and the client agreed to release them.
+RD-2026-0046,plc_00184,on_hold,plc_00227,sourced,3762.90,2026-03-31T10:20:00Z,Site closure at short notice - candidate redeployed to the northern depot.
+RD-2026-0047,plc_00008,offered,plc_00317,interviewing,10487.15,2026-03-31T10:20:00Z,Client merged the two desks; candidate reassigned to the surviving one.
+RD-2026-0048,plc_00064,interviewing,plc_00119,contract_signed,6245.80,2026-03-31T07:55:00Z,Shift pattern changed and no longer worked; candidate moved to days.
+RD-2026-0049,plc_00079,sourced,plc_00291,offered,7494.91,2026-03-31T10:20:00Z,Shift pattern changed and no longer worked; candidate moved to days.
+RD-2026-0050,plc_97008,sourced,plc_00035,fell_through,4900.92,2026-03-30T14:07:00Z,Shift pattern changed and no longer worked; candidate moved to days.
+RD-2026-0051,plc_00111,sourced,plc_00192,fell_through,5488.60,2026-03-30T08:15:00Z,Client ended the assignment early; candidate moved to the Harborline account.
+RD-2026-0052,plc_00275,offered,plc_00175,submitted,8025.67,2026-03-31T10:20:00Z,Site closure at short notice - candidate redeployed to the northern depot.
+RD-2026-0053,plc_00279,sourced,plc_00149,sourced,6378.46,2026-03-31T16:31:00Z,Site closure at short notice - candidate redeployed to the northern depot.
+RD-2026-0054,plc_00094,on_hold,plc_00118,sourced,7765.61,2026-03-31T10:20:00Z,Candidate completed the project early and was moved to the follow-on.
+RD-2026-0055,plc_00269,submitted,plc_00179,placed,4331.94,2026-03-31T10:20:00Z,Candidate requested a transfer after the site reorganisation.
+RD-2026-0056,plc_97009,fell_through,plc_00325,offered,8924.48,2026-03-31T10:20:00Z,Contract cancelled after the budget freeze; candidate placed elsewhere.
+RD-2026-0057,plc_00187,submitted,plc_00212,submitted,7246.95,2026-03-31T16:31:00Z,Client ended the assignment early; candidate moved to the Harborline account.
+RD-2026-0058,plc_00332,interviewing,plc_00073,placed,9943.59,2026-03-31T16:31:00Z,Site closure at short notice - candidate redeployed to the northern depot.
+RD-2026-0059,plc_00208,submitted,plc_00058,client_review,5570.91,2026-03-31T16:31:00Z,Shift pattern changed and no longer worked; candidate moved to days.
+RD-2026-0060,plc_00106,placed,plc_00167,sourced,4121.92,2026-03-31T16:31:00Z,Client ended the assignment early; candidate moved to the Harborline account.
+RD-2026-0061,plc_00009,sourced,plc_00051,offered,7254.85,2026-03-31T16:31:00Z,Assignment ended at the client's request with no fault on either side.
+RD-2026-0062,plc_00251,interviewing,plc_00076,interviewing,2481.68,2026-03-30T08:15:00Z,Site closure at short notice - candidate redeployed to the northern depot.
+RD-2026-0063,plc_00177,stood_down,plc_00339,submitted,9450.40,2026-03-30T14:07:00Z,Skills better matched to the new requisition; both clients signed off.
+RD-2026-0064,plc_00259,submitted,plc_00256,placed,10477.95,2026-03-31T10:20:00Z,Candidate completed the project early and was moved to the follow-on.
+RD-2026-0065,plc_97010,placed,plc_00243,submitted,7350.12,2026-03-30T14:07:00Z,Skills better matched to the new requisition; both clients signed off.
+RD-2026-0066,plc_00224,stood_down,plc_00044,sourced,10393.06,2026-03-31T16:31:00Z,Site closure at short notice - candidate redeployed to the northern depot.
+RD-2026-0067,plc_00033,client_review,plc_00139,sourced,9228.08,2026-03-30T08:15:00Z,Client merged the two desks; candidate reassigned to the surviving one.
+RD-2026-0068,plc_97011,fell_through,plc_00216,placed,6071.97,2026-03-30T11:42:00Z,Shift pattern changed and no longer worked; candidate moved to days.
+RD-2026-0069,plc_00323,interviewing,plc_00081,sourced,9064.56,2026-03-30T08:15:00Z,Client reduced headcount by two; candidate redeployed the same week.
+RD-2026-0070,plc_97012,placed,plc_00034,interviewing,2178.49,2026-03-30T14:07:00Z,Candidate requested a transfer after the site reorganisation.
+RD-2026-0071,plc_00278,on_assignment,plc_00146,sourced,3927.73,2026-03-30T14:07:00Z,Client ended the assignment early; candidate moved to the Harborline account.
+RD-2026-0072,plc_00252,fell_through,plc_00336,submitted,3667.63,2026-03-31T16:31:00Z,Client merged the two desks; candidate reassigned to the surviving one.
+RD-2026-0073,plc_00244,placed,plc_97013,placed,2098.93,2026-03-30T14:07:00Z,Client ended the assignment early; candidate moved to the Harborline account.
+RD-2026-0074,plc_00098,offered,plc_97014,interviewing,7519.57,2026-03-31T10:20:00Z,Assignment ended at the client's request with no fault on either side.
+RD-2026-0075,plc_97015,offered,plc_00072,sourced,10920.23,2026-03-30T11:42:00Z,Skills better matched to the new requisition; both clients signed off.
+RD-2026-0076,plc_00088,sourced,plc_00307,submitted,4159.70,2026-03-31T07:55:00Z,Assignment ended at the client's request with no fault on either side.
+RD-2026-0077,plc_00199,submitted,plc_00121,sourced,4221.01,2026-03-30T14:07:00Z,Contract cancelled after the budget freeze; candidate placed elsewhere.
+RD-2026-0078,plc_00050,fell_through,plc_00298,fell_through,6969.67,2026-03-31T16:31:00Z,Candidate asked for a shorter commute and the client agreed to release them.
+RD-2026-0079,plc_00299,fell_through,plc_00062,stood_down,7647.39,2026-03-31T10:20:00Z,Client ended the assignment early; candidate moved to the Harborline account.
+RD-2026-0080,plc_00231,submitted,plc_00039,offered,5687.34,2026-03-31T07:55:00Z,Skills better matched to the new requisition; both clients signed off.
+RD-2026-0081,plc_00129,fell_through,plc_00080,placed,10165.76,2026-03-31T07:55:00Z,Skills better matched to the new requisition; both clients signed off.
+RD-2026-0082,plc_00083,submitted,plc_00105,redeployed,4762.04,2026-03-30T11:42:00Z,Client reduced headcount by two; candidate redeployed the same week.
+RD-2026-0083,plc_00089,fell_through,plc_97016,placed,6838.91,2026-03-30T14:07:00Z,Candidate asked for a shorter commute and the client agreed to release them.
+RD-2026-0084,plc_00047,submitted,plc_00059,submitted,10118.05,2026-03-31T07:55:00Z,Client merged the two desks; candidate reassigned to the surviving one.
+RD-2026-0085,plc_00014,submitted,plc_97017,submitted,3298.79,2026-03-30T11:42:00Z,Shift pattern changed and no longer worked; candidate moved to days.
+RD-2026-0086,plc_00193,fell_through,plc_90001,contract_signed,6768.94,2026-03-30T14:07:00Z,Candidate requested a transfer after the site reorganisation.
+RD-2026-0087,plc_00270,submitted,plc_00126,client_review,9287.52,2026-03-31T16:31:00Z,Site closure at short notice - candidate redeployed to the northern depot.
+RD-2026-0088,plc_95001,fell_through,plc_00265,sourced,9937.15,2026-03-31T16:31:00Z,Skills better matched to the new requisition; both clients signed off.
+RD-2026-0089,plc_00104,interviewing,plc_00132,offered,3119.53,2026-03-30T14:07:00Z,Candidate asked for a shorter commute and the client agreed to release them.
+RD-2026-0090,plc_00142,submitted,plc_00144,interviewing,3525.30,2026-03-31T07:55:00Z,Candidate requested a transfer after the site reorganisation.
+RD-2026-0091,plc_00345,submitted,plc_00346,placed,4333.09,2026-03-30T14:07:00Z,Candidate requested a transfer after the site reorganisation.
+RD-2026-0092,plc_00292,sourced,plc_00262,submitted,8396.46,2026-03-30T11:42:00Z,Shift pattern changed and no longer worked; candidate moved to days.
+RD-2026-0093,plc_00190,submitted,plc_00138,placed,8687.05,2026-03-30T11:42:00Z,Client reduced headcount by two; candidate redeployed the same week.
+RD-2026-0094,plc_97018,placed,plc_00337,sourced,9980.06,2026-03-30T11:42:00Z,Skills better matched to the new requisition; both clients signed off.
+RD-2026-0095,plc_95005,submitted,plc_00071,offered,2845.64,2026-03-30T14:07:00Z,Assignment ended at the client's request with no fault on either side.
+RD-2026-0096,plc_00286,offered,plc_00297,placed,9852.20,2026-03-31T16:31:00Z,Contract cancelled after the budget freeze; candidate placed elsewhere.
+RD-2026-0097,plc_00314,on_hold,plc_00211,placed,2670.45,2026-03-31T07:55:00Z,Skills better matched to the new requisition; both clients signed off.
+RD-2026-0098,plc_00174,offered,plc_00350,on_hold,4610.07,2026-03-30T11:42:00Z,Site closure at short notice - candidate redeployed to the northern depot.
+RD-2026-0099,plc_00134,client_review,plc_00247,placed,4480.32,2026-03-31T10:20:00Z,Client ended the assignment early; candidate moved to the Harborline account.
+RD-2026-0100,plc_00070,submitted,plc_00296,placed,10834.37,2026-03-30T11:42:00Z,Shift pattern changed and no longer worked; candidate moved to days.
+RD-2026-0101,plc_00170,client_review,plc_00045,placed,5805.57,2026-03-30T08:15:00Z,Cover ended when the permanent hire started; candidate moved on.
+RD-2026-0102,plc_00068,fell_through,plc_95006,shortlisted,4205.91,2026-03-30T14:07:00Z,Candidate requested a transfer after the site reorganisation.
+RD-2026-0103,plc_97019,submitted,plc_00343,placed,3688.35,2026-03-30T08:15:00Z,Cover ended when the permanent hire started; candidate moved on.
+RD-2026-0104,plc_00331,sourced,plc_00097,placed,8093.52,2026-03-30T08:15:00Z,Cover ended when the permanent hire started; candidate moved on.
+RD-2026-0105,plc_00283,fell_through,plc_00242,on_hold,5304.12,2026-03-30T08:15:00Z,Cover ended when the permanent hire started; candidate moved on.
+RD-2026-0106,plc_00290,sourced,plc_97020,fell_through,7975.14,2026-03-31T10:20:00Z,Client reduced headcount by two; candidate redeployed the same week.
+RD-2026-0107,plc_97021,fell_through,plc_00218,placed,7460.78,2026-03-30T11:42:00Z,Site closure at short notice - candidate redeployed to the northern depot.
+RD-2026-0108,plc_00176,fell_through,plc_00124,sourced,2879.17,2026-03-31T07:55:00Z,Site closure at short notice - candidate redeployed to the northern depot.
+RD-2026-0109,plc_00057,on_hold,plc_00289,offered,9613.12,2026-03-30T08:15:00Z,Assignment ended at the client's request with no fault on either side.
+RD-2026-0110,plc_00316,offered,plc_00164,sourced,9200.56,2026-03-30T14:07:00Z,Shift pattern changed and no longer worked; candidate moved to days.
+RD-2026-0111,plc_00305,interviewing,plc_97022,sourced,10780.97,2026-03-30T11:42:00Z,Assignment ended at the client's request with no fault on either side.
+RD-2026-0112,plc_00258,sourced,plc_00173,offered,2288.58,2026-03-31T16:31:00Z,Contract cancelled after the budget freeze; candidate placed elsewhere.
+RD-2026-0113,plc_00103,redeployed,plc_00228,placed,5464.40,2026-03-31T07:55:00Z,Skills better matched to the new requisition; both clients signed off.
+RD-2026-0114,plc_95002,sourced,plc_00156,submitted,8516.37,2026-03-30T11:42:00Z,Candidate asked for a shorter commute and the client agreed to release them.
+RD-2026-0115,plc_00319,offered,plc_00294,offered,9284.04,2026-03-31T16:31:00Z,Site closure at short notice - candidate redeployed to the northern depot.
+RD-2026-0116,plc_00060,submitted,plc_00250,sourced,9810.08,2026-03-31T16:31:00Z,Candidate asked for a shorter commute and the client agreed to release them.
+RD-2026-0117,plc_00021,redeployed,plc_00159,placed,7523.51,2026-03-31T10:20:00Z,Candidate requested a transfer after the site reorganisation.
+RD-2026-0118,plc_00221,contract_signed,plc_00198,sourced,7562.88,2026-03-30T11:42:00Z,Shift pattern changed and no longer worked; candidate moved to days.
+RD-2026-0119,plc_00335,offered,plc_00029,placed,6159.59,2026-03-30T14:07:00Z,Client ended the assignment early; candidate moved to the Harborline account.
+RD-2026-0120,plc_00052,offered,plc_97023,placed,8780.73,2026-03-31T16:31:00Z,Assignment ended at the client's request with no fault on either side.
+RD-2026-0121,plc_00204,interviewing,plc_00295,placed,9174.69,2026-03-31T16:31:00Z,Candidate requested a transfer after the site reorganisation.
+RD-2026-0122,plc_00160,interviewing,plc_97024,submitted,4452.71,2026-03-30T11:42:00Z,Skills better matched to the new requisition; both clients signed off.
+RD-2026-0123,plc_00197,placed,plc_97025,interviewing,7492.12,2026-03-31T16:31:00Z,Skills better matched to the new requisition; both clients signed off.
+RD-2026-0124,plc_97026,fell_through,plc_00046,submitted,8587.29,2026-03-30T14:07:00Z,Candidate requested a transfer after the site reorganisation.
+RD-2026-0125,plc_97027,placed,plc_00140,placed,10308.04,2026-03-30T11:42:00Z,Cover ended when the permanent hire started; candidate moved on.
+RD-2026-0126,plc_00001,interviewing,plc_00026,fell_through,9215.87,2026-03-30T14:07:00Z,Contract cancelled after the budget freeze; candidate placed elsewhere.
+RD-2026-0127,plc_00030,submitted,plc_00158,offered,9914.13,2026-03-30T08:15:00Z,Candidate completed the project early and was moved to the follow-on.
+RD-2026-0128,plc_00287,fell_through,plc_00257,client_review,8555.13,2026-03-30T08:15:00Z,Cover ended when the permanent hire started; candidate moved on.
+RD-2026-0129,plc_00048,offered,plc_00136,interviewing,6606.82,2026-03-31T16:31:00Z,Assignment ended at the client's request with no fault on either side.
+RD-2026-0130,plc_00015,shortlisted,plc_00012,fell_through,5249.10,2026-03-30T11:42:00Z,Assignment ended at the client's request with no fault on either side.
+RD-2026-0131,plc_00311,interviewing,plc_00036,offer_out,10799.71,2026-03-30T14:07:00Z,Contract cancelled after the budget freeze; candidate placed elsewhere.
+RD-2026-0132,plc_95100,submitted,plc_00022,placed,5593.04,2026-03-31T16:31:00Z,Shift pattern changed and no longer worked; candidate moved to days.
+RD-2026-0133,plc_00038,submitted,plc_00141,sourced,8979.19,2026-03-30T08:15:00Z,Contract cancelled after the budget freeze; candidate placed elsewhere.
+RD-2026-0134,plc_00205,offered,plc_00201,offered,3157.80,2026-03-31T10:20:00Z,Contract cancelled after the budget freeze; candidate placed elsewhere.

@@ -1,0 +1,6002 @@
+[
+  {
+    "data": {
+      "created_at": "2026-02-04T17:17:08Z",
+      "email": "yvonne.noether@example.test",
+      "family_name": "Noether",
+      "given_name": "Yvonne",
+      "id": "cand_0001",
+      "modified_at": "2026-02-04T17:17:08Z",
+      "phone": "+1-555-1966",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0001",
+    "updated_at": "2026-02-04T17:17:08Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-09T15:52:10Z",
+      "email": "peggy.xu@hey.test",
+      "family_name": "Xu",
+      "given_name": "Peggy",
+      "id": "cand_0002",
+      "modified_at": "2026-02-09T15:52:10Z",
+      "phone": "+1-555-9048",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0002",
+    "updated_at": "2026-02-09T15:52:10Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-10T11:22:44Z",
+      "email": "richard.noether@inbox.test",
+      "family_name": "Noether",
+      "given_name": "Richard",
+      "id": "cand_0003",
+      "modified_at": "2026-03-10T11:22:44Z",
+      "phone": "+1-555-8952",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0003",
+    "updated_at": "2026-03-10T11:22:44Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-27T17:29:26Z",
+      "email": "nikola.zuse@example.test",
+      "family_name": "Zuse",
+      "given_name": "Nikola",
+      "id": "cand_0004",
+      "modified_at": "2026-01-27T17:29:26Z",
+      "phone": "+1-555-4214",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0004",
+    "updated_at": "2026-01-27T17:29:26Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-05T22:34:26Z",
+      "email": "ursula.babbage@hey.test",
+      "family_name": "Babbage",
+      "given_name": "Ursula",
+      "id": "cand_0005",
+      "modified_at": "2026-02-05T22:34:26Z",
+      "phone": "+1-555-8149",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0005",
+    "updated_at": "2026-02-05T22:34:26Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-12T03:53:35Z",
+      "email": "emmy.xu@inbox.test",
+      "family_name": "Xu",
+      "given_name": "Emmy",
+      "id": "cand_0006",
+      "modified_at": "2026-02-12T03:53:35Z",
+      "phone": "+1-555-9027",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0006",
+    "updated_at": "2026-02-12T03:53:35Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-18T06:02:50Z",
+      "email": "florence.hopper@hey.test",
+      "family_name": "Hopper",
+      "given_name": "Florence",
+      "id": "cand_0007",
+      "modified_at": "2026-01-18T06:02:50Z",
+      "phone": "+1-555-6973",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": true,
+    "source_id": "cand_0007",
+    "updated_at": "2026-01-18T06:02:50Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-21T21:51:11Z",
+      "email": "peggy.ramanujan@hey.test",
+      "family_name": "Ramanujan",
+      "given_name": "Peggy",
+      "id": "cand_0008",
+      "modified_at": "2026-02-21T21:51:11Z",
+      "phone": "+1-555-4103",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0008",
+    "updated_at": "2026-02-21T21:51:11Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-03T03:50:07Z",
+      "email": "dorothy.babbage@hey.test",
+      "family_name": "Babbage",
+      "given_name": "Dorothy",
+      "id": "cand_0009",
+      "modified_at": "2026-02-03T03:50:07Z",
+      "phone": "+1-555-3042",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0009",
+    "updated_at": "2026-02-03T03:50:07Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-16T15:08:43Z",
+      "email": "florence.wright@mail.test",
+      "family_name": "Wright",
+      "given_name": "Florence",
+      "id": "cand_0010",
+      "modified_at": "2026-02-16T15:08:43Z",
+      "phone": "+1-555-7548",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0010",
+    "updated_at": "2026-02-16T15:08:43Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-18T17:05:34Z",
+      "email": "grace.feynman@mail.test",
+      "family_name": "Feynman",
+      "given_name": "Grace",
+      "id": "cand_0011",
+      "modified_at": "2026-01-18T17:05:34Z",
+      "phone": "+1-555-3513",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0011",
+    "updated_at": "2026-01-18T17:05:34Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-26T13:13:59Z",
+      "email": "katherine.noether@mail.test",
+      "family_name": "Noether",
+      "given_name": "Katherine",
+      "id": "cand_0012",
+      "modified_at": "2026-01-26T13:13:59Z",
+      "phone": "+1-555-2808",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0012",
+    "updated_at": "2026-01-26T13:13:59Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-10T22:27:25Z",
+      "email": "marie.vonneumann@hey.test",
+      "family_name": "Von Neumann",
+      "given_name": "Marie",
+      "id": "cand_0013",
+      "modified_at": "2026-02-10T22:27:25Z",
+      "phone": "+1-555-1134",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0013",
+    "updated_at": "2026-02-10T22:27:25Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-16T21:42:47Z",
+      "email": "isaac.hopper@example.test",
+      "family_name": "Hopper",
+      "given_name": "Isaac",
+      "id": "cand_0014",
+      "modified_at": "2026-02-16T21:42:47Z",
+      "phone": "+1-555-1005",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0014",
+    "updated_at": "2026-02-16T21:42:47Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-10T22:53:24Z",
+      "email": "ada.shannon@inbox.test",
+      "family_name": "Shannon",
+      "given_name": "Ada",
+      "id": "cand_0015",
+      "modified_at": "2026-02-10T22:53:24Z",
+      "phone": "+1-555-8353",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0015",
+    "updated_at": "2026-02-10T22:53:24Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-03T02:29:40Z",
+      "email": "vera.noether@example.test",
+      "family_name": "Noether",
+      "given_name": "Vera",
+      "id": "cand_0016",
+      "modified_at": "2026-03-03T02:29:40Z",
+      "phone": "+1-555-6344",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0016",
+    "updated_at": "2026-03-03T02:29:40Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-13T17:41:48Z",
+      "email": "zelda.hopper@inbox.test",
+      "family_name": "Hopper",
+      "given_name": "Zelda",
+      "id": "cand_0017",
+      "modified_at": "2026-02-13T17:41:48Z",
+      "phone": "+1-555-2940",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0017",
+    "updated_at": "2026-02-13T17:41:48Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-03T06:44:38Z",
+      "email": "hedy.hopper@example.test",
+      "family_name": "Hopper",
+      "given_name": "Hedy",
+      "id": "cand_0018",
+      "modified_at": "2026-03-03T06:44:38Z",
+      "phone": "+1-555-8012",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0018",
+    "updated_at": "2026-03-03T06:44:38Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-01T17:08:55Z",
+      "email": "ursula.einstein@mail.test",
+      "family_name": "Einstein",
+      "given_name": "Ursula",
+      "id": "cand_0019",
+      "modified_at": "2026-03-01T17:08:55Z",
+      "phone": "+1-555-2937",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0019",
+    "updated_at": "2026-03-01T17:08:55Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-07T18:03:45Z",
+      "email": "peggy.zuse@hey.test",
+      "family_name": "Zuse",
+      "given_name": "Peggy",
+      "id": "cand_0020",
+      "modified_at": "2026-02-07T18:03:45Z",
+      "phone": "+1-555-9393",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0020",
+    "updated_at": "2026-02-07T18:03:45Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-06T16:56:47Z",
+      "email": "isaac.vonneumann@mail.test",
+      "family_name": "Von Neumann",
+      "given_name": "Isaac",
+      "id": "cand_0021",
+      "modified_at": "2026-02-06T16:56:47Z",
+      "phone": "+1-555-5763",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0021",
+    "updated_at": "2026-02-06T16:56:47Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-15T16:27:39Z",
+      "email": "isaac.noether@hey.test",
+      "family_name": "Noether",
+      "given_name": "Isaac",
+      "id": "cand_0022",
+      "modified_at": "2026-01-15T16:27:39Z",
+      "phone": "+1-555-1079",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0022",
+    "updated_at": "2026-01-15T16:27:39Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-08T04:56:22Z",
+      "email": "ada.feynman@hey.test",
+      "family_name": "Feynman",
+      "given_name": "Ada",
+      "id": "cand_0023",
+      "modified_at": "2026-03-08T04:56:22Z",
+      "phone": "+1-555-3124",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0023",
+    "updated_at": "2026-03-08T04:56:22Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-12T16:32:32Z",
+      "email": "walter.tesla@mail.test",
+      "family_name": "Tesla",
+      "given_name": "Walter",
+      "id": "cand_0024",
+      "modified_at": "2026-03-12T16:32:32Z",
+      "phone": "+1-555-8504",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0024",
+    "updated_at": "2026-03-12T16:32:32Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-24T07:16:48Z",
+      "email": "zelda.dirac@example.test",
+      "family_name": "Dirac",
+      "given_name": "Zelda",
+      "id": "cand_0025",
+      "modified_at": "2026-02-24T07:16:48Z",
+      "phone": "+1-555-2996",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0025",
+    "updated_at": "2026-02-24T07:16:48Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-09T04:36:11Z",
+      "email": "ursula.babbage@example.test",
+      "family_name": "Babbage",
+      "given_name": "Ursula",
+      "id": "cand_0026",
+      "modified_at": "2026-02-09T04:36:11Z",
+      "phone": "+1-555-8391",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0026",
+    "updated_at": "2026-02-09T04:36:11Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-07T16:04:34Z",
+      "email": "peggy.einstein@hey.test",
+      "family_name": "Einstein",
+      "given_name": "Peggy",
+      "id": "cand_0027",
+      "modified_at": "2026-02-07T16:04:34Z",
+      "phone": "+1-555-9626",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0027",
+    "updated_at": "2026-02-07T16:04:34Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-27T02:11:13Z",
+      "email": "charles.dirac@mail.test",
+      "family_name": "Dirac",
+      "given_name": "Charles",
+      "id": "cand_0028",
+      "modified_at": "2026-02-27T02:11:13Z",
+      "phone": "+1-555-7827",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0028",
+    "updated_at": "2026-02-27T02:11:13Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-25T07:30:26Z",
+      "email": "ursula.noether@inbox.test",
+      "family_name": "Noether",
+      "given_name": "Ursula",
+      "id": "cand_0029",
+      "modified_at": "2026-02-25T07:30:26Z",
+      "phone": "+1-555-9215",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0029",
+    "updated_at": "2026-02-25T07:30:26Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-30T17:18:25Z",
+      "email": "walter.vonneumann@mail.test",
+      "family_name": "Von Neumann",
+      "given_name": "Walter",
+      "id": "cand_0030",
+      "modified_at": "2026-01-30T17:18:25Z",
+      "phone": "+1-555-2091",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0030",
+    "updated_at": "2026-01-30T17:18:25Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-21T12:25:19Z",
+      "email": "blaise.babbage@mail.test",
+      "family_name": "Babbage",
+      "given_name": "Blaise",
+      "id": "cand_0031",
+      "modified_at": "2026-02-21T12:25:19Z",
+      "phone": "+1-555-8498",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0031",
+    "updated_at": "2026-02-21T12:25:19Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-18T07:05:18Z",
+      "email": "peggy.babbage@example.test",
+      "family_name": "Babbage",
+      "given_name": "Peggy",
+      "id": "cand_0032",
+      "modified_at": "2026-02-18T07:05:18Z",
+      "phone": "+1-555-6818",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0032",
+    "updated_at": "2026-02-18T07:05:18Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-12T06:49:43Z",
+      "email": "hedy.tesla@mail.test",
+      "family_name": "Tesla",
+      "given_name": "Hedy",
+      "id": "cand_0033",
+      "modified_at": "2026-02-12T06:49:43Z",
+      "phone": "+1-555-4835",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0033",
+    "updated_at": "2026-02-12T06:49:43Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-29T17:41:38Z",
+      "email": "marie.vonneumann@hey.test",
+      "family_name": "Von Neumann",
+      "given_name": "Marie",
+      "id": "cand_0034",
+      "modified_at": "2026-01-29T17:41:38Z",
+      "phone": "+1-555-5685",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0034",
+    "updated_at": "2026-01-29T17:41:38Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-27T14:55:59Z",
+      "email": "walter.lovelace@inbox.test",
+      "family_name": "Lovelace",
+      "given_name": "Walter",
+      "id": "cand_0035",
+      "modified_at": "2026-01-27T14:55:59Z",
+      "phone": "+1-555-1416",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0035",
+    "updated_at": "2026-01-27T14:55:59Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-28T19:49:40Z",
+      "email": "blaise.turing@mail.test",
+      "family_name": "Turing",
+      "given_name": "Blaise",
+      "id": "cand_0036",
+      "modified_at": "2026-02-28T19:49:40Z",
+      "phone": "+1-555-4362",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0036",
+    "updated_at": "2026-02-28T19:49:40Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-07T05:56:43Z",
+      "email": "dorothy.tesla@mail.test",
+      "family_name": "Tesla",
+      "given_name": "Dorothy",
+      "id": "cand_0037",
+      "modified_at": "2026-02-07T05:56:43Z",
+      "phone": "+1-555-3085",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0037",
+    "updated_at": "2026-02-07T05:56:43Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-20T00:32:53Z",
+      "email": "yvonne.zuse@inbox.test",
+      "family_name": "Zuse",
+      "given_name": "Yvonne",
+      "id": "cand_0038",
+      "modified_at": "2026-02-20T00:32:53Z",
+      "phone": "+1-555-8759",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0038",
+    "updated_at": "2026-02-20T00:32:53Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-14T16:12:19Z",
+      "email": "katherine.lovelace@example.test",
+      "family_name": "Lovelace",
+      "given_name": "Katherine",
+      "id": "cand_0039",
+      "modified_at": "2026-01-14T16:12:19Z",
+      "phone": "+1-555-8433",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0039",
+    "updated_at": "2026-01-14T16:12:19Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-22T06:07:12Z",
+      "email": "xavier.wright@hey.test",
+      "family_name": "Wright",
+      "given_name": "Xavier",
+      "id": "cand_0040",
+      "modified_at": "2026-01-22T06:07:12Z",
+      "phone": "+1-555-1491",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0040",
+    "updated_at": "2026-01-22T06:07:12Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-24T20:28:01Z",
+      "email": "hedy.wright@hey.test",
+      "family_name": "Wright",
+      "given_name": "Hedy",
+      "id": "cand_0041",
+      "modified_at": "2026-01-24T20:28:01Z",
+      "phone": "+1-555-9950",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0041",
+    "updated_at": "2026-01-24T20:28:01Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-08T17:28:06Z",
+      "email": "emmy.babbage@hey.test",
+      "family_name": "Babbage",
+      "given_name": "Emmy",
+      "id": "cand_0042",
+      "modified_at": "2026-03-08T17:28:06Z",
+      "phone": "+1-555-8967",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0042",
+    "updated_at": "2026-03-08T17:28:06Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-25T03:00:46Z",
+      "email": "florence.xu@hey.test",
+      "family_name": "Xu",
+      "given_name": "Florence",
+      "id": "cand_0043",
+      "modified_at": "2026-01-25T03:00:46Z",
+      "phone": "+1-555-1763",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0043",
+    "updated_at": "2026-01-25T03:00:46Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-27T03:23:03Z",
+      "email": "peggy.lovelace@example.test",
+      "family_name": "Lovelace",
+      "given_name": "Peggy",
+      "id": "cand_0044",
+      "modified_at": "2026-01-27T03:23:03Z",
+      "phone": "+1-555-8586",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0044",
+    "updated_at": "2026-01-27T03:23:03Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-06T12:04:01Z",
+      "email": "charles.turing@mail.test",
+      "family_name": "Turing",
+      "given_name": "Charles",
+      "id": "cand_0045",
+      "modified_at": "2026-03-06T12:04:01Z",
+      "phone": "+1-555-4728",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0045",
+    "updated_at": "2026-03-06T12:04:01Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-14T06:55:59Z",
+      "email": "xavier.young@inbox.test",
+      "family_name": "Young",
+      "given_name": "Xavier",
+      "id": "cand_0046",
+      "modified_at": "2026-01-14T06:55:59Z",
+      "phone": "+1-555-2470",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0046",
+    "updated_at": "2026-01-14T06:55:59Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-12T11:29:46Z",
+      "email": "peggy.young@hey.test",
+      "family_name": "Young",
+      "given_name": "Peggy",
+      "id": "cand_0047",
+      "modified_at": "2026-03-12T11:29:46Z",
+      "phone": "+1-555-8185",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0047",
+    "updated_at": "2026-03-12T11:29:46Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-20T23:41:12Z",
+      "email": "marie.zuse@example.test",
+      "family_name": "Zuse",
+      "given_name": "Marie",
+      "id": "cand_0048",
+      "modified_at": "2026-01-20T23:41:12Z",
+      "phone": "+1-555-6184",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0048",
+    "updated_at": "2026-01-20T23:41:12Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-21T23:21:32Z",
+      "email": "blaise.lovelace@example.test",
+      "family_name": "Lovelace",
+      "given_name": "Blaise",
+      "id": "cand_0049",
+      "modified_at": "2026-02-21T23:21:32Z",
+      "phone": "+1-555-8218",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0049",
+    "updated_at": "2026-02-21T23:21:32Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-05T06:56:00Z",
+      "email": "isaac.vonneumann@mail.test",
+      "family_name": "Von Neumann",
+      "given_name": "Isaac",
+      "id": "cand_0050",
+      "modified_at": "2026-03-05T06:56:00Z",
+      "phone": "+1-555-6215",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0050",
+    "updated_at": "2026-03-05T06:56:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-05T16:41:27Z",
+      "email": "ada.curie@mail.test",
+      "family_name": "Curie",
+      "given_name": "Ada",
+      "id": "cand_0051",
+      "modified_at": "2026-03-05T16:41:27Z",
+      "phone": "+1-555-6613",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0051",
+    "updated_at": "2026-03-05T16:41:27Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-02T21:15:54Z",
+      "email": "vera.turing@example.test",
+      "family_name": "Turing",
+      "given_name": "Vera",
+      "id": "cand_0052",
+      "modified_at": "2026-02-02T21:15:54Z",
+      "phone": "+1-555-6664",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0052",
+    "updated_at": "2026-02-02T21:15:54Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-31T03:33:18Z",
+      "email": "nikola.einstein@inbox.test",
+      "family_name": "Einstein",
+      "given_name": "Nikola",
+      "id": "cand_0053",
+      "modified_at": "2026-01-31T03:33:18Z",
+      "phone": "+1-555-4220",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0053",
+    "updated_at": "2026-01-31T03:33:18Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-11T03:48:06Z",
+      "email": "sophie.curie@hey.test",
+      "family_name": "Curie",
+      "given_name": "Sophie",
+      "id": "cand_0054",
+      "modified_at": "2026-02-11T03:48:06Z",
+      "phone": "+1-555-2607",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0054",
+    "updated_at": "2026-02-11T03:48:06Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-10T01:05:35Z",
+      "email": "jean.wright@example.test",
+      "family_name": "Wright",
+      "given_name": "Jean",
+      "id": "cand_0055",
+      "modified_at": "2026-03-14T10:02:00Z",
+      "phone": "+1-555-8541",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0055",
+    "updated_at": "2026-03-14T10:02:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-06T05:30:21Z",
+      "email": "ada.young@example.test",
+      "family_name": "Young",
+      "given_name": "Ada",
+      "id": "cand_0056",
+      "modified_at": "2026-02-06T05:30:21Z",
+      "phone": "+1-555-1323",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0056",
+    "updated_at": "2026-02-06T05:30:21Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-11T23:15:04Z",
+      "email": "emmy.lovelace@inbox.test",
+      "family_name": "Lovelace",
+      "given_name": "Emmy",
+      "id": "cand_0057",
+      "modified_at": "2026-02-11T23:15:04Z",
+      "phone": "+1-555-2674",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0057",
+    "updated_at": "2026-02-11T23:15:04Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-14T19:27:04Z",
+      "email": "walter.feynman@example.test",
+      "family_name": "Feynman",
+      "given_name": "Walter",
+      "id": "cand_0058",
+      "modified_at": "2026-02-14T19:27:04Z",
+      "phone": "+1-555-4910",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0058",
+    "updated_at": "2026-02-14T19:27:04Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-14T22:30:48Z",
+      "email": "marie.babbage@hey.test",
+      "family_name": "Babbage",
+      "given_name": "Marie",
+      "id": "cand_0059",
+      "modified_at": "2026-02-14T22:30:48Z",
+      "phone": "+1-555-1847",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0059",
+    "updated_at": "2026-02-14T22:30:48Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-26T05:39:45Z",
+      "email": "peggy.vonneumann@hey.test",
+      "family_name": "Von Neumann",
+      "given_name": "Peggy",
+      "id": "cand_0060",
+      "modified_at": "2026-02-26T05:39:45Z",
+      "phone": "+1-555-2194",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0060",
+    "updated_at": "2026-02-26T05:39:45Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-13T03:38:36Z",
+      "email": "sophie.gauss@hey.test",
+      "family_name": "Gauss",
+      "given_name": "Sophie",
+      "id": "cand_0061",
+      "modified_at": "2026-02-13T03:38:36Z",
+      "phone": "+1-555-2705",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0061",
+    "updated_at": "2026-02-13T03:38:36Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-20T04:53:01Z",
+      "email": "tim.pascal@inbox.test",
+      "family_name": "Pascal",
+      "given_name": "Tim",
+      "id": "cand_0062",
+      "modified_at": "2026-01-20T04:53:01Z",
+      "phone": "+1-555-6812",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0062",
+    "updated_at": "2026-01-20T04:53:01Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-21T16:03:02Z",
+      "email": "zelda.babbage@inbox.test",
+      "family_name": "Babbage",
+      "given_name": "Zelda",
+      "id": "cand_0063",
+      "modified_at": "2026-01-21T16:03:02Z",
+      "phone": "+1-555-1567",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0063",
+    "updated_at": "2026-01-21T16:03:02Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-28T03:04:02Z",
+      "email": "tim.wright@hey.test",
+      "family_name": "Wright",
+      "given_name": "Tim",
+      "id": "cand_0064",
+      "modified_at": "2026-02-28T03:04:02Z",
+      "phone": "+1-555-5880",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0064",
+    "updated_at": "2026-02-28T03:04:02Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-02T19:31:43Z",
+      "email": "ada.vonneumann@example.test",
+      "family_name": "Von Neumann",
+      "given_name": "Ada",
+      "id": "cand_0065",
+      "modified_at": "2026-02-02T19:31:43Z",
+      "phone": "+1-555-2322",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0065",
+    "updated_at": "2026-02-02T19:31:43Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-12T05:54:55Z",
+      "email": "charles.curie@example.test",
+      "family_name": "Curie",
+      "given_name": "Charles",
+      "id": "cand_0066",
+      "modified_at": "2026-03-12T05:54:55Z",
+      "phone": "+1-555-4922",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0066",
+    "updated_at": "2026-03-12T05:54:55Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-21T17:43:52Z",
+      "email": "zelda.turing@example.test",
+      "family_name": "Turing",
+      "given_name": "Zelda",
+      "id": "cand_0067",
+      "modified_at": "2026-02-21T17:43:52Z",
+      "phone": "+1-555-6938",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0067",
+    "updated_at": "2026-02-21T17:43:52Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-02T06:16:13Z",
+      "email": "zelda.vonneumann@example.test",
+      "family_name": "Von Neumann",
+      "given_name": "Zelda",
+      "id": "cand_0068",
+      "modified_at": "2026-03-02T06:16:13Z",
+      "phone": "+1-555-5904",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0068",
+    "updated_at": "2026-03-02T06:16:13Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-14T09:59:52Z",
+      "email": "ada.tesla@inbox.test",
+      "family_name": "Tesla",
+      "given_name": "Ada",
+      "id": "cand_0069",
+      "modified_at": "2026-01-14T09:59:52Z",
+      "phone": "+1-555-8795",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0069",
+    "updated_at": "2026-01-14T09:59:52Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-06T14:43:26Z",
+      "email": "hedy.xu@inbox.test",
+      "family_name": "Xu",
+      "given_name": "Hedy",
+      "id": "cand_0070",
+      "modified_at": "2026-03-06T14:43:26Z",
+      "phone": "+1-555-9208",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0070",
+    "updated_at": "2026-03-06T14:43:26Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-11T06:20:33Z",
+      "email": "marie.zuse@hey.test",
+      "family_name": "Zuse",
+      "given_name": "Marie",
+      "id": "cand_0071",
+      "modified_at": "2026-03-11T06:20:33Z",
+      "phone": "+1-555-5778",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0071",
+    "updated_at": "2026-03-11T06:20:33Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-26T01:46:16Z",
+      "email": "katherine.gauss@hey.test",
+      "family_name": "Gauss",
+      "given_name": "Katherine",
+      "id": "cand_0072",
+      "modified_at": "2026-02-26T01:46:16Z",
+      "phone": "+1-555-4963",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0072",
+    "updated_at": "2026-02-26T01:46:16Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-21T18:31:35Z",
+      "email": "emmy.ramanujan@inbox.test",
+      "family_name": "Ramanujan",
+      "given_name": "Emmy",
+      "id": "cand_0073",
+      "modified_at": "2026-01-21T18:31:35Z",
+      "phone": "+1-555-6708",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0073",
+    "updated_at": "2026-01-21T18:31:35Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-10T19:11:09Z",
+      "email": "jean.wright@mail.test",
+      "family_name": "Wright",
+      "given_name": "Jean",
+      "id": "cand_0074",
+      "modified_at": "2026-03-10T19:11:09Z",
+      "phone": "+1-555-4363",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0074",
+    "updated_at": "2026-03-10T19:11:09Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-24T03:36:33Z",
+      "email": "zelda.hopper@example.test",
+      "family_name": "Hopper",
+      "given_name": "Zelda",
+      "id": "cand_0075",
+      "modified_at": "2026-01-24T03:36:33Z",
+      "phone": "+1-555-4652",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0075",
+    "updated_at": "2026-01-24T03:36:33Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-05T15:41:02Z",
+      "email": "vera.zuse@inbox.test",
+      "family_name": "Zuse",
+      "given_name": "Vera",
+      "id": "cand_0076",
+      "modified_at": "2026-02-05T15:41:02Z",
+      "phone": "+1-555-9729",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0076",
+    "updated_at": "2026-02-05T15:41:02Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-24T10:32:05Z",
+      "email": "xavier.lovelace@mail.test",
+      "family_name": "Lovelace",
+      "given_name": "Xavier",
+      "id": "cand_0077",
+      "modified_at": "2026-01-24T10:32:05Z",
+      "phone": "+1-555-7730",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0077",
+    "updated_at": "2026-01-24T10:32:05Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-05T12:16:22Z",
+      "email": "sophie.noether@example.test",
+      "family_name": "Noether",
+      "given_name": "Sophie",
+      "id": "cand_0078",
+      "modified_at": "2026-03-05T12:16:22Z",
+      "phone": "+1-555-5353",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0078",
+    "updated_at": "2026-03-05T12:16:22Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-14T21:59:58Z",
+      "email": "oliver.ramanujan@hey.test",
+      "family_name": "Ramanujan",
+      "given_name": "Oliver",
+      "id": "cand_0079",
+      "modified_at": "2026-01-14T21:59:58Z",
+      "phone": "+1-555-8679",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0079",
+    "updated_at": "2026-01-14T21:59:58Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-05T15:32:02Z",
+      "email": "xavier.xu@inbox.test",
+      "family_name": "Xu",
+      "given_name": "Xavier",
+      "id": "cand_0080",
+      "modified_at": "2026-02-05T15:32:02Z",
+      "phone": "+1-555-8705",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0080",
+    "updated_at": "2026-02-05T15:32:02Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-03T18:19:32Z",
+      "email": "blaise.ramanujan@inbox.test",
+      "family_name": "Ramanujan",
+      "given_name": "Blaise",
+      "id": "cand_0081",
+      "modified_at": "2026-03-03T18:19:32Z",
+      "phone": "+1-555-9129",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0081",
+    "updated_at": "2026-03-03T18:19:32Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-03T02:58:37Z",
+      "email": "florence.xu@hey.test",
+      "family_name": "Xu",
+      "given_name": "Florence",
+      "id": "cand_0082",
+      "modified_at": "2026-02-03T02:58:37Z",
+      "phone": "+1-555-5783",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0082",
+    "updated_at": "2026-02-03T02:58:37Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-21T02:03:13Z",
+      "email": "peggy.lovelace@hey.test",
+      "family_name": "Lovelace",
+      "given_name": "Peggy",
+      "id": "cand_0083",
+      "modified_at": "2026-02-21T02:03:13Z",
+      "phone": "+1-555-7801",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0083",
+    "updated_at": "2026-02-21T02:03:13Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-16T18:55:33Z",
+      "email": "hedy.feynman@hey.test",
+      "family_name": "Feynman",
+      "given_name": "Hedy",
+      "id": "cand_0084",
+      "modified_at": "2026-02-16T18:55:33Z",
+      "phone": "+1-555-4532",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0084",
+    "updated_at": "2026-02-16T18:55:33Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-02T07:06:11Z",
+      "email": "florence.hopper@hey.test",
+      "family_name": "Hopper",
+      "given_name": "Florence",
+      "id": "cand_0085",
+      "modified_at": "2026-03-02T07:06:11Z",
+      "phone": "+1-555-9617",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0085",
+    "updated_at": "2026-03-02T07:06:11Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-21T01:02:27Z",
+      "email": "hedy.xu@example.test",
+      "family_name": "Xu",
+      "given_name": "Hedy",
+      "id": "cand_0086",
+      "modified_at": "2026-01-21T01:02:27Z",
+      "phone": "+1-555-2522",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0086",
+    "updated_at": "2026-01-21T01:02:27Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-13T13:01:26Z",
+      "email": "isaac.young@hey.test",
+      "family_name": "Young",
+      "given_name": "Isaac",
+      "id": "cand_0087",
+      "modified_at": "2026-03-13T13:01:26Z",
+      "phone": "+1-555-7149",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0087",
+    "updated_at": "2026-03-13T13:01:26Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-01T22:18:25Z",
+      "email": "dorothy.turing@inbox.test",
+      "family_name": "Turing",
+      "given_name": "Dorothy",
+      "id": "cand_0088",
+      "modified_at": "2026-02-01T22:18:25Z",
+      "phone": "+1-555-1876",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0088",
+    "updated_at": "2026-02-01T22:18:25Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-15T15:25:19Z",
+      "email": "vera.young@example.test",
+      "family_name": "Young",
+      "given_name": "Vera",
+      "id": "cand_0089",
+      "modified_at": "2026-01-15T15:25:19Z",
+      "phone": "+1-555-8025",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0089",
+    "updated_at": "2026-01-15T15:25:19Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-14T14:22:16Z",
+      "email": "marie.lovelace@mail.test",
+      "family_name": "Lovelace",
+      "given_name": "Marie",
+      "id": "cand_0090",
+      "modified_at": "2026-01-14T14:22:16Z",
+      "phone": "+1-555-1746",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0090",
+    "updated_at": "2026-01-14T14:22:16Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-06T02:03:47Z",
+      "email": "sophie.zuse@mail.test",
+      "family_name": "Zuse",
+      "given_name": "Sophie",
+      "id": "cand_0091",
+      "modified_at": "2026-03-06T02:03:47Z",
+      "phone": "+1-555-9957",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0091",
+    "updated_at": "2026-03-06T02:03:47Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-18T07:48:07Z",
+      "email": "nikola.curie@hey.test",
+      "family_name": "Curie",
+      "given_name": "Nikola",
+      "id": "cand_0092",
+      "modified_at": "2026-02-18T07:48:07Z",
+      "phone": "+1-555-4955",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0092",
+    "updated_at": "2026-02-18T07:48:07Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-18T22:03:25Z",
+      "email": "isaac.noether@example.test",
+      "family_name": "Noether",
+      "given_name": "Isaac",
+      "id": "cand_0093",
+      "modified_at": "2026-01-18T22:03:25Z",
+      "phone": "+1-555-3527",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0093",
+    "updated_at": "2026-01-18T22:03:25Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-09T10:02:09Z",
+      "email": "vera.curie@inbox.test",
+      "family_name": "Curie",
+      "given_name": "Vera",
+      "id": "cand_0094",
+      "modified_at": "2026-03-09T10:02:09Z",
+      "phone": "+1-555-1337",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0094",
+    "updated_at": "2026-03-09T10:02:09Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-09T19:21:08Z",
+      "email": "zelda.einstein@mail.test",
+      "family_name": "Einstein",
+      "given_name": "Zelda",
+      "id": "cand_0095",
+      "modified_at": "2026-03-09T19:21:08Z",
+      "phone": "+1-555-6035",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0095",
+    "updated_at": "2026-03-09T19:21:08Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-10T19:10:41Z",
+      "email": "dorothy.curie@mail.test",
+      "family_name": "Curie",
+      "given_name": "Dorothy",
+      "id": "cand_0096",
+      "modified_at": "2026-02-10T19:10:41Z",
+      "phone": "+1-555-6169",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0096",
+    "updated_at": "2026-02-10T19:10:41Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-18T11:04:04Z",
+      "email": "emmy.curie@hey.test",
+      "family_name": "Curie",
+      "given_name": "Emmy",
+      "id": "cand_0097",
+      "modified_at": "2026-02-18T11:04:04Z",
+      "phone": "+1-555-3546",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0097",
+    "updated_at": "2026-02-18T11:04:04Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-11T15:00:16Z",
+      "email": "yvonne.young@hey.test",
+      "family_name": "Young",
+      "given_name": "Yvonne",
+      "id": "cand_0098",
+      "modified_at": "2026-02-11T15:00:16Z",
+      "phone": "+1-555-4065",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0098",
+    "updated_at": "2026-02-11T15:00:16Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-12T07:09:16Z",
+      "email": "emmy.einstein@example.test",
+      "family_name": "Einstein",
+      "given_name": "Emmy",
+      "id": "cand_0099",
+      "modified_at": "2026-03-12T07:09:16Z",
+      "phone": "+1-555-5694",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0099",
+    "updated_at": "2026-03-12T07:09:16Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-18T16:49:48Z",
+      "email": "florence.hopper@example.test",
+      "family_name": "Hopper",
+      "given_name": "Florence",
+      "id": "cand_0100",
+      "modified_at": "2026-02-18T16:49:48Z",
+      "phone": "+1-555-7064",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0100",
+    "updated_at": "2026-02-18T16:49:48Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-08T10:21:51Z",
+      "email": "marie.curie@inbox.test",
+      "family_name": "Curie",
+      "given_name": "Marie",
+      "id": "cand_0101",
+      "modified_at": "2026-02-08T10:21:51Z",
+      "phone": "+1-555-4454",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0101",
+    "updated_at": "2026-02-08T10:21:51Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-05T04:55:32Z",
+      "email": "sophie.feynman@example.test",
+      "family_name": "Feynman",
+      "given_name": "Sophie",
+      "id": "cand_0102",
+      "modified_at": "2026-03-05T04:55:32Z",
+      "phone": "+1-555-2543",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0102",
+    "updated_at": "2026-03-05T04:55:32Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-27T15:41:17Z",
+      "email": "zelda.lovelace@inbox.test",
+      "family_name": "Lovelace",
+      "given_name": "Zelda",
+      "id": "cand_0103",
+      "modified_at": "2026-02-27T15:41:17Z",
+      "phone": "+1-555-4787",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0103",
+    "updated_at": "2026-02-27T15:41:17Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-22T06:12:46Z",
+      "email": "isaac.curie@example.test",
+      "family_name": "Curie",
+      "given_name": "Isaac",
+      "id": "cand_0104",
+      "modified_at": "2026-02-22T06:12:46Z",
+      "phone": "+1-555-1089",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0104",
+    "updated_at": "2026-02-22T06:12:46Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-12T14:18:57Z",
+      "email": "ada.turing@example.test",
+      "family_name": "Turing",
+      "given_name": "Ada",
+      "id": "cand_0105",
+      "modified_at": "2026-03-12T14:18:57Z",
+      "phone": "+1-555-3459",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0105",
+    "updated_at": "2026-03-12T14:18:57Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-04T00:01:30Z",
+      "email": "xavier.dirac@inbox.test",
+      "family_name": "Dirac",
+      "given_name": "Xavier",
+      "id": "cand_0106",
+      "modified_at": "2026-02-04T00:01:30Z",
+      "phone": "+1-555-4858",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0106",
+    "updated_at": "2026-02-04T00:01:30Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-05T12:35:43Z",
+      "email": "dorothy.wright@inbox.test",
+      "family_name": "Wright",
+      "given_name": "Dorothy",
+      "id": "cand_0107",
+      "modified_at": "2026-03-05T12:35:43Z",
+      "phone": "+1-555-4306",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0107",
+    "updated_at": "2026-03-05T12:35:43Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-22T19:30:37Z",
+      "email": "oliver.shannon@example.test",
+      "family_name": "Shannon",
+      "given_name": "Oliver",
+      "id": "cand_0108",
+      "modified_at": "2026-01-22T19:30:37Z",
+      "phone": "+1-555-5052",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0108",
+    "updated_at": "2026-01-22T19:30:37Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-01T02:47:18Z",
+      "email": "ursula.zuse@hey.test",
+      "family_name": "Zuse",
+      "given_name": "Ursula",
+      "id": "cand_0109",
+      "modified_at": "2026-02-01T02:47:18Z",
+      "phone": "+1-555-9088",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0109",
+    "updated_at": "2026-02-01T02:47:18Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-11T14:24:04Z",
+      "email": "peggy.shannon@inbox.test",
+      "family_name": "Shannon",
+      "given_name": "Peggy",
+      "id": "cand_0110",
+      "modified_at": "2026-03-11T14:24:04Z",
+      "phone": "+1-555-2253",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0110",
+    "updated_at": "2026-03-11T14:24:04Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-04T00:31:21Z",
+      "email": "ursula.vonneumann@mail.test",
+      "family_name": "Von Neumann",
+      "given_name": "Ursula",
+      "id": "cand_0111",
+      "modified_at": "2026-02-04T00:31:21Z",
+      "phone": "+1-555-9227",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0111",
+    "updated_at": "2026-02-04T00:31:21Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-25T12:22:34Z",
+      "email": "grace.dirac@example.test",
+      "family_name": "Dirac",
+      "given_name": "Grace",
+      "id": "cand_0112",
+      "modified_at": "2026-02-25T12:22:34Z",
+      "phone": "+1-555-3543",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0112",
+    "updated_at": "2026-02-25T12:22:34Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-20T02:45:15Z",
+      "email": "grace.gauss@mail.test",
+      "family_name": "Gauss",
+      "given_name": "Grace",
+      "id": "cand_0113",
+      "modified_at": "2026-01-20T02:45:15Z",
+      "phone": "+1-555-6688",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0113",
+    "updated_at": "2026-01-20T02:45:15Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-21T22:01:40Z",
+      "email": "sophie.vonneumann@example.test",
+      "family_name": "Von Neumann",
+      "given_name": "Sophie",
+      "id": "cand_0114",
+      "modified_at": "2026-01-21T22:01:40Z",
+      "phone": "+1-555-2697",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0114",
+    "updated_at": "2026-01-21T22:01:40Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-18T23:25:42Z",
+      "email": "oliver.vonneumann@hey.test",
+      "family_name": "Von Neumann",
+      "given_name": "Oliver",
+      "id": "cand_0115",
+      "modified_at": "2026-02-18T23:25:42Z",
+      "phone": "+1-555-6441",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0115",
+    "updated_at": "2026-02-18T23:25:42Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-01T10:12:12Z",
+      "email": "emmy.hopper@example.test",
+      "family_name": "Hopper",
+      "given_name": "Emmy",
+      "id": "cand_0116",
+      "modified_at": "2026-02-01T10:12:12Z",
+      "phone": "+1-555-6647",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0116",
+    "updated_at": "2026-02-01T10:12:12Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-04T09:07:19Z",
+      "email": "tim.xu@example.test",
+      "family_name": "Xu",
+      "given_name": "Tim",
+      "id": "cand_0117",
+      "modified_at": "2026-02-04T09:07:19Z",
+      "phone": "+1-555-9657",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0117",
+    "updated_at": "2026-02-04T09:07:19Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-12T16:03:55Z",
+      "email": "peggy.wright@mail.test",
+      "family_name": "Wright",
+      "given_name": "Peggy",
+      "id": "cand_0118",
+      "modified_at": "2026-03-12T16:03:55Z",
+      "phone": "+1-555-2132",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0118",
+    "updated_at": "2026-03-12T16:03:55Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-01T15:07:54Z",
+      "email": "yvonne.xu@mail.test",
+      "family_name": "Xu",
+      "given_name": "Yvonne",
+      "id": "cand_0119",
+      "modified_at": "2026-03-01T15:07:54Z",
+      "phone": "+1-555-6689",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0119",
+    "updated_at": "2026-03-01T15:07:54Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-09T06:46:08Z",
+      "email": "isaac.hopper@inbox.test",
+      "family_name": "Hopper",
+      "given_name": "Isaac",
+      "id": "cand_0120",
+      "modified_at": "2026-02-09T06:46:08Z",
+      "phone": "+1-555-6027",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0120",
+    "updated_at": "2026-02-09T06:46:08Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-21T01:24:13Z",
+      "email": "hedy.hopper@mail.test",
+      "family_name": "Hopper",
+      "given_name": "Hedy",
+      "id": "cand_0121",
+      "modified_at": "2026-02-21T01:24:13Z",
+      "phone": "+1-555-1030",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0121",
+    "updated_at": "2026-02-21T01:24:13Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-20T05:23:14Z",
+      "email": "walter.feynman@hey.test",
+      "family_name": "Feynman",
+      "given_name": "Walter",
+      "id": "cand_0122",
+      "modified_at": "2026-02-20T05:23:14Z",
+      "phone": "+1-555-9280",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0122",
+    "updated_at": "2026-02-20T05:23:14Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-25T16:08:41Z",
+      "email": "xavier.gauss@example.test",
+      "family_name": "Gauss",
+      "given_name": "Xavier",
+      "id": "cand_0123",
+      "modified_at": "2026-01-25T16:08:41Z",
+      "phone": "+1-555-8483",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0123",
+    "updated_at": "2026-01-25T16:08:41Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-01T22:16:51Z",
+      "email": "peggy.xu@mail.test",
+      "family_name": "Xu",
+      "given_name": "Peggy",
+      "id": "cand_0124",
+      "modified_at": "2026-03-01T22:16:51Z",
+      "phone": "+1-555-6255",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0124",
+    "updated_at": "2026-03-01T22:16:51Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-29T09:32:21Z",
+      "email": "tim.young@mail.test",
+      "family_name": "Young",
+      "given_name": "Tim",
+      "id": "cand_0125",
+      "modified_at": "2026-01-29T09:32:21Z",
+      "phone": "+1-555-5035",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0125",
+    "updated_at": "2026-01-29T09:32:21Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-26T08:03:09Z",
+      "email": "vera.pascal@mail.test",
+      "family_name": "Pascal",
+      "given_name": "Vera",
+      "id": "cand_0126",
+      "modified_at": "2026-01-26T08:03:09Z",
+      "phone": "+1-555-2267",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0126",
+    "updated_at": "2026-01-26T08:03:09Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-19T11:52:43Z",
+      "email": "yvonne.pascal@example.test",
+      "family_name": "Pascal",
+      "given_name": "Yvonne",
+      "id": "cand_0127",
+      "modified_at": "2026-01-19T11:52:43Z",
+      "phone": "+1-555-8927",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0127",
+    "updated_at": "2026-01-19T11:52:43Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-30T20:00:35Z",
+      "email": "charles.shannon@inbox.test",
+      "family_name": "Shannon",
+      "given_name": "Charles",
+      "id": "cand_0128",
+      "modified_at": "2026-01-30T20:00:35Z",
+      "phone": "+1-555-6750",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0128",
+    "updated_at": "2026-01-30T20:00:35Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-19T08:58:10Z",
+      "email": "xavier.babbage@inbox.test",
+      "family_name": "Babbage",
+      "given_name": "Xavier",
+      "id": "cand_0129",
+      "modified_at": "2026-02-19T08:58:10Z",
+      "phone": "+1-555-1106",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0129",
+    "updated_at": "2026-02-19T08:58:10Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-07T13:49:17Z",
+      "email": "richard.xu@inbox.test",
+      "family_name": "Xu",
+      "given_name": "Richard",
+      "id": "cand_0130",
+      "modified_at": "2026-03-07T13:49:17Z",
+      "phone": "+1-555-2584",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0130",
+    "updated_at": "2026-03-07T13:49:17Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-18T12:05:41Z",
+      "email": "florence.gauss@example.test",
+      "family_name": "Gauss",
+      "given_name": "Florence",
+      "id": "cand_0131",
+      "modified_at": "2026-02-18T12:05:41Z",
+      "phone": "+1-555-4189",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0131",
+    "updated_at": "2026-02-18T12:05:41Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-12T21:07:15Z",
+      "email": "blaise.noether@mail.test",
+      "family_name": "Noether",
+      "given_name": "Blaise",
+      "id": "cand_0132",
+      "modified_at": "2026-02-12T21:07:15Z",
+      "phone": "+1-555-1586",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0132",
+    "updated_at": "2026-02-12T21:07:15Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-19T10:01:48Z",
+      "email": "tim.hopper@mail.test",
+      "family_name": "Hopper",
+      "given_name": "Tim",
+      "id": "cand_0133",
+      "modified_at": "2026-01-19T10:01:48Z",
+      "phone": "+1-555-7653",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0133",
+    "updated_at": "2026-01-19T10:01:48Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-26T05:01:17Z",
+      "email": "hedy.turing@mail.test",
+      "family_name": "Turing",
+      "given_name": "Hedy",
+      "id": "cand_0134",
+      "modified_at": "2026-02-26T05:01:17Z",
+      "phone": "+1-555-2354",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0134",
+    "updated_at": "2026-02-26T05:01:17Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-06T22:29:23Z",
+      "email": "oliver.ramanujan@example.test",
+      "family_name": "Ramanujan",
+      "given_name": "Oliver",
+      "id": "cand_0135",
+      "modified_at": "2026-03-06T22:29:23Z",
+      "phone": "+1-555-9937",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0135",
+    "updated_at": "2026-03-06T22:29:23Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-09T02:01:58Z",
+      "email": "zelda.wright@mail.test",
+      "family_name": "Wright",
+      "given_name": "Zelda",
+      "id": "cand_0136",
+      "modified_at": "2026-02-09T02:01:58Z",
+      "phone": "+1-555-3466",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0136",
+    "updated_at": "2026-02-09T02:01:58Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-14T01:05:50Z",
+      "email": "florence.young@inbox.test",
+      "family_name": "Young",
+      "given_name": "Florence",
+      "id": "cand_0137",
+      "modified_at": "2026-01-14T01:05:50Z",
+      "phone": "+1-555-2697",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0137",
+    "updated_at": "2026-01-14T01:05:50Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-12T07:34:40Z",
+      "email": "oliver.gauss@hey.test",
+      "family_name": "Gauss",
+      "given_name": "Oliver",
+      "id": "cand_0138",
+      "modified_at": "2026-03-12T07:34:40Z",
+      "phone": "+1-555-4140",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0138",
+    "updated_at": "2026-03-12T07:34:40Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-06T07:24:21Z",
+      "email": "charles.feynman@inbox.test",
+      "family_name": "Feynman",
+      "given_name": "Charles",
+      "id": "cand_0139",
+      "modified_at": "2026-02-06T07:24:21Z",
+      "phone": "+1-555-7412",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0139",
+    "updated_at": "2026-02-06T07:24:21Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-30T09:45:33Z",
+      "email": "charles.ramanujan@inbox.test",
+      "family_name": "Ramanujan",
+      "given_name": "Charles",
+      "id": "cand_0140",
+      "modified_at": "2026-01-30T09:45:33Z",
+      "phone": "+1-555-4899",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0140",
+    "updated_at": "2026-01-30T09:45:33Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-04T17:02:09Z",
+      "email": "oliver.noether@mail.test",
+      "family_name": "Noether",
+      "given_name": "Oliver",
+      "id": "cand_0141",
+      "modified_at": "2026-03-04T17:02:09Z",
+      "phone": "+1-555-4313",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0141",
+    "updated_at": "2026-03-04T17:02:09Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-23T20:38:34Z",
+      "email": "ursula.hopper@hey.test",
+      "family_name": "Hopper",
+      "given_name": "Ursula",
+      "id": "cand_0142",
+      "modified_at": "2026-02-23T20:38:34Z",
+      "phone": "+1-555-8405",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0142",
+    "updated_at": "2026-02-23T20:38:34Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-15T21:01:01Z",
+      "email": "ursula.tesla@mail.test",
+      "family_name": "Tesla",
+      "given_name": "Ursula",
+      "id": "cand_0143",
+      "modified_at": "2026-02-15T21:01:01Z",
+      "phone": "+1-555-5939",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0143",
+    "updated_at": "2026-02-15T21:01:01Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-04T11:17:04Z",
+      "email": "peggy.lovelace@hey.test",
+      "family_name": "Lovelace",
+      "given_name": "Peggy",
+      "id": "cand_0144",
+      "modified_at": "2026-03-04T11:17:04Z",
+      "phone": "+1-555-9000",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0144",
+    "updated_at": "2026-03-04T11:17:04Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-27T16:43:23Z",
+      "email": "sophie.turing@inbox.test",
+      "family_name": "Turing",
+      "given_name": "Sophie",
+      "id": "cand_0145",
+      "modified_at": "2026-01-27T16:43:23Z",
+      "phone": "+1-555-5575",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0145",
+    "updated_at": "2026-01-27T16:43:23Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-04T02:51:00Z",
+      "email": "vera.wright@example.test",
+      "family_name": "Wright",
+      "given_name": "Vera",
+      "id": "cand_0146",
+      "modified_at": "2026-02-04T02:51:00Z",
+      "phone": "+1-555-9167",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0146",
+    "updated_at": "2026-02-04T02:51:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-24T14:43:48Z",
+      "email": "sophie.xu@inbox.test",
+      "family_name": "Xu",
+      "given_name": "Sophie",
+      "id": "cand_0147",
+      "modified_at": "2026-01-24T14:43:48Z",
+      "phone": "+1-555-1907",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0147",
+    "updated_at": "2026-01-24T14:43:48Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-11T08:47:45Z",
+      "email": "ursula.young@hey.test",
+      "family_name": "Young",
+      "given_name": "Ursula",
+      "id": "cand_0148",
+      "modified_at": "2026-02-11T08:47:45Z",
+      "phone": "+1-555-6944",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0148",
+    "updated_at": "2026-02-11T08:47:45Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-04T21:55:13Z",
+      "email": "dorothy.ramanujan@example.test",
+      "family_name": "Ramanujan",
+      "given_name": "Dorothy",
+      "id": "cand_0149",
+      "modified_at": "2026-02-04T21:55:13Z",
+      "phone": "+1-555-9806",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0149",
+    "updated_at": "2026-02-04T21:55:13Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-29T06:44:07Z",
+      "email": "linus.young@inbox.test",
+      "family_name": "Young",
+      "given_name": "Linus",
+      "id": "cand_0150",
+      "modified_at": "2026-01-29T06:44:07Z",
+      "phone": "+1-555-3792",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0150",
+    "updated_at": "2026-01-29T06:44:07Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-01T02:45:04Z",
+      "email": "jean.zuse@mail.test",
+      "family_name": "Zuse",
+      "given_name": "Jean",
+      "id": "cand_0151",
+      "modified_at": "2026-03-01T02:45:04Z",
+      "phone": "+1-555-5012",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0151",
+    "updated_at": "2026-03-01T02:45:04Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-21T16:33:17Z",
+      "email": "hedy.babbage@mail.test",
+      "family_name": "Babbage",
+      "given_name": "Hedy",
+      "id": "cand_0152",
+      "modified_at": "2026-01-21T16:33:17Z",
+      "phone": "+1-555-7640",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0152",
+    "updated_at": "2026-01-21T16:33:17Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-07T14:42:11Z",
+      "email": "ada.young@example.test",
+      "family_name": "Young",
+      "given_name": "Ada",
+      "id": "cand_0153",
+      "modified_at": "2026-02-07T14:42:11Z",
+      "phone": "+1-555-2031",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0153",
+    "updated_at": "2026-02-07T14:42:11Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-28T12:35:48Z",
+      "email": "dorothy.noether@mail.test",
+      "family_name": "Noether",
+      "given_name": "Dorothy",
+      "id": "cand_0154",
+      "modified_at": "2026-01-28T12:35:48Z",
+      "phone": "+1-555-3301",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0154",
+    "updated_at": "2026-01-28T12:35:48Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-06T03:10:38Z",
+      "email": "sophie.ramanujan@mail.test",
+      "family_name": "Ramanujan",
+      "given_name": "Sophie",
+      "id": "cand_0155",
+      "modified_at": "2026-03-06T03:10:38Z",
+      "phone": "+1-555-7546",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0155",
+    "updated_at": "2026-03-06T03:10:38Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-11T03:12:41Z",
+      "email": "nikola.feynman@mail.test",
+      "family_name": "Feynman",
+      "given_name": "Nikola",
+      "id": "cand_0156",
+      "modified_at": "2026-02-11T03:12:41Z",
+      "phone": "+1-555-6997",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0156",
+    "updated_at": "2026-02-11T03:12:41Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-07T11:32:48Z",
+      "email": "hedy.noether@example.test",
+      "family_name": "Noether",
+      "given_name": "Hedy",
+      "id": "cand_0157",
+      "modified_at": "2026-02-07T11:32:48Z",
+      "phone": "+1-555-1778",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0157",
+    "updated_at": "2026-02-07T11:32:48Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-22T16:15:36Z",
+      "email": "katherine.noether@hey.test",
+      "family_name": "Noether",
+      "given_name": "Katherine",
+      "id": "cand_0158",
+      "modified_at": "2026-01-22T16:15:36Z",
+      "phone": "+1-555-2091",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0158",
+    "updated_at": "2026-01-22T16:15:36Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-25T05:09:27Z",
+      "email": "zelda.pascal@hey.test",
+      "family_name": "Pascal",
+      "given_name": "Zelda",
+      "id": "cand_0159",
+      "modified_at": "2026-02-25T05:09:27Z",
+      "phone": "+1-555-8291",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0159",
+    "updated_at": "2026-02-25T05:09:27Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-08T23:09:05Z",
+      "email": "marie.shannon@hey.test",
+      "family_name": "Shannon",
+      "given_name": "Marie",
+      "id": "cand_0160",
+      "modified_at": "2026-03-08T23:09:05Z",
+      "phone": "+1-555-4523",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0160",
+    "updated_at": "2026-03-08T23:09:05Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-30T01:19:08Z",
+      "email": "linus.xu@hey.test",
+      "family_name": "Xu",
+      "given_name": "Linus",
+      "id": "cand_0161",
+      "modified_at": "2026-01-30T01:19:08Z",
+      "phone": "+1-555-2412",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0161",
+    "updated_at": "2026-01-30T01:19:08Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-12T15:11:54Z",
+      "email": "isaac.lovelace@inbox.test",
+      "family_name": "Lovelace",
+      "given_name": "Isaac",
+      "id": "cand_0162",
+      "modified_at": "2026-02-12T15:11:54Z",
+      "phone": "+1-555-8670",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0162",
+    "updated_at": "2026-02-12T15:11:54Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-04T15:34:48Z",
+      "email": "jean.dirac@inbox.test",
+      "family_name": "Dirac",
+      "given_name": "Jean",
+      "id": "cand_0163",
+      "modified_at": "2026-02-04T15:34:48Z",
+      "phone": "+1-555-2095",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0163",
+    "updated_at": "2026-02-04T15:34:48Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-10T05:02:35Z",
+      "email": "charles.noether@inbox.test",
+      "family_name": "Noether",
+      "given_name": "Charles",
+      "id": "cand_0164",
+      "modified_at": "2026-03-10T05:02:35Z",
+      "phone": "+1-555-7605",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0164",
+    "updated_at": "2026-03-10T05:02:35Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-30T16:51:00Z",
+      "email": "emmy.pascal@hey.test",
+      "family_name": "Pascal",
+      "given_name": "Emmy",
+      "id": "cand_0165",
+      "modified_at": "2026-01-30T16:51:00Z",
+      "phone": "+1-555-7935",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0165",
+    "updated_at": "2026-01-30T16:51:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-28T23:22:48Z",
+      "email": "oliver.gauss@inbox.test",
+      "family_name": "Gauss",
+      "given_name": "Oliver",
+      "id": "cand_0166",
+      "modified_at": "2026-01-28T23:22:48Z",
+      "phone": "+1-555-7607",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0166",
+    "updated_at": "2026-01-28T23:22:48Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-02T13:21:38Z",
+      "email": "peggy.gauss@mail.test",
+      "family_name": "Gauss",
+      "given_name": "Peggy",
+      "id": "cand_0167",
+      "modified_at": "2026-02-02T13:21:38Z",
+      "phone": "+1-555-2716",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0167",
+    "updated_at": "2026-02-02T13:21:38Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-11T08:03:10Z",
+      "email": "grace.turing@hey.test",
+      "family_name": "Turing",
+      "given_name": "Grace",
+      "id": "cand_0168",
+      "modified_at": "2026-03-11T08:03:10Z",
+      "phone": "+1-555-9202",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0168",
+    "updated_at": "2026-03-11T08:03:10Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-08T17:34:57Z",
+      "email": "zelda.lovelace@mail.test",
+      "family_name": "Lovelace",
+      "given_name": "Zelda",
+      "id": "cand_0169",
+      "modified_at": "2026-03-08T17:34:57Z",
+      "phone": "+1-555-9712",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0169",
+    "updated_at": "2026-03-08T17:34:57Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-02T16:09:08Z",
+      "email": "florence.dirac@inbox.test",
+      "family_name": "Dirac",
+      "given_name": "Florence",
+      "id": "cand_0170",
+      "modified_at": "2026-02-02T16:09:08Z",
+      "phone": "+1-555-6381",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0170",
+    "updated_at": "2026-02-02T16:09:08Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-24T21:37:24Z",
+      "email": "ada.pascal@hey.test",
+      "family_name": "Pascal",
+      "given_name": "Ada",
+      "id": "cand_0171",
+      "modified_at": "2026-02-24T21:37:24Z",
+      "phone": "+1-555-6647",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0171",
+    "updated_at": "2026-02-24T21:37:24Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-04T15:35:39Z",
+      "email": "xavier.tesla@inbox.test",
+      "family_name": "Tesla",
+      "given_name": "Xavier",
+      "id": "cand_0172",
+      "modified_at": "2026-03-04T15:35:39Z",
+      "phone": "+1-555-3017",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0172",
+    "updated_at": "2026-03-04T15:35:39Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-15T16:54:34Z",
+      "email": "xavier.hopper@mail.test",
+      "family_name": "Hopper",
+      "given_name": "Xavier",
+      "id": "cand_0173",
+      "modified_at": "2026-02-15T16:54:34Z",
+      "phone": "+1-555-8751",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0173",
+    "updated_at": "2026-02-15T16:54:34Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-14T04:59:08Z",
+      "email": "oliver.babbage@inbox.test",
+      "family_name": "Babbage",
+      "given_name": "Oliver",
+      "id": "cand_0174",
+      "modified_at": "2026-02-14T04:59:08Z",
+      "phone": "+1-555-6950",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0174",
+    "updated_at": "2026-02-14T04:59:08Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-29T00:34:43Z",
+      "email": "vera.hopper@mail.test",
+      "family_name": "Hopper",
+      "given_name": "Vera",
+      "id": "cand_0175",
+      "modified_at": "2026-01-29T00:34:43Z",
+      "phone": "+1-555-5513",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0175",
+    "updated_at": "2026-01-29T00:34:43Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-02T22:47:17Z",
+      "email": "walter.ramanujan@example.test",
+      "family_name": "Ramanujan",
+      "given_name": "Walter",
+      "id": "cand_0176",
+      "modified_at": "2026-03-02T22:47:17Z",
+      "phone": "+1-555-7358",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0176",
+    "updated_at": "2026-03-02T22:47:17Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-23T22:02:01Z",
+      "email": "zelda.young@hey.test",
+      "family_name": "Young",
+      "given_name": "Zelda",
+      "id": "cand_0177",
+      "modified_at": "2026-02-23T22:02:01Z",
+      "phone": "+1-555-3107",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0177",
+    "updated_at": "2026-02-23T22:02:01Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-04T18:47:25Z",
+      "email": "ada.young@mail.test",
+      "family_name": "Young",
+      "given_name": "Ada",
+      "id": "cand_0178",
+      "modified_at": "2026-02-04T18:47:25Z",
+      "phone": "+1-555-6576",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0178",
+    "updated_at": "2026-02-04T18:47:25Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-12T22:46:16Z",
+      "email": "tim.young@hey.test",
+      "family_name": "Young",
+      "given_name": "Tim",
+      "id": "cand_0179",
+      "modified_at": "2026-02-12T22:46:16Z",
+      "phone": "+1-555-7874",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0179",
+    "updated_at": "2026-02-12T22:46:16Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-04T02:59:52Z",
+      "email": "charles.dirac@hey.test",
+      "family_name": "Dirac",
+      "given_name": "Charles",
+      "id": "cand_0180",
+      "modified_at": "2026-03-04T02:59:52Z",
+      "phone": "+1-555-7504",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0180",
+    "updated_at": "2026-03-04T02:59:52Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-10T08:25:53Z",
+      "email": "ada.hopper@mail.test",
+      "family_name": "Hopper",
+      "given_name": "Ada",
+      "id": "cand_0181",
+      "modified_at": "2026-02-10T08:25:53Z",
+      "phone": "+1-555-1688",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0181",
+    "updated_at": "2026-02-10T08:25:53Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-08T02:21:18Z",
+      "email": "ursula.gauss@mail.test",
+      "family_name": "Gauss",
+      "given_name": "Ursula",
+      "id": "cand_0182",
+      "modified_at": "2026-03-08T02:21:18Z",
+      "phone": "+1-555-6100",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0182",
+    "updated_at": "2026-03-08T02:21:18Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-14T11:01:29Z",
+      "email": "yvonne.curie@hey.test",
+      "family_name": "Curie",
+      "given_name": "Yvonne",
+      "id": "cand_0183",
+      "modified_at": "2026-02-14T11:01:29Z",
+      "phone": "+1-555-4012",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0183",
+    "updated_at": "2026-02-14T11:01:29Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-09T12:44:26Z",
+      "email": "peggy.wright@mail.test",
+      "family_name": "Wright",
+      "given_name": "Peggy",
+      "id": "cand_0184",
+      "modified_at": "2026-02-09T12:44:26Z",
+      "phone": "+1-555-4005",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0184",
+    "updated_at": "2026-02-09T12:44:26Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-27T06:09:48Z",
+      "email": "yvonne.vonneumann@example.test",
+      "family_name": "Von Neumann",
+      "given_name": "Yvonne",
+      "id": "cand_0185",
+      "modified_at": "2026-02-27T06:09:48Z",
+      "phone": "+1-555-9156",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0185",
+    "updated_at": "2026-02-27T06:09:48Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-17T17:37:13Z",
+      "email": "dorothy.lovelace@hey.test",
+      "family_name": "Lovelace",
+      "given_name": "Dorothy",
+      "id": "cand_0186",
+      "modified_at": "2026-01-17T17:37:13Z",
+      "phone": "+1-555-6447",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0186",
+    "updated_at": "2026-01-17T17:37:13Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-13T14:55:22Z",
+      "email": "richard.shannon@inbox.test",
+      "family_name": "Shannon",
+      "given_name": "Richard",
+      "id": "cand_0187",
+      "modified_at": "2026-02-13T14:55:22Z",
+      "phone": "+1-555-1122",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0187",
+    "updated_at": "2026-02-13T14:55:22Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-06T02:37:09Z",
+      "email": "hedy.hopper@hey.test",
+      "family_name": "Hopper",
+      "given_name": "Hedy",
+      "id": "cand_0188",
+      "modified_at": "2026-02-06T02:37:09Z",
+      "phone": "+1-555-4152",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0188",
+    "updated_at": "2026-02-06T02:37:09Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-25T03:50:13Z",
+      "email": "vera.xu@inbox.test",
+      "family_name": "Xu",
+      "given_name": "Vera",
+      "id": "cand_0189",
+      "modified_at": "2026-01-25T03:50:13Z",
+      "phone": "+1-555-8262",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0189",
+    "updated_at": "2026-01-25T03:50:13Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-15T02:26:59Z",
+      "email": "tim.shannon@hey.test",
+      "family_name": "Shannon",
+      "given_name": "Tim",
+      "id": "cand_0190",
+      "modified_at": "2026-02-15T02:26:59Z",
+      "phone": "+1-555-1092",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0190",
+    "updated_at": "2026-02-15T02:26:59Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-28T08:15:40Z",
+      "email": "ada.zuse@mail.test",
+      "family_name": "Zuse",
+      "given_name": "Ada",
+      "id": "cand_0191",
+      "modified_at": "2026-02-28T08:15:40Z",
+      "phone": "+1-555-1889",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0191",
+    "updated_at": "2026-02-28T08:15:40Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-25T18:21:44Z",
+      "email": "sophie.einstein@hey.test",
+      "family_name": "Einstein",
+      "given_name": "Sophie",
+      "id": "cand_0192",
+      "modified_at": "2026-02-25T18:21:44Z",
+      "phone": "+1-555-5075",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0192",
+    "updated_at": "2026-02-25T18:21:44Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-27T13:50:08Z",
+      "email": "vera.zuse@example.test",
+      "family_name": "Zuse",
+      "given_name": "Vera",
+      "id": "cand_0193",
+      "modified_at": "2026-02-27T13:50:08Z",
+      "phone": "+1-555-9419",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0193",
+    "updated_at": "2026-02-27T13:50:08Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-09T20:58:19Z",
+      "email": "richard.dirac@hey.test",
+      "family_name": "Dirac",
+      "given_name": "Richard",
+      "id": "cand_0194",
+      "modified_at": "2026-03-09T20:58:19Z",
+      "phone": "+1-555-8566",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0194",
+    "updated_at": "2026-03-09T20:58:19Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-25T00:08:47Z",
+      "email": "walter.turing@example.test",
+      "family_name": "Turing",
+      "given_name": "Walter",
+      "id": "cand_0195",
+      "modified_at": "2026-01-25T00:08:47Z",
+      "phone": "+1-555-3018",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0195",
+    "updated_at": "2026-01-25T00:08:47Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-14T16:09:07Z",
+      "email": "hedy.wright@hey.test",
+      "family_name": "Wright",
+      "given_name": "Hedy",
+      "id": "cand_0196",
+      "modified_at": "2026-01-14T16:09:07Z",
+      "phone": "+1-555-5068",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0196",
+    "updated_at": "2026-01-14T16:09:07Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-24T06:14:18Z",
+      "email": "blaise.noether@mail.test",
+      "family_name": "Noether",
+      "given_name": "Blaise",
+      "id": "cand_0197",
+      "modified_at": "2026-01-24T06:14:18Z",
+      "phone": "+1-555-1628",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0197",
+    "updated_at": "2026-01-24T06:14:18Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-14T14:37:17Z",
+      "email": "katherine.lovelace@hey.test",
+      "family_name": "Lovelace",
+      "given_name": "Katherine",
+      "id": "cand_0198",
+      "modified_at": "2026-01-14T14:37:17Z",
+      "phone": "+1-555-8610",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0198",
+    "updated_at": "2026-01-14T14:37:17Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-07T19:39:31Z",
+      "email": "hedy.pascal@inbox.test",
+      "family_name": "Pascal",
+      "given_name": "Hedy",
+      "id": "cand_0199",
+      "modified_at": "2026-03-07T19:39:31Z",
+      "phone": "+1-555-2298",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0199",
+    "updated_at": "2026-03-07T19:39:31Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-01T14:04:57Z",
+      "email": "walter.shannon@mail.test",
+      "family_name": "Shannon",
+      "given_name": "Walter",
+      "id": "cand_0200",
+      "modified_at": "2026-03-01T14:04:57Z",
+      "phone": "+1-555-8860",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0200",
+    "updated_at": "2026-03-01T14:04:57Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-28T11:59:53Z",
+      "email": "ada.tesla@hey.test",
+      "family_name": "Tesla",
+      "given_name": "Ada",
+      "id": "cand_0201",
+      "modified_at": "2026-01-28T11:59:53Z",
+      "phone": "+1-555-2580",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0201",
+    "updated_at": "2026-01-28T11:59:53Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-14T07:10:36Z",
+      "email": "katherine.lovelace@hey.test",
+      "family_name": "Lovelace",
+      "given_name": "Katherine",
+      "id": "cand_0202",
+      "modified_at": "2026-02-14T07:10:36Z",
+      "phone": "+1-555-1691",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0202",
+    "updated_at": "2026-02-14T07:10:36Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-23T13:05:33Z",
+      "email": "walter.hopper@mail.test",
+      "family_name": "Hopper",
+      "given_name": "Walter",
+      "id": "cand_0203",
+      "modified_at": "2026-01-23T13:05:33Z",
+      "phone": "+1-555-1972",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0203",
+    "updated_at": "2026-01-23T13:05:33Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-27T13:14:26Z",
+      "email": "jean.hopper@example.test",
+      "family_name": "Hopper",
+      "given_name": "Jean",
+      "id": "cand_0204",
+      "modified_at": "2026-02-27T13:14:26Z",
+      "phone": "+1-555-9602",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0204",
+    "updated_at": "2026-02-27T13:14:26Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-28T16:22:24Z",
+      "email": "nikola.vonneumann@mail.test",
+      "family_name": "Von Neumann",
+      "given_name": "Nikola",
+      "id": "cand_0205",
+      "modified_at": "2026-02-28T16:22:24Z",
+      "phone": "+1-555-1071",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0205",
+    "updated_at": "2026-02-28T16:22:24Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-30T03:51:28Z",
+      "email": "sophie.pascal@mail.test",
+      "family_name": "Pascal",
+      "given_name": "Sophie",
+      "id": "cand_0206",
+      "modified_at": "2026-01-30T03:51:28Z",
+      "phone": "+1-555-1538",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0206",
+    "updated_at": "2026-01-30T03:51:28Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-17T09:43:44Z",
+      "email": "dorothy.xu@example.test",
+      "family_name": "Xu",
+      "given_name": "Dorothy",
+      "id": "cand_0207",
+      "modified_at": "2026-01-17T09:43:44Z",
+      "phone": "+1-555-5842",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0207",
+    "updated_at": "2026-01-17T09:43:44Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-15T23:26:26Z",
+      "email": "grace.pascal@example.test",
+      "family_name": "Pascal",
+      "given_name": "Grace",
+      "id": "cand_0208",
+      "modified_at": "2026-01-15T23:26:26Z",
+      "phone": "+1-555-7207",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0208",
+    "updated_at": "2026-01-15T23:26:26Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-16T23:34:35Z",
+      "email": "yvonne.hopper@hey.test",
+      "family_name": "Hopper",
+      "given_name": "Yvonne",
+      "id": "cand_0209",
+      "modified_at": "2026-01-16T23:34:35Z",
+      "phone": "+1-555-6210",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0209",
+    "updated_at": "2026-01-16T23:34:35Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-16T19:59:41Z",
+      "email": "ada.ramanujan@mail.test",
+      "family_name": "Ramanujan",
+      "given_name": "Ada",
+      "id": "cand_0210",
+      "modified_at": "2026-02-16T19:59:41Z",
+      "phone": "+1-555-1262",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0210",
+    "updated_at": "2026-02-16T19:59:41Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-29T21:17:50Z",
+      "email": "blaise.curie@hey.test",
+      "family_name": "Curie",
+      "given_name": "Blaise",
+      "id": "cand_0211",
+      "modified_at": "2026-01-29T21:17:50Z",
+      "phone": "+1-555-6905",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0211",
+    "updated_at": "2026-01-29T21:17:50Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-13T21:48:12Z",
+      "email": "florence.hopper@hey.test",
+      "family_name": "Hopper",
+      "given_name": "Florence",
+      "id": "cand_0212",
+      "modified_at": "2026-01-13T21:48:12Z",
+      "phone": "+1-555-8598",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0212",
+    "updated_at": "2026-01-13T21:48:12Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-22T20:41:45Z",
+      "email": "florence.curie@inbox.test",
+      "family_name": "Curie",
+      "given_name": "Florence",
+      "id": "cand_0213",
+      "modified_at": "2026-01-22T20:41:45Z",
+      "phone": "+1-555-5200",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0213",
+    "updated_at": "2026-01-22T20:41:45Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-06T22:01:00Z",
+      "email": "walter.vonneumann@example.test",
+      "family_name": "Von Neumann",
+      "given_name": "Walter",
+      "id": "cand_0214",
+      "modified_at": "2026-03-06T22:01:00Z",
+      "phone": "+1-555-9249",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0214",
+    "updated_at": "2026-03-06T22:01:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-17T23:07:48Z",
+      "email": "linus.dirac@example.test",
+      "family_name": "Dirac",
+      "given_name": "Linus",
+      "id": "cand_0215",
+      "modified_at": "2026-02-17T23:07:48Z",
+      "phone": "+1-555-2702",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0215",
+    "updated_at": "2026-02-17T23:07:48Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-04T11:36:02Z",
+      "email": "katherine.zuse@example.test",
+      "family_name": "Zuse",
+      "given_name": "Katherine",
+      "id": "cand_0216",
+      "modified_at": "2026-02-04T11:36:02Z",
+      "phone": "+1-555-7151",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0216",
+    "updated_at": "2026-02-04T11:36:02Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-31T11:20:51Z",
+      "email": "yvonne.wright@example.test",
+      "family_name": "Wright",
+      "given_name": "Yvonne",
+      "id": "cand_0217",
+      "modified_at": "2026-01-31T11:20:51Z",
+      "phone": "+1-555-6101",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0217",
+    "updated_at": "2026-01-31T11:20:51Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-11T20:52:01Z",
+      "email": "zelda.hopper@mail.test",
+      "family_name": "Hopper",
+      "given_name": "Zelda",
+      "id": "cand_0218",
+      "modified_at": "2026-03-11T20:52:01Z",
+      "phone": "+1-555-8194",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0218",
+    "updated_at": "2026-03-11T20:52:01Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-31T17:45:30Z",
+      "email": "ada.turing@hey.test",
+      "family_name": "Turing",
+      "given_name": "Ada",
+      "id": "cand_0219",
+      "modified_at": "2026-01-31T17:45:30Z",
+      "phone": "+1-555-2508",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0219",
+    "updated_at": "2026-01-31T17:45:30Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-15T07:53:10Z",
+      "email": "blaise.zuse@hey.test",
+      "family_name": "Zuse",
+      "given_name": "Blaise",
+      "id": "cand_0220",
+      "modified_at": "2026-01-15T07:53:10Z",
+      "phone": "+1-555-3649",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0220",
+    "updated_at": "2026-01-15T07:53:10Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-06T03:27:56Z",
+      "email": "nikola.wright@mail.test",
+      "family_name": "Wright",
+      "given_name": "Nikola",
+      "id": "cand_0221",
+      "modified_at": "2026-02-06T03:27:56Z",
+      "phone": "+1-555-4040",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0221",
+    "updated_at": "2026-02-06T03:27:56Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-02T20:01:23Z",
+      "email": "hedy.gauss@hey.test",
+      "family_name": "Gauss",
+      "given_name": "Hedy",
+      "id": "cand_0222",
+      "modified_at": "2026-03-02T20:01:23Z",
+      "phone": "+1-555-2823",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0222",
+    "updated_at": "2026-03-02T20:01:23Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-16T22:46:41Z",
+      "email": "sophie.ramanujan@inbox.test",
+      "family_name": "Ramanujan",
+      "given_name": "Sophie",
+      "id": "cand_0223",
+      "modified_at": "2026-01-16T22:46:41Z",
+      "phone": "+1-555-7125",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0223",
+    "updated_at": "2026-01-16T22:46:41Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-25T06:35:15Z",
+      "email": "vera.wright@inbox.test",
+      "family_name": "Wright",
+      "given_name": "Vera",
+      "id": "cand_0224",
+      "modified_at": "2026-01-25T06:35:15Z",
+      "phone": "+1-555-7246",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0224",
+    "updated_at": "2026-01-25T06:35:15Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-19T07:30:11Z",
+      "email": "peggy.young@inbox.test",
+      "family_name": "Young",
+      "given_name": "Peggy",
+      "id": "cand_0225",
+      "modified_at": "2026-02-19T07:30:11Z",
+      "phone": "+1-555-9619",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0225",
+    "updated_at": "2026-02-19T07:30:11Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-10T00:31:12Z",
+      "email": "oliver.tesla@example.test",
+      "family_name": "Tesla",
+      "given_name": "Oliver",
+      "id": "cand_0226",
+      "modified_at": "2026-02-10T00:31:12Z",
+      "phone": "+1-555-8474",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0226",
+    "updated_at": "2026-02-10T00:31:12Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-20T00:18:10Z",
+      "email": "peggy.noether@hey.test",
+      "family_name": "Noether",
+      "given_name": "Peggy",
+      "id": "cand_0227",
+      "modified_at": "2026-02-20T00:18:10Z",
+      "phone": "+1-555-2949",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0227",
+    "updated_at": "2026-02-20T00:18:10Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-16T13:19:25Z",
+      "email": "richard.vonneumann@inbox.test",
+      "family_name": "Von Neumann",
+      "given_name": "Richard",
+      "id": "cand_0228",
+      "modified_at": "2026-02-16T13:19:25Z",
+      "phone": "+1-555-5557",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0228",
+    "updated_at": "2026-02-16T13:19:25Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-30T15:24:49Z",
+      "email": "florence.zuse@inbox.test",
+      "family_name": "Zuse",
+      "given_name": "Florence",
+      "id": "cand_0229",
+      "modified_at": "2026-01-30T15:24:49Z",
+      "phone": "+1-555-6508",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0229",
+    "updated_at": "2026-01-30T15:24:49Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-22T15:22:12Z",
+      "email": "ursula.vonneumann@inbox.test",
+      "family_name": "Von Neumann",
+      "given_name": "Ursula",
+      "id": "cand_0230",
+      "modified_at": "2026-01-22T15:22:12Z",
+      "phone": "+1-555-8309",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0230",
+    "updated_at": "2026-01-22T15:22:12Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-04T23:31:07Z",
+      "email": "sophie.xu@hey.test",
+      "family_name": "Xu",
+      "given_name": "Sophie",
+      "id": "cand_0231",
+      "modified_at": "2026-02-04T23:31:07Z",
+      "phone": "+1-555-1217",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0231",
+    "updated_at": "2026-02-04T23:31:07Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-09T13:45:10Z",
+      "email": "xavier.xu@example.test",
+      "family_name": "Xu",
+      "given_name": "Xavier",
+      "id": "cand_0232",
+      "modified_at": "2026-02-09T13:45:10Z",
+      "phone": "+1-555-1356",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0232",
+    "updated_at": "2026-02-09T13:45:10Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-16T13:06:56Z",
+      "email": "ada.einstein@inbox.test",
+      "family_name": "Einstein",
+      "given_name": "Ada",
+      "id": "cand_0233",
+      "modified_at": "2026-01-16T13:06:56Z",
+      "phone": "+1-555-1919",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0233",
+    "updated_at": "2026-01-16T13:06:56Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-04T09:24:44Z",
+      "email": "isaac.noether@mail.test",
+      "family_name": "Noether",
+      "given_name": "Isaac",
+      "id": "cand_0234",
+      "modified_at": "2026-03-04T09:24:44Z",
+      "phone": "+1-555-3305",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0234",
+    "updated_at": "2026-03-04T09:24:44Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-15T13:47:18Z",
+      "email": "zelda.turing@example.test",
+      "family_name": "Turing",
+      "given_name": "Zelda",
+      "id": "cand_0235",
+      "modified_at": "2026-02-15T13:47:18Z",
+      "phone": "+1-555-5520",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0235",
+    "updated_at": "2026-02-15T13:47:18Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-17T12:14:22Z",
+      "email": "isaac.xu@mail.test",
+      "family_name": "Xu",
+      "given_name": "Isaac",
+      "id": "cand_0236",
+      "modified_at": "2026-01-17T12:14:22Z",
+      "phone": "+1-555-2351",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0236",
+    "updated_at": "2026-01-17T12:14:22Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-14T13:03:59Z",
+      "email": "nikola.gauss@inbox.test",
+      "family_name": "Gauss",
+      "given_name": "Nikola",
+      "id": "cand_0237",
+      "modified_at": "2026-01-14T13:03:59Z",
+      "phone": "+1-555-7938",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0237",
+    "updated_at": "2026-01-14T13:03:59Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-12T09:37:42Z",
+      "email": "xavier.tesla@inbox.test",
+      "family_name": "Tesla",
+      "given_name": "Xavier",
+      "id": "cand_0238",
+      "modified_at": "2026-03-12T09:37:42Z",
+      "phone": "+1-555-6299",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0238",
+    "updated_at": "2026-03-12T09:37:42Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-29T12:04:22Z",
+      "email": "linus.turing@hey.test",
+      "family_name": "Turing",
+      "given_name": "Linus",
+      "id": "cand_0239",
+      "modified_at": "2026-01-29T12:04:22Z",
+      "phone": "+1-555-2068",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0239",
+    "updated_at": "2026-01-29T12:04:22Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-31T13:43:43Z",
+      "email": "peggy.zuse@mail.test",
+      "family_name": "Zuse",
+      "given_name": "Peggy",
+      "id": "cand_0240",
+      "modified_at": "2026-01-31T13:43:43Z",
+      "phone": "+1-555-6669",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0240",
+    "updated_at": "2026-01-31T13:43:43Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-05T19:23:50Z",
+      "email": "tim.feynman@hey.test",
+      "family_name": "Feynman",
+      "given_name": "Tim",
+      "id": "cand_0241",
+      "modified_at": "2026-03-05T19:23:50Z",
+      "phone": "+1-555-7107",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0241",
+    "updated_at": "2026-03-05T19:23:50Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-23T23:19:47Z",
+      "email": "yvonne.tesla@example.test",
+      "family_name": "Tesla",
+      "given_name": "Yvonne",
+      "id": "cand_0242",
+      "modified_at": "2026-01-23T23:19:47Z",
+      "phone": "+1-555-6460",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0242",
+    "updated_at": "2026-01-23T23:19:47Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-19T01:42:38Z",
+      "email": "katherine.lovelace@example.test",
+      "family_name": "Lovelace",
+      "given_name": "Katherine",
+      "id": "cand_0243",
+      "modified_at": "2026-01-19T01:42:38Z",
+      "phone": "+1-555-9719",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0243",
+    "updated_at": "2026-01-19T01:42:38Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-15T06:34:11Z",
+      "email": "sophie.vonneumann@inbox.test",
+      "family_name": "Von Neumann",
+      "given_name": "Sophie",
+      "id": "cand_0244",
+      "modified_at": "2026-01-15T06:34:11Z",
+      "phone": "+1-555-4391",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0244",
+    "updated_at": "2026-01-15T06:34:11Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-18T00:01:58Z",
+      "email": "ada.gauss@hey.test",
+      "family_name": "Gauss",
+      "given_name": "Ada",
+      "id": "cand_0245",
+      "modified_at": "2026-02-18T00:01:58Z",
+      "phone": "+1-555-5150",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0245",
+    "updated_at": "2026-02-18T00:01:58Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-02T19:16:59Z",
+      "email": "tim.wright@hey.test",
+      "family_name": "Wright",
+      "given_name": "Tim",
+      "id": "cand_0246",
+      "modified_at": "2026-02-02T19:16:59Z",
+      "phone": "+1-555-8968",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0246",
+    "updated_at": "2026-02-02T19:16:59Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-12T04:00:32Z",
+      "email": "isaac.babbage@inbox.test",
+      "family_name": "Babbage",
+      "given_name": "Isaac",
+      "id": "cand_0247",
+      "modified_at": "2026-02-12T04:00:32Z",
+      "phone": "+1-555-3349",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0247",
+    "updated_at": "2026-02-12T04:00:32Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-04T18:59:15Z",
+      "email": "walter.tesla@inbox.test",
+      "family_name": "Tesla",
+      "given_name": "Walter",
+      "id": "cand_0248",
+      "modified_at": "2026-03-04T18:59:15Z",
+      "phone": "+1-555-6425",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0248",
+    "updated_at": "2026-03-04T18:59:15Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-10T19:19:28Z",
+      "email": "peggy.xu@mail.test",
+      "family_name": "Xu",
+      "given_name": "Peggy",
+      "id": "cand_0249",
+      "modified_at": "2026-03-10T19:19:28Z",
+      "phone": "+1-555-8898",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0249",
+    "updated_at": "2026-03-10T19:19:28Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-21T16:19:36Z",
+      "email": "grace.hopper@example.test",
+      "family_name": "Hopper",
+      "given_name": "Grace",
+      "id": "cand_0250",
+      "modified_at": "2026-01-21T16:19:36Z",
+      "phone": "+1-555-1612",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0250",
+    "updated_at": "2026-01-21T16:19:36Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-23T01:31:10Z",
+      "email": "emmy.dirac@hey.test",
+      "family_name": "Dirac",
+      "given_name": "Emmy",
+      "id": "cand_0251",
+      "modified_at": "2026-02-23T01:31:10Z",
+      "phone": "+1-555-6788",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0251",
+    "updated_at": "2026-02-23T01:31:10Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-12T10:42:52Z",
+      "email": "nikola.tesla@hey.test",
+      "family_name": "Tesla",
+      "given_name": "Nikola",
+      "id": "cand_0252",
+      "modified_at": "2026-02-12T10:42:52Z",
+      "phone": "+1-555-5755",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0252",
+    "updated_at": "2026-02-12T10:42:52Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-18T20:18:01Z",
+      "email": "charles.turing@hey.test",
+      "family_name": "Turing",
+      "given_name": "Charles",
+      "id": "cand_0253",
+      "modified_at": "2026-01-18T20:18:01Z",
+      "phone": "+1-555-5706",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0253",
+    "updated_at": "2026-01-18T20:18:01Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-27T03:45:18Z",
+      "email": "ursula.vonneumann@mail.test",
+      "family_name": "Von Neumann",
+      "given_name": "Ursula",
+      "id": "cand_0254",
+      "modified_at": "2026-02-27T03:45:18Z",
+      "phone": "+1-555-2168",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0254",
+    "updated_at": "2026-02-27T03:45:18Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-20T11:08:05Z",
+      "email": "isaac.wright@inbox.test",
+      "family_name": "Wright",
+      "given_name": "Isaac",
+      "id": "cand_0255",
+      "modified_at": "2026-01-20T11:08:05Z",
+      "phone": "+1-555-8848",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0255",
+    "updated_at": "2026-01-20T11:08:05Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-25T00:52:05Z",
+      "email": "florence.einstein@mail.test",
+      "family_name": "Einstein",
+      "given_name": "Florence",
+      "id": "cand_0256",
+      "modified_at": "2026-02-25T00:52:05Z",
+      "phone": "+1-555-6756",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0256",
+    "updated_at": "2026-02-25T00:52:05Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-04T21:44:16Z",
+      "email": "florence.tesla@mail.test",
+      "family_name": "Tesla",
+      "given_name": "Florence",
+      "id": "cand_0257",
+      "modified_at": "2026-03-04T21:44:16Z",
+      "phone": "+1-555-9569",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0257",
+    "updated_at": "2026-03-04T21:44:16Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-07T07:48:49Z",
+      "email": "blaise.lovelace@inbox.test",
+      "family_name": "Lovelace",
+      "given_name": "Blaise",
+      "id": "cand_0258",
+      "modified_at": "2026-02-07T07:48:49Z",
+      "phone": "+1-555-8246",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0258",
+    "updated_at": "2026-02-07T07:48:49Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-03T17:00:31Z",
+      "email": "isaac.pascal@inbox.test",
+      "family_name": "Pascal",
+      "given_name": "Isaac",
+      "id": "cand_0259",
+      "modified_at": "2026-03-03T17:00:31Z",
+      "phone": "+1-555-3585",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0259",
+    "updated_at": "2026-03-03T17:00:31Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-02T18:34:03Z",
+      "email": "florence.noether@inbox.test",
+      "family_name": "Noether",
+      "given_name": "Florence",
+      "id": "cand_0260",
+      "modified_at": "2026-02-02T18:34:03Z",
+      "phone": "+1-555-9578",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0260",
+    "updated_at": "2026-02-02T18:34:03Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-16T22:12:21Z",
+      "email": "yvonne.zuse@example.test",
+      "family_name": "Zuse",
+      "given_name": "Yvonne",
+      "id": "cand_0261",
+      "modified_at": "2026-01-16T22:12:21Z",
+      "phone": "+1-555-4541",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0261",
+    "updated_at": "2026-01-16T22:12:21Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-26T11:50:21Z",
+      "email": "nikola.feynman@inbox.test",
+      "family_name": "Feynman",
+      "given_name": "Nikola",
+      "id": "cand_0262",
+      "modified_at": "2026-02-26T11:50:21Z",
+      "phone": "+1-555-6872",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0262",
+    "updated_at": "2026-02-26T11:50:21Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-05T07:02:44Z",
+      "email": "florence.turing@hey.test",
+      "family_name": "Turing",
+      "given_name": "Florence",
+      "id": "cand_0263",
+      "modified_at": "2026-02-05T07:02:44Z",
+      "phone": "+1-555-8410",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0263",
+    "updated_at": "2026-02-05T07:02:44Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-04T04:03:21Z",
+      "email": "linus.pascal@example.test",
+      "family_name": "Pascal",
+      "given_name": "Linus",
+      "id": "cand_0264",
+      "modified_at": "2026-03-04T04:03:21Z",
+      "phone": "+1-555-2769",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0264",
+    "updated_at": "2026-03-04T04:03:21Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-13T05:21:30Z",
+      "email": "richard.pascal@mail.test",
+      "family_name": "Pascal",
+      "given_name": "Richard",
+      "id": "cand_0265",
+      "modified_at": "2026-02-13T05:21:30Z",
+      "phone": "+1-555-9845",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0265",
+    "updated_at": "2026-02-13T05:21:30Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-28T02:56:34Z",
+      "email": "peggy.hopper@hey.test",
+      "family_name": "Hopper",
+      "given_name": "Peggy",
+      "id": "cand_0266",
+      "modified_at": "2026-01-28T02:56:34Z",
+      "phone": "+1-555-6519",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0266",
+    "updated_at": "2026-01-28T02:56:34Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-25T05:02:27Z",
+      "email": "yvonne.xu@hey.test",
+      "family_name": "Xu",
+      "given_name": "Yvonne",
+      "id": "cand_0267",
+      "modified_at": "2026-02-25T05:02:27Z",
+      "phone": "+1-555-3911",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0267",
+    "updated_at": "2026-02-25T05:02:27Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-24T05:35:18Z",
+      "email": "vera.hopper@hey.test",
+      "family_name": "Hopper",
+      "given_name": "Vera",
+      "id": "cand_0268",
+      "modified_at": "2026-01-24T05:35:18Z",
+      "phone": "+1-555-2064",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0268",
+    "updated_at": "2026-01-24T05:35:18Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-14T13:23:17Z",
+      "email": "dorothy.noether@inbox.test",
+      "family_name": "Noether",
+      "given_name": "Dorothy",
+      "id": "cand_0269",
+      "modified_at": "2026-01-14T13:23:17Z",
+      "phone": "+1-555-1641",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0269",
+    "updated_at": "2026-01-14T13:23:17Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-27T16:54:07Z",
+      "email": "ada.feynman@mail.test",
+      "family_name": "Feynman",
+      "given_name": "Ada",
+      "id": "cand_0270",
+      "modified_at": "2026-01-27T16:54:07Z",
+      "phone": "+1-555-2356",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0270",
+    "updated_at": "2026-01-27T16:54:07Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-24T02:26:38Z",
+      "email": "emmy.tesla@mail.test",
+      "family_name": "Tesla",
+      "given_name": "Emmy",
+      "id": "cand_0271",
+      "modified_at": "2026-02-24T02:26:38Z",
+      "phone": "+1-555-7569",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0271",
+    "updated_at": "2026-02-24T02:26:38Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-02T00:48:23Z",
+      "email": "ada.hopper@mail.test",
+      "family_name": "Hopper",
+      "given_name": "Ada",
+      "id": "cand_0272",
+      "modified_at": "2026-03-02T00:48:23Z",
+      "phone": "+1-555-6630",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0272",
+    "updated_at": "2026-03-02T00:48:23Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-09T16:32:53Z",
+      "email": "jean.feynman@mail.test",
+      "family_name": "Feynman",
+      "given_name": "Jean",
+      "id": "cand_0273",
+      "modified_at": "2026-02-09T16:32:53Z",
+      "phone": "+1-555-1631",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0273",
+    "updated_at": "2026-02-09T16:32:53Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-14T12:49:22Z",
+      "email": "ada.pascal@example.test",
+      "family_name": "Pascal",
+      "given_name": "Ada",
+      "id": "cand_0274",
+      "modified_at": "2026-02-14T12:49:22Z",
+      "phone": "+1-555-2703",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0274",
+    "updated_at": "2026-02-14T12:49:22Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-18T21:39:57Z",
+      "email": "peggy.feynman@mail.test",
+      "family_name": "Feynman",
+      "given_name": "Peggy",
+      "id": "cand_0275",
+      "modified_at": "2026-01-18T21:39:57Z",
+      "phone": "+1-555-3875",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0275",
+    "updated_at": "2026-01-18T21:39:57Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-12T03:53:35Z",
+      "email": "katherine.gauss@mail.test",
+      "family_name": "Gauss",
+      "given_name": "Katherine",
+      "id": "cand_0276",
+      "modified_at": "2026-02-12T03:53:35Z",
+      "phone": "+1-555-5078",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0276",
+    "updated_at": "2026-02-12T03:53:35Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-26T18:11:10Z",
+      "email": "emmy.turing@example.test",
+      "family_name": "Turing",
+      "given_name": "Emmy",
+      "id": "cand_0277",
+      "modified_at": "2026-01-26T18:11:10Z",
+      "phone": "+1-555-8278",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0277",
+    "updated_at": "2026-01-26T18:11:10Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-03T04:59:12Z",
+      "email": "peggy.curie@mail.test",
+      "family_name": "Curie",
+      "given_name": "Peggy",
+      "id": "cand_0278",
+      "modified_at": "2026-02-03T04:59:12Z",
+      "phone": "+1-555-4307",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0278",
+    "updated_at": "2026-02-03T04:59:12Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-04T20:08:14Z",
+      "email": "grace.hopper@mail.test",
+      "family_name": "Hopper",
+      "given_name": "Grace",
+      "id": "cand_0279",
+      "modified_at": "2026-02-04T20:08:14Z",
+      "phone": "+1-555-8901",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0279",
+    "updated_at": "2026-02-04T20:08:14Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-07T04:12:04Z",
+      "email": "walter.turing@example.test",
+      "family_name": "Turing",
+      "given_name": "Walter",
+      "id": "cand_0280",
+      "modified_at": "2026-02-07T04:12:04Z",
+      "phone": "+1-555-8516",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0280",
+    "updated_at": "2026-02-07T04:12:04Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-21T03:00:17Z",
+      "email": "charles.young@hey.test",
+      "family_name": "Young",
+      "given_name": "Charles",
+      "id": "cand_0281",
+      "modified_at": "2026-02-21T03:00:17Z",
+      "phone": "+1-555-1065",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0281",
+    "updated_at": "2026-02-21T03:00:17Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-01T08:28:12Z",
+      "email": "dorothy.babbage@example.test",
+      "family_name": "Babbage",
+      "given_name": "Dorothy",
+      "id": "cand_0282",
+      "modified_at": "2026-02-01T08:28:12Z",
+      "phone": "+1-555-4010",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0282",
+    "updated_at": "2026-02-01T08:28:12Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-03T22:21:07Z",
+      "email": "sophie.curie@hey.test",
+      "family_name": "Curie",
+      "given_name": "Sophie",
+      "id": "cand_0283",
+      "modified_at": "2026-02-03T22:21:07Z",
+      "phone": "+1-555-4959",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0283",
+    "updated_at": "2026-02-03T22:21:07Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-22T05:11:23Z",
+      "email": "grace.vonneumann@example.test",
+      "family_name": "Von Neumann",
+      "given_name": "Grace",
+      "id": "cand_0284",
+      "modified_at": "2026-02-22T05:11:23Z",
+      "phone": "+1-555-3656",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0284",
+    "updated_at": "2026-02-22T05:11:23Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-26T08:32:03Z",
+      "email": "blaise.shannon@example.test",
+      "family_name": "Shannon",
+      "given_name": "Blaise",
+      "id": "cand_0285",
+      "modified_at": "2026-02-26T08:32:03Z",
+      "phone": "+1-555-1544",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0285",
+    "updated_at": "2026-02-26T08:32:03Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-07T23:08:23Z",
+      "email": "yvonne.shannon@inbox.test",
+      "family_name": "Shannon",
+      "given_name": "Yvonne",
+      "id": "cand_0286",
+      "modified_at": "2026-03-07T23:08:23Z",
+      "phone": "+1-555-8313",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0286",
+    "updated_at": "2026-03-07T23:08:23Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-28T07:35:15Z",
+      "email": "jean.shannon@hey.test",
+      "family_name": "Shannon",
+      "given_name": "Jean",
+      "id": "cand_0287",
+      "modified_at": "2026-01-28T07:35:15Z",
+      "phone": "+1-555-5444",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0287",
+    "updated_at": "2026-01-28T07:35:15Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-20T02:43:45Z",
+      "email": "richard.gauss@inbox.test",
+      "family_name": "Gauss",
+      "given_name": "Richard",
+      "id": "cand_0288",
+      "modified_at": "2026-02-20T02:43:45Z",
+      "phone": "+1-555-6798",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0288",
+    "updated_at": "2026-02-20T02:43:45Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-13T10:39:52Z",
+      "email": "walter.gauss@example.test",
+      "family_name": "Gauss",
+      "given_name": "Walter",
+      "id": "cand_0289",
+      "modified_at": "2026-03-13T10:39:52Z",
+      "phone": "+1-555-1684",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0289",
+    "updated_at": "2026-03-13T10:39:52Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-21T12:56:09Z",
+      "email": "florence.lovelace@hey.test",
+      "family_name": "Lovelace",
+      "given_name": "Florence",
+      "id": "cand_0290",
+      "modified_at": "2026-02-21T12:56:09Z",
+      "phone": "+1-555-9301",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0290",
+    "updated_at": "2026-02-21T12:56:09Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-16T07:22:31Z",
+      "email": "isaac.tesla@mail.test",
+      "family_name": "Tesla",
+      "given_name": "Isaac",
+      "id": "cand_0291",
+      "modified_at": "2026-01-16T07:22:31Z",
+      "phone": "+1-555-8100",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0291",
+    "updated_at": "2026-01-16T07:22:31Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-06T23:16:02Z",
+      "email": "katherine.pascal@example.test",
+      "family_name": "Pascal",
+      "given_name": "Katherine",
+      "id": "cand_0292",
+      "modified_at": "2026-02-06T23:16:02Z",
+      "phone": "+1-555-6732",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0292",
+    "updated_at": "2026-02-06T23:16:02Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-09T12:42:57Z",
+      "email": "richard.curie@inbox.test",
+      "family_name": "Curie",
+      "given_name": "Richard",
+      "id": "cand_0293",
+      "modified_at": "2026-03-09T12:42:57Z",
+      "phone": "+1-555-2007",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0293",
+    "updated_at": "2026-03-09T12:42:57Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-23T15:21:51Z",
+      "email": "oliver.babbage@hey.test",
+      "family_name": "Babbage",
+      "given_name": "Oliver",
+      "id": "cand_0294",
+      "modified_at": "2026-02-23T15:21:51Z",
+      "phone": "+1-555-1284",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0294",
+    "updated_at": "2026-02-23T15:21:51Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-04T01:15:47Z",
+      "email": "florence.lovelace@mail.test",
+      "family_name": "Lovelace",
+      "given_name": "Florence",
+      "id": "cand_0295",
+      "modified_at": "2026-02-04T01:15:47Z",
+      "phone": "+1-555-3224",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0295",
+    "updated_at": "2026-02-04T01:15:47Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-03T02:26:35Z",
+      "email": "ada.wright@inbox.test",
+      "family_name": "Wright",
+      "given_name": "Ada",
+      "id": "cand_0296",
+      "modified_at": "2026-03-03T02:26:35Z",
+      "phone": "+1-555-3440",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0296",
+    "updated_at": "2026-03-03T02:26:35Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-04T19:16:07Z",
+      "email": "emmy.babbage@hey.test",
+      "family_name": "Babbage",
+      "given_name": "Emmy",
+      "id": "cand_0297",
+      "modified_at": "2026-02-04T19:16:07Z",
+      "phone": "+1-555-5077",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0297",
+    "updated_at": "2026-02-04T19:16:07Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-01T09:40:29Z",
+      "email": "xavier.xu@example.test",
+      "family_name": "Xu",
+      "given_name": "Xavier",
+      "id": "cand_0298",
+      "modified_at": "2026-02-01T09:40:29Z",
+      "phone": "+1-555-2075",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0298",
+    "updated_at": "2026-02-01T09:40:29Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-12T14:18:47Z",
+      "email": "oliver.xu@hey.test",
+      "family_name": "Xu",
+      "given_name": "Oliver",
+      "id": "cand_0299",
+      "modified_at": "2026-03-12T14:18:47Z",
+      "phone": "+1-555-2247",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0299",
+    "updated_at": "2026-03-12T14:18:47Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-27T10:00:07Z",
+      "email": "vera.noether@example.test",
+      "family_name": "Noether",
+      "given_name": "Vera",
+      "id": "cand_0300",
+      "modified_at": "2026-02-27T10:00:07Z",
+      "phone": "+1-555-4479",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0300",
+    "updated_at": "2026-02-27T10:00:07Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-23T03:07:30Z",
+      "email": "grace.dirac@example.test",
+      "family_name": "Dirac",
+      "given_name": "Grace",
+      "id": "cand_0301",
+      "modified_at": "2026-02-23T03:07:30Z",
+      "phone": "+1-555-3044",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0301",
+    "updated_at": "2026-02-23T03:07:30Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-03T07:57:34Z",
+      "email": "grace.zuse@inbox.test",
+      "family_name": "Zuse",
+      "given_name": "Grace",
+      "id": "cand_0302",
+      "modified_at": "2026-02-03T07:57:34Z",
+      "phone": "+1-555-6339",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0302",
+    "updated_at": "2026-02-03T07:57:34Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-03T15:13:00Z",
+      "email": "xavier.shannon@mail.test",
+      "family_name": "Shannon",
+      "given_name": "Xavier",
+      "id": "cand_0303",
+      "modified_at": "2026-02-03T15:13:00Z",
+      "phone": "+1-555-3118",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0303",
+    "updated_at": "2026-02-03T15:13:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-07T00:04:40Z",
+      "email": "sophie.turing@mail.test",
+      "family_name": "Turing",
+      "given_name": "Sophie",
+      "id": "cand_0304",
+      "modified_at": "2026-03-07T00:04:40Z",
+      "phone": "+1-555-1944",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0304",
+    "updated_at": "2026-03-07T00:04:40Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-02T21:52:14Z",
+      "email": "xavier.tesla@inbox.test",
+      "family_name": "Tesla",
+      "given_name": "Xavier",
+      "id": "cand_0305",
+      "modified_at": "2026-02-02T21:52:14Z",
+      "phone": "+1-555-9104",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0305",
+    "updated_at": "2026-02-02T21:52:14Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-24T23:10:35Z",
+      "email": "richard.dirac@mail.test",
+      "family_name": "Dirac",
+      "given_name": "Richard",
+      "id": "cand_0306",
+      "modified_at": "2026-02-24T23:10:35Z",
+      "phone": "+1-555-3767",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0306",
+    "updated_at": "2026-02-24T23:10:35Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-18T04:16:46Z",
+      "email": "oliver.pascal@mail.test",
+      "family_name": "Pascal",
+      "given_name": "Oliver",
+      "id": "cand_0307",
+      "modified_at": "2026-02-18T04:16:46Z",
+      "phone": "+1-555-1883",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0307",
+    "updated_at": "2026-02-18T04:16:46Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-12T07:08:40Z",
+      "email": "linus.ramanujan@inbox.test",
+      "family_name": "Ramanujan",
+      "given_name": "Linus",
+      "id": "cand_0308",
+      "modified_at": "2026-02-12T07:08:40Z",
+      "phone": "+1-555-9758",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0308",
+    "updated_at": "2026-02-12T07:08:40Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-14T20:42:44Z",
+      "email": "jean.gauss@inbox.test",
+      "family_name": "Gauss",
+      "given_name": "Jean",
+      "id": "cand_0309",
+      "modified_at": "2026-02-14T20:42:44Z",
+      "phone": "+1-555-8691",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0309",
+    "updated_at": "2026-02-14T20:42:44Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-28T11:38:23Z",
+      "email": "florence.shannon@inbox.test",
+      "family_name": "Shannon",
+      "given_name": "Florence",
+      "id": "cand_0310",
+      "modified_at": "2026-01-28T11:38:23Z",
+      "phone": "+1-555-5927",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0310",
+    "updated_at": "2026-01-28T11:38:23Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-30T15:26:46Z",
+      "email": "nikola.vonneumann@inbox.test",
+      "family_name": "Von Neumann",
+      "given_name": "Nikola",
+      "id": "cand_0311",
+      "modified_at": "2026-01-30T15:26:46Z",
+      "phone": "+1-555-5877",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0311",
+    "updated_at": "2026-01-30T15:26:46Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-08T10:47:00Z",
+      "email": "florence.xu@inbox.test",
+      "family_name": "Xu",
+      "given_name": "Florence",
+      "id": "cand_0312",
+      "modified_at": "2026-03-08T10:47:00Z",
+      "phone": "+1-555-8747",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0312",
+    "updated_at": "2026-03-08T10:47:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-21T10:31:42Z",
+      "email": "dorothy.young@mail.test",
+      "family_name": "Young",
+      "given_name": "Dorothy",
+      "id": "cand_0313",
+      "modified_at": "2026-01-21T10:31:42Z",
+      "phone": "+1-555-7550",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0313",
+    "updated_at": "2026-01-21T10:31:42Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-25T18:58:26Z",
+      "email": "zelda.curie@example.test",
+      "family_name": "Curie",
+      "given_name": "Zelda",
+      "id": "cand_0314",
+      "modified_at": "2026-01-25T18:58:26Z",
+      "phone": "+1-555-4318",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0314",
+    "updated_at": "2026-01-25T18:58:26Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-05T22:08:55Z",
+      "email": "ursula.babbage@example.test",
+      "family_name": "Babbage",
+      "given_name": "Ursula",
+      "id": "cand_0315",
+      "modified_at": "2026-02-05T22:08:55Z",
+      "phone": "+1-555-4706",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0315",
+    "updated_at": "2026-02-05T22:08:55Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-05T23:04:54Z",
+      "email": "charles.turing@mail.test",
+      "family_name": "Turing",
+      "given_name": "Charles",
+      "id": "cand_0316",
+      "modified_at": "2026-02-05T23:04:54Z",
+      "phone": "+1-555-7451",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0316",
+    "updated_at": "2026-02-05T23:04:54Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-01T03:47:30Z",
+      "email": "charles.xu@inbox.test",
+      "family_name": "Xu",
+      "given_name": "Charles",
+      "id": "cand_0317",
+      "modified_at": "2026-02-01T03:47:30Z",
+      "phone": "+1-555-5791",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0317",
+    "updated_at": "2026-02-01T03:47:30Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-04T04:52:50Z",
+      "email": "nikola.feynman@example.test",
+      "family_name": "Feynman",
+      "given_name": "Nikola",
+      "id": "cand_0318",
+      "modified_at": "2026-03-04T04:52:50Z",
+      "phone": "+1-555-2236",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0318",
+    "updated_at": "2026-03-04T04:52:50Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-25T05:11:24Z",
+      "email": "charles.babbage@example.test",
+      "family_name": "Babbage",
+      "given_name": "Charles",
+      "id": "cand_0319",
+      "modified_at": "2026-02-25T05:11:24Z",
+      "phone": "+1-555-4165",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0319",
+    "updated_at": "2026-02-25T05:11:24Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-27T09:13:43Z",
+      "email": "isaac.young@example.test",
+      "family_name": "Young",
+      "given_name": "Isaac",
+      "id": "cand_0320",
+      "modified_at": "2026-01-27T09:13:43Z",
+      "phone": "+1-555-8544",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0320",
+    "updated_at": "2026-01-27T09:13:43Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-14T04:43:17Z",
+      "email": "jean.hopper@example.test",
+      "family_name": "Hopper",
+      "given_name": "Jean",
+      "id": "cand_0321",
+      "modified_at": "2026-01-14T04:43:17Z",
+      "phone": "+1-555-8247",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0321",
+    "updated_at": "2026-01-14T04:43:17Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-16T18:19:44Z",
+      "email": "nikola.wright@hey.test",
+      "family_name": "Wright",
+      "given_name": "Nikola",
+      "id": "cand_0322",
+      "modified_at": "2026-02-16T18:19:44Z",
+      "phone": "+1-555-7137",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0322",
+    "updated_at": "2026-02-16T18:19:44Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-19T20:16:36Z",
+      "email": "florence.young@hey.test",
+      "family_name": "Young",
+      "given_name": "Florence",
+      "id": "cand_0323",
+      "modified_at": "2026-02-19T20:16:36Z",
+      "phone": "+1-555-2959",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0323",
+    "updated_at": "2026-02-19T20:16:36Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-04T12:12:43Z",
+      "email": "zelda.turing@inbox.test",
+      "family_name": "Turing",
+      "given_name": "Zelda",
+      "id": "cand_0324",
+      "modified_at": "2026-03-04T12:12:43Z",
+      "phone": "+1-555-2243",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0324",
+    "updated_at": "2026-03-04T12:12:43Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-10T01:53:18Z",
+      "email": "blaise.einstein@hey.test",
+      "family_name": "Einstein",
+      "given_name": "Blaise",
+      "id": "cand_0325",
+      "modified_at": "2026-02-10T01:53:18Z",
+      "phone": "+1-555-6078",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0325",
+    "updated_at": "2026-02-10T01:53:18Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-30T17:50:03Z",
+      "email": "yvonne.vonneumann@inbox.test",
+      "family_name": "Von Neumann",
+      "given_name": "Yvonne",
+      "id": "cand_0326",
+      "modified_at": "2026-01-30T17:50:03Z",
+      "phone": "+1-555-4500",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0326",
+    "updated_at": "2026-01-30T17:50:03Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-13T15:21:18Z",
+      "email": "blaise.lovelace@inbox.test",
+      "family_name": "Lovelace",
+      "given_name": "Blaise",
+      "id": "cand_0327",
+      "modified_at": "2026-03-13T15:21:18Z",
+      "phone": "+1-555-8240",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0327",
+    "updated_at": "2026-03-13T15:21:18Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-03T00:51:12Z",
+      "email": "grace.pascal@inbox.test",
+      "family_name": "Pascal",
+      "given_name": "Grace",
+      "id": "cand_0328",
+      "modified_at": "2026-02-03T00:51:12Z",
+      "phone": "+1-555-8272",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0328",
+    "updated_at": "2026-02-03T00:51:12Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-29T23:56:45Z",
+      "email": "grace.pascal@example.test",
+      "family_name": "Pascal",
+      "given_name": "Grace",
+      "id": "cand_0329",
+      "modified_at": "2026-01-29T23:56:45Z",
+      "phone": "+1-555-8100",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0329",
+    "updated_at": "2026-01-29T23:56:45Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-31T16:19:25Z",
+      "email": "zelda.zuse@hey.test",
+      "family_name": "Zuse",
+      "given_name": "Zelda",
+      "id": "cand_0330",
+      "modified_at": "2026-01-31T16:19:25Z",
+      "phone": "+1-555-2049",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0330",
+    "updated_at": "2026-01-31T16:19:25Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-02T16:38:48Z",
+      "email": "emmy.wright@hey.test",
+      "family_name": "Wright",
+      "given_name": "Emmy",
+      "id": "cand_0331",
+      "modified_at": "2026-03-02T16:38:48Z",
+      "phone": "+1-555-9857",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0331",
+    "updated_at": "2026-03-02T16:38:48Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-04T14:01:33Z",
+      "email": "katherine.pascal@example.test",
+      "family_name": "Pascal",
+      "given_name": "Katherine",
+      "id": "cand_0332",
+      "modified_at": "2026-03-04T14:01:33Z",
+      "phone": "+1-555-8610",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0332",
+    "updated_at": "2026-03-04T14:01:33Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-22T14:58:05Z",
+      "email": "richard.lovelace@hey.test",
+      "family_name": "Lovelace",
+      "given_name": "Richard",
+      "id": "cand_0333",
+      "modified_at": "2026-02-22T14:58:05Z",
+      "phone": "+1-555-7260",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0333",
+    "updated_at": "2026-02-22T14:58:05Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-25T21:11:34Z",
+      "email": "ursula.feynman@inbox.test",
+      "family_name": "Feynman",
+      "given_name": "Ursula",
+      "id": "cand_0334",
+      "modified_at": "2026-01-25T21:11:34Z",
+      "phone": "+1-555-7245",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0334",
+    "updated_at": "2026-01-25T21:11:34Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-03T11:10:02Z",
+      "email": "charles.turing@example.test",
+      "family_name": "Turing",
+      "given_name": "Charles",
+      "id": "cand_0335",
+      "modified_at": "2026-03-03T11:10:02Z",
+      "phone": "+1-555-2583",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0335",
+    "updated_at": "2026-03-03T11:10:02Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-01T22:24:20Z",
+      "email": "sophie.turing@mail.test",
+      "family_name": "Turing",
+      "given_name": "Sophie",
+      "id": "cand_0336",
+      "modified_at": "2026-03-01T22:24:20Z",
+      "phone": "+1-555-9549",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0336",
+    "updated_at": "2026-03-01T22:24:20Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-14T11:32:54Z",
+      "email": "ursula.feynman@inbox.test",
+      "family_name": "Feynman",
+      "given_name": "Ursula",
+      "id": "cand_0337",
+      "modified_at": "2026-02-14T11:32:54Z",
+      "phone": "+1-555-7955",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0337",
+    "updated_at": "2026-02-14T11:32:54Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-14T21:16:17Z",
+      "email": "charles.vonneumann@example.test",
+      "family_name": "Von Neumann",
+      "given_name": "Charles",
+      "id": "cand_0338",
+      "modified_at": "2026-02-14T21:16:17Z",
+      "phone": "+1-555-1180",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0338",
+    "updated_at": "2026-02-14T21:16:17Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-22T23:28:42Z",
+      "email": "xavier.turing@hey.test",
+      "family_name": "Turing",
+      "given_name": "Xavier",
+      "id": "cand_0339",
+      "modified_at": "2026-02-22T23:28:42Z",
+      "phone": "+1-555-3221",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0339",
+    "updated_at": "2026-02-22T23:28:42Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-11T22:06:54Z",
+      "email": "grace.turing@hey.test",
+      "family_name": "Turing",
+      "given_name": "Grace",
+      "id": "cand_0340",
+      "modified_at": "2026-03-11T22:06:54Z",
+      "phone": "+1-555-2687",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0340",
+    "updated_at": "2026-03-11T22:06:54Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-20T03:43:56Z",
+      "email": "oliver.wright@example.test",
+      "family_name": "Wright",
+      "given_name": "Oliver",
+      "id": "cand_0341",
+      "modified_at": "2026-01-20T03:43:56Z",
+      "phone": "+1-555-4204",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0341",
+    "updated_at": "2026-01-20T03:43:56Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-02T20:12:55Z",
+      "email": "oliver.vonneumann@hey.test",
+      "family_name": "Von Neumann",
+      "given_name": "Oliver",
+      "id": "cand_0342",
+      "modified_at": "2026-02-02T20:12:55Z",
+      "phone": "+1-555-2807",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0342",
+    "updated_at": "2026-02-02T20:12:55Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-27T00:58:51Z",
+      "email": "ada.feynman@mail.test",
+      "family_name": "Feynman",
+      "given_name": "Ada",
+      "id": "cand_0343",
+      "modified_at": "2026-01-27T00:58:51Z",
+      "phone": "+1-555-1289",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0343",
+    "updated_at": "2026-01-27T00:58:51Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-02T01:21:12Z",
+      "email": "marie.wright@hey.test",
+      "family_name": "Wright",
+      "given_name": "Marie",
+      "id": "cand_0344",
+      "modified_at": "2026-03-02T01:21:12Z",
+      "phone": "+1-555-8199",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0344",
+    "updated_at": "2026-03-02T01:21:12Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-17T06:48:21Z",
+      "email": "katherine.ramanujan@inbox.test",
+      "family_name": "Ramanujan",
+      "given_name": "Katherine",
+      "id": "cand_0345",
+      "modified_at": "2026-01-17T06:48:21Z",
+      "phone": "+1-555-7327",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0345",
+    "updated_at": "2026-01-17T06:48:21Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-06T03:27:21Z",
+      "email": "grace.gauss@example.test",
+      "family_name": "Gauss",
+      "given_name": "Grace",
+      "id": "cand_0346",
+      "modified_at": "2026-03-06T03:27:21Z",
+      "phone": "+1-555-4817",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0346",
+    "updated_at": "2026-03-06T03:27:21Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-04T20:00:56Z",
+      "email": "yvonne.wright@inbox.test",
+      "family_name": "Wright",
+      "given_name": "Yvonne",
+      "id": "cand_0347",
+      "modified_at": "2026-03-04T20:00:56Z",
+      "phone": "+1-555-4389",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0347",
+    "updated_at": "2026-03-04T20:00:56Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-14T06:28:45Z",
+      "email": "peggy.babbage@mail.test",
+      "family_name": "Babbage",
+      "given_name": "Peggy",
+      "id": "cand_0348",
+      "modified_at": "2026-03-14T06:28:45Z",
+      "phone": "+1-555-7617",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0348",
+    "updated_at": "2026-03-14T06:28:45Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-01T10:11:44Z",
+      "email": "tim.tesla@mail.test",
+      "family_name": "Tesla",
+      "given_name": "Tim",
+      "id": "cand_0349",
+      "modified_at": "2026-03-01T10:11:44Z",
+      "phone": "+1-555-2625",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0349",
+    "updated_at": "2026-03-01T10:11:44Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-17T13:12:55Z",
+      "email": "katherine.feynman@inbox.test",
+      "family_name": "Feynman",
+      "given_name": "Katherine",
+      "id": "cand_0350",
+      "modified_at": "2026-02-17T13:12:55Z",
+      "phone": "+1-555-2913",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0350",
+    "updated_at": "2026-02-17T13:12:55Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-28T08:25:37Z",
+      "email": "linus.einstein@inbox.test",
+      "family_name": "Einstein",
+      "given_name": "Linus",
+      "id": "cand_0351",
+      "modified_at": "2026-01-28T08:25:37Z",
+      "phone": "+1-555-2672",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0351",
+    "updated_at": "2026-01-28T08:25:37Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-21T00:14:22Z",
+      "email": "vera.tesla@mail.test",
+      "family_name": "Tesla",
+      "given_name": "Vera",
+      "id": "cand_0352",
+      "modified_at": "2026-02-21T00:14:22Z",
+      "phone": "+1-555-7326",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0352",
+    "updated_at": "2026-02-21T00:14:22Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-20T08:30:24Z",
+      "email": "peggy.ramanujan@mail.test",
+      "family_name": "Ramanujan",
+      "given_name": "Peggy",
+      "id": "cand_0353",
+      "modified_at": "2026-02-20T08:30:24Z",
+      "phone": "+1-555-7378",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0353",
+    "updated_at": "2026-02-20T08:30:24Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-27T07:27:40Z",
+      "email": "isaac.gauss@hey.test",
+      "family_name": "Gauss",
+      "given_name": "Isaac",
+      "id": "cand_0354",
+      "modified_at": "2026-01-27T07:27:40Z",
+      "phone": "+1-555-3963",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0354",
+    "updated_at": "2026-01-27T07:27:40Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-18T00:02:47Z",
+      "email": "yvonne.einstein@hey.test",
+      "family_name": "Einstein",
+      "given_name": "Yvonne",
+      "id": "cand_0355",
+      "modified_at": "2026-02-18T00:02:47Z",
+      "phone": "+1-555-1930",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0355",
+    "updated_at": "2026-02-18T00:02:47Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-22T18:05:21Z",
+      "email": "blaise.vonneumann@mail.test",
+      "family_name": "Von Neumann",
+      "given_name": "Blaise",
+      "id": "cand_0356",
+      "modified_at": "2026-02-22T18:05:21Z",
+      "phone": "+1-555-2525",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0356",
+    "updated_at": "2026-02-22T18:05:21Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-14T03:48:54Z",
+      "email": "yvonne.wright@hey.test",
+      "family_name": "Wright",
+      "given_name": "Yvonne",
+      "id": "cand_0357",
+      "modified_at": "2026-01-14T03:48:54Z",
+      "phone": "+1-555-2426",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0357",
+    "updated_at": "2026-01-14T03:48:54Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-13T07:01:39Z",
+      "email": "florence.young@example.test",
+      "family_name": "Young",
+      "given_name": "Florence",
+      "id": "cand_0358",
+      "modified_at": "2026-03-13T07:01:39Z",
+      "phone": "+1-555-6387",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0358",
+    "updated_at": "2026-03-13T07:01:39Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-30T17:11:53Z",
+      "email": "zelda.babbage@hey.test",
+      "family_name": "Babbage",
+      "given_name": "Zelda",
+      "id": "cand_0359",
+      "modified_at": "2026-01-30T17:11:53Z",
+      "phone": "+1-555-2850",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0359",
+    "updated_at": "2026-01-30T17:11:53Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-05T10:46:37Z",
+      "email": "xavier.lovelace@inbox.test",
+      "family_name": "Lovelace",
+      "given_name": "Xavier",
+      "id": "cand_0360",
+      "modified_at": "2026-03-05T10:46:37Z",
+      "phone": "+1-555-5119",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0360",
+    "updated_at": "2026-03-05T10:46:37Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-15T06:18:44Z",
+      "email": "isaac.zuse@inbox.test",
+      "family_name": "Zuse",
+      "given_name": "Isaac",
+      "id": "cand_0361",
+      "modified_at": "2026-01-15T06:18:44Z",
+      "phone": "+1-555-1632",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0361",
+    "updated_at": "2026-01-15T06:18:44Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-03T02:13:20Z",
+      "email": "tim.wright@mail.test",
+      "family_name": "Wright",
+      "given_name": "Tim",
+      "id": "cand_0362",
+      "modified_at": "2026-03-03T02:13:20Z",
+      "phone": "+1-555-2845",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0362",
+    "updated_at": "2026-03-03T02:13:20Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-08T23:27:52Z",
+      "email": "hedy.tesla@example.test",
+      "family_name": "Tesla",
+      "given_name": "Hedy",
+      "id": "cand_0363",
+      "modified_at": "2026-03-08T23:27:52Z",
+      "phone": "+1-555-7215",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0363",
+    "updated_at": "2026-03-08T23:27:52Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-26T17:06:18Z",
+      "email": "ursula.dirac@inbox.test",
+      "family_name": "Dirac",
+      "given_name": "Ursula",
+      "id": "cand_0364",
+      "modified_at": "2026-01-26T17:06:18Z",
+      "phone": "+1-555-5495",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0364",
+    "updated_at": "2026-01-26T17:06:18Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-13T23:47:11Z",
+      "email": "zelda.vonneumann@hey.test",
+      "family_name": "Von Neumann",
+      "given_name": "Zelda",
+      "id": "cand_0365",
+      "modified_at": "2026-03-13T23:47:11Z",
+      "phone": "+1-555-5599",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0365",
+    "updated_at": "2026-03-13T23:47:11Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-19T09:56:55Z",
+      "email": "sophie.lovelace@example.test",
+      "family_name": "Lovelace",
+      "given_name": "Sophie",
+      "id": "cand_0366",
+      "modified_at": "2026-02-19T09:56:55Z",
+      "phone": "+1-555-2440",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0366",
+    "updated_at": "2026-02-19T09:56:55Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-28T20:41:03Z",
+      "email": "vera.vonneumann@hey.test",
+      "family_name": "Von Neumann",
+      "given_name": "Vera",
+      "id": "cand_0367",
+      "modified_at": "2026-02-28T20:41:03Z",
+      "phone": "+1-555-9272",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0367",
+    "updated_at": "2026-02-28T20:41:03Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-16T20:54:43Z",
+      "email": "ada.ramanujan@example.test",
+      "family_name": "Ramanujan",
+      "given_name": "Ada",
+      "id": "cand_0368",
+      "modified_at": "2026-01-16T20:54:43Z",
+      "phone": "+1-555-2846",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0368",
+    "updated_at": "2026-01-16T20:54:43Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-24T05:59:37Z",
+      "email": "grace.ramanujan@mail.test",
+      "family_name": "Ramanujan",
+      "given_name": "Grace",
+      "id": "cand_0369",
+      "modified_at": "2026-01-24T05:59:37Z",
+      "phone": "+1-555-1921",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0369",
+    "updated_at": "2026-01-24T05:59:37Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-15T09:46:49Z",
+      "email": "nikola.shannon@example.test",
+      "family_name": "Shannon",
+      "given_name": "Nikola",
+      "id": "cand_0370",
+      "modified_at": "2026-02-15T09:46:49Z",
+      "phone": "+1-555-1350",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0370",
+    "updated_at": "2026-02-15T09:46:49Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-22T14:42:57Z",
+      "email": "katherine.babbage@hey.test",
+      "family_name": "Babbage",
+      "given_name": "Katherine",
+      "id": "cand_0371",
+      "modified_at": "2026-01-22T14:42:57Z",
+      "phone": "+1-555-6280",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0371",
+    "updated_at": "2026-01-22T14:42:57Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-12T10:38:20Z",
+      "email": "ada.shannon@hey.test",
+      "family_name": "Shannon",
+      "given_name": "Ada",
+      "id": "cand_0372",
+      "modified_at": "2026-02-12T10:38:20Z",
+      "phone": "+1-555-6380",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0372",
+    "updated_at": "2026-02-12T10:38:20Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-05T11:56:53Z",
+      "email": "ursula.young@inbox.test",
+      "family_name": "Young",
+      "given_name": "Ursula",
+      "id": "cand_0373",
+      "modified_at": "2026-02-05T11:56:53Z",
+      "phone": "+1-555-1696",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0373",
+    "updated_at": "2026-02-05T11:56:53Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-12T15:50:40Z",
+      "email": "grace.tesla@hey.test",
+      "family_name": "Tesla",
+      "given_name": "Grace",
+      "id": "cand_0374",
+      "modified_at": "2026-02-12T15:50:40Z",
+      "phone": "+1-555-1984",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0374",
+    "updated_at": "2026-02-12T15:50:40Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-20T02:18:24Z",
+      "email": "blaise.noether@example.test",
+      "family_name": "Noether",
+      "given_name": "Blaise",
+      "id": "cand_0375",
+      "modified_at": "2026-01-20T02:18:24Z",
+      "phone": "+1-555-8001",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0375",
+    "updated_at": "2026-01-20T02:18:24Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-25T03:19:14Z",
+      "email": "isaac.tesla@inbox.test",
+      "family_name": "Tesla",
+      "given_name": "Isaac",
+      "id": "cand_0376",
+      "modified_at": "2026-01-25T03:19:14Z",
+      "phone": "+1-555-9821",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0376",
+    "updated_at": "2026-01-25T03:19:14Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-26T09:15:24Z",
+      "email": "hedy.xu@hey.test",
+      "family_name": "Xu",
+      "given_name": "Hedy",
+      "id": "cand_0377",
+      "modified_at": "2026-02-26T09:15:24Z",
+      "phone": "+1-555-7387",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0377",
+    "updated_at": "2026-02-26T09:15:24Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-02T10:11:28Z",
+      "email": "hedy.curie@hey.test",
+      "family_name": "Curie",
+      "given_name": "Hedy",
+      "id": "cand_0378",
+      "modified_at": "2026-03-02T10:11:28Z",
+      "phone": "+1-555-5904",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0378",
+    "updated_at": "2026-03-02T10:11:28Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-12T23:00:21Z",
+      "email": "yvonne.dirac@example.test",
+      "family_name": "Dirac",
+      "given_name": "Yvonne",
+      "id": "cand_0379",
+      "modified_at": "2026-03-12T23:00:21Z",
+      "phone": "+1-555-4967",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0379",
+    "updated_at": "2026-03-12T23:00:21Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-23T00:27:53Z",
+      "email": "marie.zuse@example.test",
+      "family_name": "Zuse",
+      "given_name": "Marie",
+      "id": "cand_0380",
+      "modified_at": "2026-01-23T00:27:53Z",
+      "phone": "+1-555-2153",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0380",
+    "updated_at": "2026-01-23T00:27:53Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-20T22:28:48Z",
+      "email": "sophie.zuse@inbox.test",
+      "family_name": "Zuse",
+      "given_name": "Sophie",
+      "id": "cand_0381",
+      "modified_at": "2026-01-20T22:28:48Z",
+      "phone": "+1-555-7366",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0381",
+    "updated_at": "2026-01-20T22:28:48Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-16T21:50:40Z",
+      "email": "emmy.shannon@mail.test",
+      "family_name": "Shannon",
+      "given_name": "Emmy",
+      "id": "cand_0382",
+      "modified_at": "2026-01-16T21:50:40Z",
+      "phone": "+1-555-7221",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0382",
+    "updated_at": "2026-01-16T21:50:40Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-07T07:08:59Z",
+      "email": "ada.young@mail.test",
+      "family_name": "Young",
+      "given_name": "Ada",
+      "id": "cand_0383",
+      "modified_at": "2026-03-07T07:08:59Z",
+      "phone": "+1-555-6815",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0383",
+    "updated_at": "2026-03-07T07:08:59Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-02T15:54:24Z",
+      "email": "zelda.feynman@mail.test",
+      "family_name": "Feynman",
+      "given_name": "Zelda",
+      "id": "cand_0384",
+      "modified_at": "2026-02-02T15:54:24Z",
+      "phone": "+1-555-2809",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0384",
+    "updated_at": "2026-02-02T15:54:24Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-21T21:42:23Z",
+      "email": "hedy.lovelace@inbox.test",
+      "family_name": "Lovelace",
+      "given_name": "Hedy",
+      "id": "cand_0385",
+      "modified_at": "2026-01-21T21:42:23Z",
+      "phone": "+1-555-8560",
+      "pipeline_status": "archived"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0385",
+    "updated_at": "2026-01-21T21:42:23Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-09T19:53:10Z",
+      "email": "richard.shannon@mail.test",
+      "family_name": "Shannon",
+      "given_name": "Richard",
+      "id": "cand_0386",
+      "modified_at": "2026-02-09T19:53:10Z",
+      "phone": "+1-555-8826",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0386",
+    "updated_at": "2026-02-09T19:53:10Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-13T19:39:41Z",
+      "email": "nikola.shannon@example.test",
+      "family_name": "Shannon",
+      "given_name": "Nikola",
+      "id": "cand_0387",
+      "modified_at": "2026-01-13T19:39:41Z",
+      "phone": "+1-555-7932",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0387",
+    "updated_at": "2026-01-13T19:39:41Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-06T04:48:52Z",
+      "email": "oliver.wright@mail.test",
+      "family_name": "Wright",
+      "given_name": "Oliver",
+      "id": "cand_0388",
+      "modified_at": "2026-03-06T04:48:52Z",
+      "phone": "+1-555-4918",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0388",
+    "updated_at": "2026-03-06T04:48:52Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-05T20:45:32Z",
+      "email": "marie.babbage@inbox.test",
+      "family_name": "Babbage",
+      "given_name": "Marie",
+      "id": "cand_0389",
+      "modified_at": "2026-02-05T20:45:32Z",
+      "phone": "+1-555-5398",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0389",
+    "updated_at": "2026-02-05T20:45:32Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-02T17:43:00Z",
+      "email": "zelda.einstein@mail.test",
+      "family_name": "Einstein",
+      "given_name": "Zelda",
+      "id": "cand_0390",
+      "modified_at": "2026-03-02T17:43:00Z",
+      "phone": "+1-555-2892",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0390",
+    "updated_at": "2026-03-02T17:43:00Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-11T02:47:59Z",
+      "email": "florence.gauss@inbox.test",
+      "family_name": "Gauss",
+      "given_name": "Florence",
+      "id": "cand_0391",
+      "modified_at": "2026-02-11T02:47:59Z",
+      "phone": "+1-555-2624",
+      "pipeline_status": "submitted"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0391",
+    "updated_at": "2026-02-11T02:47:59Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-30T20:42:03Z",
+      "email": "ursula.ramanujan@example.test",
+      "family_name": "Ramanujan",
+      "given_name": "Ursula",
+      "id": "cand_0392",
+      "modified_at": "2026-01-30T20:42:03Z",
+      "phone": "+1-555-5892",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0392",
+    "updated_at": "2026-01-30T20:42:03Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-14T10:14:32Z",
+      "email": "tim.tesla@hey.test",
+      "family_name": "Tesla",
+      "given_name": "Tim",
+      "id": "cand_0393",
+      "modified_at": "2026-01-14T10:14:32Z",
+      "phone": "+1-555-2877",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0393",
+    "updated_at": "2026-01-14T10:14:32Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-05T23:01:53Z",
+      "email": "xavier.curie@hey.test",
+      "family_name": "Curie",
+      "given_name": "Xavier",
+      "id": "cand_0394",
+      "modified_at": "2026-03-05T23:01:53Z",
+      "phone": "+1-555-1104",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0394",
+    "updated_at": "2026-03-05T23:01:53Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-03-02T01:54:56Z",
+      "email": "florence.pascal@inbox.test",
+      "family_name": "Pascal",
+      "given_name": "Florence",
+      "id": "cand_0395",
+      "modified_at": "2026-03-02T01:54:56Z",
+      "phone": "+1-555-7745",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0395",
+    "updated_at": "2026-03-02T01:54:56Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-08T15:42:28Z",
+      "email": "oliver.zuse@inbox.test",
+      "family_name": "Zuse",
+      "given_name": "Oliver",
+      "id": "cand_0396",
+      "modified_at": "2026-02-08T15:42:28Z",
+      "phone": "+1-555-3560",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0396",
+    "updated_at": "2026-02-08T15:42:28Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-21T11:56:52Z",
+      "email": "emmy.ramanujan@example.test",
+      "family_name": "Ramanujan",
+      "given_name": "Emmy",
+      "id": "cand_0397",
+      "modified_at": "2026-02-21T11:56:52Z",
+      "phone": "+1-555-9317",
+      "pipeline_status": "screening"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0397",
+    "updated_at": "2026-02-21T11:56:52Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-13T05:29:23Z",
+      "email": "peggy.feynman@inbox.test",
+      "family_name": "Feynman",
+      "given_name": "Peggy",
+      "id": "cand_0398",
+      "modified_at": "2026-02-13T05:29:23Z",
+      "phone": "+1-555-5782",
+      "pipeline_status": "placed"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0398",
+    "updated_at": "2026-02-13T05:29:23Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-02-12T10:21:37Z",
+      "email": "nikola.turing@mail.test",
+      "family_name": "Turing",
+      "given_name": "Nikola",
+      "id": "cand_0399",
+      "modified_at": "2026-02-12T10:21:37Z",
+      "phone": "+1-555-4870",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0399",
+    "updated_at": "2026-02-12T10:21:37Z"
+  },
+  {
+    "data": {
+      "created_at": "2026-01-25T19:18:13Z",
+      "email": "jean.lovelace@inbox.test",
+      "family_name": "Lovelace",
+      "given_name": "Jean",
+      "id": "cand_0400",
+      "modified_at": "2026-01-25T19:18:13Z",
+      "phone": "+1-555-9574",
+      "pipeline_status": "new"
+    },
+    "is_deleted": false,
+    "source_id": "cand_0400",
+    "updated_at": "2026-01-25T19:18:13Z"
+  }
+]

@@ -1,0 +1,708 @@
+{
+  "checkpoint": 60,
+  "controls": [
+    {
+      "kind": "subject",
+      "record_id": "sub_0006"
+    },
+    {
+      "kind": "subject",
+      "record_id": "sub_0084"
+    },
+    {
+      "kind": "subject",
+      "record_id": "sub_0156"
+    },
+    {
+      "kind": "subject",
+      "record_id": "sub_0228"
+    },
+    {
+      "kind": "check",
+      "record_id": "chk_0002"
+    },
+    {
+      "kind": "check",
+      "record_id": "chk_0117"
+    },
+    {
+      "kind": "check",
+      "record_id": "chk_0217"
+    },
+    {
+      "kind": "check",
+      "record_id": "chk_0309"
+    },
+    {
+      "kind": "report",
+      "record_id": "rpt_0002"
+    },
+    {
+      "kind": "report",
+      "record_id": "rpt_0076"
+    },
+    {
+      "kind": "report",
+      "record_id": "rpt_0134"
+    },
+    {
+      "kind": "report",
+      "record_id": "rpt_0192"
+    }
+  ],
+  "counts": {
+    "check": 32,
+    "report": 17,
+    "retire": 16,
+    "subject": 11,
+    "upsert": 44
+  },
+  "cursor_iso": "2026-03-14T10:00:00Z",
+  "cursor_s": 1773482400,
+  "expected": {
+    "chk_0001": {
+      "detail": "in_progress",
+      "kind": "check",
+      "op": "upsert",
+      "record_id": "chk_0001",
+      "subject_email": "nikola.shannon@subjects.test",
+      "subject_id": "sub_0186",
+      "updated_at": 1773482510
+    },
+    "chk_0005": {
+      "detail": "in_progress",
+      "kind": "check",
+      "op": "upsert",
+      "record_id": "chk_0005",
+      "subject_email": "richard.noether@subjects.test",
+      "subject_id": "sub_0190",
+      "updated_at": 1773482520
+    },
+    "chk_0010": {
+      "detail": "suspended",
+      "kind": "check",
+      "op": "upsert",
+      "record_id": "chk_0010",
+      "subject_email": "katherine.noether@subjects.test",
+      "subject_id": "sub_0260",
+      "updated_at": 1773482530
+    },
+    "chk_0015": {
+      "detail": "pending",
+      "kind": "check",
+      "op": "upsert",
+      "record_id": "chk_0015",
+      "subject_email": "hedy.dirac@subjects.test",
+      "subject_id": "sub_0246",
+      "updated_at": 1773482540
+    },
+    "chk_0020": {
+      "detail": "pending",
+      "kind": "check",
+      "op": "upsert",
+      "record_id": "chk_0020",
+      "subject_email": "vera.curie@subjects.test",
+      "subject_id": "sub_0255",
+      "updated_at": 1773482550
+    },
+    "chk_0025": {
+      "detail": "suspended",
+      "kind": "check",
+      "op": "upsert",
+      "record_id": "chk_0025",
+      "subject_email": "zelda.curie@subjects.test",
+      "subject_id": "sub_0043",
+      "updated_at": 1773482560
+    },
+    "chk_0030": {
+      "detail": "suspended",
+      "kind": "check",
+      "op": "upsert",
+      "record_id": "chk_0030",
+      "subject_email": "jean.einstein@subjects.test",
+      "subject_id": "sub_0297",
+      "updated_at": 1773482570
+    },
+    "chk_0035": {
+      "detail": "suspended",
+      "kind": "check",
+      "op": "upsert",
+      "record_id": "chk_0035",
+      "subject_email": "florence.pascal@subjects.test",
+      "subject_id": "sub_0226",
+      "updated_at": 1773482580
+    },
+    "chk_0042": {
+      "detail": "in_progress",
+      "kind": "check",
+      "op": "upsert",
+      "record_id": "chk_0042",
+      "subject_email": "emmy.gauss@subjects.test",
+      "subject_id": "sub_0231",
+      "updated_at": 1773482430
+    },
+    "chk_0050": {
+      "detail": "complete",
+      "kind": "check",
+      "op": "upsert",
+      "record_id": "chk_0050",
+      "subject_email": "sophie.xu@subjects.test",
+      "subject_id": "sub_0058",
+      "updated_at": 1773482590
+    },
+    "chk_0055": {
+      "detail": "suspended",
+      "kind": "check",
+      "op": "upsert",
+      "record_id": "chk_0055",
+      "subject_email": "nikola.gauss@subjects.test",
+      "subject_id": "sub_0098",
+      "updated_at": 1773482600
+    },
+    "chk_0060": {
+      "detail": "complete",
+      "kind": "check",
+      "op": "upsert",
+      "record_id": "chk_0060",
+      "subject_email": "linus.shannon@subjects.test",
+      "subject_id": "sub_0254",
+      "updated_at": 1773482610
+    },
+    "chk_0065": {
+      "detail": "complete",
+      "kind": "check",
+      "op": "upsert",
+      "record_id": "chk_0065",
+      "subject_email": "vera.xu@subjects.test",
+      "subject_id": "sub_0131",
+      "updated_at": 1773482620
+    },
+    "chk_0070": {
+      "detail": "suspended",
+      "kind": "check",
+      "op": "upsert",
+      "record_id": "chk_0070",
+      "subject_email": "florence.hopper@subjects.test",
+      "subject_id": "sub_0121",
+      "updated_at": 1773482630
+    },
+    "chk_0075": {
+      "detail": "in_progress",
+      "kind": "check",
+      "op": "upsert",
+      "record_id": "chk_0075",
+      "subject_email": "walter.einstein@subjects.test",
+      "subject_id": "sub_0283",
+      "updated_at": 1773482640
+    },
+    "chk_0080": {
+      "detail": "complete",
+      "kind": "check",
+      "op": "upsert",
+      "record_id": "chk_0080",
+      "subject_email": "charles.vonneumann@subjects.test",
+      "subject_id": "sub_0064",
+      "updated_at": 1773482650
+    },
+    "chk_0085": {
+      "detail": "in_progress",
+      "kind": "check",
+      "op": "upsert",
+      "record_id": "chk_0085",
+      "subject_email": "oliver.gauss@subjects.test",
+      "subject_id": "sub_0009",
+      "updated_at": 1773482660
+    },
+    "chk_0090": {
+      "detail": "in_progress",
+      "kind": "check",
+      "op": "upsert",
+      "record_id": "chk_0090",
+      "subject_email": "katherine.ramanujan@subjects.test",
+      "subject_id": "sub_0130",
+      "updated_at": 1773482670
+    },
+    "chk_0095": {
+      "detail": "suspended",
+      "kind": "check",
+      "op": "upsert",
+      "record_id": "chk_0095",
+      "subject_email": "marie.young@subjects.test",
+      "subject_id": "sub_0062",
+      "updated_at": 1773482680
+    },
+    "chk_0099": {
+      "detail": "complete",
+      "kind": "check",
+      "op": "upsert",
+      "record_id": "chk_0099",
+      "subject_email": "grace.turing@subjects.test",
+      "subject_id": "sub_0207",
+      "updated_at": 1773482460
+    },
+    "chk_0100": {
+      "detail": "in_progress",
+      "kind": "check",
+      "op": "upsert",
+      "record_id": "chk_0100",
+      "subject_email": "nikola.zuse@subjects.test",
+      "subject_id": "sub_0032",
+      "updated_at": 1773482690
+    },
+    "chk_0105": {
+      "detail": "suspended",
+      "kind": "check",
+      "op": "upsert",
+      "record_id": "chk_0105",
+      "subject_email": "katherine.shannon@subjects.test",
+      "subject_id": "sub_0052",
+      "updated_at": 1773482700
+    },
+    "chk_0110": {
+      "detail": "in_progress",
+      "kind": "check",
+      "op": "retire",
+      "record_id": "chk_0110",
+      "subject_email": "ursula.vonneumann@subjects.test",
+      "subject_id": "sub_0175",
+      "updated_at": 1773482710
+    },
+    "chk_0115": {
+      "detail": "in_progress",
+      "kind": "check",
+      "op": "retire",
+      "record_id": "chk_0115",
+      "subject_email": "xavier.einstein@subjects.test",
+      "subject_id": "sub_0233",
+      "updated_at": 1773482720
+    },
+    "chk_0120": {
+      "detail": "in_progress",
+      "kind": "check",
+      "op": "retire",
+      "record_id": "chk_0120",
+      "subject_email": "grace.xu@subjects.test",
+      "subject_id": "sub_0079",
+      "updated_at": 1773482730
+    },
+    "chk_0125": {
+      "detail": "pending",
+      "kind": "check",
+      "op": "retire",
+      "record_id": "chk_0125",
+      "subject_email": "sophie.babbage@subjects.test",
+      "subject_id": "sub_0100",
+      "updated_at": 1773482740
+    },
+    "chk_0130": {
+      "detail": "pending",
+      "kind": "check",
+      "op": "retire",
+      "record_id": "chk_0130",
+      "subject_email": "marie.young@subjects.test",
+      "subject_id": "sub_0062",
+      "updated_at": 1773482750
+    },
+    "chk_0135": {
+      "detail": "complete",
+      "kind": "check",
+      "op": "retire",
+      "record_id": "chk_0135",
+      "subject_email": "hedy.einstein@subjects.test",
+      "subject_id": "sub_0049",
+      "updated_at": 1773482760
+    },
+    "chk_0140": {
+      "detail": "complete",
+      "kind": "check",
+      "op": "retire",
+      "record_id": "chk_0140",
+      "subject_email": "yvonne.babbage@subjects.test",
+      "subject_id": "sub_0202",
+      "updated_at": 1773482770
+    },
+    "chk_0145": {
+      "detail": "suspended",
+      "kind": "check",
+      "op": "retire",
+      "record_id": "chk_0145",
+      "subject_email": "isaac.gauss@subjects.test",
+      "subject_id": "sub_0195",
+      "updated_at": 1773482780
+    },
+    "chk_0150": {
+      "detail": "suspended",
+      "kind": "check",
+      "op": "retire",
+      "record_id": "chk_0150",
+      "subject_email": "oliver.gauss@subjects.test",
+      "subject_id": "sub_0009",
+      "updated_at": 1773482790
+    },
+    "chk_0155": {
+      "detail": "in_progress",
+      "kind": "check",
+      "op": "retire",
+      "record_id": "chk_0155",
+      "subject_email": "yvonne.babbage@subjects.test",
+      "subject_id": "sub_0202",
+      "updated_at": 1773482800
+    },
+    "rpt_0001": {
+      "detail": "flagged",
+      "kind": "report",
+      "op": "upsert",
+      "record_id": "rpt_0001",
+      "subject_email": "hedy.young@subjects.test",
+      "subject_id": "sub_0115",
+      "updated_at": 1773482810
+    },
+    "rpt_0005": {
+      "detail": "consider",
+      "kind": "report",
+      "op": "upsert",
+      "record_id": "rpt_0005",
+      "subject_email": "tim.wright@subjects.test",
+      "subject_id": "sub_0242",
+      "updated_at": 1773482820
+    },
+    "rpt_0010": {
+      "detail": "flagged",
+      "kind": "report",
+      "op": "upsert",
+      "record_id": "rpt_0010",
+      "subject_email": "blaise.gauss@subjects.test",
+      "subject_id": "sub_0264",
+      "updated_at": 1773482830
+    },
+    "rpt_0011": {
+      "detail": "clear",
+      "kind": "report",
+      "op": "upsert",
+      "record_id": "rpt_0011",
+      "subject_email": "peggy.turing@subjects-verified.test",
+      "subject_id": "sub_0001",
+      "updated_at": 1773482445
+    },
+    "rpt_0015": {
+      "detail": "clear",
+      "kind": "report",
+      "op": "upsert",
+      "record_id": "rpt_0015",
+      "subject_email": "oliver.tesla@subjects.test",
+      "subject_id": "sub_0197",
+      "updated_at": 1773482840
+    },
+    "rpt_0020": {
+      "detail": "consider",
+      "kind": "report",
+      "op": "upsert",
+      "record_id": "rpt_0020",
+      "subject_email": "nikola.gauss@subjects.test",
+      "subject_id": "sub_0098",
+      "updated_at": 1773482850
+    },
+    "rpt_0025": {
+      "detail": "flagged",
+      "kind": "report",
+      "op": "upsert",
+      "record_id": "rpt_0025",
+      "subject_email": "oliver.shannon@subjects.test",
+      "subject_id": "sub_0298",
+      "updated_at": 1773482860
+    },
+    "rpt_0030": {
+      "detail": "flagged",
+      "kind": "report",
+      "op": "upsert",
+      "record_id": "rpt_0030",
+      "subject_email": "sophie.babbage@subjects.test",
+      "subject_id": "sub_0100",
+      "updated_at": 1773482870
+    },
+    "rpt_0033": {
+      "detail": "consider",
+      "kind": "report",
+      "op": "upsert",
+      "record_id": "rpt_0033",
+      "subject_email": "walter.vonneumann@subjects.test",
+      "subject_id": "sub_0291",
+      "updated_at": 1773482500
+    },
+    "rpt_0035": {
+      "detail": "consider",
+      "kind": "report",
+      "op": "upsert",
+      "record_id": "rpt_0035",
+      "subject_email": "marie.vonneumann@subjects.test",
+      "subject_id": "sub_0277",
+      "updated_at": 1773482880
+    },
+    "rpt_0040": {
+      "detail": "consider",
+      "kind": "report",
+      "op": "upsert",
+      "record_id": "rpt_0040",
+      "subject_email": "katherine.young@subjects.test",
+      "subject_id": "sub_0120",
+      "updated_at": 1773482890
+    },
+    "rpt_0045": {
+      "detail": "flagged",
+      "kind": "report",
+      "op": "upsert",
+      "record_id": "rpt_0045",
+      "subject_email": "walter.young@subjects.test",
+      "subject_id": "sub_0144",
+      "updated_at": 1773482900
+    },
+    "rpt_0050": {
+      "detail": "clear",
+      "kind": "report",
+      "op": "upsert",
+      "record_id": "rpt_0050",
+      "subject_email": "grace.gauss@subjects.test",
+      "subject_id": "sub_0133",
+      "updated_at": 1773482910
+    },
+    "rpt_0055": {
+      "detail": "clear",
+      "kind": "report",
+      "op": "upsert",
+      "record_id": "rpt_0055",
+      "subject_email": "vera.gauss@subjects.test",
+      "subject_id": "sub_0145",
+      "updated_at": 1773482920
+    },
+    "rpt_0060": {
+      "detail": "clear",
+      "kind": "report",
+      "op": "upsert",
+      "record_id": "rpt_0060",
+      "subject_email": "blaise.gauss@subjects.test",
+      "subject_id": "sub_0041",
+      "updated_at": 1773482930
+    },
+    "rpt_0065": {
+      "detail": "consider",
+      "kind": "report",
+      "op": "upsert",
+      "record_id": "rpt_0065",
+      "subject_email": "jean.wright@subjects.test",
+      "subject_id": "sub_0276",
+      "updated_at": 1773482940
+    },
+    "rpt_0070": {
+      "detail": "flagged",
+      "kind": "report",
+      "op": "upsert",
+      "record_id": "rpt_0070",
+      "subject_email": "florence.gauss@subjects.test",
+      "subject_id": "sub_0097",
+      "updated_at": 1773482950
+    },
+    "sub_0001": {
+      "detail": "peggy.turing@subjects-verified.test",
+      "kind": "subject",
+      "op": "upsert",
+      "record_id": "sub_0001",
+      "subject_email": "peggy.turing@subjects-verified.test",
+      "subject_id": "sub_0001",
+      "updated_at": 1773482960
+    },
+    "sub_0002": {
+      "detail": "zelda.wright@subjects-verified.test",
+      "kind": "subject",
+      "op": "upsert",
+      "record_id": "sub_0002",
+      "subject_email": "zelda.wright@subjects-verified.test",
+      "subject_id": "sub_0002",
+      "updated_at": 1773482970
+    },
+    "sub_0003": {
+      "detail": "vera.zuse@subjects-verified.test",
+      "kind": "subject",
+      "op": "upsert",
+      "record_id": "sub_0003",
+      "subject_email": "vera.zuse@subjects-verified.test",
+      "subject_id": "sub_0003",
+      "updated_at": 1773482980
+    },
+    "sub_0004": {
+      "detail": "ursula.curie@subjects-verified.test",
+      "kind": "subject",
+      "op": "upsert",
+      "record_id": "sub_0004",
+      "subject_email": "ursula.curie@subjects-verified.test",
+      "subject_id": "sub_0004",
+      "updated_at": 1773482990
+    },
+    "sub_0005": {
+      "detail": "sophie.shannon@subjects-verified.test",
+      "kind": "subject",
+      "op": "upsert",
+      "record_id": "sub_0005",
+      "subject_email": "sophie.shannon@subjects-verified.test",
+      "subject_id": "sub_0005",
+      "updated_at": 1773483000
+    },
+    "sub_0007": {
+      "detail": "oliver.vonneumann@subjects.test",
+      "kind": "subject",
+      "op": "retire",
+      "record_id": "sub_0007",
+      "subject_email": "oliver.vonneumann@subjects.test",
+      "subject_id": "sub_0007",
+      "updated_at": 1773482475
+    },
+    "sub_0010": {
+      "detail": "katherine.young@subjects.test",
+      "kind": "subject",
+      "op": "retire",
+      "record_id": "sub_0010",
+      "subject_email": "katherine.young@subjects.test",
+      "subject_id": "sub_0010",
+      "updated_at": 1773483010
+    },
+    "sub_0011": {
+      "detail": "ada.hopper@subjects.test",
+      "kind": "subject",
+      "op": "retire",
+      "record_id": "sub_0011",
+      "subject_email": "ada.hopper@subjects.test",
+      "subject_id": "sub_0011",
+      "updated_at": 1773483020
+    },
+    "sub_0012": {
+      "detail": "vera.dirac@subjects.test",
+      "kind": "subject",
+      "op": "retire",
+      "record_id": "sub_0012",
+      "subject_email": "vera.dirac@subjects.test",
+      "subject_id": "sub_0012",
+      "updated_at": 1773483030
+    },
+    "sub_0013": {
+      "detail": "nikola.gauss@subjects.test",
+      "kind": "subject",
+      "op": "retire",
+      "record_id": "sub_0013",
+      "subject_email": "nikola.gauss@subjects.test",
+      "subject_id": "sub_0013",
+      "updated_at": 1773483040
+    },
+    "sub_0014": {
+      "detail": "ursula.zuse@subjects.test",
+      "kind": "subject",
+      "op": "retire",
+      "record_id": "sub_0014",
+      "subject_email": "ursula.zuse@subjects.test",
+      "subject_id": "sub_0014",
+      "updated_at": 1773483050
+    }
+  },
+  "feed": "vettly-change-feed",
+  "lookup_dependent_ids": [
+    "chk_0001",
+    "chk_0005",
+    "chk_0010",
+    "chk_0015",
+    "chk_0020",
+    "chk_0025",
+    "chk_0030",
+    "chk_0035",
+    "chk_0042",
+    "chk_0050",
+    "chk_0055",
+    "chk_0060",
+    "chk_0065",
+    "chk_0070",
+    "chk_0075",
+    "chk_0080",
+    "chk_0085",
+    "chk_0090",
+    "chk_0095",
+    "chk_0099",
+    "chk_0100",
+    "chk_0105",
+    "chk_0110",
+    "chk_0115",
+    "chk_0120",
+    "chk_0125",
+    "chk_0130",
+    "chk_0135",
+    "chk_0140",
+    "chk_0145",
+    "chk_0150",
+    "chk_0155",
+    "rpt_0001",
+    "rpt_0005",
+    "rpt_0010",
+    "rpt_0011",
+    "rpt_0015",
+    "rpt_0020",
+    "rpt_0025",
+    "rpt_0030",
+    "rpt_0033",
+    "rpt_0035",
+    "rpt_0040",
+    "rpt_0045",
+    "rpt_0050",
+    "rpt_0055",
+    "rpt_0060",
+    "rpt_0065",
+    "rpt_0070"
+  ],
+  "next_cursor": 1773483050,
+  "not_retired_sample": [
+    "chk_0001",
+    "chk_0025",
+    "chk_0055",
+    "chk_0080",
+    "chk_0100",
+    "rpt_0011",
+    "rpt_0033",
+    "rpt_0055"
+  ],
+  "record_count": 60,
+  "retired_ids": [
+    "chk_0110",
+    "chk_0115",
+    "chk_0120",
+    "chk_0125",
+    "chk_0130",
+    "chk_0135",
+    "chk_0140",
+    "chk_0145",
+    "chk_0150",
+    "chk_0155",
+    "sub_0007",
+    "sub_0010",
+    "sub_0011",
+    "sub_0012",
+    "sub_0013",
+    "sub_0014"
+  ],
+  "tenant_totals": {
+    "check": 400,
+    "report": 250,
+    "subject": 300
+  },
+  "watermark_spellings_served": {
+    "epoch_millis": {
+      "check": 0,
+      "report": 0,
+      "subject": 0
+    },
+    "epoch_seconds": {
+      "check": 32,
+      "report": 17,
+      "subject": 11
+    },
+    "iso_8601": {
+      "check": 400,
+      "report": 250,
+      "subject": 300
+    }
+  }
+}

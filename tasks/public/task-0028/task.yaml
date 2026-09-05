@@ -1,0 +1,107 @@
+id: task-0028
+title: 'CrewCall: resume backfill through drift, transient 500s, and rate limits'
+category: harden
+vendor: crewcall
+surfaces:
+- polling
+tier: 3
+track: python
+timeout_minutes: 60
+doc_profile: 'true'
+primary_mechanic: fault_composition_summit
+scenarios:
+- backfill_under_faults
+- reconverge_under_faults
+entry:
+  command:
+  - python
+  - -m
+  - crewcall_sync
+outputs:
+  files:
+  - output/workers.json
+  - output/gigs.json
+  - output/assignments.json
+vendors:
+  crewcall:
+    data_port: 8000
+    log_path: /var/log/vendor
+    checkpoint_env: CHECKPOINT
+    credentials:
+      CC_API_KEY: cc-test-api-key
+    entities:
+      worker:
+        id_prefix: wkr
+        plural: workers
+      gig:
+        id_prefix: gig
+        plural: gigs
+      assignment:
+        id_prefix: asg
+        plural: assignments
+    vendor:
+      base_path: /v1
+    pagination:
+      style: offset
+      offset_param: offset
+      limit_param: limit
+contract:
+  schema_version: 1
+  version: 1.0.0
+  visibility: public
+  lifecycle: authored
+  vendor_roles:
+    crewcall:
+      vendor_id: crewcall
+      checkpoint: 0
+      required_credentials:
+      - CC_API_KEY
+      api_url_env: CREWCALL_BASE_URL
+      docs_url_env: CREWCALL_DOCS_URL
+  runtime:
+    profile: deterministic-v1
+    checkpoint: 0
+    limits:
+      wall_seconds: 3600
+      cpus: 2
+      memory: 2GiB
+      disk: 2GiB
+    network:
+      vendor_roles:
+      - crewcall
+      model_provider_egress: mode-dependent-allowlist
+    vendor_roles:
+      crewcall:
+        environment:
+          FAULT_5XX_ON_PAGE: '1:2'
+          FAULT_RATE_LIMIT: '0'
+  participant:
+    workspace_allowlist:
+    - PROBLEM.md
+    - repo/**
+    - materials/**
+    - inputs/**
+    entry_command:
+    - python
+    - -m
+    - crewcall_sync
+    outputs:
+    - output/workers.json
+    - output/gigs.json
+    - output/assignments.json
+    persistent_state:
+    - repo/output/**
+    runtime_environment: {}
+    persistent_mounts: []
+  verifier:
+    entry_command:
+    - python
+    - -m
+    - bench.verifier
+    - --task
+    - .
+    trusted_inputs:
+    - task.yaml
+    - verifier/fixtures/**
+    - verifier/scenarios/**
+    - vendor-logs/**

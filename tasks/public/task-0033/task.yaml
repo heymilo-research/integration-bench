@@ -1,0 +1,161 @@
+id: task-0033
+title: Keep the RecruitOS pipeline and the Placemint ledger from drifting apart
+category: build
+vendor: recruitos
+surfaces:
+- polling
+- writeback
+tier: 2
+primary_mechanic: echo_suppressed_two_way_sync
+track: python
+timeout_minutes: 60
+doc_profile: 'true'
+scenarios:
+- echo_suppressed_placement_sync
+l3_scenarios: []
+entry:
+  command:
+  - python
+  - -m
+  - northgate_placement_sync
+outputs:
+  files:
+  - output/result.json
+  - output/import_report.csv
+  - output/writeback_log.json
+vendors:
+  recruitos:
+    data_port: 8000
+    log_path: /var/log/vendor
+    checkpoint_env: CHECKPOINT
+    credentials:
+      RO_CLIENT_ID: recruitos-test-client_id
+      RO_CLIENT_SECRET: recruitos-test-client_secret
+    auth:
+      token_endpoint: /oauth/token
+      token_ttl: 3600
+    vendor:
+      base_path: /api
+    entities:
+      candidate:
+        plural: candidates
+      job:
+        plural: jobs
+      application:
+        plural: applications
+    pagination:
+      style: offset
+      offset_param: offset
+      limit_param: limit
+      total_in_response: true
+      incremental_params:
+      - modified_since
+  placemint:
+    data_port: 8000
+    log_path: /var/log/vendor
+    checkpoint_env: CHECKPOINT
+    credentials:
+      PM_CLIENT_ID: placemint-test-client_id
+      PM_CLIENT_SECRET: placemint-test-client_secret
+    auth:
+      token_endpoint: /oauth/token
+      token_ttl: 60
+    vendor:
+      base_path: /api
+    entities:
+      placement:
+        plural: placements
+      client:
+        plural: clients
+      note:
+        plural: notes
+    pagination:
+      style: offset
+      offset_param: offset
+      limit_param: limit
+      total_in_response: true
+      incremental_params:
+      - modified_since
+    writeback:
+      endpoints:
+      - method: PATCH
+        path: /api/placements/{id}
+        entity: placement
+      idempotency:
+        header: Idempotency-Key
+        window_s: 3600
+status: authored
+contract:
+  schema_version: 1
+  version: 1.0.0
+  visibility: public
+  lifecycle: authored
+  vendor_roles:
+    recruitos:
+      vendor_id: recruitos
+      checkpoint: 43
+      required_credentials:
+      - RO_CLIENT_ID
+      - RO_CLIENT_SECRET
+      api_url_env: RECRUITOS_BASE_URL
+      docs_url_env: RECRUITOS_DOCS_URL
+    placemint:
+      vendor_id: placemint
+      checkpoint: 56
+      required_credentials:
+      - PM_CLIENT_ID
+      - PM_CLIENT_SECRET
+      api_url_env: PLACEMINT_BASE_URL
+      docs_url_env: PLACEMINT_DOCS_URL
+  runtime:
+    profile: deterministic-v1
+    checkpoint: 43
+    limits:
+      wall_seconds: 3600
+      cpus: 2
+      memory: 2GiB
+      disk: 2GiB
+    network:
+      vendor_roles:
+      - placemint
+      - recruitos
+      model_provider_egress: mode-dependent-allowlist
+    vendor_roles:
+      recruitos:
+        environment: {}
+      placemint:
+        environment:
+          DATASET_SIZE: '300'
+  participant:
+    workspace_allowlist:
+    - PROBLEM.md
+    - repo/**
+    - materials/**
+    - inputs/**
+    entry_command:
+    - python
+    - -m
+    - northgate_placement_sync
+    outputs:
+    - output/result.json
+    - output/import_report.csv
+    - output/writeback_log.json
+    persistent_state:
+    - repo/output/**
+    runtime_environment:
+      CROSSWALK_FILE: /app/input/placement_links.csv
+      STATE_DIR: /app/state
+    persistent_mounts:
+    - app-state:/app/state
+  verifier:
+    entry_command:
+    - python
+    - -m
+    - bench.verifier
+    - --task
+    - .
+    trusted_inputs:
+    - task.yaml
+    - verifier/fixtures/**
+    - verifier/scenarios/**
+    - vendor-logs/**
